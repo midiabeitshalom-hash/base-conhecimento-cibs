@@ -25,6 +25,9 @@ A base conclui que o relógio atual encerra o 120º jubileu, no período das [[D
 ## Conexões
 [[Levítico 25]] · [[2 Pedro 3.10]] · [[Apocalipse 20.4|Apocalipse 20.4-6]] · [[Yovel]] · [[Shemitá]] · [[Nefilim]] · [[Noach]].
 
+## Na leitura semanal
+- Torá da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

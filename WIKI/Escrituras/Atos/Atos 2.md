@@ -25,6 +25,10 @@ O contraste é claro: no Sinai, pedra externa e dia 50 após a saída do Egito; 
 ## Conexões
 [[Berit Hadashah]], [[Mateus 5.17]], [[Josué 4]], [[Mateus 12.40]], [[Êxodo 20]], [[Kolot]].
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Noach]]
+- Berit Hadashah da [[Parashá Pinchas]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]

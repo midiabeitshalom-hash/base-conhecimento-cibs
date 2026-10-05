@@ -25,6 +25,9 @@ O capítulo também ancora o calendário profético: o ciclo anual, o ciclo sab�
 ## Conexões
 [[Levítico 25]] · [[Atos 2]] · [[Mateus 12.40]] · [[Moedim]] · [[Shalosh Regalim]] · [[Sinal de Jonas]] · [[Yovel]].
 
+## Na leitura semanal
+- Torá da [[Parashá Emor]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

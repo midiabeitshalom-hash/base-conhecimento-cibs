@@ -25,6 +25,9 @@ A cena final fecha com [[Apocalipse 20.4|Apocalipse 20]]: o reino de mil anos, d
 ## Conexões
 [[Zacarias 14.12]] · [[Gênesis 6.3]] · [[Levítico 25]] · [[Apocalipse 21.23]] · [[Dores de Parto]] · [[Yovel]].
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

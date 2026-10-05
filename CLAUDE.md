@@ -24,6 +24,9 @@ WIKI/
   Fontes/
     000 - Índice Fontes.md
     <Obra>.md                    Talmud, Midrash, Zohar, Josefo, 1 Enoque, estudos acadêmicos…
+  Parashiot/
+    000 - Índice Parashiot.md    o ciclo anual em tabela (gerado pelo script)
+    <N - Livro>/Parashá <Nome>.md  uma nota por parashá: leituras, resumo e ligações com a base
 scripts/atualizar_indices.py
 ```
 
@@ -54,7 +57,7 @@ para a nota nova. Só acrescente, nunca reescreva.
 | `05 - Festas e Ritos Bíblicos` | moedim (Pessach, Shavuot, Sucot…), imersão (tevilá), calendário bíblico, ressurreição |
 | `06 - História Arqueologia e Identidade Judaica` | Segundo Templo, grupos judaicos do 1º século, Bnei Anussim, DNA abraâmico, identidade |
 
-`Escrituras/` e `Fontes/` são áreas de referência, fora da numeração.
+`Escrituras/`, `Fontes/` e `Parashiot/` são áreas de referência, fora da numeração.
 
 - Cada nota tem **uma** categoria (a pasta). As outras conexões são feitas por wikilink, sem duplicar a nota.
 - `topic_category` = nome exato da categoria, sem o número (ex.: `"Escatologia e Profecia"`).
@@ -341,6 +344,23 @@ Mínimo de ~100 palavras. Passagens centrais (as que sustentam teses da base) pa
 Só as passagens centrais têm nota (hoje, as 40 mais citadas, listadas no Índice Escrituras). As outras
 ficam em texto simples, sem wikilink (ex.: `Isaías 9.6`). Uma passagem ganha nota e link quando passar a
 sustentar uma tese ou for citada em 3 ou mais notas `kb-`.
+
+## Parashiot (`WIKI/Parashiot/<N - Livro>/Parashá <Nome>.md`)
+
+As 54 porções semanais da Torá, geradas da planilha do guia *Parashiot — Torá, Haftarot e Berit Hadashá*
+(Beit Shalom, Tishrei 5787). Cada nota tem no frontmatter `type: parasha`, `numero`, `livro`, `hebraico`,
+`transliteracao`, `traducao`, `tora`, `haftara_asquenazita`, `haftara_sefaradita` e `berit_hadashah`, e no corpo:
+resumo, tabela das leituras, "Na base CIBS" (passagens com nota, conceitos e estudos que citam versículos
+daquelas leituras) e a sequência do ciclo (anterior e próxima).
+
+- O link é sempre `[[Parashá <Nome>]]` (ex.: `[[Parashá Pinchas]]`), para não confundir com a pessoa
+  (`[[Pinchas]]`) ou o conceito. Grafias das 54 conforme o guia: Bereshit, Noach, Lech Lecha… Vezot Haberachah.
+- **Estudo sobre uma parashá:** a nota `kb-` vai para a categoria do tema, leva `parasha: "Parashá <Nome>"`
+  no frontmatter e o link para a nota da parashá em "Notas relacionadas na base". Na nota da parashá,
+  acrescente o estudo em "Estudos da base que citam versículos destas leituras" (só acrescente).
+- Quando o Mike pedir conteúdo da parashá da semana, abra a nota da parashá: as leituras e os estudos
+  ligados estão nela.
+- Passagens com nota recebem a seção `## Na leitura semanal`, com a parashá onde são lidas.
 
 ## Notas de fonte (`WIKI/Fontes/<Obra>.md`)
 

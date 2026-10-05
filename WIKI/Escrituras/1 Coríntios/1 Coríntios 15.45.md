@@ -25,6 +25,9 @@ O texto sustenta a distinção de [[Ontologia vs. Função]]: ele é "espírito 
 ## Conexões
 [[Salmo 19.7]], [[Jeremias 31.31]], [[Apocalipse 22.14]], [[Tzelem Elohim]], [[Bechor]], Romanos 5.12-19, Colossenses 1.15.
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

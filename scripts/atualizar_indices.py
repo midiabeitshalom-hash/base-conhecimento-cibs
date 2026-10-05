@@ -33,6 +33,7 @@ RAW = os.path.join(RAIZ, "RAW")
 CENTRAL = os.path.join(WIKI, "000 - Índice Central CIBS.md")
 ESCRITURAS = os.path.join(WIKI, "Escrituras")
 FONTES = os.path.join(WIKI, "Fontes")
+PARASHIOT = os.path.join(WIKI, "Parashiot")
 nfc = lambda s: unicodedata.normalize("NFC", s)
 
 CAMPOS_KB = ["title", "origem", "creator_channel", "autor_do_estudo", "source_url", "source_type",
@@ -111,6 +112,12 @@ def fontes():
                    if not os.path.basename(f).startswith("000 - ")), key=lambda f: base(f).lower())
 
 
+def parashiot():
+    arqs = [f for f in glob.glob(os.path.join(PARASHIOT, "**", "*.md"), recursive=True)
+            if not os.path.basename(f).startswith("000 - ")]
+    return sorted(arqs, key=lambda f: int(frontmatter(ler(f)).get("numero", 0) or 0))
+
+
 def trocar_secao(texto, cabecalho, novo_corpo, antes_de=None):
     if not re.search(rf"^{re.escape(cabecalho)}$", texto, re.M):
         alvo = antes_de if antes_de and antes_de in texto else None
@@ -161,6 +168,22 @@ def atualizar():
         t = trocar_secao(ler(idx_f), "## Obras e referências", corpo or "_Nenhuma fonte ainda._", "## Ver também")
         open(idx_f, "w", encoding="utf-8").write(t)
 
+    n_par = 0
+    idx_p = os.path.join(PARASHIOT, "000 - Índice Parashiot.md")
+    if os.path.exists(idx_p):
+        blocos, atual = [], None
+        for f in parashiot():
+            fm = frontmatter(ler(f))
+            if fm.get("livro") != atual:
+                atual = fm.get("livro")
+                blocos += [f"\n### {atual}\n", "| Nº | Parashá | Hebraico | Torá | Haftará (asquenazita) | Haftará (sefaradita) |",
+                           "|---|---|---|---|---|---|"]
+            blocos.append(f"| {fm.get('numero')} | [[{base(f)}\\|{fm.get('transliteracao')}]] — {fm.get('traducao')} | {fm.get('hebraico')} | "
+                          f"{fm.get('tora')} | {fm.get('haftara_asquenazita')} | {fm.get('haftara_sefaradita')} |")
+            n_par += 1
+        t = trocar_secao(ler(idx_p), "## Ciclo anual", "\n".join(blocos).strip() or "_Nenhuma parashá ainda._", "## Ver também")
+        open(idx_p, "w", encoding="utf-8").write(t)
+
     t = ler(CENTRAL)
     cats = categorias()
     linhas = []
@@ -174,13 +197,15 @@ def atualizar():
     refs = []
     if os.path.exists(idx_e):
         refs.append(f"- [[000 - Índice Escrituras|Escrituras]] — {n_pass} passagens")
+    if os.path.exists(idx_p):
+        refs.append(f"- [[000 - Índice Parashiot|Parashiot]] — {n_par} porções semanais da Torá, com Haftarot e Berit Hadashah")
     if os.path.exists(idx_f):
         refs.append(f"- [[000 - Índice Fontes|Fontes]] — {n_font} obras e referências")
     t = trocar_secao(t, "## Referências", "\n".join(refs) or "_Nenhuma ainda._", "## Todas as notas (ordem alfabética)")
     t = trocar_secao(t, "## Todas as notas (ordem alfabética)",
                      "\n".join(f"- [[{k}|{ti}]] · _{nome(c)}_" for k, ti, c in sorted(todas)))
     open(CENTRAL, "w", encoding="utf-8").write(t)
-    print(f"índices atualizados: {len(cats)} categorias, {len(todas)} notas, {total_conc} conceitos, {n_pass} passagens, {n_font} fontes")
+    print(f"índices atualizados: {len(cats)} categorias, {len(todas)} notas, {total_conc} conceitos, {n_pass} passagens, {n_font} fontes, {n_par} parashiot")
 
 
 def palavras(texto):
@@ -206,7 +231,7 @@ def verificar():
             erros.append(("colchetes desbalanceados", rel))
         for l in re.findall(r"\[\[([^\]]+)\]\]", corpo):
             total += 1
-            alvo = l.split("|")[0].split("#")[0].strip()
+            alvo = l.split("|")[0].split("#")[0].strip().rstrip("\\")  # "\|" é o alias dentro de tabela
             if l.count("|") > 1:
                 erros.append(("| extra", rel, l))
             if re.search(r"[:/\\]", alvo):
@@ -240,10 +265,11 @@ def verificar():
             erros.append(("nota fora dos índices", n))
     for padrao, rotulo in [(os.path.join(WIKI, "*", "Conceitos", "*.md"), "conceito"),
                            (os.path.join(ESCRITURAS, "**", "*.md"), "passagem"),
-                           (os.path.join(FONTES, "**", "*.md"), "fonte")]:
+                           (os.path.join(FONTES, "**", "*.md"), "fonte"),
+                           (os.path.join(PARASHIOT, "**", "*.md"), "parashá")]:
         for f in glob.glob(padrao, recursive=True):
             n = base(f)
-            if not n.startswith("000 - ") and f"[[{n}]]" not in indices:
+            if not n.startswith("000 - ") and f"[[{n}]]" not in indices and f"[[{n}\\|" not in indices:
                 erros.append((f"{rotulo} fora dos índices", n))
     print(f"verificação: {len(arquivos)} arquivos, {total} wikilinks, {len(erros)} erros, {len(avisos)} avisos")
     for e in erros:

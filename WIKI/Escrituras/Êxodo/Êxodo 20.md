@@ -25,6 +25,9 @@ O quarto mandamento sustenta o [[Shabat]]: *Zachor e Shamor* ([[Zachor e Shamor]
 ## Conexões
 Êxodo 24 · [[Jeremias 31.31|Jeremias 31.31-34]] · [[1 João 3.4]] · [[Deuteronômio 6.4]] · [[Torá Moral]] · [[Mitzvot]] · [[Har Sinai]].
 
+## Na leitura semanal
+- Torá da [[Parashá Yitro]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

@@ -25,6 +25,9 @@ A base também usa o versículo para distinguir [[Graça]] de licença: a graça
 ## Conexões
 [[Anomia]] · [[Torá]] · [[Teshuvá]] · [[Operação do Erro]] · [[Apocalipse 22.14]] · [[Jeremias 31.31|Jeremias 31.31-34]].
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Bechukotai]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

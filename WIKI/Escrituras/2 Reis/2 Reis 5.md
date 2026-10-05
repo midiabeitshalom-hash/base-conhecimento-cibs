@@ -25,6 +25,9 @@ O episódio é o segundo marco da cadeia do mesmo lugar: antes dele, o memorial 
 ## Conexões
 [[Maim Chaim]], [[Monte Hermon]], [[Casa de Israel]], [[Atos 2]], Mateus 3.13-17, João 3.3-5.
 
+## Na leitura semanal
+- Haftará da [[Parashá Tazria]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

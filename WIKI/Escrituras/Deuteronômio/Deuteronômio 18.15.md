@@ -25,6 +25,9 @@ O texto também fornece o filtro: o profeta de Deuteronômio 18 fala o que D'us 
 ## Conexões
 [[Deuteronômio 18.18]] · Atos 3.22 · Atos 7.37 · João 5.46 · [[Mashiach ben Yosef]] · [[Mashiach]] · [[Moshe Rabenu]].
 
+## Na leitura semanal
+- Torá da [[Parashá Shoftim]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

@@ -25,6 +25,9 @@ Na lógica da aliança, o papel de mediador também explica a [[Berit Hadashah]]
 ## Conexões
 [[Deuteronômio 6.4]] · [[João 17.3]] · [[João 20.17]] · [[Colossenses 2.9]] · [[Shaliah]] · [[Mashiach]] · [[Monoteísmo Estrito]] · [[Trindade]].
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Vaetchanan]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

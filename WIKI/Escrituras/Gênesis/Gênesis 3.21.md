@@ -25,6 +25,9 @@ O mesmo texto desfaz a oposição entre Lei e Graça. Já no Éden o primeiro at
 ## Conexões
 [[Gênesis 2.16]], [[Daniel 9.24]], [[Mitat Tzaddikim Mechaperet]], [[Levítico 25]] (jubileu, a restituição), Gênesis 4, Gênesis 8.20, Levítico 1-7, Hebreus 10.4.
 
+## Na leitura semanal
+- Torá da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

@@ -25,6 +25,9 @@ Por isso o primeiro homem, [[Adam HaRishon]], nunca se confunde com o Adam Kadmo
 ## Conexões
 [[Gênesis 1.1]], [[Na'assê Adam]], [[Tzelem Elohim]], [[Or HaGanuz]], Gênesis 5.3, Romanos 5.12-19.
 
+## Na leitura semanal
+- Torá da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]

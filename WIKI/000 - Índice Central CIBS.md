@@ -23,6 +23,7 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 ## Referências
 
 - [[000 - Índice Escrituras|Escrituras]] — 40 passagens
+- [[000 - Índice Parashiot|Parashiot]] — 54 porções semanais da Torá, com Haftarot e Berit Hadashah
 - [[000 - Índice Fontes|Fontes]] — 20 obras e referências
 
 ## Todas as notas (ordem alfabética)

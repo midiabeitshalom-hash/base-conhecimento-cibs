@@ -25,6 +25,9 @@ A base mostra que *Echad* não aceita pluralidade interna de pessoas: o Tanakh r
 ## Conexões
 [[Adonai Echad]], [[Deuteronômio 18.18]], [[Colossenses 2.9]], [[João 20.17]], [[Elohut]], [[Ein Sof]].
 
+## Na leitura semanal
+- Torá da [[Parashá Vaetchanan]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]

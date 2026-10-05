@@ -25,6 +25,9 @@ No estudo sobre o Éden, Rav Yosef mostra que a presença do *Alef-Tav* indica q
 ## Conexões
 [[Gênesis 1.26]], [[Gênesis 2.16]], [[Gênesis 6.3]] (o *Sod*, os 120 anos), [[Apocalipse 21.23]], [[Or HaGanuz]], [[Adam Kadmon]].
 
+## Na leitura semanal
+- Torá da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

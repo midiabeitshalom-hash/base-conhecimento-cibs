@@ -25,6 +25,9 @@ O versículo 24, que fala do servo Davi andando "nos meus juízos" e guardando "
 ## Conexões
 [[Ezequiel 36.26|Ezequiel 36.26-27]] · [[Jeremias 31.31|Jeremias 31.31-34]] · [[Atos 2]] · [[Profeta Ezequiel]] · [[Casa de Israel]] · [[Teshuvá]].
 
+## Na leitura semanal
+- Haftará da [[Parashá Vayigash]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]

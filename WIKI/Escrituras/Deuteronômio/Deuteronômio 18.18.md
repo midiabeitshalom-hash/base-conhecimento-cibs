@@ -25,6 +25,9 @@ A semelhança com [[Moshe Rabenu]] se mostra em ser mediador de uma aliança, em
 ## Conexões
 [[Deuteronômio 18.15|Deuteronômio 18.15-19]], [[Torá]], [[Shaliah]], [[Mashiach]], [[Davar]].
 
+## Na leitura semanal
+- Torá da [[Parashá Shoftim]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]

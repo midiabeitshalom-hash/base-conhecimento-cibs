@@ -25,6 +25,9 @@ No estudo do Éden, a obediência a Gênesis 2.16-17 é o código-fonte que o se
 ## Conexões
 [[Gênesis 3.21]], [[Gênesis 1.26]], [[Salmo 19.7]], [[Torá Moral]], [[Mateus 5.17]], [[Romanos 3.31]], [[Zachor e Shamor]].
 
+## Na leitura semanal
+- Torá da [[Parashá Bereshit]]
+
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]

@@ -25,6 +25,10 @@ Daí vem a leitura de *telos nomou* em 10.4 como alvo da Torá ([[Telos Nomou]])
 ## Conexões
 [[Mateus 5.17|Mateus 5.17-19]] · [[1 João 3.4]] · [[Jeremias 31.31|Jeremias 31.31-34]] · [[Carta aos Romanos]] · [[Telos Nomou]] · [[Oliveira de Romanos 11]] · [[Teologia da Substituição]].
 
+## Na leitura semanal
+- Berit Hadashah da [[Parashá Lech Lecha]]
+- Berit Hadashah da [[Parashá Vaetchanan]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

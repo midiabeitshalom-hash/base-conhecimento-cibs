@@ -25,6 +25,9 @@ O capítulo integra o relógio dos [[Moedim]] de [[Levítico 23]], formando o ca
 ## Conexões
 [[Levítico 23]] · [[Gênesis 6.3]] · [[Zacarias 14.12]] · [[Shemitá]] · [[Yovel]] · [[Goel]] · [[Shofar HaGadol]].
 
+## Na leitura semanal
+- Torá da [[Parashá Behar]]
+
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
