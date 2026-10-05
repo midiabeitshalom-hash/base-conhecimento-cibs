@@ -18,7 +18,7 @@ A raiz é *t-v-l* (ט-ב-ל), mergulhar por inteiro. Não é borrifar nem derram
 
 ## Na Escritura
 
-A Torá manda lavar o corpo em água para sair da impureza (Levítico 15; Levítico 14:8-9) e manda lavar os sacerdotes antes da unção (Êxodo 29:4; Levítico 8:6). O serviço do Tabernáculo começava aos 30 anos (Números 4:3), a idade em que Yeshua é imerso por [[João, o Imersor]] ([[Mateus 3.13|Mateus 3.13-17]]; [[Lucas 3.21|Lucas 3.21-23]]). O Jordão já tinha história: a travessia com a arca e as doze pedras no leito do rio ([[Josué 4]]) e a cura de [[Naamã]], que mergulhou sete vezes e ficou com a pele de um menino ([[2 Reis 5]]). Yeshua diz a [[Nicodemos]] que é preciso "nascer da água e do Espírito" ([[João 3.3|João 3.3-5]]); em [[Atos 10]] o Espírito desce sobre a casa de Cornélio e a imersão vem logo em seguida; em [[Atos 19]] os discípulos de Éfeso são imersos em nome de Yeshua e recebem o Espírito.
+A Torá manda lavar o corpo em água para sair da impureza (Levítico 15; Levítico 14:8-9) e manda lavar os sacerdotes antes da unção (Êxodo 29:4; Levítico 8:6). O serviço do Tabernáculo começava aos 30 anos (Números 4:3), a idade em que Yeshua é imerso por [[João, o Imersor]] (Mateus 3.13-17; Lucas 3.21-23). O Jordão já tinha história: a travessia com a arca e as doze pedras no leito do rio ([[Josué 4]]) e a cura de [[Naamã]], que mergulhou sete vezes e ficou com a pele de um menino ([[2 Reis 5]]). Yeshua diz a [[Nicodemos]] que é preciso "nascer da água e do Espírito" (João 3.3-5); em Atos 10 o Espírito desce sobre a casa de Cornélio e a imersão vem logo em seguida; em Atos 19 os discípulos de Éfeso são imersos em nome de Yeshua e recebem o Espírito.
 
 ## Nas fontes judaicas
 
@@ -26,7 +26,7 @@ O tratado *Mikvaot* da Mishná regula a imersão: o volume mínimo de água, os 
 
 ## Na visão da Beit Shalom
 
-Rav Yosef desmonta a visão de que a imersão serve só para perdão de pecados ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Yeshua não tinha pecado; sua *Tevilá* aos 30 anos foi a investidura pública como Messias e Sumo Sacerdote, atestada pela voz do céu e pela descida do [[Ruach HaKodesh]]. A geografia conta: o Jordão nasce das neves do [[Monte Hermon]], água que desce do alto, figura do rio que sai do trono em [[Apocalipse 22]]. A cadeia é Hermon, Josué 4, 2 Reis 5, Mateus 3 e [[Atos 2]].
+Rav Yosef desmonta a visão de que a imersão serve só para perdão de pecados ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Yeshua não tinha pecado; sua *Tevilá* aos 30 anos foi a investidura pública como Messias e Sumo Sacerdote, atestada pela voz do céu e pela descida do [[Ruach HaKodesh]]. A geografia conta: o Jordão nasce das neves do [[Monte Hermon]], água que desce do alto, figura do rio que sai do trono em Apocalipse 22. A cadeia é Hermon, Josué 4, 2 Reis 5, Mateus 3 e [[Atos 2]].
 
 O pilar 28 fixa a posição: o [[Novo Nascimento]] une a água e o Espírito, e a *Tevilá* exterior não se separa da transformação interior ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). No guia de voz, a base pede *Tevilá* em vez de "batismo" e chama João Batista de João, o Imersor ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
@@ -40,7 +40,7 @@ Naamã queria um ritual mais nobre e quase foi embora sem cura. Bastava descer a
 
 ## Relacionados
 
-[[Teshuvá]] · [[Novo Nascimento]] · [[Ruach HaKodesh]] · [[Maim Chaim]] · [[Rio Jordão]] · [[Monte Hermon]] · [[João, o Imersor]] · [[Naamã]] · [[Josué 4]] · [[2 Reis 5]] · [[Mateus 3.13]] · [[João 3.3]] · [[Atos 10]] · [[Atos 19]] · [[Shavuot]]
+[[Teshuvá]] · [[Novo Nascimento]] · [[Ruach HaKodesh]] · [[Maim Chaim]] · [[Rio Jordão]] · [[Monte Hermon]] · [[João, o Imersor]] · [[Naamã]] · [[Josué 4]] · [[2 Reis 5]] · Mateus 3.13 · João 3.3 · Atos 10 · Atos 19 · [[Shavuot]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

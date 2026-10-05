@@ -21,7 +21,7 @@ date_captured: 2026-10-05
 - **2 Reis 4:1-7:** pela palavra de [[Profeta Eliseu|Eliseu]], o azeite da viúva corre enquanto há vasilhas; quando acabam os vasos, o azeite para. A bênção é medida pelos recipientes.
 - **Êxodo 25-40:** os *kelim* do Tabernáculo, entre eles a [[Menorá]], feitos para receber e servir a presença de D'us.
 - **[[Colossenses 2.9]]:** em Yeshua "habita corporalmente toda a plenitude" da divindade.
-- **[[João 14.9]]:** "quem me vê a mim vê o Pai".
+- **João 14.9:** "quem me vê a mim vê o Pai".
 - **[[Apocalipse 21.23]]:** a cidade não precisa de sol nem de lua, porque a glória de D'us a ilumina "e o Cordeiro é a sua lâmpada".
 - **Atos 9:15 e 2 Coríntios 4:7:** Sha'ul é "vaso escolhido", e o tesouro está "em vasos de barro".
 
@@ -31,7 +31,7 @@ Na cabala do [[Arizal]], depois do [[Tzimtzum]] a luz do [[Ein Sof]] desce em ra
 
 ## Na visão da Beit Shalom
 
-Rav Yosef usa a imagem da luz e da lâmpada para ler [[João 14.9]] sem Trindade ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]; [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]). O Pai é a luz infinita, o [[Or Ein Sof]]. O Messias é o *Kli*, a entidade criada capaz de receber, reter e canalizar a luz espiritual. Quem olha para a lâmpada acesa vê a luz, mas a lâmpada não é a usina. Yeshua não dizia ser o Pai: sendo a lâmpada perfeita, contemplar o seu caráter, o seu ensino e a sua obediência é ver a projeção mais pura da luz do Pai que um ser humano pode suportar.
+Rav Yosef usa a imagem da luz e da lâmpada para ler João 14.9 sem Trindade ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]; [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]). O Pai é a luz infinita, o [[Or Ein Sof]]. O Messias é o *Kli*, a entidade criada capaz de receber, reter e canalizar a luz espiritual. Quem olha para a lâmpada acesa vê a luz, mas a lâmpada não é a usina. Yeshua não dizia ser o Pai: sendo a lâmpada perfeita, contemplar o seu caráter, o seu ensino e a sua obediência é ver a projeção mais pura da luz do Pai que um ser humano pode suportar.
 
 O conceito está nos Fundamentos, no pilar que lê Yeshua como manifestação histórica do [[Adam Kadmon]] ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]), e entre as imagens recorrentes do método ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). A necessidade do vaso aparece também na história de Uzá, que tocou a arca e morreu (2 Samuel 6:6-7): a carne não suporta a santidade sem mediação. Por isso há um só mediador, homem ([[1 Timóteo 2.5]]).
 
@@ -45,7 +45,7 @@ Ninguém olha o sol do meio-dia sem queimar os olhos. Num eclipse usamos um filt
 
 ## Relacionados
 
-[[Or Ein Sof]] · [[Or HaGanuz]] · [[Ein Sof]] · [[Tzimtzum]] · [[Adam Kadmon]] · [[Shechinah]] · [[Menorá]] · [[Tikkun]] · [[Monoteísmo Estrito]] · [[Apocalipse 21.23]] · [[João 14.9]] · [[Colossenses 2.9]]
+[[Or Ein Sof]] · [[Or HaGanuz]] · [[Ein Sof]] · [[Tzimtzum]] · [[Adam Kadmon]] · [[Shechinah]] · [[Menorá]] · [[Tikkun]] · [[Monoteísmo Estrito]] · [[Apocalipse 21.23]] · João 14.9 · [[Colossenses 2.9]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

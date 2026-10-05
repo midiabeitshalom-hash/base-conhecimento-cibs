@@ -17,8 +17,8 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 Jeremias anuncia o juízo sobre Judá por ter abandonado a Torá e corrido atrás de ídolos, e é perseguido, preso e jogado numa cisterna por isso. Algumas de suas palavras são centrais para a base:
-- **A Nova Aliança** ([[Jeremias 31.31|Jeremias 31.31-34]]): "farei uma aliança nova com a casa de Israel e com a casa de Judá... porei a minha Torá no seu interior e a escreverei no seu coração" ([[Jeremias 31.33]]), citada inteira em [[Hebreus 8]].
-- **A angústia de Jacó** ([[Jeremias 30.7]]): "Ah, porque aquele dia é tão grande que não houve outro semelhante; é tempo de angústia para Jacó; ele, porém, será salvo dela".
+- **A Nova Aliança** ([[Jeremias 31.31|Jeremias 31.31-34]]): "farei uma aliança nova com a casa de Israel e com a casa de Judá... porei a minha Torá no seu interior e a escreverei no seu coração" (Jeremias 31.33), citada inteira em Hebreus 8.
+- **A angústia de Jacó** (Jeremias 30.7): "Ah, porque aquele dia é tão grande que não houve outro semelhante; é tempo de angústia para Jacó; ele, porém, será salvo dela".
 - **A compra do campo de Hanameel** (Jeremias 32:6-15): durante o cerco, Jeremias compra o campo do primo, lavra a escritura em duas vias, uma aberta e outra selada, e as guarda num vaso de barro, porque "ainda se comprarão casas, e campos, e vinhas nesta terra".
 - **Os setenta anos** do exílio (Jeremias 25:11), que Daniel lê para calcular o fim do cativeiro (Daniel 9:2).
 - **O Renovo justo** de Davi (Jeremias 23:5) e o aviso contra os costumes das nações, a árvore cortada no bosque e enfeitada com prata e ouro (Jeremias 10:1-5).
@@ -36,7 +36,7 @@ A escritura selada de Jeremias 32 é o modelo jurídico do rolo de sete selos de
 
 ## Relacionados
 
-[[Berit Hadashah]] · [[Jeremias 31.31]] · [[Jeremias 31.33]] · [[Jeremias 30.7]] · [[Et Tzarah l'Yaakov]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Goel]] · [[Hebreus 8]] · [[Ezequiel 36.26]] · [[Profeta Ezequiel]] · [[Profeta Daniel]] · [[Shavuot]] · [[Nevi'im]]
+[[Berit Hadashah]] · [[Jeremias 31.31]] · Jeremias 31.33 · Jeremias 30.7 · [[Et Tzarah l'Yaakov]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Goel]] · Hebreus 8 · [[Ezequiel 36.26]] · [[Profeta Ezequiel]] · [[Profeta Daniel]] · [[Shavuot]] · [[Nevi'im]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

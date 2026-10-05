@@ -26,7 +26,7 @@ Para Shimon HaTzaddik, os atos de bondade, *guemilut chassadim*, são uma das tr
 
 ## Na visão da Beit Shalom
 
-Rav Yosef mostra que lei e graça nunca se opuseram ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]). O primeiro gesto de *chesed* depois da queda foram as túnicas de pele de [[Gênesis 3.21]]: uma cobertura substitutiva e um prazo para que o homem pudesse fazer [[Teshuvá]]. Desde então a salvação é pela graça em todas as épocas, e a graça perdoa o passado e dá força, pelo [[Ruach HaKodesh]], para viver a [[Torá]] no presente: ela "ensina a renunciar à impiedade" (Tito 2:11-14). É a analogia da serra elétrica: o *chesed* do Messias é o cirurgião que reimplanta a mão, não a licença para pô-la de novo na serra ([[Hebreus 10.26|Hebreus 10.26-29]]).
+Rav Yosef mostra que lei e graça nunca se opuseram ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]). O primeiro gesto de *chesed* depois da queda foram as túnicas de pele de [[Gênesis 3.21]]: uma cobertura substitutiva e um prazo para que o homem pudesse fazer [[Teshuvá]]. Desde então a salvação é pela graça em todas as épocas, e a graça perdoa o passado e dá força, pelo [[Ruach HaKodesh]], para viver a [[Torá]] no presente: ela "ensina a renunciar à impiedade" (Tito 2:11-14). É a analogia da serra elétrica: o *chesed* do Messias é o cirurgião que reimplanta a mão, não a licença para pô-la de novo na serra (Hebreus 10.26-29).
 
 O próprio Tanakh confirma a leitura. Êxodo 20:6 liga o *chesed* aos que guardam os mandamentos. A graça do Sinai é a mesma da [[Berit Hadashah]] ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
@@ -40,7 +40,7 @@ Um pai que paga a fiança do filho preso faz *chesed*. Mas ele não paga para o 
 
 ## Relacionados
 
-[[Graça]] · [[Emet]] · [[Torá]] · [[Mitzvot]] · [[Teshuvá]] · [[Kapará]] · [[Gênesis 3.21]] · [[Êxodo 20]] · [[Romanos 6]] · [[Hebreus 10.26]] · [[Sefirot]] · [[Avraham Avinu]] · [[Tzedaká]]
+[[Graça]] · [[Emet]] · [[Torá]] · [[Mitzvot]] · [[Teshuvá]] · [[Kapará]] · [[Gênesis 3.21]] · [[Êxodo 20]] · Romanos 6 · Hebreus 10.26 · [[Sefirot]] · [[Avraham Avinu]] · [[Tzedaká]]
 
 ## Aparece em
 

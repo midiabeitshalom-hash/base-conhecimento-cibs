@@ -18,13 +18,13 @@ O nome joga com *adamah*, a terra vermelha de onde ele foi tirado: o homem é "o
 
 ## Na Escritura
 
-- **A formação.** "Formou o Senhor D'us o homem do pó da terra e soprou nas suas narinas o fôlego da vida, e o homem foi feito alma vivente" ([[Gênesis 2.7]]).
+- **A formação.** "Formou o Senhor D'us o homem do pó da terra e soprou nas suas narinas o fôlego da vida, e o homem foi feito alma vivente" (Gênesis 2.7).
 - **O ofício.** Posto no jardim "para o lavrar e o guardar", *le'ovdah ul'shomrah* (Gênesis 2:15).
 - **O mandamento.** "De toda árvore do jardim comerás livremente, mas da árvore do conhecimento do bem e do mal não comerás" ([[Gênesis 2.16|Gênesis 2.16-17]]): um mandamento positivo e um proibitivo.
-- **A queda.** A serpente, o fruto, o esconder-se ([[Gênesis 3]]); a promessa da semente da mulher que esmagará a cabeça da serpente ([[Gênesis 3.15]]); a terra que passa a produzir "espinhos e abrolhos", *kots ve-dardar* ([[Gênesis 3.17|Gênesis 3.17-18]]; [[Kots ve-Dardar]]).
+- **A queda.** A serpente, o fruto, o esconder-se (Gênesis 3); a promessa da semente da mulher que esmagará a cabeça da serpente (Gênesis 3.15); a terra que passa a produzir "espinhos e abrolhos", *kots ve-dardar* (Gênesis 3.17-18; [[Kots ve-Dardar]]).
 - **A cobertura.** "Fez o Senhor D'us a Adão e à sua mulher túnicas de pele e os vestiu" ([[Gênesis 3.21]]).
-- **A imagem transmitida.** "Adão gerou um filho à sua semelhança, conforme a sua imagem" ([[Gênesis 5.3]]).
-- **Na Berit Hadashah.** "Por um homem entrou o pecado no mundo, e pelo pecado a morte" ([[Romanos 5.12]]); "o primeiro homem, Adão, foi feito alma vivente; o último Adão, espírito vivificante" ([[1 Coríntios 15.45]]).
+- **A imagem transmitida.** "Adão gerou um filho à sua semelhança, conforme a sua imagem" (Gênesis 5.3).
+- **Na Berit Hadashah.** "Por um homem entrou o pecado no mundo, e pelo pecado a morte" (Romanos 5.12); "o primeiro homem, Adão, foi feito alma vivente; o último Adão, espírito vivificante" ([[1 Coríntios 15.45]]).
 
 ## Na tradição judaica
 
@@ -50,7 +50,7 @@ Adão recebeu um jardim, um trabalho e uma única cerca. A cerca não era castig
 
 ## Relacionados
 
-[[Adam Kadmon]] · [[Chavah]] · [[Kayin]] · [[Hevel]] · [[Gênesis 2.7]] · [[Gênesis 2.16]] · [[Gênesis 3]] · [[Gênesis 3.15]] · [[Gênesis 3.21]] · [[Gênesis 5.3]] · [[Romanos 5.12]] · [[1 Coríntios 15.45]] · [[Yetzer HaRá]] · [[Kots ve-Dardar]] · [[Torá Moral]] · [[Etz Chaim]] · [[Goel]]
+[[Adam Kadmon]] · [[Chavah]] · [[Kayin]] · [[Hevel]] · Gênesis 2.7 · [[Gênesis 2.16]] · Gênesis 3 · Gênesis 3.15 · [[Gênesis 3.21]] · Gênesis 5.3 · Romanos 5.12 · [[1 Coríntios 15.45]] · [[Yetzer HaRá]] · [[Kots ve-Dardar]] · [[Torá Moral]] · [[Etz Chaim]] · [[Goel]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

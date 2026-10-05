@@ -28,11 +28,11 @@ A cronologia rabínica do [[Seder Olam Rabbah]] comprime o período persa em pou
 
 Rav Yosef faz a conta passo a passo ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). As 70 semanas são semanas de anos, 490 anos. Do decreto de Artaxerxes contam-se 7 mais 62 semanas, 69 semanas ou 483 anos proféticos, até o [[Mashiach Nagid]]. Depois das 62 semanas o Messias é "cortado", morto antes do tempo, e "o povo do príncipe que há de vir" destrói a cidade e o santuário, o que Roma fez em 70 EC. Contados em anos proféticos de 360 dias, os 483 anos a partir de 445 a.C. chegam ao início da década de 30 EC, ao tempo do ministério e da morte de Yeshua ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 
-A conclusão é dupla. O Messias de Daniel precisava vir e morrer antes de 70 EC, enquanto o Templo existia; e desde então Israel está sem altar e sem a expiação anual do [[Yom Kippur]]. Para a base, isso só faz sentido porque a expiação anunciada em Daniel e em [[Isaías 53]] já foi feita por Yeshua.
+A conclusão é dupla. O Messias de Daniel precisava vir e morrer antes de 70 EC, enquanto o Templo existia; e desde então Israel está sem altar e sem a expiação anual do [[Yom Kippur]]. Para a base, isso só faz sentido porque a expiação anunciada em Daniel e em Isaías 53 já foi feita por Yeshua.
 
 ## Relacionados
 
-[[Daniel 9.24]] · [[Mashiach Nagid]] · [[Profeta Daniel]] · [[Neemias]] · [[Esdras]] · [[Medo-Pérsia]] · [[Daniel 2]] · [[Seder Olam Rabbah]] · [[Isaías 53]] · [[Yeshua]] · [[Mashiach ben Yosef]]
+[[Daniel 9.24]] · [[Mashiach Nagid]] · [[Profeta Daniel]] · [[Neemias]] · [[Esdras]] · [[Medo-Pérsia]] · [[Daniel 2]] · [[Seder Olam Rabbah]] · Isaías 53 · [[Yeshua]] · [[Mashiach ben Yosef]]
 
 ## Aparece em
 

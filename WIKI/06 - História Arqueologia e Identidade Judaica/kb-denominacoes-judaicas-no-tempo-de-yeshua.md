@@ -33,7 +33,7 @@ knowledge_depth: exhaustive-academic
 - **[[Aharon HaKohen|Arão]] (Aharon HaKohen):** Primeiro Sumo Sacerdote (*Kohen Gadol*), cuja descendência direta (*Kohanim*) recebeu a exclusividade do ministério sacerdotal e sacrificial no Tabernáculo e Templo.
 - **[[Shlomo HaMelech|Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo de Jerusalém, complexo que integrou o culto sacrificial a câmaras de estudo e ensino da Torá.
 - **[[Esdras]] e [[Neemias]]:** Líderes pós-exílicos que conduziram a reconstrução do Segundo Templo e consolidaram a proliferação das casas de estudo (*Sinagogas*).
-- **[[Pinchas|Fineias]] (Pinchas):** Sacerdote bíblico que atuou com zelo violento contra a idolatria no episódio de Zinri e Cozbi ([[Números 25]]), servindo de modelo doutrinário para os [[Zelotes]] (*Kanaim*).
+- **[[Pinchas|Fineias]] (Pinchas):** Sacerdote bíblico que atuou com zelo violento contra a idolatria no episódio de Zinri e Cozbi (Números 25), servindo de modelo doutrinário para os [[Zelotes]] (*Kanaim*).
 - **[[Tzadok|Tsadoque]] (Zadok):** Sumo sacerdote da era davídica e salomônica, de cujo nome deriva a linhagem reivindicada pelos [[Saduceus]] (*Tzadokim*).
 - **[[Yeshua|Yeshua de Nazaré]]:** O Messias de Israel, que dialogou com todas as facções religiosas do Segundo Templo, profetizou a destruição do edifício por volta do ano 30 EC e inaugurou o modelo definitivo de expiação.
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul):** Apóstolo dos primeiros séculos, mencionado pelos relatos de perseguição e dispersão em Atos dos Apóstolos.
@@ -44,7 +44,7 @@ knowledge_depth: exhaustive-academic
 **Escrituras**
 - *Torá:*
   - **[[Torá]] / Pentateuco:** Os cinco livros de Moisés, base de toda a legislação de Israel e único cânon aceito pelos saduceus.
-  - *[[Números 25]]:* O zelo de Fineias no episódio de Zinri e Cozbi, modelo dos Zelotes.
+  - *Números 25:* O zelo de Fineias no episódio de Zinri e Cozbi, modelo dos Zelotes.
 - *Nevi'im:*
   - **[[Tanakh]] (Profetas e Escritos):** Cânon ampliado aceito por fariseus, essênios e messiânicos, contendo profecias sobre ressurreição, anjos e o Messias.
   - *Isaías 1:18:* *"Ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve"*, o versículo ligado ao milagre da fita escarlate.
@@ -52,8 +52,8 @@ knowledge_depth: exhaustive-academic
   - *Esdras e Neemias:* Os livros que narram o retorno sob os persas e a reconstrução do Segundo Templo, base da seção sobre Esdras e Neemias.
 - *Berit Hadashah:*
   - **[[Berit Hadashah]] (Novo Testamento):** Atos dos Apóstolos (dispersão e controvérsias) e o Livro de Apocalipse (cartas às 7 comunidades da Ásia Menor).
-  - *[[Mateus 24.1|Mateus 24.1-2]]:* A profecia de Yeshua sobre a ruína do Templo.
-  - *[[Mateus 15.24]]:* Yeshua enviado às "ovelhas perdidas da casa de Israel".
+  - *Mateus 24.1-2:* A profecia de Yeshua sobre a ruína do Templo.
+  - *Mateus 15.24:* Yeshua enviado às "ovelhas perdidas da casa de Israel".
   - *Mateus 22:23-33* e *Marcos 7:1-13:* As controvérsias com os Saduceus (ressurreição) e com os Fariseus (tradição), indicadas no checklist.
 
 **Literatura rabínica e judaica**
@@ -113,7 +113,7 @@ Durante a época em que Yeshua viveu na Terra de Israel, o judaísmo era profund
 | **[[Fariseus]]** (*Perushim*) | **Torá Escrita + Tradição Oral** (futura base da Mishná/Talmud). | Líderes das sinagogas; piedade popular rigorosa e devota. | Criam em ressurreição, anjos, demônios e mundo vindouro. Esperavam um **Grande Rabino/Mestre da Torá**. |
 | **[[Saduceus]]** (*Tzadokim*) | **Apenas a Torá Escrita** (Rejeitavam Profetas, Escritos e Tradição Oral). | Aristocracia sacerdotal do Templo; helenizados e alinhados a Roma. | Negavam ressurreição, anjos e demônios. **Expectativa messiânica nula/baixa** por falta de menção explícita no Pentateuco. |
 | **[[Essênios]]** | Torá Escrita + Textos Comunitários Apocalípticos. | Sacerdotes zadoquitas dissidentes que consideravam o Templo corrompido; isolaram-se no deserto (Qumran). | Criam no misticismo severo e pureza extrema. Esperavam um **Messias Sacerdotal e Místico**. |
-| **[[Zelotes]]** (*Kanaim*) | Torá com foco no zelo teocrático de Fineias ([[Números 25]]). | Facção revolucionária e militar anti-imperial. | Rejeitavam tributos a Roma. Esperavam um **Messias Guerreiro/Conquistador** que libertasse Israel pela espada de Davi. |
+| **[[Zelotes]]** (*Kanaim*) | Torá com foco no zelo teocrático de Fineias (Números 25). | Facção revolucionária e militar anti-imperial. | Rejeitavam tributos a Roma. Esperavam um **Messias Guerreiro/Conquistador** que libertasse Israel pela espada de Davi. |
 
 - **A Postura de Yeshua diante das Vertentes:** Yeshua não se confinou a nenhuma dessas facções. Dialogou e debateu com fariseus e saduceus, acolheu antigos zelotes e instruiu discípulos com princípios de pureza, reafirmando que fora enviado a todas as "ovelhas perdidas da casa de Israel".
 
@@ -180,7 +180,7 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 
 - [ ] **Estudo Histórico e Textual:**
   - [ ] Ler passagens dos Evangelhos identificando as controvérsias com Saduceus (*Mateus 22:23-33*) e Fariseus (*Marcos 7:1-13*).
-  - [ ] Analisar o texto talmúdico de [[Yoma 39b]] em paralelo com as profecias de Yeshua em [[Mateus 24.1|Mateus 24.1-2]].
+  - [ ] Analisar o texto talmúdico de [[Yoma 39b]] em paralelo com as profecias de Yeshua em Mateus 24.1-2.
 - [ ] **Purificação Conceitual da Fé:**
   - [ ] Superar o anacronismo de enxergar o Novo Testamento como uma religião romana/gentílica separada da Torá.
   - [ ] Reconhecer a linhagem histórica dos [[Nazarenos]] e [[Ebionitas]] como precursores da identidade judaico-messiânica.

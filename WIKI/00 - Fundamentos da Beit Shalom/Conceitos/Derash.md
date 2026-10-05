@@ -20,7 +20,7 @@ A raiz *dalet-resh-shin* significa buscar, investigar, perguntar com insistênci
 
 A Berit Hadashah usa o *Derash* o tempo todo. Os dois exemplos que a base dá:
 
-- **Mateus 5:27-28:** Yeshua parte do mandamento literal, "não adulterarás", e mostra o que ele pede do coração: quem olha com cobiça já adulterou. O mandamento continua de pé; o *Derash* o leva para dentro ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]). O texto está em [[Mateus 5]].
+- **Mateus 5:27-28:** Yeshua parte do mandamento literal, "não adulterarás", e mostra o que ele pede do coração: quem olha com cobiça já adulterou. O mandamento continua de pé; o *Derash* o leva para dentro ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]). O texto está em Mateus 5.
 - **Deuteronômio 25:4 em 1 Coríntios 9:9:** "não atarás a boca ao boi quando debulha". [[Sha'ul HaShaliach]] tira daí o princípio de que quem trabalha no ensino tem direito ao sustento, sem anular a lei do boi.
 
 ## Nas fontes judaicas
@@ -43,7 +43,7 @@ Um pai diz ao filho: "não bata no seu irmão". O filho para de bater, mas conti
 
 ## Relacionados
 
-[[PaRDeS]] · [[Peshat]] · [[Remez]] · [[Sod]] · [[Midrash]] · [[Guematria]] · [[Torá]] · [[Le'malei]] · [[Mateus 5]]
+[[PaRDeS]] · [[Peshat]] · [[Remez]] · [[Sod]] · [[Midrash]] · [[Guematria]] · [[Torá]] · [[Le'malei]] · Mateus 5
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

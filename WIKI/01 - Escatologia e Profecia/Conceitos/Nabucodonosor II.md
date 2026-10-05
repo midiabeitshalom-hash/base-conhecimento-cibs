@@ -10,14 +10,14 @@ date_captured: 2026-10-05
 
 # Nabucodonosor II
 
-**Quem é:** Nabucodonosor II (em hebraico *Nevukhadnetzar*; no acádio, *Nabû-kudurri-uṣur*, "Nabu, protege o meu herdeiro") foi o rei da [[Babilônia]] entre 605 e 562 a.C. Derrotou o Egito em Carquemis (Jeremias 46:2), levou cativos de Judá em várias deportações e, em 586 a.C., destruiu Jerusalém e incendiou o Primeiro Templo ([[2 Reis 25]]). É a "cabeça de ouro" da estátua de [[Daniel 2]] e o rei cuja loucura e restauração o livro de Daniel narra.
+**Quem é:** Nabucodonosor II (em hebraico *Nevukhadnetzar*; no acádio, *Nabû-kudurri-uṣur*, "Nabu, protege o meu herdeiro") foi o rei da [[Babilônia]] entre 605 e 562 a.C. Derrotou o Egito em Carquemis (Jeremias 46:2), levou cativos de Judá em várias deportações e, em 586 a.C., destruiu Jerusalém e incendiou o Primeiro Templo (2 Reis 25). É a "cabeça de ouro" da estátua de [[Daniel 2]] e o rei cuja loucura e restauração o livro de Daniel narra.
 
 ## Na Escritura
 
-- **[[Daniel 2]]:** sonha com a estátua de ouro, prata, bronze, ferro e barro, que uma pedra cortada sem mãos despedaça. [[Profeta Daniel|Daniel]] interpreta: "tu és a cabeça de ouro" (2:38). Diante da interpretação, o rei se prostra diante de Daniel e manda oferecer-lhe oblações e incenso ([[Daniel 2.46]]).
-- **[[Daniel 3]]:** levanta uma estátua de ouro e exige que todos a adorem. [[Sadraque, Mesaque e Abede-Nego]] recusam e são preservados na fornalha.
-- **[[Daniel 4]]:** por soberba, perde a razão e vive como animal no campo por "sete tempos", até reconhecer que o Altíssimo domina sobre o reino dos homens. A razão volta e ele louva o D'us de Israel (4:34-37).
-- **[[Daniel 7.4]]:** o primeiro animal é um leão com asas de águia; as asas são arrancadas, ele é posto em pé como homem e recebe coração de homem.
+- **[[Daniel 2]]:** sonha com a estátua de ouro, prata, bronze, ferro e barro, que uma pedra cortada sem mãos despedaça. [[Profeta Daniel|Daniel]] interpreta: "tu és a cabeça de ouro" (2:38). Diante da interpretação, o rei se prostra diante de Daniel e manda oferecer-lhe oblações e incenso (Daniel 2.46).
+- **Daniel 3:** levanta uma estátua de ouro e exige que todos a adorem. [[Sadraque, Mesaque e Abede-Nego]] recusam e são preservados na fornalha.
+- **Daniel 4:** por soberba, perde a razão e vive como animal no campo por "sete tempos", até reconhecer que o Altíssimo domina sobre o reino dos homens. A razão volta e ele louva o D'us de Israel (4:34-37).
+- **Daniel 7.4:** o primeiro animal é um leão com asas de águia; as asas são arrancadas, ele é posto em pé como homem e recebe coração de homem.
 - **Jeremias 25:9 e 27:6:** D'us chama Nabucodonosor de "meu servo", instrumento de juízo sobre Judá.
 
 ## Na tradição judaica
@@ -34,7 +34,7 @@ Por fim, a destruição de 586 a.C. abre o exílio em que nasce a sinagoga, o [[
 
 ## Relacionados
 
-[[Babilônia]] · [[Daniel 2]] · [[Daniel 4]] · [[Daniel 7]] · [[Profeta Daniel]] · [[Sadraque, Mesaque e Abede-Nego]] · [[Pedra Cortada sem Mãos]] · [[Medo-Pérsia]] · [[Proskynesis]] · [[Apoteose]] · [[Beit Knesset]] · [[Profeta Jeremias]] · [[Segundo Templo]]
+[[Babilônia]] · [[Daniel 2]] · Daniel 4 · [[Daniel 7]] · [[Profeta Daniel]] · [[Sadraque, Mesaque e Abede-Nego]] · [[Pedra Cortada sem Mãos]] · [[Medo-Pérsia]] · [[Proskynesis]] · [[Apoteose]] · [[Beit Knesset]] · [[Profeta Jeremias]] · [[Segundo Templo]]
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]

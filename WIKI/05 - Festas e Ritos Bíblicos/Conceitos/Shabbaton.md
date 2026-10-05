@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-A palavra vem de *shabat*, cessar, descansar, com o sufixo *-on*, que intensifica ou abstrai: algo como "repouso pleno". A Torá usa *shabbaton* para o [[Yom Teruá]] (Levítico 23:24) e para o primeiro e o oitavo dia de [[Sucot]] (23:39), e a forma dupla *shabbat shabbaton*, "sábado de descanso solene", para o [[Yom Kippur]] ([[Levítico 23.32]]) e para o próprio Shabat semanal (Êxodo 31:15). Os outros dias de festa recebem a mesma moldura legal: "santa convocação; nenhum trabalho servil fareis" (Levítico 23:7).
+A palavra vem de *shabat*, cessar, descansar, com o sufixo *-on*, que intensifica ou abstrai: algo como "repouso pleno". A Torá usa *shabbaton* para o [[Yom Teruá]] (Levítico 23:24) e para o primeiro e o oitavo dia de [[Sucot]] (23:39), e a forma dupla *shabbat shabbaton*, "sábado de descanso solene", para o [[Yom Kippur]] (Levítico 23.32) e para o próprio Shabat semanal (Êxodo 31:15). Os outros dias de festa recebem a mesma moldura legal: "santa convocação; nenhum trabalho servil fareis" (Levítico 23:7).
 
 ## Na Escritura
 
@@ -34,7 +34,7 @@ O Evangelho de João registra que, na semana da paixão, "era grande o dia de s�
 O conceito é a peça que destrava a cronologia da morte e da ressurreição de Yeshua ([[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]). Rav Yosef mostra que naquela semana houve dois Shabatot: o anual, de 15 de Abibe, e o semanal. A sequência fica assim:
 - **Quarta-feira, 14 de Abibe:** [[Dia da Preparação]]; Yeshua morre na [[Hora Nona]] e é sepultado antes do pôr do sol.
 - **Quinta-feira, 15 de Abibe:** o Shabbaton dos Pães Ázimos.
-- **Sexta-feira, 16:** dia comum entre os dois descansos; as mulheres compram os aromas "passado o sábado" ([[Marcos 16.1]]) e os preparam ([[Lucas 23.54|Lucas 23.54-56]]).
+- **Sexta-feira, 16:** dia comum entre os dois descansos; as mulheres compram os aromas "passado o sábado" (Marcos 16.1) e os preparam (Lucas 23.54-56).
 - **Sábado, 17:** repousam no Shabat semanal "conforme o mandamento"; no fim da tarde, completadas as 72 horas do [[Sinal de Jonas]] ([[Mateus 12.40]]), Yeshua ressuscita.
 
 Marcos e Lucas só se harmonizam se houver dois Shabatot. Esse é o terceiro passo do método do Rav Yosef nesse estudo: voltar ao original de Levítico 23 depois de desmontar a conta de sexta a domingo ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
@@ -49,7 +49,7 @@ Pense no calendário de casa: o domingo é folga toda semana, mas o Natal ou o 7
 
 ## Relacionados
 
-[[Shabat]] · [[Yom Tov]] · [[Moedim]] · [[Levítico 23]] · [[Levítico 23.5]] · [[Chag HaMatzot]] · [[Pessach]] · [[Bikurim]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · [[Zachor e Shamor]] · [[Chol HaMoed]]
+[[Shabat]] · [[Yom Tov]] · [[Moedim]] · [[Levítico 23]] · Levítico 23.5 · [[Chag HaMatzot]] · [[Pessach]] · [[Bikurim]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · [[Zachor e Shamor]] · [[Chol HaMoed]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

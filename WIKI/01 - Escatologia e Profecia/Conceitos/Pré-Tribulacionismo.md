@@ -23,11 +23,11 @@ Os textos que a doutrina usa:
 - **1 Tessalonicenses 5:2:** o dia vem "como o ladrão de noite".
 
 Os textos que a base usa para responder:
-- **[[Mateus 24.29|Mateus 24.29-31]]:** os eleitos são reunidos "logo depois da tribulação daqueles dias", ao som de grande trombeta.
+- **Mateus 24.29-31:** os eleitos são reunidos "logo depois da tribulação daqueles dias", ao som de grande trombeta.
 - **[[Apocalipse 20.4|Apocalipse 20.4-5]]:** a primeira ressurreição inclui os que recusaram a marca.
 - **[[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]:** os vivos não precedem os mortos, e a vinda tem alarido, voz de arcanjo e trombeta. Nada de secreto.
 - **1 Tessalonicenses 5:4:** "vós, irmãos, já não estais em trevas, para que aquele dia vos surpreenda como um ladrão".
-- **Apocalipse 13:7** e **[[Apocalipse 12.17]]:** a besta faz guerra aos santos, que estão na terra.
+- **Apocalipse 13:7** e **Apocalipse 12.17:** a besta faz guerra aos santos, que estão na terra.
 
 ## Na visão da Beit Shalom
 
@@ -41,7 +41,7 @@ Ira de D'us e tribulação não são a mesma coisa. Os fiéis passam pela afliç
 
 ## Relacionados
 
-[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Grande Tribulação]] · [[Marca da Besta]] · [[Mateus 24]] · [[Mateus 24.29]] · [[Apocalipse 20.4]] · [[1 Tessalonicenses 4.15]] · [[1 Tessalonicenses 5.3]] · [[1 Coríntios 15.51]] · [[Daniel 9.27]] · [[Shofar HaGadol]] · [[Reino Messiânico]]
+[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Grande Tribulação]] · [[Marca da Besta]] · Mateus 24 · Mateus 24.29 · [[Apocalipse 20.4]] · [[1 Tessalonicenses 4.15]] · 1 Tessalonicenses 5.3 · 1 Coríntios 15.51 · Daniel 9.27 · [[Shofar HaGadol]] · [[Reino Messiânico]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

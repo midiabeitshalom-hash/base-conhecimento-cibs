@@ -21,10 +21,10 @@ O primeiro versículo já define de quem é a revelação e de onde ela vem: "Re
 ## Na Escritura
 
 O *Hitgalut* é o livro mais costurado ao [[Tanakh]] de toda a Berit Hadashah: quase cada cena retoma Daniel, Ezequiel, Isaías, Zacarias ou a Torá. Algumas passagens que a base usa:
-- [[Apocalipse 12.17]] e [[Apocalipse 14.12]]: o remanescente que guarda os mandamentos de D'us e tem o testemunho de Yeshua.
-- [[Apocalipse 13]]: a besta, a imagem que recebe fôlego e a [[Marca da Besta]].
+- Apocalipse 12.17 e [[Apocalipse 14.12]]: o remanescente que guarda os mandamentos de D'us e tem o testemunho de Yeshua.
+- Apocalipse 13: a besta, a imagem que recebe fôlego e a [[Marca da Besta]].
 - Apocalipse 5 e 11:15: o rolo de sete selos e a sétima trombeta.
-- [[Apocalipse 18.4]]: "sai dela, povo meu".
+- Apocalipse 18.4: "sai dela, povo meu".
 - [[Apocalipse 20.4]], [[Apocalipse 21.23]] e [[Apocalipse 22.14]]: a [[Primeira Ressurreição]], o Cordeiro como lâmpada e o direito à árvore da vida.
 
 ## Na visão da Beit Shalom
@@ -43,7 +43,7 @@ Pense numa obra coberta por um pano antes da inauguração. O *Hitgalut* é o mo
 
 ## Relacionados
 
-[[Yochanan HaShaliach]] · [[Apocalipse 14.12]] · [[Apocalipse 13]] · [[Marca da Besta]] · [[Babilônia]] · [[Primeira Ressurreição]] · [[Reino Messiânico]] · [[Olam Haba]] · [[Profeta Daniel]] · [[Profeta Ezequiel]] · [[Bessorá]]
+[[Yochanan HaShaliach]] · [[Apocalipse 14.12]] · Apocalipse 13 · [[Marca da Besta]] · [[Babilônia]] · [[Primeira Ressurreição]] · [[Reino Messiânico]] · [[Olam Haba]] · [[Profeta Daniel]] · [[Profeta Ezequiel]] · [[Bessorá]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

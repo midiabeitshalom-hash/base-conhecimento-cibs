@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O termo é posterior à Bíblia, mas a ideia está nela. "O seu entendimento é infinito", *ein mispar*, "não tem número" (*Salmo* 147:5); "os céus dos céus não te podem conter" (*1 Reis* 8:27); "ninguém verá a minha face e viverá" (*Êxodo* 33:20); D'us "habita em luz inacessível" (*1 Timóteo* 6:16); "ninguém jamais viu a D'us" (*João* 1:18). A confissão de que só há um D'us e não há outro, de [[Deuteronômio 6.4]] e [[1 Reis 8.60]], é a base de tudo o que se diz sobre ele.
+O termo é posterior à Bíblia, mas a ideia está nela. "O seu entendimento é infinito", *ein mispar*, "não tem número" (*Salmo* 147:5); "os céus dos céus não te podem conter" (*1 Reis* 8:27); "ninguém verá a minha face e viverá" (*Êxodo* 33:20); D'us "habita em luz inacessível" (*1 Timóteo* 6:16); "ninguém jamais viu a D'us" (*João* 1:18). A confissão de que só há um D'us e não há outro, de [[Deuteronômio 6.4]] e 1 Reis 8.60, é a base de tudo o que se diz sobre ele.
 
 ## Nas fontes judaicas
 
@@ -30,7 +30,7 @@ A base usa *Ein Sof* só no contexto da mística, para falar de D'us em sua ess�
 
 O ponto central é a diferença entre fonte e emissor. O *Ein Sof* é o Pai, a fonte da luz, invisível e inacessível aos mortais sem consumi-los. Yeshua é a lâmpada, o [[Kli]] que conduz a luz e a torna visível. "Quem me vê a mim vê o Pai" (João 14:9) fala de um transmissor límpido, e não de identidade de essência ([[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]; [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
 
-Daí uma consequência que a base repete: se o Messias é o *Bechor*, a primeira emanação e a imagem do D'us invisível ([[Colossenses 1.15]]), ele tem uma fonte que o gerou, e essa fonte é o *Ein Sof*. A leitura mística reforça o [[Monoteísmo Estrito]] em vez de enfraquecê-lo. O culto, a *Avodá*, vai só ao Criador; ao Messias cabem honra e reconhecimento como Rei ([[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]). No estudo sobre a Trindade, o *Ein Sof* aparece como "o D'us infinito e ilimitado", sem pessoas co-iguais ([[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]).
+Daí uma consequência que a base repete: se o Messias é o *Bechor*, a primeira emanação e a imagem do D'us invisível (Colossenses 1.15), ele tem uma fonte que o gerou, e essa fonte é o *Ein Sof*. A leitura mística reforça o [[Monoteísmo Estrito]] em vez de enfraquecê-lo. O culto, a *Avodá*, vai só ao Criador; ao Messias cabem honra e reconhecimento como Rei ([[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]). No estudo sobre a Trindade, o *Ein Sof* aparece como "o D'us infinito e ilimitado", sem pessoas co-iguais ([[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]).
 
 ## Leituras que a Beit Shalom corrige
 

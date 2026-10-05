@@ -20,9 +20,9 @@ A raiz é *K-F-R* (כ־פ־ר), cobrir ([[kb-a-maior-distorcao-da-fe-lei-contra-
 
 - **A primeira cobertura:** em [[Gênesis 3.21]] o próprio Criador faz túnicas de pele para Adão e Eva. Rav Yosef lê ali, no nível *Sod*, o início do princípio de que o inocente morre no lugar do culpado ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 - **O sangue:** "a vida da carne está no sangue, e eu vo-lo tenho dado sobre o altar para fazer expiação pelas vossas almas" (*Levítico* 17:11).
-- **O sistema sacrificial:** os [[Corbanot]] de [[Levítico 1|Levítico 1-7]], o *[[Asham]]*, oferta pela culpa, e o ritual anual de [[Yom Kippur]] em Levítico 16.
-- **O limite dos sacrifícios:** "obedecer é melhor do que sacrificar" ([[1 Samuel 15.22]]); "sacrifício e oferta não quiseste" ([[Salmo 40.6]]); "é impossível que o sangue de touros e bodes tire pecados" ([[Hebreus 10.4]]).
-- **A expiação messiânica:** o servo de [[Isaías 53.10]] dá a sua alma como *asham*, e [[Daniel 9.24]] anuncia o tempo de "expiar a iniquidade" (*ulechaper avon*).
+- **O sistema sacrificial:** os [[Corbanot]] de Levítico 1-7, o *[[Asham]]*, oferta pela culpa, e o ritual anual de [[Yom Kippur]] em Levítico 16.
+- **O limite dos sacrifícios:** "obedecer é melhor do que sacrificar" ([[1 Samuel 15.22]]); "sacrifício e oferta não quiseste" (Salmo 40.6); "é impossível que o sangue de touros e bodes tire pecados" (Hebreus 10.4).
+- **A expiação messiânica:** o servo de Isaías 53.10 dá a sua alma como *asham*, e [[Daniel 9.24]] anuncia o tempo de "expiar a iniquidade" (*ulechaper avon*).
 
 ## Nas fontes judaicas
 
@@ -46,7 +46,7 @@ Uma dívida que você não pode pagar é coberta por outro. O credor rasga a not
 
 ## Relacionados
 
-[[Corbanot]] · [[Asham]] · [[Yom Kippur]] · [[Mitat Tzaddikim Mechaperet]] · [[Teshuvá]] · [[Torá Cerimonial]] · [[Torá Moral]] · [[Kohen Gadol]] · [[Azazel]] · [[Graça]] · [[Gênesis 3.21]] · [[Isaías 53.10]] · [[Hebreus 10.4]]
+[[Corbanot]] · [[Asham]] · [[Yom Kippur]] · [[Mitat Tzaddikim Mechaperet]] · [[Teshuvá]] · [[Torá Cerimonial]] · [[Torá Moral]] · [[Kohen Gadol]] · [[Azazel]] · [[Graça]] · [[Gênesis 3.21]] · Isaías 53.10 · Hebreus 10.4
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

@@ -338,6 +338,10 @@ Outras passagens e conceitos ligados.
 
 Mínimo de ~100 palavras. Passagens centrais (as que sustentam teses da base) passam de 250.
 
+Só as passagens centrais têm nota (hoje, as 40 mais citadas, listadas no Índice Escrituras). As outras
+ficam em texto simples, sem wikilink (ex.: `Isaías 9.6`). Uma passagem ganha nota e link quando passar a
+sustentar uma tese ou for citada em 3 ou mais notas `kb-`.
+
 ## Notas de fonte (`WIKI/Fontes/<Obra>.md`)
 
 ```markdown

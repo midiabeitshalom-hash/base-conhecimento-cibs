@@ -24,7 +24,7 @@ A segunda é a tipologia. Sobre Gênesis 12:6, o Ramban formula o princípio *ma
 - Citado nos Fundamentos entre os comentaristas da base ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]; [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
 ## Relacionados
-[[Rashi]] · [[Corbanot]] · [[Kapará]] · [[Mitat Tzaddikim Mechaperet]] · [[Yosef HaTzaddik]] · [[Mashiach ben Yosef]] · [[Levítico 1]] · [[Sefarad]]
+[[Rashi]] · [[Corbanot]] · [[Kapará]] · [[Mitat Tzaddikim Mechaperet]] · [[Yosef HaTzaddik]] · [[Mashiach ben Yosef]] · Levítico 1 · [[Sefarad]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

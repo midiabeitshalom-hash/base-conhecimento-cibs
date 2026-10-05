@@ -21,9 +21,9 @@ A raiz *bet-sin-resh* (בשׂר) dá o verbo *basar*, levar notícia, e o *mevas
 - **Isaías 40:9:** "tu, que anuncias boas novas a Sião (*mevaseret Tzion*), sobe a um monte alto".
 - **Isaías 52:7:** "quão formosos sobre os montes são os pés do que anuncia boas novas (*mevaser*), que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação (*yeshuá*), que diz a Sião: o teu D'us reina". Sha'ul cita o verso em Romanos 10:15.
 - **Isaías 61:1-2:** o Ungido é enviado "para anunciar boas novas (*levaser*) aos mansos". Yeshua lê esse texto na sinagoga de Nazaré e para antes do "dia da vingança" (Lucas 4:16-21).
-- **[[Gênesis 12.3]] e Gálatas 3:8:** a Escritura "anunciou primeiro o evangelho a Abraão": em ti serão benditas todas as nações. A *Bessorá* começa na Torá.
+- **Gênesis 12.3 e Gálatas 3:8:** a Escritura "anunciou primeiro o evangelho a Abraão": em ti serão benditas todas as nações. A *Bessorá* começa na Torá.
 - **Marcos 1:14-15:** Yeshua proclama a *Bessorá* do Reino: "o tempo está cumprido, arrependei-vos".
-- **[[Apocalipse 14.6|Apocalipse 14.6-7]]:** o anjo com o "evangelho eterno": temer a D'us, dar-lhe glória e adorar o Criador.
+- **Apocalipse 14.6-7:** o anjo com o "evangelho eterno": temer a D'us, dar-lhe glória e adorar o Criador.
 
 ## Nas fontes judaicas
 
@@ -35,7 +35,7 @@ Os estudos definem a *Bessorá* de modo coerente: "o anúncio da salvação e da
 
 Daí três consequências:
 
-1. **A *Bessorá* não anula a Torá.** O chamado de [[Apocalipse 14.6]] é o resgate do evangelho autêntico, alinhando a vida aos estatutos da Torá pelo poder do [[Ruach HaKodesh]] ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]). Um evangelho que dispensa os mandamentos é outra mensagem.
+1. **A *Bessorá* não anula a Torá.** O chamado de Apocalipse 14.6 é o resgate do evangelho autêntico, alinhando a vida aos estatutos da Torá pelo poder do [[Ruach HaKodesh]] ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]). Um evangelho que dispensa os mandamentos é outra mensagem.
 2. **A *Bessorá* é sobre um Reino.** O conteúdo é o governo do Messias a partir de Sião, o [[Reino Messiânico]], e não só o destino individual da alma.
 3. **Os Evangelhos são livros judaicos.** O nome que a base usa para os relatos da vida de Yeshua, *Bessorá*, já devolve esses textos ao Tanakh de onde saem ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
@@ -49,7 +49,7 @@ Num tempo de guerra, um corredor chega à cidade gritando "vencemos!". A notíci
 
 ## Relacionados
 
-[[Tanakh]] · [[Torá]] · [[Berit Hadashah]] · [[Reino Messiânico]] · [[Teshuvá]] · [[Hitgalut]] · [[Shofar HaGadol]] · [[Apocalipse 14.6]] · [[Gênesis 12.3]] · [[Yeshua]]
+[[Tanakh]] · [[Torá]] · [[Berit Hadashah]] · [[Reino Messiânico]] · [[Teshuvá]] · [[Hitgalut]] · [[Shofar HaGadol]] · Apocalipse 14.6 · Gênesis 12.3 · [[Yeshua]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

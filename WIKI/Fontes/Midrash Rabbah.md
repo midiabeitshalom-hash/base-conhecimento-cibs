@@ -19,7 +19,7 @@ O Rav Yosef o usa ao lado do Talmud e do Zohar como testemunha da raiz judaica d
 ## Passagens citadas na base
 - ***Vayikra Rabbah 20:12*:** Rabi Chiyya bar Abba ensina que os filhos de Aarão morreram no primeiro de Nissã, mas sua morte é lembrada na leitura de Yom Kippur para ensinar que, assim como o Yom Kippur expia, a morte dos justos expia. Os justos são mais elevados que os anjos porque sua morte inocente expia pela geração ([[Mitat Tzaddikim Mechaperet]]) ([[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]]).
 - ***Shemot Rabá 5:9*:** a voz do Sinai se dividiu em 70 vozes e 70 línguas para que todas as nações ouvissem; é a tradição que o estudo de Shavuot lê junto com as línguas de Atos 2 ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
-- **As águas e o Trono da Glória:** a tradição de que as águas primordiais precederam a organização da terra e procedem do [[Kisse HaKavod]], o Trono da Glória, lida com [[Gênesis 1.2]], o Espírito pairando sobre as águas ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]).
+- **As águas e o Trono da Glória:** a tradição de que as águas primordiais precederam a organização da terra e procedem do [[Kisse HaKavod]], o Trono da Glória, lida com Gênesis 1.2, o Espírito pairando sobre as águas ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]).
 - As passagens de *Bereshit Rabá* estão na nota [[Bereshit Rabá]].
 
 ## Relacionados

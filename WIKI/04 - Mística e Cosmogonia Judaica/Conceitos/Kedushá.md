@@ -18,7 +18,7 @@ A raiz *K-D-Sh* (קדש) quer dizer separar, pôr à parte. *Kadosh* é o que fo
 
 ## Na Escritura
 
-"Santos sereis, porque eu, o Senhor vosso Deus, sou santo" (Levítico 19:2) é o centro da Torá de santidade. Os [[Seraphim]] de Isaías 6:3 clamam *Kadosh, Kadosh, Kadosh*, e a liturgia judaica repete esse clamor na oração que leva o próprio nome de *Kedushá*. Em [[Êxodo 19]] Israel é chamado de "nação santa", *goy kadosh*: um povo inteiro separado pela [[Torá]]. Na [[Berit Hadashah]], Pedro retoma Levítico ao dizer "sede santos, porque eu sou santo" (1 Pedro 1:16), sem nenhuma ruptura com a Torá.
+"Santos sereis, porque eu, o Senhor vosso Deus, sou santo" (Levítico 19:2) é o centro da Torá de santidade. Os [[Seraphim]] de Isaías 6:3 clamam *Kadosh, Kadosh, Kadosh*, e a liturgia judaica repete esse clamor na oração que leva o próprio nome de *Kedushá*. Em Êxodo 19 Israel é chamado de "nação santa", *goy kadosh*: um povo inteiro separado pela [[Torá]]. Na [[Berit Hadashah]], Pedro retoma Levítico ao dizer "sede santos, porque eu sou santo" (1 Pedro 1:16), sem nenhuma ruptura com a Torá.
 
 ## Nas fontes judaicas
 

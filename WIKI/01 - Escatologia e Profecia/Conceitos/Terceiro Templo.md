@@ -19,10 +19,10 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Ezequiel 40–48:** a visão detalhada de um santuário futuro, com as águas que saem do lado do altar.
-- **[[Daniel 9.27]]:** o príncipe que há de vir firma uma aliança por uma semana e, na metade dela, faz cessar o sacrifício e a oferta.
-- **[[Mateus 24.15]]:** a [[Abominação da Desolação]] "no lugar santo", sinal para fugir da Judeia.
-- **[[2 Tessalonicenses 2]] (versículo 4):** o homem da iniquidade se assenta no templo de D'us, apresentando-se como D'us.
-- **[[1 Tessalonicenses 5.3]]:** "quando disserem: Há paz e segurança, então lhes sobrevirá repentina destruição".
+- **Daniel 9.27:** o príncipe que há de vir firma uma aliança por uma semana e, na metade dela, faz cessar o sacrifício e a oferta.
+- **Mateus 24.15:** a [[Abominação da Desolação]] "no lugar santo", sinal para fugir da Judeia.
+- **2 Tessalonicenses 2 (versículo 4):** o homem da iniquidade se assenta no templo de D'us, apresentando-se como D'us.
+- **1 Tessalonicenses 5.3:** "quando disserem: Há paz e segurança, então lhes sobrevirá repentina destruição".
 
 ## Nas fontes judaicas
 
@@ -44,7 +44,7 @@ Um prédio novo no Monte do Templo pode vir junto com uma assinatura de paz e fo
 
 ## Relacionados
 
-[[Segundo Templo]] · [[Even HaShetiyah]] · [[Daniel 9.27]] · [[Abominação da Desolação]] · [[Mateus 24.15]] · [[2 Tessalonicenses 2]] · [[1 Tessalonicenses 5.3]] · [[Grande Tribulação]] · [[Kohen Gadol]] · [[Kapará]] · [[Yoma 39b]] · [[Zacarias 14]]
+[[Segundo Templo]] · [[Even HaShetiyah]] · Daniel 9.27 · [[Abominação da Desolação]] · Mateus 24.15 · 2 Tessalonicenses 2 · 1 Tessalonicenses 5.3 · [[Grande Tribulação]] · [[Kohen Gadol]] · [[Kapará]] · [[Yoma 39b]] · Zacarias 14
 
 ## Aparece em
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]

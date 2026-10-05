@@ -19,7 +19,7 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Êxodo 23:14-17 e 34:23:** três vezes por ano todo homem aparecerá diante do Senhor.
-- **[[Deuteronômio 16.16]]:** "Três vezes no ano todo varão aparecerá perante o Senhor teu Deus, no lugar que escolher… e não aparecerá vazio perante o Senhor". O versículo seguinte completa: cada um conforme o dom da sua mão.
+- **Deuteronômio 16.16:** "Três vezes no ano todo varão aparecerá perante o Senhor teu Deus, no lugar que escolher… e não aparecerá vazio perante o Senhor". O versículo seguinte completa: cada um conforme o dom da sua mão.
 - **Lucas 2:41-42:** os pais de Yeshua subiam todo ano a Jerusalém para Pessach, e aos doze anos ele foi com eles. Em João 2:13 e 7:10 ele sobe para Pessach e para Sucot.
 - **[[Atos 2]]:** havia judeus de todas as nações em Jerusalém porque Shavuot era festa de peregrinação, e foi esse público que ouviu os apóstolos.
 
@@ -39,7 +39,7 @@ Uma família que visita os pais na festa não chega sem nada na mão. Leva o que
 
 ## Relacionados
 
-[[Pessach]] · [[Shavuot]] · [[Sucot]] · [[Moedim]] · [[Yom Tov]] · [[Chol HaMoed]] · [[Deuteronômio 16.16]] · [[Levítico 23]] · [[Tzedaká]] · [[Parnasá]] · [[Zacarias 14]]
+[[Pessach]] · [[Shavuot]] · [[Sucot]] · [[Moedim]] · [[Yom Tov]] · [[Chol HaMoed]] · Deuteronômio 16.16 · [[Levítico 23]] · [[Tzedaká]] · [[Parnasá]] · Zacarias 14
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]

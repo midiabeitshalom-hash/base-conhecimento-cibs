@@ -20,9 +20,9 @@ A palavra costuma ser ligada à raiz *sh-'-l* (שׁאל), "pedir", "reclamar": o
 
 - **1 Samuel 2:6:** "O Senhor é o que tira a vida e a dá; faz descer ao Sheol e faz tornar a subir dele".
 - **Salmo 16:10:** "Pois não deixarás a minha alma no Sheol, nem permitirás que o teu Santo veja corrupção". Pedro o aplica à ressurreição do Messias em [[Atos 2]] (versículos 27 a 31), e Sha'ul em Atos 13:35.
-- **Jonas 2:2:** do ventre do peixe, Jonas clama "do ventre do Sheol". É a moldura do [[Sinal de Jonas]] ([[Jonas 1.17]]; [[Mateus 12.40]]).
-- **Oseias 13:14:** "Eu os remirei do poder do Sheol", que Sha'ul retoma em [[1 Coríntios 15]] (versículo 55).
-- **[[Daniel 12]] (versículo 2):** "muitos dos que dormem no pó da terra ressuscitarão".
+- **Jonas 2:2:** do ventre do peixe, Jonas clama "do ventre do Sheol". É a moldura do [[Sinal de Jonas]] (Jonas 1.17; [[Mateus 12.40]]).
+- **Oseias 13:14:** "Eu os remirei do poder do Sheol", que Sha'ul retoma em 1 Coríntios 15 (versículo 55).
+- **Daniel 12 (versículo 2):** "muitos dos que dormem no pó da terra ressuscitarão".
 
 ## Nas fontes judaicas
 
@@ -30,7 +30,7 @@ A Mishná põe a crença na ressurreição como fundamento: quem nega que a ress
 
 ## Na visão da Beit Shalom
 
-No estudo sobre o tempo do Messias, o Sheol aparece no [[Salmo 22.1|Salmo 22]] e no Salmo 16:10, entre as profecias do Messias transpassado cuja alma não ficaria na sepultura e cujo corpo não veria corrupção ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). A base liga isso ao calendário: na leitura de Rav Yosef, [[Chag HaMatzot]], o pão sem fermento, corresponde ao sepultamento sem corrupção, e Yeshua saiu do túmulo depois de exatos três dias e três noites, como Jonas saiu do "ventre do Sheol".
+No estudo sobre o tempo do Messias, o Sheol aparece no Salmo 22 e no Salmo 16:10, entre as profecias do Messias transpassado cuja alma não ficaria na sepultura e cujo corpo não veria corrupção ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). A base liga isso ao calendário: na leitura de Rav Yosef, [[Chag HaMatzot]], o pão sem fermento, corresponde ao sepultamento sem corrupção, e Yeshua saiu do túmulo depois de exatos três dias e três noites, como Jonas saiu do "ventre do Sheol".
 
 A esperança que a base ensina diante do Sheol é concreta: a ressurreição do corpo, a [[Primeira Ressurreição]] dos fiéis depois da tribulação ([[Apocalipse 20.4]]) e o Reino na terra.
 
@@ -44,7 +44,7 @@ O Sheol é como uma prisão que nunca devolveu ninguém. Quando Yeshua saiu de l
 
 ## Relacionados
 
-[[Sinal de Jonas]] · [[Jonas 1.17]] · [[Mateus 12.40]] · [[Daniel 12]] · [[1 Coríntios 15]] · [[Primeira Ressurreição]] · [[Chag HaMatzot]] · [[Saduceus]] · [[Olam Haba]] · [[Tehom]] · [[Septuaginta]]
+[[Sinal de Jonas]] · Jonas 1.17 · [[Mateus 12.40]] · Daniel 12 · 1 Coríntios 15 · [[Primeira Ressurreição]] · [[Chag HaMatzot]] · [[Saduceus]] · [[Olam Haba]] · [[Tehom]] · [[Septuaginta]]
 
 ## Aparece em
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]

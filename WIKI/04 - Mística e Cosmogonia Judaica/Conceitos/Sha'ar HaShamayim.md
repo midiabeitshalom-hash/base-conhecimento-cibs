@@ -19,7 +19,7 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Gênesis 28:12-17:** a escada fincada na terra com o topo no céu, os anjos subindo e descendo, D'us no alto renovando a promessa a [[Ya'akov Avinu]].
-- **[[João 1|João 1.51]]:** Yeshua diz a Natanael que ele verá "o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem". Ele aplica a si a escada de Jacó.
+- **João 1.51:** Yeshua diz a Natanael que ele verá "o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem". Ele aplica a si a escada de Jacó.
 - **Salmo 24:7-9:** "levantai, ó portas, as vossas cabeças, e entrará o Rei da glória".
 
 ## Nas fontes judaicas
@@ -38,7 +38,7 @@ Todo prédio tem uma portaria, e todo elevador sobe a partir de um ponto. Jacó 
 
 ## Relacionados
 
-[[Sulam Ya'akov]] · [[Even HaShetiyah]] · [[Ya'akov Avinu]] · [[Adam Kadmon]] · [[Ben Adam]] · [[Malchut]] · [[Tiferet]] · [[Sefirot]] · [[Arba'ah Olamot]] · [[Kisse HaKavod]] · [[Terceiro Templo]] · [[João 1]]
+[[Sulam Ya'akov]] · [[Even HaShetiyah]] · [[Ya'akov Avinu]] · [[Adam Kadmon]] · [[Ben Adam]] · [[Malchut]] · [[Tiferet]] · [[Sefirot]] · [[Arba'ah Olamot]] · [[Kisse HaKavod]] · [[Terceiro Templo]] · João 1
 
 ## Aparece em
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]

@@ -18,16 +18,16 @@ O Midrash aproxima *shofar* da raiz *sh-f-r*, "melhorar", "embelezar": "melhorai
 
 ## Na Escritura
 
-- **[[Êxodo 19]] (versículos 16 e 19):** no [[Har Sinai]] "o sonido do shofar ia aumentando muito", e Moisés falava enquanto D'us respondia.
-- **[[Levítico 25.9]]:** o shofar soa no [[Yom Kippur]] do quinquagésimo ano para proclamar o [[Yovel]], a liberdade na terra.
+- **Êxodo 19 (versículos 16 e 19):** no [[Har Sinai]] "o sonido do shofar ia aumentando muito", e Moisés falava enquanto D'us respondia.
+- **Levítico 25.9:** o shofar soa no [[Yom Kippur]] do quinquagésimo ano para proclamar o [[Yovel]], a liberdade na terra.
 - **Josué 6:** os shofarot dos sacerdotes derrubam as muralhas de Jericó.
 - **Isaías 27:13 e Zacarias 9:14:** o grande shofar reúne os perdidos, e o próprio D'us toca o shofar.
-- **[[Mateus 24.29|Mateus 24.29-31]]:** "logo depois da aflição daqueles dias", o Filho do Homem envia os anjos "com grande som de trombeta" para reunir os escolhidos.
-- **[[1 Coríntios 15.51|1 Coríntios 15.51-52]] e [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]:** a "última trombeta" e a "trombeta de Deus", quando os mortos ressuscitam primeiro.
+- **Mateus 24.29-31:** "logo depois da aflição daqueles dias", o Filho do Homem envia os anjos "com grande som de trombeta" para reunir os escolhidos.
+- **1 Coríntios 15.51-52 e [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]:** a "última trombeta" e a "trombeta de Deus", quando os mortos ressuscitam primeiro.
 
 ## Nas fontes judaicas
 
-O Talmud explica por que se usa o chifre de carneiro: "Tocai diante de mim com o shofar de carneiro, para que eu me lembre por vós da *Akedá* de Isaque, filho de Abraão" (*Rosh Hashaná* 16a), lembrando o carneiro preso pelos chifres em [[Gênesis 22]]. O chifre de vaca é excluído para não lembrar o bezerro de ouro (*Rosh Hashaná* 26a). Rambam lê o toque como um grito à consciência: "despertai, adormecidos, do vosso sono" (*Hilchot Teshuvá* 3:4).
+O Talmud explica por que se usa o chifre de carneiro: "Tocai diante de mim com o shofar de carneiro, para que eu me lembre por vós da *Akedá* de Isaque, filho de Abraão" (*Rosh Hashaná* 16a), lembrando o carneiro preso pelos chifres em Gênesis 22. O chifre de vaca é excluído para não lembrar o bezerro de ouro (*Rosh Hashaná* 26a). Rambam lê o toque como um grito à consciência: "despertai, adormecidos, do vosso sono" (*Hilchot Teshuvá* 3:4).
 
 ## Na visão da Beit Shalom
 
@@ -45,7 +45,7 @@ O shofar não é música de fundo: é alarme. No Sinai ele anunciou a Torá, no 
 
 ## Relacionados
 
-[[Shofar HaGadol]] · [[Yom Teruá]] · [[Yovel]] · [[Levítico 25.9]] · [[Yom Kippur]] · [[Har Sinai]] · [[Gênesis 22]] · [[Mateus 24.29]] · [[1 Coríntios 15.51]] · [[1 Tessalonicenses 4.15]] · [[Arrebatamento]] · [[Primeira Ressurreição]] · [[Moedim]] · [[Teshuvá]]
+[[Shofar HaGadol]] · [[Yom Teruá]] · [[Yovel]] · Levítico 25.9 · [[Yom Kippur]] · [[Har Sinai]] · Gênesis 22 · Mateus 24.29 · 1 Coríntios 15.51 · [[1 Tessalonicenses 4.15]] · [[Arrebatamento]] · [[Primeira Ressurreição]] · [[Moedim]] · [[Teshuvá]]
 
 ## Aparece em
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]

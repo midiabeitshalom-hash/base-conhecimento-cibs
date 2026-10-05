@@ -18,9 +18,9 @@ date_captured: 2026-10-05
 
 O livro percorre do juízo de Judá à consolação e à nova criação. Algumas passagens que a base usa:
 - Isaías 6:1-3: a visão do trono, com os [[Seraphim]] clamando "Santo, Santo, Santo".
-- [[Isaías 11.1|Isaías 11.1-2]] e [[Isaías 42.1]]: o renovo de Jessé e o servo sobre quem repousa o Espírito de D'us.
-- [[Isaías 43.10]], [[Isaías 44.6]] e [[Isaías 45|Isaías 45.5-6, 18, 21-22]]: os textos mais fortes do monoteísmo hebraico.
-- [[Isaías 53]] e [[Isaías 53.10]]: o servo ferido pelas transgressões do povo, que dá a vida como *asham*.
+- Isaías 11.1-2 e Isaías 42.1: o renovo de Jessé e o servo sobre quem repousa o Espírito de D'us.
+- Isaías 43.10, Isaías 44.6 e Isaías 45.5-6, 18, 21-22: os textos mais fortes do monoteísmo hebraico.
+- Isaías 53 e Isaías 53.10: o servo ferido pelas transgressões do povo, que dá a vida como *asham*.
 - Isaías 61:1-2: o texto que Yeshua lê na sinagoga de Nazaré, parando antes do "dia da vingança".
 - Isaías 2:3, 65 e 66: "de Sião sairá a Torá", o juízo sobre quem come porco e a adoração "de Shabat em Shabat" nos novos céus e nova terra.
 
@@ -40,7 +40,7 @@ E o servo de Isaías 42 e 53 é o fundamento do [[Mashiach ben Yosef]]: o justo 
 
 ## Relacionados
 
-[[Isaías 53]] · [[Isaías 11.1]] · [[Isaías 42.1]] · [[Isaías 43.10]] · [[Isaías 45]] · [[Chizkiyahu HaMelech]] · [[Menashe]] · [[Seraphim]] · [[Kisse HaKavod]] · [[Mashiach ben Yosef]] · [[Kashrut]] · [[Ki MiTzion Teitzei Torá]] · [[Profeta Jeremias]] · [[Profeta Ezequiel]] · [[Nevi'im]]
+Isaías 53 · Isaías 11.1 · Isaías 42.1 · Isaías 43.10 · Isaías 45 · [[Chizkiyahu HaMelech]] · [[Menashe]] · [[Seraphim]] · [[Kisse HaKavod]] · [[Mashiach ben Yosef]] · [[Kashrut]] · [[Ki MiTzion Teitzei Torá]] · [[Profeta Jeremias]] · [[Profeta Ezequiel]] · [[Nevi'im]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

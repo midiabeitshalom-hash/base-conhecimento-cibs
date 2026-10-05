@@ -22,12 +22,12 @@ A conta da guematria:
 
 ## Na Escritura
 
-- **[[Gênesis 3]]:** a serpente, "mais astuta que todos os animais do campo", engana a mulher; a morte entra pela boca.
-- **[[Gênesis 3.15]]:** a semente da mulher ferirá a cabeça da serpente, e a serpente lhe ferirá o calcanhar.
+- **Gênesis 3:** a serpente, "mais astuta que todos os animais do campo", engana a mulher; a morte entra pela boca.
+- **Gênesis 3.15:** a semente da mulher ferirá a cabeça da serpente, e a serpente lhe ferirá o calcanhar.
 - **Números 21:4-9:** serpentes ardentes atacam o povo; quem olha para a serpente de bronze erguida na haste vive.
 - **2 Reis 18:4:** a mesma serpente, cultuada com incenso, é despedaçada por Ezequias como [[Nechushtan]].
 - **Isaías 27:1:** no fim, D'us castiga o Leviatã, "a serpente veloz, a serpente tortuosa".
-- **[[João 3|João 3.14-15]]:** "como Moisés levantou a serpente no deserto, assim importa que o Filho do Homem seja levantado".
+- **João 3.14-15:** "como Moisés levantou a serpente no deserto, assim importa que o Filho do Homem seja levantado".
 - **Apocalipse 12:9 e 20:2:** "a antiga serpente, que se chama diabo e Satanás".
 
 ## Nas fontes judaicas
@@ -55,7 +55,7 @@ Quem é picado por uma cobra no Brasil recebe soro feito do veneno daquela mesma
 
 ## Relacionados
 
-[[Mashiach]] · [[Nechushtan]] · [[Guematria]] · [[Gênesis 3]] · [[Gênesis 3.15]] · [[João 3]] · [[Mitat Tzaddikim Mechaperet]] · [[Chizkiyahu HaMelech]] · [[Avodah Zarah]] · [[Yetzer HaRá]] · [[Sod]]
+[[Mashiach]] · [[Nechushtan]] · [[Guematria]] · Gênesis 3 · Gênesis 3.15 · João 3 · [[Mitat Tzaddikim Mechaperet]] · [[Chizkiyahu HaMelech]] · [[Avodah Zarah]] · [[Yetzer HaRá]] · [[Sod]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

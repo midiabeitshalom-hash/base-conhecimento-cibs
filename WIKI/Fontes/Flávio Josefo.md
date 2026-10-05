@@ -24,7 +24,7 @@ Josefo é a testemunha ocular da destruição do [[Segundo Templo]] e o principa
 - Listado nos Fundamentos entre os historiadores da base ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 ## Relacionados
-[[Segundo Templo]] · [[Yoma 39b]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Zelotes]] · [[Manuscritos do Mar Morto]] · [[Mateus 24.1]] · [[Ya'akov HaTzaddik]]
+[[Segundo Templo]] · [[Yoma 39b]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Zelotes]] · [[Manuscritos do Mar Morto]] · Mateus 24.1 · [[Ya'akov HaTzaddik]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

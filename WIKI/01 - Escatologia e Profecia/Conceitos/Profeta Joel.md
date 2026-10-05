@@ -20,13 +20,13 @@ O nome junta dois nomes de D'us: *Yo*, de *YHVH*, e *El*. Quer dizer "YHVH é De
 - **Joel 2:1:** "tocai o shofar em Sião"; o Dia de Adonai está perto.
 - **Joel 2:12-13:** "convertei-vos a mim de todo o vosso coração (...) rasgai o vosso coração, e não as vossas vestes".
 - **Joel 2:15-16:** jejum solene, assembleia santa, o [[Shofar]] tocado de novo.
-- **[[Joel 2.28|Joel 2.28-32]]** (3:1-5 no hebraico): "derramarei o meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão (...) antes que venha o grande e terrível dia do Senhor".
+- **Joel 2.28-32** (3:1-5 no hebraico): "derramarei o meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão (...) antes que venha o grande e terrível dia do Senhor".
 - **Joel 3** (4 no hebraico): as nações reunidas no vale de Josafá para o juízo.
 - **[[Atos 2|Atos 2.16-21]]:** [[Shimon Kefa]] cita Joel em [[Shavuot]]: "isto é o que foi dito pelo profeta Joel".
 
 ## Na tradição judaica
 
-A sinagoga lê Joel 2:15-27, junto com Oseias 14, como *haftará* do Shabat entre [[Yom Teruá]] e [[Yom Kippur]], o Shabat do retorno. O Midrash liga a promessa de Joel ao desejo de Moisés em Números 11:29, "tomara que todo o povo do Senhor fosse profeta": neste mundo profetizaram poucos, no mundo vindouro todo Israel será profeta (*Bamidbar Rabá 15:25*). É o mesmo texto em que o Espírito de Moisés é repartido entre os [[70 Anciãos]] ([[Números 11.17]]).
+A sinagoga lê Joel 2:15-27, junto com Oseias 14, como *haftará* do Shabat entre [[Yom Teruá]] e [[Yom Kippur]], o Shabat do retorno. O Midrash liga a promessa de Joel ao desejo de Moisés em Números 11:29, "tomara que todo o povo do Senhor fosse profeta": neste mundo profetizaram poucos, no mundo vindouro todo Israel será profeta (*Bamidbar Rabá 15:25*). É o mesmo texto em que o Espírito de Moisés é repartido entre os [[70 Anciãos]] (Números 11.17).
 
 ## Na leitura da Beit Shalom
 
@@ -34,7 +34,7 @@ A base usa Joel em duas frentes. Em [[kb-pentecostes-nunca-foi-o-que-te-ensinara
 
 ## Relacionados
 
-[[Joel 2.28]] · [[Shavuot]] · [[Atos 2]] · [[Shimon Kefa]] · [[Ruach HaKodesh]] · [[Yom Teruá]] · [[Yom Kippur]] · [[Shofar]] · [[Teshuvá]] · [[Números 11.17]] · [[70 Anciãos]] · [[Profeta Isaías]] · [[Profeta Zacarias]] · [[Profeta Oseias]]
+Joel 2.28 · [[Shavuot]] · [[Atos 2]] · [[Shimon Kefa]] · [[Ruach HaKodesh]] · [[Yom Teruá]] · [[Yom Kippur]] · [[Shofar]] · [[Teshuvá]] · Números 11.17 · [[70 Anciãos]] · [[Profeta Isaías]] · [[Profeta Zacarias]] · [[Profeta Oseias]]
 
 ## Aparece em
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]

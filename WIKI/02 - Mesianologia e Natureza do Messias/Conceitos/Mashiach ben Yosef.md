@@ -18,12 +18,12 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **José.** A inveja e a venda ([[Gênesis 37]]); o nome egípcio [[Zafenate-Paneia]] e as roupas de linho ([[Gênesis 41.45]]); os irmãos que se prostram sem reconhecê-lo ([[Gênesis 42.6]]); a revelação a sós, *Ani Yosef*, "eu sou José" ([[Gênesis 45.1]]; [[Ani Yosef]]).
-- **O servo ferido.** "Ele foi ferido pelas nossas transgressões... quando der a sua alma como oferta pela culpa" ([[Isaías 53]]; [[Isaías 53.10]]), o *[[Asham]]*.
-- **O rei humilde.** "Eis que o teu rei vem a ti, justo e salvador, pobre e montado num jumento" ([[Zacarias 9.9]]).
-- **O traspassado.** "Olharão para mim, a quem traspassaram, e o prantearão" ([[Zacarias 12.10]]).
+- **José.** A inveja e a venda (Gênesis 37); o nome egípcio [[Zafenate-Paneia]] e as roupas de linho (Gênesis 41.45); os irmãos que se prostram sem reconhecê-lo (Gênesis 42.6); a revelação a sós, *Ani Yosef*, "eu sou José" (Gênesis 45.1; [[Ani Yosef]]).
+- **O servo ferido.** "Ele foi ferido pelas nossas transgressões... quando der a sua alma como oferta pela culpa" (Isaías 53; Isaías 53.10), o *[[Asham]]*.
+- **O rei humilde.** "Eis que o teu rei vem a ti, justo e salvador, pobre e montado num jumento" (Zacarias 9.9).
+- **O traspassado.** "Olharão para mim, a quem traspassaram, e o prantearão" (Zacarias 12.10).
 - **O Messias cortado.** "Depois das sessenta e duas semanas será cortado o Messias" ([[Daniel 9.24|Daniel 9.24-26]]).
-- **Na Berit Hadashah.** "Convém que o Filho do Homem padeça muito e seja rejeitado pelos anciãos" ([[Marcos 8.31]]).
+- **Na Berit Hadashah.** "Convém que o Filho do Homem padeça muito e seja rejeitado pelos anciãos" (Marcos 8.31).
 
 ## Nas fontes judaicas
 
@@ -33,7 +33,7 @@ O [[Talmud Bavli]], em *Sukkah 52a*, lê Zacarias 12:10 como o pranto por *Mashi
 
 **As duas manifestações.** As profecias mostram um Messias que sofre e um que reina. *Ben Yosef* é o servo rejeitado que expia; *Ben David*, o rei que governa a partir de Jerusalém. Yeshua cumpriu a primeira face na primeira vinda e cumprirá a segunda no retorno ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]; [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). Rav Yosef acrescenta a tese das duas opções: se Israel tivesse aceitado o convite de [[Teshuvá]] nacional, Yeshua poderia ter se manifestado logo como *Ben David*; com a rejeição das lideranças, ativou-se o plano de *Ben Yosef*, que estendeu a salvação às nações ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]).
 
-**O paralelo em cinco etapas.** José e Yeshua seguem o mesmo roteiro: eleição e inveja; venda e sangue (a túnica no sangue do cabrito, as moedas de prata e a entrega a Roma); descaracterização gentílica (Zafenate-Paneia, "Jesus"); cegueira familiar (os irmãos compram trigo e se prostram sem saber quem é o governador; os judeus olham para o "Jesus" ocidental e o rejeitam como ídolo estrangeiro); e revelação final em segredo, depois que todos os egípcios saem da sala ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]). Nenhum egípcio contou aos irmãos quem era José. Do mesmo modo, a conversão de Israel não virá por cruzadas nem por evangelização ocidentalizada: o próprio Yeshua se revelará, no tempo de [[Et Tzarah l'Yaakov]], a angústia de Jacó ([[Jeremias 30.7]]).
+**O paralelo em cinco etapas.** José e Yeshua seguem o mesmo roteiro: eleição e inveja; venda e sangue (a túnica no sangue do cabrito, as moedas de prata e a entrega a Roma); descaracterização gentílica (Zafenate-Paneia, "Jesus"); cegueira familiar (os irmãos compram trigo e se prostram sem saber quem é o governador; os judeus olham para o "Jesus" ocidental e o rejeitam como ídolo estrangeiro); e revelação final em segredo, depois que todos os egípcios saem da sala ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]). Nenhum egípcio contou aos irmãos quem era José. Do mesmo modo, a conversão de Israel não virá por cruzadas nem por evangelização ocidentalizada: o próprio Yeshua se revelará, no tempo de [[Et Tzarah l'Yaakov]], a angústia de Jacó (Jeremias 30.7).
 
 **A azeitona na prensa.** *Mashiach* lembra o azeite, que só sai do fruto esmagado. *Ben Yosef* é o Messias esmagado que oferece a vida como *asham* e entra em Sião montado num jumentinho ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). Sua morte opera pelo princípio de [[Mitat Tzaddikim Mechaperet]], a morte do justo que expia ([[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]]).
 
@@ -55,7 +55,7 @@ Os irmãos de José se ajoelharam diante dele e não o reconheceram: ele falava 
 
 ## Relacionados
 
-[[Mashiach ben David]] · [[Mashiach]] · [[Yeshua]] · [[Yosef HaTzaddik]] · [[Zafenate-Paneia]] · [[Ani Yosef]] · [[Isaías 53]] · [[Zacarias 9.9]] · [[Zacarias 12.10]] · [[Mitat Tzaddikim Mechaperet]] · [[Asham]] · [[Et Tzarah l'Yaakov]] · [[Efraim]] · [[Goel]] · [[Mashiach Nagid]]
+[[Mashiach ben David]] · [[Mashiach]] · [[Yeshua]] · [[Yosef HaTzaddik]] · [[Zafenate-Paneia]] · [[Ani Yosef]] · Isaías 53 · Zacarias 9.9 · Zacarias 12.10 · [[Mitat Tzaddikim Mechaperet]] · [[Asham]] · [[Et Tzarah l'Yaakov]] · [[Efraim]] · [[Goel]] · [[Mashiach Nagid]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

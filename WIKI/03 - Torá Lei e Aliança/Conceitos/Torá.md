@@ -20,11 +20,11 @@ Dentro da Torá o hebraico distingue tipos de instrução: *mitzvot*, mandamento
 
 ## Na Escritura
 
-- **Antes do Sinai.** O mandamento do Éden já tem a forma positiva e a proibitiva ([[Gênesis 2.16|Gênesis 2.16-17]]); Caim e Abel ofertam segundo regras conhecidas ([[Gênesis 4]]); Abraão guarda *Torotai*, *Mitzvotai*, *Chukotai* e *Mishpatai*, "minhas instruções, meus mandamentos, meus estatutos e meus juízos", quatro séculos antes de Moisés ([[Gênesis 26.5]]).
-- **No Sinai.** A Torá é proclamada em [[Êxodo 20]] e ratificada com sangue em [[Êxodo 24]]. O "lembra-te do dia do Shabat" ([[Êxodo 20.8]]) mostra que o Sinai codificou algo que já existia ([[Zachor e Shamor]]).
-- **Nos Salmos.** "A Torá do Senhor é perfeita e restaura a alma" ([[Salmo 19.7]]); "a tua Torá é a verdade" ([[Salmo 119.142]]); "lâmpada para os meus pés é a tua palavra" ([[Salmo 119.105]]).
-- **Nos Profetas.** A Nova Aliança escreve a mesma Torá no coração ([[Jeremias 31.33]]); no Reino, "de Sião sairá a Torá" (Isaías 2:3, [[Ki MiTzion Teitzei Torá]]).
-- **Na Berit Hadashah.** Yeshua veio cumprir, *le'malei*, e não revogar ([[Mateus 5.17|Mateus 5.17-19]]); Sha'ul diz que a fé confirma a Torá ([[Romanos 3.31]]) e que ela é "santa, justa e boa" ([[Romanos 7.12]]); pecado é *anomia*, transgressão da Torá ([[1 João 3.4]]).
+- **Antes do Sinai.** O mandamento do Éden já tem a forma positiva e a proibitiva ([[Gênesis 2.16|Gênesis 2.16-17]]); Caim e Abel ofertam segundo regras conhecidas (Gênesis 4); Abraão guarda *Torotai*, *Mitzvotai*, *Chukotai* e *Mishpatai*, "minhas instruções, meus mandamentos, meus estatutos e meus juízos", quatro séculos antes de Moisés (Gênesis 26.5).
+- **No Sinai.** A Torá é proclamada em [[Êxodo 20]] e ratificada com sangue em Êxodo 24. O "lembra-te do dia do Shabat" (Êxodo 20.8) mostra que o Sinai codificou algo que já existia ([[Zachor e Shamor]]).
+- **Nos Salmos.** "A Torá do Senhor é perfeita e restaura a alma" ([[Salmo 19.7]]); "a tua Torá é a verdade" (Salmo 119.142); "lâmpada para os meus pés é a tua palavra" (Salmo 119.105).
+- **Nos Profetas.** A Nova Aliança escreve a mesma Torá no coração (Jeremias 31.33); no Reino, "de Sião sairá a Torá" (Isaías 2:3, [[Ki MiTzion Teitzei Torá]]).
+- **Na Berit Hadashah.** Yeshua veio cumprir, *le'malei*, e não revogar ([[Mateus 5.17|Mateus 5.17-19]]); Sha'ul diz que a fé confirma a Torá ([[Romanos 3.31]]) e que ela é "santa, justa e boa" (Romanos 7.12); pecado é *anomia*, transgressão da Torá ([[1 João 3.4]]).
 
 ## Nas fontes judaicas
 
@@ -32,7 +32,7 @@ O [[Midrash]] trata a Torá como a planta da criação. Em [[Bereshit Rabá]] 1:
 
 ## Na visão da Beit Shalom
 
-**A Torá é eterna e precede o Sinai.** Ela é a própria mente moral de D'us, o "fiel da balança" da criação, gravada na consciência de Adão no Éden. No Sinai foi codificada por escrito para uma nação, não criada ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). Mais fundo, ela é o [[Davar]], o código pelo qual D'us estruturou e sustenta a realidade, desde o [[Alef-Tav]] de [[Gênesis 1.1]] ([[Salmo 33.6]]; [[Hebreus 1.3]]). Rav Yosef descreve a história em três fases: a Torá estrutural da criação, interiorizada em Adão; a Torá pedagógica do Sinai, com os sacrifícios depois do "vírus" do pecado; e a Torá internalizada da Nova Aliança, gravada no coração ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]).
+**A Torá é eterna e precede o Sinai.** Ela é a própria mente moral de D'us, o "fiel da balança" da criação, gravada na consciência de Adão no Éden. No Sinai foi codificada por escrito para uma nação, não criada ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). Mais fundo, ela é o [[Davar]], o código pelo qual D'us estruturou e sustenta a realidade, desde o [[Alef-Tav]] de [[Gênesis 1.1]] (Salmo 33.6; Hebreus 1.3). Rav Yosef descreve a história em três fases: a Torá estrutural da criação, interiorizada em Adão; a Torá pedagógica do Sinai, com os sacrifícios depois do "vírus" do pecado; e a Torá internalizada da Nova Aliança, gravada no coração ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]).
 
 **A Torá tem funções.** A base divide a Torá em moral, cerimonial ou sacrificial, sacerdotal e civil. A [[Torá Moral]] é eterna e universal. A [[Torá Cerimonial]] dos [[Corbanot]] entrou depois da queda como pedagogia e foi encerrada no sacrifício de Yeshua; o sacerdócio passou à ordem de [[Malki-Tzedek]]; as normas civis se aplicam sob juízes e lideranças ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]; [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]).
 

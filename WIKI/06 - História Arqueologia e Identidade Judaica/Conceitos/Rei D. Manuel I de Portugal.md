@@ -17,7 +17,7 @@ Herdou um reino com uma grande população judaica. Em 1492 seu antecessor, D. J
 
 ## Na Escritura
 
-[[Deuteronômio 4]] descreve o povo espalhado entre as nações, servindo a deuses que não veem nem ouvem, e promete que dali buscarão a D'us e o acharão. Obadias 1:20 chama a península de Sefarad.
+Deuteronômio 4 descreve o povo espalhado entre as nações, servindo a deuses que não veem nem ouvem, e promete que dali buscarão a D'us e o acharão. Obadias 1:20 chama a península de Sefarad.
 
 ## Na tradição judaica
 

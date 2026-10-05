@@ -18,7 +18,7 @@ A palavra é do hebraico dos sábios. Vem de *parnes*, sustentar, prover, e é p
 
 ## Na Escritura
 
-A Torá ensina de onde vem o sustento: "lembra-te do Senhor teu D'us, porque é ele que te dá força para adquirir riquezas" (Deuteronômio 8:18). O maná caía na medida de cada dia, e na sexta-feira em porção dobrada para que o [[Shabat]] fosse guardado (Êxodo 16:4-5, 22-26). O salmista diz que D'us abre a mão "e satisfaz de benevolência a todo ser vivente" (Salmo 145:16). Yeshua ensina a pedir "o pão nosso de cada dia" (Mateus 6:11), e nas festas de peregrinação a Torá manda que ninguém apareça diante de D'us "de mãos vazias" ([[Deuteronômio 16.16]]).
+A Torá ensina de onde vem o sustento: "lembra-te do Senhor teu D'us, porque é ele que te dá força para adquirir riquezas" (Deuteronômio 8:18). O maná caía na medida de cada dia, e na sexta-feira em porção dobrada para que o [[Shabat]] fosse guardado (Êxodo 16:4-5, 22-26). O salmista diz que D'us abre a mão "e satisfaz de benevolência a todo ser vivente" (Salmo 145:16). Yeshua ensina a pedir "o pão nosso de cada dia" (Mateus 6:11), e nas festas de peregrinação a Torá manda que ninguém apareça diante de D'us "de mãos vazias" (Deuteronômio 16.16).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ O maná não podia ser estocado: o que sobrava apodrecia, menos na sexta-feira. 
 
 ## Relacionados
 
-[[Tzedaká]] · [[Shalosh Regalim]] · [[Deuteronômio 16.16]] · [[Pessach]] · [[Shavuot]] · [[Sucot]] · [[Moedim]] · [[Shabat]] · [[Kavanah]] · [[Birur]] · [[Kelipat Nogah]]
+[[Tzedaká]] · [[Shalosh Regalim]] · Deuteronômio 16.16 · [[Pessach]] · [[Shavuot]] · [[Sucot]] · [[Moedim]] · [[Shabat]] · [[Kavanah]] · [[Birur]] · [[Kelipat Nogah]]
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]

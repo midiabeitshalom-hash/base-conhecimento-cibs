@@ -17,7 +17,7 @@ Numa explosão nuclear na atmosfera, cerca de 35% da energia sai como radiação
 
 ## Na Escritura
 
-[[Zacarias 14.12]]: "esta será a praga com que o Senhor ferirá todos os povos que guerrearam contra Jerusalém: a sua carne apodrecerá, estando eles de pé, e se lhes apodrecerão os olhos nas suas órbitas, e a língua se lhes apodrecerá na sua boca". O verbo é *makak* (מקק), derreter, desfazer-se, consumir-se: *hamek besaro vehu omed al raglav*, "a sua carne se desfaz, e ele de pé". A cena acontece no contexto da guerra das nações contra Jerusalém ([[Zacarias 12.3]]; [[Zacarias 14]]). Em [[2 Pedro 3.10]], os elementos, os *[[Stoicheia]]*, "ardendo se desfarão".
+[[Zacarias 14.12]]: "esta será a praga com que o Senhor ferirá todos os povos que guerrearam contra Jerusalém: a sua carne apodrecerá, estando eles de pé, e se lhes apodrecerão os olhos nas suas órbitas, e a língua se lhes apodrecerá na sua boca". O verbo é *makak* (מקק), derreter, desfazer-se, consumir-se: *hamek besaro vehu omed al raglav*, "a sua carne se desfaz, e ele de pé". A cena acontece no contexto da guerra das nações contra Jerusalém (Zacarias 12.3; Zacarias 14). Em [[2 Pedro 3.10]], os elementos, os *[[Stoicheia]]*, "ardendo se desfarão".
 
 ## Na visão da Beit Shalom
 
@@ -31,7 +31,7 @@ Uma lupa no sol queima o papel num segundo. Agora imagine um sol aceso a poucos 
 
 ## Relacionados
 
-[[Zacarias 14.12]] · [[Zacarias 14]] · [[Zacarias 12.3]] · [[Profeta Zacarias]] · [[2 Pedro 3.10]] · [[Stoicheia]] · [[Dores de Parto]] · [[Grande Tribulação]] · [[Peshat]]
+[[Zacarias 14.12]] · Zacarias 14 · Zacarias 12.3 · [[Profeta Zacarias]] · [[2 Pedro 3.10]] · [[Stoicheia]] · [[Dores de Parto]] · [[Grande Tribulação]] · [[Peshat]]
 
 ## Aparece em
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]

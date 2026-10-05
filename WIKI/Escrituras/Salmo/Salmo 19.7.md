@@ -15,7 +15,7 @@ date_captured: 2026-10-05
 **Original:** *Torat Adonai temimah, meshivat nafesh* (תּוֹרַת יְהוָה תְּמִימָה מְשִׁיבַת נָפֶשׁ). *Temimah* é "íntegra, completa, sem defeito"; *meshivat nafesh* é "que faz voltar a alma" ([[Meshivat Nafesh]]), da raiz *shuv*, a mesma de [[Teshuvá]].
 
 ## Contexto
-O salmo de Davi tem duas partes. Os versículos 1 a 6 mostram os céus declarando a glória de D'us; os versículos 7 a 14 mostram a Torá como segunda revelação, mais precisa que a natureza. O versículo 7 abre uma série de seis atributos da Torá: perfeita, fiel, retos, puro, limpo, verdadeiro.
+O salmo de Davi tem duas partes. Os versículos 1 a 6 mostram os céus declarando a glória de D'us; os versículos 7 a 14 mostram a Torá como segunda revelação, mais precisa que a natureza. O versículo 7 abre uma série de atributos da Torá, cada um com seu efeito sobre quem a recebe.
 
 ## Leitura da Beit Shalom
 No estudo sobre o Éden, Rav Yosef cita o versículo como prova de que a [[Torá]] não é um código legalista nascido no Sinai, mas a matriz e a linguagem de programação primordial ([[Davar]]) pela qual [[Akadosh Baruch Hu]] estruturou e sustenta a realidade. A transgressão introduziu uma corrupção, como um "vírus", e as leis cerimoniais ([[Corbanot]]) funcionaram como antivírus temporário. A missão de [[Yeshua]], arquétipo do [[Adam Kadmon]] encarnado, foi extrair o vírus e restaurar o código, não abolir a Torá.

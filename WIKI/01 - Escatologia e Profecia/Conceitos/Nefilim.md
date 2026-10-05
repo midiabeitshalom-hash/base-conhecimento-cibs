@@ -23,7 +23,7 @@ O termo vem do verbo *nafal* (נָפַל), cair. A forma *nefilim* pode ser lida
 - **2 Samuel 21:15-22:** [[David HaMelech]] e seus homens enfrentam os últimos gigantes de Gate, da família de Golias.
 - **Jó 1:6; 2:1; 38:7:** *Bnei Elohim* é o nome dos seres da corte celeste, o que fixa o sentido de Gênesis 6.
 - **Judas 6 e 2 Pedro 2:4:** os anjos que deixaram o próprio domicílio estão presos em trevas, à espera do juízo.
-- **[[Mateus 24|Mateus 24.37-39]]:** "assim como foi nos dias de Noé, será também a vinda do Filho do Homem".
+- **Mateus 24.37-39:** "assim como foi nos dias de Noé, será também a vinda do Filho do Homem".
 
 ## Nas fontes judaicas
 
@@ -41,7 +41,7 @@ O ferro misturado com o barro de [[Daniel 2|Daniel 2.43]] completa o quadro: o b
 
 ## Leituras que a Beit Shalom corrige
 
-A teoria dos filhos de Sete diz que os *Bnei Elohim* seriam os descendentes piedosos de Sete e as filhas dos homens, as de Caim. Rav Yosef responde que homens comuns com mulheres comuns não geram gigantes, que *Bnei Elohim* em Jó é sempre a corte celeste e que Judas e 2 Pedro falam de anjos presos por esse pecado. A teoria é uma leitura posterior que apaga o sentido do texto e tira do leitor a chave de [[Mateus 24]].
+A teoria dos filhos de Sete diz que os *Bnei Elohim* seriam os descendentes piedosos de Sete e as filhas dos homens, as de Caim. Rav Yosef responde que homens comuns com mulheres comuns não geram gigantes, que *Bnei Elohim* em Jó é sempre a corte celeste e que Judas e 2 Pedro falam de anjos presos por esse pecado. A teoria é uma leitura posterior que apaga o sentido do texto e tira do leitor a chave de Mateus 24.
 
 ## Como explicar à congregação
 

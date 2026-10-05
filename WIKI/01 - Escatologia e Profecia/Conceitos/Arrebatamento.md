@@ -18,9 +18,9 @@ A palavra de 1 Tessalonicenses 4:17 é o verbo grego *harpazō*, "agarrar, levar
 
 ## Na Escritura
 
-Três textos fixam a ordem. Sha'ul diz que "os que ficarmos vivos de maneira nenhuma precederemos os que dormem": primeiro os mortos no Messias ressuscitam, depois os vivos são arrebatados com eles ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]). Isso acontece "ao soar da última trombeta" ([[1 Coríntios 15.51|1 Coríntios 15.51-52]]). E o Apocalipse identifica quem está nessa ressurreição: os decapitados "que não adoraram a besta nem a sua imagem e não receberam o sinal", e diz "esta é a [[Primeira Ressurreição]]" ([[Apocalipse 20.4|Apocalipse 20.4-5]]).
+Três textos fixam a ordem. Sha'ul diz que "os que ficarmos vivos de maneira nenhuma precederemos os que dormem": primeiro os mortos no Messias ressuscitam, depois os vivos são arrebatados com eles ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]). Isso acontece "ao soar da última trombeta" (1 Coríntios 15.51-52). E o Apocalipse identifica quem está nessa ressurreição: os decapitados "que não adoraram a besta nem a sua imagem e não receberam o sinal", e diz "esta é a [[Primeira Ressurreição]]" ([[Apocalipse 20.4|Apocalipse 20.4-5]]).
 
-Yeshua dá o mesmo quadro: "logo depois da aflição daqueles dias" o sol escurece, aparece o sinal do Filho do Homem, e os anjos ajuntam os escolhidos com grande som de trombeta ([[Mateus 24.29|Mateus 24.29-31]]). E Sha'ul avisa que a reunião com ele não vem antes da apostasia e da manifestação do homem da iniquidade ([[2 Tessalonicenses 2|2 Tessalonicenses 2.1-3]]).
+Yeshua dá o mesmo quadro: "logo depois da aflição daqueles dias" o sol escurece, aparece o sinal do Filho do Homem, e os anjos ajuntam os escolhidos com grande som de trombeta (Mateus 24.29-31). E Sha'ul avisa que a reunião com ele não vem antes da apostasia e da manifestação do homem da iniquidade (2 Tessalonicenses 2.1-3).
 
 ## Na visão da Beit Shalom
 
@@ -38,7 +38,7 @@ Quando um presidente chega a uma cidade, a comitiva vai até o aeroporto recebê
 
 ## Relacionados
 
-[[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Grande Tribulação]] · [[Marca da Besta]] · [[Abominação da Desolação]] · [[Reino Messiânico]] · [[Shofar HaGadol]] · [[Yom Teruá]] · [[1 Tessalonicenses 4.15]] · [[1 Coríntios 15.51]] · [[Apocalipse 20.4]] · [[Mateus 24.29]]
+[[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Grande Tribulação]] · [[Marca da Besta]] · [[Abominação da Desolação]] · [[Reino Messiânico]] · [[Shofar HaGadol]] · [[Yom Teruá]] · [[1 Tessalonicenses 4.15]] · 1 Coríntios 15.51 · [[Apocalipse 20.4]] · Mateus 24.29
 
 ## Aparece em
 

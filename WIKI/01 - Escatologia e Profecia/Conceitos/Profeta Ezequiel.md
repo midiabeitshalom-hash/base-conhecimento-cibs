@@ -17,10 +17,10 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 O livro de Ezequiel se divide em juízo (capítulos 1 a 24), oráculos contra as nações (25 a 32) e restauração (33 a 48). Os textos que a base usa estão na terceira parte:
-- [[Ezequiel 34]]: os maus pastores de Israel e a promessa de que o próprio D'us buscará as ovelhas dispersas e porá sobre elas um só pastor, Davi.
+- Ezequiel 34: os maus pastores de Israel e a promessa de que o próprio D'us buscará as ovelhas dispersas e porá sobre elas um só pastor, Davi.
 - [[Ezequiel 36.26|Ezequiel 36.26-27]]: "tirarei da vossa carne o coração de pedra, e vos darei um coração de carne. E porei dentro de vós o meu espírito, e farei que andeis nos meus estatutos".
 - [[Ezequiel 37]]: o vale de ossos secos (37:1-14) e as duas varas, de Judá e de José/Efraim, que se tornam uma só na mão do profeta (37:15-28).
-- [[Ezequiel 37.24]]: "meu servo Davi será rei sobre eles... e andarão nos meus juízos e guardarão os meus estatutos".
+- Ezequiel 37.24: "meu servo Davi será rei sobre eles... e andarão nos meus juízos e guardarão os meus estatutos".
 
 ## Na tradição judaica
 
@@ -36,7 +36,7 @@ O versículo 37:24 resume a posição da base: o reino do Filho de Davi é um re
 
 ## Relacionados
 
-[[Ezequiel 34]] · [[Ezequiel 36]] · [[Ezequiel 36.26]] · [[Ezequiel 37]] · [[Ezequiel 37.24]] · [[Jeremias 31.31]] · [[Berit Hadashah]] · [[Circuncisão do Coração]] · [[Efraim]] · [[Casa de Judá]] · [[Mashiach ben David]] · [[Profeta Jeremias]] · [[Profeta Daniel]] · [[Nevi'im]]
+Ezequiel 34 · Ezequiel 36 · [[Ezequiel 36.26]] · [[Ezequiel 37]] · Ezequiel 37.24 · [[Jeremias 31.31]] · [[Berit Hadashah]] · [[Circuncisão do Coração]] · [[Efraim]] · [[Casa de Judá]] · [[Mashiach ben David]] · [[Profeta Jeremias]] · [[Profeta Daniel]] · [[Nevi'im]]
 
 ## Aparece em
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]

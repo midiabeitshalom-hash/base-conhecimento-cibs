@@ -21,10 +21,10 @@ A forma "homem" é deliberada. A mística descreve a estrutura da criação em f
 ## Na Escritura
 
 - **O "façamos".** *Na'assê adam betzalmenu kidmutenu*, "façamos o homem à nossa imagem, conforme a nossa semelhança" ([[Gênesis 1.26]]; [[Na'assê Adam]]). Para Rav Yosef, é com esse arquétipo que D'us fala, e não com outras pessoas divinas ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
-- **A imagem do invisível.** "Ele é a imagem do D'us invisível, o primogênito de toda a criação" ([[Colossenses 1.15]]), que os estudos leem como *Tzelem Elohim HaNistar* e *Bechor* ([[Tzelem Elohim HaNistar]]; [[Bechor]]).
+- **A imagem do invisível.** "Ele é a imagem do D'us invisível, o primogênito de toda a criação" (Colossenses 1.15), que os estudos leem como *Tzelem Elohim HaNistar* e *Bechor* ([[Tzelem Elohim HaNistar]]; [[Bechor]]).
 - **O primeiro e o último Adão.** "O primeiro homem, Adão, foi feito alma vivente; o último Adão, espírito vivificante" ([[1 Coríntios 15.45]]), *Nefesh Chayah* e *Ruach Mechayeh*.
-- **A imagem perdida.** Depois da queda Adão gera filho "à sua semelhança, conforme a sua imagem" ([[Gênesis 5.3]]), e não mais à imagem do molde.
-- **A lâmpada.** "A glória de D'us a ilumina, e o Cordeiro é a sua lâmpada" ([[Apocalipse 21.23]]); "quem me vê a mim, vê o Pai" ([[João 14.9]]).
+- **A imagem perdida.** Depois da queda Adão gera filho "à sua semelhança, conforme a sua imagem" (Gênesis 5.3), e não mais à imagem do molde.
+- **A lâmpada.** "A glória de D'us a ilumina, e o Cordeiro é a sua lâmpada" ([[Apocalipse 21.23]]); "quem me vê a mim, vê o Pai" (João 14.9).
 - **A plenitude.** "Nele habita corporalmente toda a plenitude da divindade" ([[Colossenses 2.9]]).
 
 ## Nas fontes judaicas
@@ -39,7 +39,7 @@ O termo é central na Cabala de Isaac Luria, o [[Arizal]] (Safed, século XVI), 
 
 **Uma leitura que reforça o monoteísmo.** Rav Yosef insiste nesse ponto: ser primeira emanação significa ter uma fonte, o *Ein Sof*. O *Bechor* é gerado; a Causa Primeira não. Por isso a honra vai ao Mashiach e o culto, a *Avodá*, só ao Criador ([[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]). A idolatria começa quando se desvia o culto do Criador para as emanações, os anjos, os astros ou o próprio mediador ([[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]). O "façamos" de Gênesis 1:26 deixa de ser prova de [[Trindade]]: é D'us falando com o arquétipo que ele mesmo emanou ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]). A plenitude que habita no Messias é como a [[Shechinah]] no Tabernáculo, sem divindade ontológica ([[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]).
 
-**Adam Kadmon e Adam HaRishon.** O primeiro homem foi moldado à semelhança do protótipo. Ao transgredir, perdeu o governo da criação e passou a gerar à sua imagem decaída ([[Gênesis 5.3]]). A restauração, o [[Tikkun]], é despir a imagem do primeiro Adão e voltar ao molde do Adam Kadmon ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]). Yeshua, o justo sem pecado, é o Adam Kadmon encarnado que abre esse caminho ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]). O guia de voz manda nunca fundir as duas figuras ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
+**Adam Kadmon e Adam HaRishon.** O primeiro homem foi moldado à semelhança do protótipo. Ao transgredir, perdeu o governo da criação e passou a gerar à sua imagem decaída (Gênesis 5.3). A restauração, o [[Tikkun]], é despir a imagem do primeiro Adão e voltar ao molde do Adam Kadmon ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]). Yeshua, o justo sem pecado, é o Adam Kadmon encarnado que abre esse caminho ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]). O guia de voz manda nunca fundir as duas figuras ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
 ## Leituras que a Beit Shalom corrige
 

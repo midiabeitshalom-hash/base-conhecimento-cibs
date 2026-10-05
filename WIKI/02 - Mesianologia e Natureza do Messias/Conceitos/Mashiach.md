@@ -20,10 +20,10 @@ Rav Yosef liga o termo à prensa de azeitonas: o azeite puro só sai do fruto es
 
 ## Na Escritura
 
-- **Ungidos no Tanakh.** O sumo sacerdote é *hakohen hamashiach*, "o sacerdote ungido" (Levítico 4:3); Saul é "o ungido do Senhor" (1 Samuel 24:6); até Ciro, rei persa, é chamado "seu ungido" ([[Isaías 45|Isaías 45.1]]). Ser *mashiach* é receber uma função de D'us, não ser D'us.
+- **Ungidos no Tanakh.** O sumo sacerdote é *hakohen hamashiach*, "o sacerdote ungido" (Levítico 4:3); Saul é "o ungido do Senhor" (1 Samuel 24:6); até Ciro, rei persa, é chamado "seu ungido" (Isaías 45.1). Ser *mashiach* é receber uma função de D'us, não ser D'us.
 - **O Mashiach Nagid.** "Desde a saída da ordem para restaurar Jerusalém até o Messias, o Príncipe, sete semanas e sessenta e duas semanas", e depois "será cortado o Messias" ([[Daniel 9.24|Daniel 9.24-26]]; [[Mashiach Nagid]]).
-- **O ungido pelo Espírito.** "Repousará sobre ele o Espírito do Senhor" ([[Isaías 11.1|Isaías 11.1-2]]); "o Espírito do Senhor está sobre mim, porque me ungiu" (Isaías 61:1, lido por Yeshua em Nazaré); "D'us ungiu a Yeshua de Nazaré com o Ruach HaKodesh" ([[Atos 10.38]]).
-- **O profeta como Moisés.** [[Deuteronômio 18.15|Deuteronômio 18.15-19]], aplicado a Yeshua em [[Atos 3.22]].
+- **O ungido pelo Espírito.** "Repousará sobre ele o Espírito do Senhor" (Isaías 11.1-2); "o Espírito do Senhor está sobre mim, porque me ungiu" (Isaías 61:1, lido por Yeshua em Nazaré); "D'us ungiu a Yeshua de Nazaré com o Ruach HaKodesh" (Atos 10.38).
+- **O profeta como Moisés.** [[Deuteronômio 18.15|Deuteronômio 18.15-19]], aplicado a Yeshua em Atos 3.22.
 - **O mediador homem.** "Um só D'us e um só mediador entre D'us e os homens, Yeshua, o Messias, homem" ([[1 Timóteo 2.5]]).
 
 ## Nas fontes judaicas

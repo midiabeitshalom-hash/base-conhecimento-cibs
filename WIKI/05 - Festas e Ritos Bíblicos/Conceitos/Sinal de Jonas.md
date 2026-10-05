@@ -18,17 +18,17 @@ A palavra grega é *sēmeion*, que traduz o hebraico *ot* (אוֹת): marca, pro
 
 ## Na Escritura
 
-- **[[Jonas 1.17]]** (2:1 no texto hebraico): "Jonas esteve três dias e três noites nas entranhas do peixe". Em Jonas 2:2 ele chama o lugar de "ventre do [[Sheol]]", o mundo dos mortos.
+- **Jonas 1.17** (2:1 no texto hebraico): "Jonas esteve três dias e três noites nas entranhas do peixe". Em Jonas 2:2 ele chama o lugar de "ventre do [[Sheol]]", o mundo dos mortos.
 - **[[Mateus 12.40]]:** "como Jonas esteve três dias e três noites no ventre da baleia, assim estará o Filho do homem três dias e três noites no seio da terra". O paralelo com Jonas fixa as duas metades do prazo: dias e noites.
 - **Mateus 16:4** e **Lucas 11:29-30:** o sinal é repetido; em Lucas, Jonas também é sinal para os ninivitas, que fizeram [[Teshuvá]] com a pregação dele.
-- **[[Marcos 8.31]]:** "depois de três dias ressuscitaria".
-- **[[Mateus 27.62|Mateus 27.62-64]]:** os principais sacerdotes lembram a Pilatos que "aquele enganador disse: depois de três dias ressuscitarei" e pedem guarda até o terceiro dia. Os opositores levaram a contagem a sério.
+- **Marcos 8.31:** "depois de três dias ressuscitaria".
+- **Mateus 27.62-64:** os principais sacerdotes lembram a Pilatos que "aquele enganador disse: depois de três dias ressuscitarei" e pedem guarda até o terceiro dia. Os opositores levaram a contagem a sério.
 
 ## Na visão da Beit Shalom
 
 Rav Yosef trata o Sinal de Jonas como a pedra de toque da cronologia ([[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]). O raciocínio é o do segundo passo do método dele: expor a conta comum e mostrar onde ela falha ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). De sexta à tarde a domingo de madrugada há um dia e meio e duas noites. Falta um dia e falta uma noite. Se o sinal não se cumpriu, a messianidade de Yeshua estaria invalidada pela própria palavra dele.
 
-A conta só fecha quando se reconhece que a semana da paixão teve dois descansos: o [[Shabbaton]] de 15 de Abibe, primeiro dia de [[Chag HaMatzot]], e o [[Shabat]] semanal. Yeshua morre na [[Hora Nona]] da quarta-feira, 14 de Abibe, o [[Dia da Preparação]], e é sepultado antes do pôr do sol. Quarta à noite, quinta, sexta e sábado: três noites e três dias completos. No fim da tarde do sábado, encerradas as 72 horas, ele ressuscita, e de madrugada as mulheres encontram o túmulo já vazio ([[Mateus 28.1]]). A ressurreição cumpre [[Bikurim]], as primícias ([[1 Coríntios 15.20]]).
+A conta só fecha quando se reconhece que a semana da paixão teve dois descansos: o [[Shabbaton]] de 15 de Abibe, primeiro dia de [[Chag HaMatzot]], e o [[Shabat]] semanal. Yeshua morre na [[Hora Nona]] da quarta-feira, 14 de Abibe, o [[Dia da Preparação]], e é sepultado antes do pôr do sol. Quarta à noite, quinta, sexta e sábado: três noites e três dias completos. No fim da tarde do sábado, encerradas as 72 horas, ele ressuscita, e de madrugada as mulheres encontram o túmulo já vazio (Mateus 28.1). A ressurreição cumpre [[Bikurim]], as primícias (1 Coríntios 15.20).
 
 ## Leituras que a Beit Shalom corrige
 
@@ -40,7 +40,7 @@ Se um médico diz que o paciente precisa ficar 72 horas em observação, ningué
 
 ## Relacionados
 
-[[Profeta Jonas]] · [[Jonas 1.17]] · [[Mateus 12.40]] · [[Cômputo Inclusivo]] · [[Shabbaton]] · [[Chol HaMoed]] · [[Dia da Preparação]] · [[Hora Nona]] · [[Bikurim]] · [[Pessach]] · [[Sheol]]
+[[Profeta Jonas]] · Jonas 1.17 · [[Mateus 12.40]] · [[Cômputo Inclusivo]] · [[Shabbaton]] · [[Chol HaMoed]] · [[Dia da Preparação]] · [[Hora Nona]] · [[Bikurim]] · [[Pessach]] · [[Sheol]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

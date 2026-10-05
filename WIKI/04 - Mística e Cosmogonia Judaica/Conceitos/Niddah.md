@@ -18,7 +18,7 @@ A palavra vem de *n-d-d*, afastar-se, ficar à parte. *Niddah* é a mulher que, 
 
 ## Na Escritura
 
-A lei está em Levítico 15:19-24: a mulher fica sete dias na sua separação, e quem a toca fica impuro até a tarde. Em Levítico 18:19 a proibição de se aproximar dela nesse período aparece no meio das leis de santidade sexual, ao lado do adultério e das uniões proibidas, e Levítico 20:18 a repete. Os profetas mantêm o mandamento: o justo de Ezequiel "não se chega à mulher na sua separação" (Ezequiel 18:6). Na [[Berit Hadashah]], a mulher que sofria de um fluxo de sangue havia doze anos, impura pela Torá, toca a orla da roupa de Yeshua e é curada ([[Mateus 9.18|Mateus 9.18-22]]).
+A lei está em Levítico 15:19-24: a mulher fica sete dias na sua separação, e quem a toca fica impuro até a tarde. Em Levítico 18:19 a proibição de se aproximar dela nesse período aparece no meio das leis de santidade sexual, ao lado do adultério e das uniões proibidas, e Levítico 20:18 a repete. Os profetas mantêm o mandamento: o justo de Ezequiel "não se chega à mulher na sua separação" (Ezequiel 18:6). Na [[Berit Hadashah]], a mulher que sofria de um fluxo de sangue havia doze anos, impura pela Torá, toca a orla da roupa de Yeshua e é curada (Mateus 9.18-22).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Rabi Meir já explicava por que a Torá marcou sete dias: para que a mulher volt
 
 ## Relacionados
 
-[[Tum'ah]] · [[Taharah]] · [[Tevilá]] · [[Maim Chaim]] · [[Kedushá]] · [[Kidushim]] · [[Torá Moral]] · [[Dirah BeTachtonim]] · [[Etz Chaim]] · [[Sitra Achra]] · [[Mateus 9.18]] · [[Tikkun]]
+[[Tum'ah]] · [[Taharah]] · [[Tevilá]] · [[Maim Chaim]] · [[Kedushá]] · [[Kidushim]] · [[Torá Moral]] · [[Dirah BeTachtonim]] · [[Etz Chaim]] · [[Sitra Achra]] · Mateus 9.18 · [[Tikkun]]
 
 ## Aparece em
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]

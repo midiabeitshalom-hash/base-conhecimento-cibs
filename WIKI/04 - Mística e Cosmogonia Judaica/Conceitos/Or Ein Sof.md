@@ -21,7 +21,7 @@ date_captured: 2026-10-05
 - **Salmo 104:2:** D'us "se cobre de luz como de um manto".
 - **Êxodo 33:20:** "não me poderás ver a face, porque homem nenhum verá a minha face e viverá".
 - **1 Timóteo 6:16:** ele "habita na luz inacessível".
-- **[[João 14.9]]:** "quem me vê a mim vê o Pai".
+- **João 14.9:** "quem me vê a mim vê o Pai".
 - **[[Apocalipse 21.23]]:** a cidade não precisa de sol, porque a glória de D'us a ilumina e o Cordeiro é a sua lâmpada.
 
 ## Nas fontes judaicas
@@ -44,7 +44,7 @@ Ninguém olha direto para o sol do meio-dia. Mas uma lâmpada acesa na sala deix
 
 ## Relacionados
 
-[[Ein Sof]] · [[Tzimtzum]] · [[Chalal Panui]] · [[Or HaGanuz]] · [[Adam Kadmon]] · [[Kli]] · [[Sefirot]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Arizal]] · [[Apocalipse 21.23]] · [[João 14.9]] · [[Monoteísmo Estrito]]
+[[Ein Sof]] · [[Tzimtzum]] · [[Chalal Panui]] · [[Or HaGanuz]] · [[Adam Kadmon]] · [[Kli]] · [[Sefirot]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Arizal]] · [[Apocalipse 21.23]] · João 14.9 · [[Monoteísmo Estrito]]
 
 ## Aparece em
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]

@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Kohen* vem de uma raiz ligada a ficar de pé diante de alguém para servir. O sacerdote é um servidor, um ministro. A expressão completa aparece em [[Levítico 21|Levítico 21.10]], *hakohen hagadol me'echav*, "o sacerdote que é maior entre seus irmãos". Ele é maior em função e responsabilidade, mas continua sendo um entre os irmãos.
+*Kohen* vem de uma raiz ligada a ficar de pé diante de alguém para servir. O sacerdote é um servidor, um ministro. A expressão completa aparece em Levítico 21.10, *hakohen hagadol me'echav*, "o sacerdote que é maior entre seus irmãos". Ele é maior em função e responsabilidade, mas continua sendo um entre os irmãos.
 
 ## Na Escritura
 

@@ -18,10 +18,10 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- Jeremias 30:6-7: "perguntai, pois, e vede, se um homem dá à luz... ah! porque aquele dia é tão grande... é tempo de angústia para Jacó; ele, porém, será salvo dela" ([[Jeremias 30.7]]; [[Et Tzarah l'Yaakov]]).
+- Jeremias 30:6-7: "perguntai, pois, e vede, se um homem dá à luz... ah! porque aquele dia é tão grande... é tempo de angústia para Jacó; ele, porém, será salvo dela" (Jeremias 30.7; [[Et Tzarah l'Yaakov]]).
 - Isaías 66:7-8: Sião dá à luz os seus filhos "antes que estivesse de parto".
-- [[Mateus 24|Mateus 24.3-14]]: guerras, rumores de guerras, fomes, pestes e terremotos são o "princípio das dores".
-- [[1 Tessalonicenses 5.3]]: quando disserem "paz e segurança", virá repentina destruição, "como as dores de parto àquela que está grávida".
+- Mateus 24.3-14: guerras, rumores de guerras, fomes, pestes e terremotos são o "princípio das dores".
+- 1 Tessalonicenses 5.3: quando disserem "paz e segurança", virá repentina destruição, "como as dores de parto àquela que está grávida".
 
 ## Nas fontes judaicas
 
@@ -39,7 +39,7 @@ Uma mulher em trabalho de parto sabe duas coisas: a dor vai piorar, e vai termin
 
 ## Relacionados
 
-[[Grande Tribulação]] · [[Et Tzarah l'Yaakov]] · [[Mateus 24]] · [[1 Tessalonicenses 5.3]] · [[Jeremias 30.7]] · [[Yovel]] · [[Shemini Atzeret]] · [[Flash Térmico]] · [[Pós-Tribulacionismo]] · [[Emuná]] · [[Mashiach ben David]]
+[[Grande Tribulação]] · [[Et Tzarah l'Yaakov]] · Mateus 24 · 1 Tessalonicenses 5.3 · Jeremias 30.7 · [[Yovel]] · [[Shemini Atzeret]] · [[Flash Térmico]] · [[Pós-Tribulacionismo]] · [[Emuná]] · [[Mashiach ben David]]
 
 ## Aparece em
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]

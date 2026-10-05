@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Tehom
 
-**Definição:** *Tehom* (תְּהוֹם) é o abismo primitivo das águas profundas de [[Gênesis 1.2]]. Na leitura da Beit Shalom, que segue a literatura do Segundo Templo e os apóstolos, é também o cárcere onde estão presos os anjos que pecaram antes do dilúvio, até o Dia do Juízo.
+**Definição:** *Tehom* (תְּהוֹם) é o abismo primitivo das águas profundas de Gênesis 1.2. Na leitura da Beit Shalom, que segue a literatura do Segundo Templo e os apóstolos, é também o cárcere onde estão presos os anjos que pecaram antes do dilúvio, até o Dia do Juízo.
 
 ## Raiz e significado
 
@@ -34,7 +34,7 @@ Pense numa penitenciária de segurança máxima com prazo marcado para abrir os 
 
 ## Relacionados
 
-[[Gênesis 1.2]] · [[Bnei Elohim]] · [[Nefilim]] · [[Shedim]] · [[Azazel]] · [[Mastema]] · [[Monte Hermon]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Septuaginta]] · [[Yehudah, irmão de Yeshua]] · [[Shimon Kefa]] · [[Marca da Besta]] · [[Sheol]]
+Gênesis 1.2 · [[Bnei Elohim]] · [[Nefilim]] · [[Shedim]] · [[Azazel]] · [[Mastema]] · [[Monte Hermon]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Septuaginta]] · [[Yehudah, irmão de Yeshua]] · [[Shimon Kefa]] · [[Marca da Besta]] · [[Sheol]]
 
 ## Aparece em
 

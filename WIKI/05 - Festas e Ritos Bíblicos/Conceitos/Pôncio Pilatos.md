@@ -19,7 +19,7 @@ Pôncio Pilatos (*Pontius Pilatus*) foi o prefeito romano da Judeia entre 26 e 3
 
 - **O julgamento:** Pilatos interroga Yeshua, pergunta "que é a verdade?" (João 18:38), lava as mãos diante da multidão (Mateus 27:24) e manda escrever na cruz, em hebraico, grego e latim, "Rei dos Judeus" (João 19:19-20).
 - **A entrega do corpo:** estranha que Yeshua já tenha morrido, confirma com o centurião e entrega o corpo a [[José de Arimateia]] (Marcos 15:43-45).
-- **A guarda e o selo:** em [[Mateus 27.62|Mateus 27.62-66]] os chefes dos sacerdotes e os fariseus pedem guarda "até o terceiro dia", e Pilatos responde: "Tendes a guarda; ide, guardai-o como entendeis".
+- **A guarda e o selo:** em Mateus 27.62-66 os chefes dos sacerdotes e os fariseus pedem guarda "até o terceiro dia", e Pilatos responde: "Tendes a guarda; ide, guardai-o como entendeis".
 - Lucas 13:1 lembra os galileus cujo sangue ele misturou com os sacrifícios, e Atos 4:27 o põe ao lado de Herodes contra o Ungido.
 
 ## Na tradição judaica
@@ -36,7 +36,7 @@ Há também uma ironia que a base percebe: o império que crucificou Yeshua foi 
 
 ## Relacionados
 
-[[Yeshua]] · [[Sinédrio]] · [[José de Arimateia]] · [[Mateus 27]] · [[Sinal de Jonas]] · [[Dia da Preparação]] · [[Pessach]] · [[Shabbaton]] · [[Kohen Gadol]] · [[Flávio Josefo]]
+[[Yeshua]] · [[Sinédrio]] · [[José de Arimateia]] · Mateus 27 · [[Sinal de Jonas]] · [[Dia da Preparação]] · [[Pessach]] · [[Shabbaton]] · [[Kohen Gadol]] · [[Flávio Josefo]]
 
 ## Aparece em
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]

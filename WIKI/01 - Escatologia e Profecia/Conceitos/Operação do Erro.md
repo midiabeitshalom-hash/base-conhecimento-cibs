@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Operação do Erro
 
-**Definição:** A Operação do Erro (*energeian planēs*, ἐνέργειαν πλάνης) é o juízo de D'us descrito em [[2 Tessalonicenses 2.11]]: sobre quem rejeita de forma obstinada o amor da verdade, D'us deixa agir uma força ativa de engano, "para que creiam a mentira". Na base, a verdade rejeitada é a [[Torá]].
+**Definição:** A Operação do Erro (*energeian planēs*, ἐνέργειαν πλάνης) é o juízo de D'us descrito em 2 Tessalonicenses 2.11: sobre quem rejeita de forma obstinada o amor da verdade, D'us deixa agir uma força ativa de engano, "para que creiam a mentira". Na base, a verdade rejeitada é a [[Torá]].
 
 ## Raiz e significado
 
@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O texto está em [[2 Tessalonicenses 2.9|2 Tessalonicenses 2.9-12]]. A vinda do iníquo vem "com todo o poder, e sinais e prodígios de mentira"; os que perecem perecem "porque não receberam o amor da verdade para se salvarem" ([[2 Tessalonicenses 2.10]]); "e por isso Deus lhes enviará a operação do erro, para que creiam a mentira" (2:11).
+O texto está em 2 Tessalonicenses 2.9-12. A vinda do iníquo vem "com todo o poder, e sinais e prodígios de mentira"; os que perecem perecem "porque não receberam o amor da verdade para se salvarem" (2 Tessalonicenses 2.10); "e por isso Deus lhes enviará a operação do erro, para que creiam a mentira" (2:11).
 
 A lógica não é nova na Escritura. D'us endurece o coração de um faraó que já tinha endurecido o seu; em 1 Reis 22:22-23 um espírito de mentira é permitido na boca dos profetas de Acabe; em Isaías 66:4 D'us diz "também eu escolherei as suas ilusões"; em Romanos 1:24-28 Sha'ul repete três vezes que D'us "os entregou". É juízo por entrega: quem não quer a verdade recebe aquilo que escolheu.
 
@@ -28,13 +28,13 @@ Os sábios formularam o mesmo princípio. Em *Makkot 10b* o [[Talmud Bavli]] ens
 
 ## Na visão da Beit Shalom
 
-Rav Yosef monta a definição pela própria Escritura ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]). Qual é a verdade de 2 Tessalonicenses 2:10? O [[Salmo 119.142]] responde: "a tua Torá é a verdade", e o [[Salmo 119.160]] completa: "a soma da tua palavra é a verdade". O paralelo profético é [[Oseias 4.6]]: o povo é destruído por rejeitar o conhecimento, e não por falta de informação. Daí a sequência que a base registra: rejeição obstinada da Torá, juízo permissivo, operação do erro, crença na mentira e condenação.
+Rav Yosef monta a definição pela própria Escritura ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]). Qual é a verdade de 2 Tessalonicenses 2:10? O Salmo 119.142 responde: "a tua Torá é a verdade", e o Salmo 119.160 completa: "a soma da tua palavra é a verdade". O paralelo profético é Oseias 4.6: o povo é destruído por rejeitar o conhecimento, e não por falta de informação. Daí a sequência que a base registra: rejeição obstinada da Torá, juízo permissivo, operação do erro, crença na mentira e condenação.
 
-Por isso sinais não provam aprovação. Em [[Mateus 7.21|Mateus 7.21-23]] os que profetizaram e fizeram milagres em nome de Yeshua ouvem "apartai-vos de mim, vós que praticais a [[Anomia]]". O Nome tem autoridade mesmo na boca de quem desobedece, mas a eficácia do Nome não valida a vida de quem o usa. O antídoto é o remanescente de [[Apocalipse 14.12]]: guardar os mandamentos e ter o testemunho de Yeshua. O pilar sobre o tempo do fim põe a Operação do Erro ao lado da [[Marca da Besta]] e dos [[Nefilim]] como parte do mesmo quadro ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+Por isso sinais não provam aprovação. Em Mateus 7.21-23 os que profetizaram e fizeram milagres em nome de Yeshua ouvem "apartai-vos de mim, vós que praticais a [[Anomia]]". O Nome tem autoridade mesmo na boca de quem desobedece, mas a eficácia do Nome não valida a vida de quem o usa. O antídoto é o remanescente de [[Apocalipse 14.12]]: guardar os mandamentos e ter o testemunho de Yeshua. O pilar sobre o tempo do fim põe a Operação do Erro ao lado da [[Marca da Besta]] e dos [[Nefilim]] como parte do mesmo quadro ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 ## Leituras que a Beit Shalom corrige
 
-Costuma-se ler o texto como se o engano fosse atingir apenas os de fora: ateus, outras religiões. O estudo mostra o contrário. O alvo é o meio religioso que tem a Escritura nas mãos, opera sinais e mesmo assim declara a Torá "cravada na cruz", o "mercado da fé" que serve à comichão nos ouvidos de [[2 Timóteo 4.3]].
+Costuma-se ler o texto como se o engano fosse atingir apenas os de fora: ateus, outras religiões. O estudo mostra o contrário. O alvo é o meio religioso que tem a Escritura nas mãos, opera sinais e mesmo assim declara a Torá "cravada na cruz", o "mercado da fé" que serve à comichão nos ouvidos de 2 Timóteo 4.3.
 
 ## Como explicar à congregação
 
@@ -42,7 +42,7 @@ Um GPS que o motorista desliga porque não gosta do caminho indicado não deixa 
 
 ## Relacionados
 
-[[2 Tessalonicenses 2]] · [[2 Tessalonicenses 2.11]] · [[Anomia]] · [[Torá]] · [[Salmo 119.142]] · [[Oseias 4.6]] · [[Mateus 7.23]] · [[Apocalipse 14.12]] · [[Marca da Besta]] · [[Teshuvá]] · [[Emet]]
+2 Tessalonicenses 2 · 2 Tessalonicenses 2.11 · [[Anomia]] · [[Torá]] · Salmo 119.142 · Oseias 4.6 · Mateus 7.23 · [[Apocalipse 14.12]] · [[Marca da Besta]] · [[Teshuvá]] · [[Emet]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

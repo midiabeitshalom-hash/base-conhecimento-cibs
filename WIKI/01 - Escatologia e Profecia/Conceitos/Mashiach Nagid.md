@@ -19,13 +19,13 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **[[Daniel 9.24|Daniel 9.24-26]]:** setenta semanas para fazer cessar a transgressão, dar fim aos pecados, expiar a iniquidade, trazer a justiça eterna, selar a visão e ungir o Santo dos Santos; 7 + 62 semanas até o *Mashiach Nagid*; o Messias cortado; depois, o povo do príncipe que há de vir destrói a cidade e o santuário.
-- **[[Daniel 9.27]]:** a última semana.
+- **Daniel 9.27:** a última semana.
 - **Neemias 2:1-8:** no mês de Nissan do vigésimo ano de [[Artaxerxes I]], a ordem para reconstruir Jerusalém.
-- **[[Isaías 53]]:** o servo "cortado da terra dos viventes".
+- **Isaías 53:** o servo "cortado da terra dos viventes".
 
 ## Nas fontes judaicas
 
-[[Rashi]] sobre Daniel 9:25 identifica o *Mashiach Nagid* com Ciro, o rei persa. O Talmud reconhece o peso das contas messiânicas e, depois do fracasso de Bar Kokhba, chega a amaldiçoar quem calcula o fim (*Sanhedrin 97b*). O mesmo Talmud registra a tensão entre o Messias humilde de [[Zacarias 9.9]] e o glorioso de [[Daniel 7.13]] (*Sanhedrin 98a*), e *Yoma 39b* conta que os sinais do Templo cessaram quarenta anos antes de 70 EC.
+[[Rashi]] sobre Daniel 9:25 identifica o *Mashiach Nagid* com Ciro, o rei persa. O Talmud reconhece o peso das contas messiânicas e, depois do fracasso de Bar Kokhba, chega a amaldiçoar quem calcula o fim (*Sanhedrin 97b*). O mesmo Talmud registra a tensão entre o Messias humilde de Zacarias 9.9 e o glorioso de [[Daniel 7.13]] (*Sanhedrin 98a*), e *Yoma 39b* conta que os sinais do Templo cessaram quarenta anos antes de 70 EC.
 
 ## Na visão da Beit Shalom
 
@@ -43,7 +43,7 @@ Se o último trem da linha parte às 18h, quem diz que vai chegar à estação p
 
 ## Relacionados
 
-[[Mashiach]] · [[Daniel 9.24]] · [[Daniel 9.27]] · [[Artaxerxes I]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Segundo Templo]] · [[Yoma 39b]] · [[Profeta Daniel]] · [[Isaías 53]] · [[Rashi]] · [[Talmud Bavli]]
+[[Mashiach]] · [[Daniel 9.24]] · Daniel 9.27 · [[Artaxerxes I]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Segundo Templo]] · [[Yoma 39b]] · [[Profeta Daniel]] · Isaías 53 · [[Rashi]] · [[Talmud Bavli]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

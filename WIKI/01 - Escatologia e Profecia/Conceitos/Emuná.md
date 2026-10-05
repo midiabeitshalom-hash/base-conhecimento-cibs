@@ -18,11 +18,11 @@ A raiz *alef-mem-nun* é a de "amém": firme, seguro, digno de confiança. Dela 
 
 ## Na Escritura
 
-- **Gênesis 15:6:** Abraão "creu (*he'emin*) no Senhor, e isso lhe foi imputado como justiça". O mesmo Abraão guardou os mandamentos, estatutos e leis ([[Gênesis 26.5]]).
+- **Gênesis 15:6:** Abraão "creu (*he'emin*) no Senhor, e isso lhe foi imputado como justiça". O mesmo Abraão guardou os mandamentos, estatutos e leis (Gênesis 26.5).
 - **Habacuque 2:4:** "o justo viverá pela sua *emuná*", citado por Sha'ul em Romanos 1:17.
 - **Deuteronômio 32:4:** D'us é *El emuná*, "D'us fiel".
-- **[[Tiago 2.19]]:** "os demônios também creem e estremecem"; fé sem obras é morta.
-- **[[Apocalipse 14.12]] e [[Apocalipse 12.17]]:** os santos do fim guardam os mandamentos de D'us e têm a fé e o testemunho de Yeshua.
+- **Tiago 2.19:** "os demônios também creem e estremecem"; fé sem obras é morta.
+- **[[Apocalipse 14.12]] e Apocalipse 12.17:** os santos do fim guardam os mandamentos de D'us e têm a fé e o testemunho de Yeshua.
 
 ## Nas fontes judaicas
 

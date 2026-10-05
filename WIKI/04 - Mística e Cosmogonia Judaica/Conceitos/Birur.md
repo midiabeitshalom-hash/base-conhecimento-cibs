@@ -18,7 +18,7 @@ A raiz *B-R-R* (ברר) quer dizer selecionar, separar, clarificar. É a mesma d
 
 ## Na Escritura
 
-A palavra técnica é da mística, mas o princípio está no texto. "Quer comais, quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus" (1 Coríntios 10:31) é, para a base, o princípio apostólico de elevação do que é neutro. E [[Romanos 6]] pede que os membros do corpo não sejam oferecidos como instrumentos de injustiça, mas de justiça: a mesma energia, outro destino.
+A palavra técnica é da mística, mas o princípio está no texto. "Quer comais, quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus" (1 Coríntios 10:31) é, para a base, o princípio apostólico de elevação do que é neutro. E Romanos 6 pede que os membros do corpo não sejam oferecidos como instrumentos de injustiça, mas de justiça: a mesma energia, outro destino.
 
 ## Nas fontes judaicas
 

@@ -20,12 +20,12 @@ O grego da Septuaginta e da carta aos Hebreus diz *diathēkē kainē*; o latim t
 
 ## Na Escritura
 
-- **A promessa.** "Farei uma aliança nova com a casa de Israel e com a casa de Judá... porei a minha Torá no seu interior e a escreverei no seu coração" ([[Jeremias 31.31|Jeremias 31.31-34]]; [[Jeremias 31.33]]). O texto diz por que foi preciso renovar: a aliança anterior "eles a invalidaram". O defeito estava no povo, e Hebreus 8:8 repete: D'us "repreende-os".
+- **A promessa.** "Farei uma aliança nova com a casa de Israel e com a casa de Judá... porei a minha Torá no seu interior e a escreverei no seu coração" ([[Jeremias 31.31|Jeremias 31.31-34]]; Jeremias 31.33). O texto diz por que foi preciso renovar: a aliança anterior "eles a invalidaram". O defeito estava no povo, e Hebreus 8:8 repete: D'us "repreende-os".
 - **O coração de carne.** "Tirarei de vós o coração de pedra... porei dentro de vós o meu Espírito e farei que andeis nos meus estatutos" ([[Ezequiel 36.26|Ezequiel 36.26-27]]). O Espírito é dado para obedecer.
-- **A primeira ratificação.** "Eis o sangue da aliança" em [[Êxodo 24]], depois de o povo dizer *na'asseh ve-nishma*, "faremos e ouviremos" (Êxodo 24:7). Logo em seguida veio a quebra no bezerro de ouro ([[Êxodo 32]]).
-- **A renovação no sangue.** "Este é o meu sangue, o sangue da aliança" no cálice do [[Sêder de Pessach]] ([[Mateus 26.27|Mateus 26.27-28]]).
+- **A primeira ratificação.** "Eis o sangue da aliança" em Êxodo 24, depois de o povo dizer *na'asseh ve-nishma*, "faremos e ouviremos" (Êxodo 24:7). Logo em seguida veio a quebra no bezerro de ouro (Êxodo 32).
+- **A renovação no sangue.** "Este é o meu sangue, o sangue da aliança" no cálice do [[Sêder de Pessach]] (Mateus 26.27-28).
 - **O cumprimento visível.** O derramar do Ruach em [[Shavuot]] ([[Atos 2]]), cinquenta dias depois do Pessach, como no Sinai.
-- **A leitura apostólica.** [[Hebreus 8]] cita Jeremias 31 inteiro; [[Apocalipse 22.14]] fecha o círculo: entram pelas portas os que guardam os mandamentos.
+- **A leitura apostólica.** Hebreus 8 cita Jeremias 31 inteiro; [[Apocalipse 22.14]] fecha o círculo: entram pelas portas os que guardam os mandamentos.
 
 ## Nas fontes judaicas
 
@@ -37,9 +37,9 @@ O [[Talmud Bavli]] situa a entrega da Torá em 6 ou 7 de Sivan, a data de Shavuo
 
 **Com as duas casas.** A aliança é feita com a [[Casa de Israel]] e a [[Casa de Judá]]. Por isso ela inclui o retorno de [[Efraim]], as tribos dispersas entre as nações, e não pode ser lida como substituição de Israel por outro povo ([[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]; [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]).
 
-**O mesmo Dedo de Deus.** O "dedo de Deus" que escreveu as tábuas é o "Espírito de Deus" ([[Lucas 11.20]]; [[Mateus 12.28]]). No Shavuot de Atos 2 esse mesmo [[Dedo de Deus]] escreveu a Torá no coração; os 3.000 mortos no bezerro de ouro ([[Êxodo 32.28]]) são respondidos pelos 3.000 salvos ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
+**O mesmo Dedo de Deus.** O "dedo de Deus" que escreveu as tábuas é o "Espírito de Deus" (Lucas 11.20; Mateus 12.28). No Shavuot de Atos 2 esse mesmo [[Dedo de Deus]] escreveu a Torá no coração; os 3.000 mortos no bezerro de ouro (Êxodo 32.28) são respondidos pelos 3.000 salvos ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
 
-**A graça dentro da aliança.** A redenção perdoa o passado e não autoriza voltar à vida antiga. Rav Yosef usa a imagem da mulher resgatada da prostituição pelo [[Goel]], que paga a dívida e se casa com ela: o resgate não é licença para trair o marido ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]; [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]). Não se colhe uva de espinheiro ([[Mateus 7.15|Mateus 7.15-20]]): a uva é o fruto da redenção, o espinho é filho da maldição de [[Gênesis 3.17]].
+**A graça dentro da aliança.** A redenção perdoa o passado e não autoriza voltar à vida antiga. Rav Yosef usa a imagem da mulher resgatada da prostituição pelo [[Goel]], que paga a dívida e se casa com ela: o resgate não é licença para trair o marido ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]; [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]). Não se colhe uva de espinheiro (Mateus 7.15-20): a uva é o fruto da redenção, o espinho é filho da maldição de Gênesis 3.17.
 
 **O nome dos escritos.** Quando a base diz "Berit Hadashah" para os Evangelhos e as cartas, é para lembrar que eles foram escritos por judeus, dentro do Segundo Templo, e precisam ser lidos a partir do [[Tanakh]] de onde vêm ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). Por esse critério Rav Yosef lê Romanos ([[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]), os textos sobre o Messias ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]; [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]; [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]), a cronologia da ressurreição ([[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]) e a mística de Colossenses e João ([[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]; [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]).
 
@@ -55,7 +55,7 @@ Um contrato de locação renovado continua com as mesmas cláusulas. Muda o fiad
 
 ## Relacionados
 
-[[Jeremias 31]] · [[Jeremias 31.31]] · [[Ezequiel 36.26]] · [[Êxodo 24]] · [[Hebreus 8]] · [[Torá]] · [[Tanakh]] · [[Ruach HaKodesh]] · [[Shavuot]] · [[Dedo de Deus]] · [[Circuncisão do Coração]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Goel]] · [[Moshe Rabenu]] · [[Yeshua]]
+Jeremias 31 · [[Jeremias 31.31]] · [[Ezequiel 36.26]] · Êxodo 24 · Hebreus 8 · [[Torá]] · [[Tanakh]] · [[Ruach HaKodesh]] · [[Shavuot]] · [[Dedo de Deus]] · [[Circuncisão do Coração]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Goel]] · [[Moshe Rabenu]] · [[Yeshua]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

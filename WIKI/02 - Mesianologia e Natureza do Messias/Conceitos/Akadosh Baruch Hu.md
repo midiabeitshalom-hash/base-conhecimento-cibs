@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O título nasce dos profetas. Isaías ouve os serafins clamarem "Santo, santo, santo é o Senhor dos Exércitos" (*Isaías* 6:3) e chama D'us, dezenas de vezes, de *Kedosh Yisrael*, "o Santo de Israel". "A quem, pois, me fareis semelhante, para que lhe seja igual? diz o Santo" (*Isaías* 40:25). A santidade de D'us é a medida da do povo: "Santos sereis, porque eu, o Senhor vosso D'us, sou santo" (*Levítico* 19:2). E a confissão de que ele é um só, sem igual, está em [[Deuteronômio 6.4]], [[Isaías 43.10]] e [[Isaías 44.6]].
+O título nasce dos profetas. Isaías ouve os serafins clamarem "Santo, santo, santo é o Senhor dos Exércitos" (*Isaías* 6:3) e chama D'us, dezenas de vezes, de *Kedosh Yisrael*, "o Santo de Israel". "A quem, pois, me fareis semelhante, para que lhe seja igual? diz o Santo" (*Isaías* 40:25). A santidade de D'us é a medida da do povo: "Santos sereis, porque eu, o Senhor vosso D'us, sou santo" (*Levítico* 19:2). E a confissão de que ele é um só, sem igual, está em [[Deuteronômio 6.4]], Isaías 43.10 e Isaías 44.6.
 
 ## Nas fontes judaicas
 

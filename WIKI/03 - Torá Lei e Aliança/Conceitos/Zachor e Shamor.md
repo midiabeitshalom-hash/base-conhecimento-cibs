@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Zachor e Shamor
 
-**Definição:** *Zachor* (זָכוֹר, "lembra-te") e *Shamor* (שָׁמוֹר, "guarda") são as duas formas com que o mandamento do [[Shabat]] abre nas duas versões do Decálogo: "lembra-te do dia do Shabat para o santificar" ([[Êxodo 20.8]]) e "guarda o dia do Shabat para o santificar" (Deuteronômio 5:12). Para a Beit Shalom, o "lembra-te" prova que o Shabat já existia antes do Sinai.
+**Definição:** *Zachor* (זָכוֹר, "lembra-te") e *Shamor* (שָׁמוֹר, "guarda") são as duas formas com que o mandamento do [[Shabat]] abre nas duas versões do Decálogo: "lembra-te do dia do Shabat para o santificar" (Êxodo 20.8) e "guarda o dia do Shabat para o santificar" (Deuteronômio 5:12). Para a Beit Shalom, o "lembra-te" prova que o Shabat já existia antes do Sinai.
 
 ## Raiz e significado
 
@@ -20,8 +20,8 @@ date_captured: 2026-10-05
 
 - **Gênesis 2:2-3:** D'us descansa no sétimo dia, o abençoa e o santifica. O Shabat nasce na criação, para toda a humanidade em Adão.
 - **Êxodo 16:23-30:** antes do Sinai, o maná não cai no sétimo dia: "amanhã é repouso, o santo Shabat do Senhor".
-- **[[Êxodo 20.8|Êxodo 20.8-11]]:** "lembra-te", com o motivo da criação: "porque em seis dias fez o Senhor os céus e a terra".
-- **Deuteronômio 5:12-15:** "guarda", com o motivo da libertação: "lembra-te de que foste servo na terra do Egito". A versão completa está em [[Deuteronômio 5]].
+- **Êxodo 20.8-11:** "lembra-te", com o motivo da criação: "porque em seis dias fez o Senhor os céus e a terra".
+- **Deuteronômio 5:12-15:** "guarda", com o motivo da libertação: "lembra-te de que foste servo na terra do Egito". A versão completa está em Deuteronômio 5.
 - **Isaías 66:23:** no mundo vindouro, de Shabat em Shabat toda a carne virá adorar.
 
 ## Nas fontes judaicas
@@ -44,7 +44,7 @@ Uma aliança de casamento pede duas coisas: lembrar a data, com festa e palavra 
 
 ## Relacionados
 
-[[Shabat]] · [[Shabbaton]] · [[Êxodo 20]] · [[Êxodo 20.8]] · [[Deuteronômio 5]] · [[Torá Moral]] · [[Havdalá]] · [[Mudar os Tempos e a Lei]] · [[Shabat Milenar]] · [[Talmud Bavli]]
+[[Shabat]] · [[Shabbaton]] · [[Êxodo 20]] · Êxodo 20.8 · Deuteronômio 5 · [[Torá Moral]] · [[Havdalá]] · [[Mudar os Tempos e a Lei]] · [[Shabat Milenar]] · [[Talmud Bavli]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

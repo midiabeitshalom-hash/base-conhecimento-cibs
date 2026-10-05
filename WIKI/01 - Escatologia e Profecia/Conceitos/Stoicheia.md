@@ -33,7 +33,7 @@ Uma parede de tijolos parece sólida. Mas se alguém tirar a argamassa de todos 
 
 ## Relacionados
 
-[[2 Pedro 3.10]] · [[Zacarias 14.12]] · [[Zacarias 14]] · [[Flash Térmico]] · [[Dores de Parto]] · [[Shimon Kefa]] · [[Profeta Zacarias]] · [[Reino Messiânico]] · [[Shabat Milenar]] · [[Operação do Erro]]
+[[2 Pedro 3.10]] · [[Zacarias 14.12]] · Zacarias 14 · [[Flash Térmico]] · [[Dores de Parto]] · [[Shimon Kefa]] · [[Profeta Zacarias]] · [[Reino Messiânico]] · [[Shabat Milenar]] · [[Operação do Erro]]
 
 ## Aparece em
 

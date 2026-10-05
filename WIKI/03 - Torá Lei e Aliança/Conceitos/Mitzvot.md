@@ -18,7 +18,7 @@ A raiz é *tz-w-h* (צ-ו-ה), ordenar, comandar. *Mitzvá* é o que foi ordenad
 
 ## Na Escritura
 
-"Guardareis os meus estatutos e os meus juízos, os quais, fazendo-os o homem, viverá por eles" (Levítico 18:5). "Estas palavras que hoje te ordeno estarão no teu coração" ([[Deuteronômio 6.6]]). Yeshua diz que quem quebrar um destes mandamentos, por menor que seja, e assim ensinar, será chamado o menor no Reino ([[Mateus 5.17|Mateus 5.17-19]]), e "se me amais, guardai os meus mandamentos" (João 14:15). O pecado é *anomia*, transgressão da Torá ([[1 João 3.4]]). O remanescente do fim "guarda os mandamentos de D'us e tem o testemunho de Yeshua" ([[Apocalipse 12.17]]; [[Apocalipse 14.12]]), e entra pelas portas da cidade quem os guarda ([[Apocalipse 22.14]]).
+"Guardareis os meus estatutos e os meus juízos, os quais, fazendo-os o homem, viverá por eles" (Levítico 18:5). "Estas palavras que hoje te ordeno estarão no teu coração" (Deuteronômio 6.6). Yeshua diz que quem quebrar um destes mandamentos, por menor que seja, e assim ensinar, será chamado o menor no Reino ([[Mateus 5.17|Mateus 5.17-19]]), e "se me amais, guardai os meus mandamentos" (João 14:15). O pecado é *anomia*, transgressão da Torá ([[1 João 3.4]]). O remanescente do fim "guarda os mandamentos de D'us e tem o testemunho de Yeshua" (Apocalipse 12.17; [[Apocalipse 14.12]]), e entra pelas portas da cidade quem os guarda ([[Apocalipse 22.14]]).
 
 ## Nas fontes judaicas
 

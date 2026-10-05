@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Baruch Haba B'Shem Adonai
 
-**Definição:** *Baruch haba b'Shem Adonai* (בָּרוּךְ הַבָּא בְּשֵׁם יְהוָה), "bendito o que vem em nome do Senhor", é a aclamação de [[Salmo 118.26]]. [[Yeshua]] a coloca como condição do seu retorno: Jerusalém não o verá de novo "até que digais: Bendito o que vem em nome do Senhor" ([[Mateus 23.39]]).
+**Definição:** *Baruch haba b'Shem Adonai* (בָּרוּךְ הַבָּא בְּשֵׁם יְהוָה), "bendito o que vem em nome do Senhor", é a aclamação de Salmo 118.26. [[Yeshua]] a coloca como condição do seu retorno: Jerusalém não o verá de novo "até que digais: Bendito o que vem em nome do Senhor" (Mateus 23.39).
 
 ## Raiz e significado
 
@@ -18,11 +18,11 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **[[Salmo 118.26]]:** "Bendito aquele que vem em nome do Senhor; da casa do Senhor vos abençoamos." O salmo também traz "a pedra que os edificadores rejeitaram tornou-se cabeça de esquina" (118:22) e o clamor *hoshi'a na*, "salva, por favor" (118:25).
+- **Salmo 118.26:** "Bendito aquele que vem em nome do Senhor; da casa do Senhor vos abençoamos." O salmo também traz "a pedra que os edificadores rejeitaram tornou-se cabeça de esquina" (118:22) e o clamor *hoshi'a na*, "salva, por favor" (118:25).
 - **Mateus 21:9:** na entrada em Jerusalém, a multidão grita "Hosana ao Filho de Davi! Bendito o que vem em nome do Senhor!".
 - **Mateus 21:42:** Yeshua aplica a si a pedra rejeitada do mesmo salmo.
-- **[[Mateus 23.39]]:** "Desde agora não me vereis mais, até que digais: Bendito o que vem em nome do Senhor."
-- **[[Zacarias 12.10]]:** "olharão para mim, a quem traspassaram, e o prantearão", o reconhecimento nacional que precede a aclamação.
+- **Mateus 23.39:** "Desde agora não me vereis mais, até que digais: Bendito o que vem em nome do Senhor."
+- **Zacarias 12.10:** "olharão para mim, a quem traspassaram, e o prantearão", o reconhecimento nacional que precede a aclamação.
 
 ## Nas fontes judaicas
 
@@ -40,7 +40,7 @@ A porta de casa tem uma fechadura que só abre por dentro. Yeshua disse a Jerusa
 
 ## Relacionados
 
-[[Salmo 118.26]] · [[Mateus 23.39]] · [[Zacarias 12.10]] · [[Ani Yosef]] · [[Zafenate-Paneia]] · [[Mashiach ben David]] · [[Mashiach ben Yosef]] · [[Et Tzarah l'Yaakov]] · [[Shaliah]] · [[Shalosh Regalim]] · [[Romanos 11.26]]
+Salmo 118.26 · Mateus 23.39 · Zacarias 12.10 · [[Ani Yosef]] · [[Zafenate-Paneia]] · [[Mashiach ben David]] · [[Mashiach ben Yosef]] · [[Et Tzarah l'Yaakov]] · [[Shaliah]] · [[Shalosh Regalim]] · Romanos 11.26
 
 ## Aparece em
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]

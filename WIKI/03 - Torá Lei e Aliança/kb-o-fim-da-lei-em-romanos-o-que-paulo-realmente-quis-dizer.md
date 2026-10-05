@@ -19,9 +19,9 @@ knowledge_depth: exhaustive-academic
 
 ## Síntese Executiva e Tese Central
 
-- **Tese Central / Premissa Maior:** A epístola de [[Sha'ul HaShaliach|Paulo de Tarso]] aos Romanos não ensina a abolição da [[Torá]], mas estabelece a sua confirmação irrevogável ([[Romanos 3.31]]) e o seu papel pedagógico-moral permanente. O apóstolo demonstra que a salvação sempre foi pela graça mediante a fé (desde Adão, Noé e Abraão até Davi), enquanto o sistema sacrificial de obras da lei operava como expediente didático e temporário de expiação; sob a mediação de [[Yeshua]], a graça não outorga licença para a [[Anomia]] (transgressão da lei), mas restaura no crente a capacidade espiritual de viver em conformidade com a Torá moral inscrita na consciência e no coração ([[Romanos 2.13|Romanos 2.13-15]]; [[Romanos 8.7|Romanos 8.7-8]]).
+- **Tese Central / Premissa Maior:** A epístola de [[Sha'ul HaShaliach|Paulo de Tarso]] aos Romanos não ensina a abolição da [[Torá]], mas estabelece a sua confirmação irrevogável ([[Romanos 3.31]]) e o seu papel pedagógico-moral permanente. O apóstolo demonstra que a salvação sempre foi pela graça mediante a fé (desde Adão, Noé e Abraão até Davi), enquanto o sistema sacrificial de obras da lei operava como expediente didático e temporário de expiação; sob a mediação de [[Yeshua]], a graça não outorga licença para a [[Anomia]] (transgressão da lei), mas restaura no crente a capacidade espiritual de viver em conformidade com a Torá moral inscrita na consciência e no coração (Romanos 2.13-15; Romanos 8.7-8).
 - **Contexto & Importância:** O estudo desconstrói a hermenêutica cristã tradicional ocidental antinômica, que descontextualiza versículos isolados (como *Romanos 10:4* e *10:9*) para defender a tese da revogação da Lei mosaica e a Teologia da Substituição. Demonstra a coerência contínua do pensamento judaico de Paulo ao longo de toda a epístola, reafirmando a eleição irrevogável de Israel e a necessidade de obediência prática aos mandamentos.
-- **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Exige familiaridade com o debate sobre a *Nova Perspectiva sobre Paulo*, distinção exegética entre *Torá Moral* e *Torá Cerimonial/Sacrificial*, a metáfora da Oliveira de [[Romanos 11]], noções de antropologia bíblica hebraica (*Yetzer HaRá* / inclinação carnal vs. *Yetzer Tov* / inclinação espiritual) e exegese de Romanos capítulos 2 a 11.
+- **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Exige familiaridade com o debate sobre a *Nova Perspectiva sobre Paulo*, distinção exegética entre *Torá Moral* e *Torá Cerimonial/Sacrificial*, a metáfora da Oliveira de Romanos 11, noções de antropologia bíblica hebraica (*Yetzer HaRá* / inclinação carnal vs. *Yetzer Tov* / inclinação espiritual) e exegese de Romanos capítulos 2 a 11.
 
 ---
 
@@ -31,40 +31,40 @@ knowledge_depth: exhaustive-academic
 
 **Figuras bíblicas e históricas**
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo dos gentios, judeu benjamita e fariseu, autor da epístola aos Romanos, cujo argumento teológico é resgatado contra as leituras antinômicas.
-- **[[Adam HaRishon|Adão]] (Adam HaRishon):** Primeiro homem criado no Éden, receptor da Torá moral interiorizada, cuja desobediência no mandamento da árvore do conhecimento do bem e do mal introduziu a inclinação desenfreada ao pecado (*Yetzer HaRá*) e a morte a toda a humanidade ([[Romanos 5.12]]).
+- **[[Adam HaRishon|Adão]] (Adam HaRishon):** Primeiro homem criado no Éden, receptor da Torá moral interiorizada, cuja desobediência no mandamento da árvore do conhecimento do bem e do mal introduziu a inclinação desenfreada ao pecado (*Yetzer HaRá*) e a morte a toda a humanidade (Romanos 5.12).
 - **[[Kayin|Caim]] e [[Hevel|Abel]]:** Citados no contexto das primeiras ofertas sacrificiais em Gênesis 4, demonstrando a introdução didática da substituição vicária pós-queda.
 - **[[Profeta Samuel]] (Shemuel HaNavi):** Citado pela repreensão categórica ao rei Saul em [[1 Samuel 15.22]] (*"Tem porventura Adonai tanto prazer em holocaustos e sacrifícios quanto em que se obedeça à sua palavra?"*).
 - **[[Rei Saul]]:** Exemplo histórico de tentativa de substituir a obediência aos mandamentos por sacrifícios rituais exteriores.
 - **[[David HaMelech|Rei Davi]] (David HaMelech):** Evidência veterotestamentária de salvação pela graça divina: no episódio do adultério com Bate-Seba, merecia a pena capital pela Torá, mas foi poupado e justificado pelo arrependimento e graça imerecida.
-- **[[Profeta Elias]] (Eliyahu):** Citado no diálogo com Deus sobre o remanescente fiel de 7.000 homens que não dobraram os joelhos a Baal ([[Romanos 11.2|Romanos 11.2-4]]).
-- **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel que ratificou a imutabilidade da Torá ([[Mateus 5.17|Mateus 5.17-19]]), o segundo Adão cuja obediência gera justificação e vida ([[Romanos 5.17|Romanos 5.17-19]]), e o libertador que remove a condenação do corpo do pecado ([[Romanos 7.24|Romanos 7.24-25]]).
+- **[[Profeta Elias]] (Eliyahu):** Citado no diálogo com Deus sobre o remanescente fiel de 7.000 homens que não dobraram os joelhos a Baal (Romanos 11.2-4).
+- **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel que ratificou a imutabilidade da Torá ([[Mateus 5.17|Mateus 5.17-19]]), o segundo Adão cuja obediência gera justificação e vida (Romanos 5.17-19), e o libertador que remove a condenação do corpo do pecado (Romanos 7.24-25).
 - **[[Yochanan HaShaliach|Apóstolo João]] (Yochanan):** Citado pela definição jurídica e ontológica de pecado em [[1 João 3.4]] (*"o pecado é a transgressão da Torá"*).
 
 **Escrituras**
 - *Torá:* ([[Torá]] / Pentateuco)
-  - *[[Gênesis 2.16|Gênesis 2.16-17]] & [[Gênesis 3]]:* O mandato edênico, o livre-arbítrio, a tentação e a queda.
-  - *[[Gênesis 4]]:* As ofertas de Caim e Abel como matriz dos sacrifícios didáticos de expiação.
-  - *[[Êxodo 20]] / [[Deuteronômio 5]]:* O Decálogo e a proibição da cobiça citada por Paulo em Romanos 7:7.
+  - *[[Gênesis 2.16|Gênesis 2.16-17]] & Gênesis 3:* O mandato edênico, o livre-arbítrio, a tentação e a queda.
+  - *Gênesis 4:* As ofertas de Caim e Abel como matriz dos sacrifícios didáticos de expiação.
+  - *[[Êxodo 20]] / Deuteronômio 5:* O Decálogo e a proibição da cobiça citada por Paulo em Romanos 7:7.
 - *Nevi'im:* (parte do [[Tanakh]])
   - *[[1 Samuel 15.22]]:* A primazia da obediência sobre os sacrifícios de animais.
-  - *[[Isaías 59.20]] / [[Romanos 11.26]]:* A profecia do Redentor que virá de Sião para afastar as impiedades de Jacó.
-  - *1 Reis 19.10-18:* O remanescente de 7.000 que não dobraram os joelhos a Baal, episódio de Elias citado por Paulo em [[Romanos 11.2|Romanos 11.2-4]].
+  - *Isaías 59.20 / Romanos 11.26:* A profecia do Redentor que virá de Sião para afastar as impiedades de Jacó.
+  - *1 Reis 19.10-18:* O remanescente de 7.000 que não dobraram os joelhos a Baal, episódio de Elias citado por Paulo em Romanos 11.2-4.
   - *2 Samuel 11–12:* O adultério de Davi com Bate-Seba e o perdão recebido, usado no estudo como prova da salvação pela graça antes da Nova Aliança.
 - *Ketuvim:*
   - Sem referência específica citada.
 - *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Mateus 5.17|Mateus 5.17-19]]:* O Sermão da Montanha e a proibição categórica de anular o menor dos mandamentos.
-  - *[[Romanos 2.13]]:* *"Porque os que ouvem a lei não são justificados diante de Deus, mas os que praticam a lei hão de ser justificados."*
-  - *[[Romanos 2.14|Romanos 2.14-15]]:* Os gentios que, sem a Torá escrita no Sinai, têm a obra da Torá gravada na consciência.
-  - *[[Romanos 2.26|Romanos 2.26-29]]:* A incircuncisão que guarda a Torá considerada como circuncisão do coração.
+  - *Romanos 2.13:* *"Porque os que ouvem a lei não são justificados diante de Deus, mas os que praticam a lei hão de ser justificados."*
+  - *Romanos 2.14-15:* Os gentios que, sem a Torá escrita no Sinai, têm a obra da Torá gravada na consciência.
+  - *Romanos 2.26-29:* A incircuncisão que guarda a Torá considerada como circuncisão do coração.
   - *[[Romanos 3.31]]:* *"Anulamos, pois, a lei pela fé? De maneira nenhuma! Antes, estabelecemos a lei."*
-  - *[[Romanos 5|Romanos 5.12, 17-19]]:* O contraste entre a desobediência de Adão e a obediência justificadora do Messias.
-  - *[[Romanos 6|Romanos 6.1-2, 14-16]]:* A refutação do pecar sob a graça; a escravidão da obediência para a justiça.
-  - *[[Romanos 7|Romanos 7.7, 12, 14, 22-25]]:* A Torá como santa, justa, boa e espiritual; o conflito interior com o corpo do pecado.
-  - *[[Romanos 8|Romanos 8.5-8, 13]]:* A mente carnal como inimizade contra Deus por não se sujeitar à Torá; a mortificação das obras da carne pelo Espírito.
-  - *[[Romanos 9.1|Romanos 9.1-5]]:* A permanência dos privilégios de Israel (a adoção, a glória, as alianças, a Torá, o culto e as promessas).
-  - *[[Romanos 10|Romanos 10.4, 9]]:* Contextualização da fé salvífica contra leituras isoladas de "confissão de boca".
-  - *[[Romanos 11|Romanos 11.1-2, 15-26]]:* A não-rejeição de Israel, a alegoria do enxerto da Oliveira e o aviso contra a soberba dos ramos bravios (gentios).
+  - *Romanos 5.12, 17-19:* O contraste entre a desobediência de Adão e a obediência justificadora do Messias.
+  - *Romanos 6.1-2, 14-16:* A refutação do pecar sob a graça; a escravidão da obediência para a justiça.
+  - *Romanos 7.7, 12, 14, 22-25:* A Torá como santa, justa, boa e espiritual; o conflito interior com o corpo do pecado.
+  - *Romanos 8.5-8, 13:* A mente carnal como inimizade contra Deus por não se sujeitar à Torá; a mortificação das obras da carne pelo Espírito.
+  - *Romanos 9.1-5:* A permanência dos privilégios de Israel (a adoção, a glória, as alianças, a Torá, o culto e as promessas).
+  - *Romanos 10.4, 9:* Contextualização da fé salvífica contra leituras isoladas de "confissão de boca".
+  - *Romanos 11.1-2, 15-26:* A não-rejeição de Israel, a alegoria do enxerto da Oliveira e o aviso contra a soberba dos ramos bravios (gentios).
   - *[[1 João 3.4]]:* A equação bíblica: Pecado = Quebra da Torá (*Anomia*).
 
 **Literatura rabínica e judaica**
@@ -82,7 +82,7 @@ knowledge_depth: exhaustive-academic
   2. *Torá Cerimonial/Sacrificial (Extrínseca):* Legislação de penas substitutivas (*Corbanot*, sacerdócio levítico, ritos de sangue) introduzida pós-queda com caráter pedagógico para gerenciar a conduta do pecador até a redenção definitiva do Messias.
 - **A Dinâmica do Livre-Arbítrio e Inclinações (*Yetzer*):** A proibição edênica existia para viabilizar a liberdade moral real; sem a possibilidade de desobediência, o homem seria autômato pré-programado.
 - **A Ilusão do "Dispensacionalismo da Graça vs. Lei":** Desconstrução do sofisma histórico de que a Antiga Aliança salvava por obras e a Nova Aliança salva por graça; a graça de Deus sempre foi o único instrumento de salvação em todas as eras bíblicas.
-- **A Alegoria da Oliveira Santa ([[Romanos 11]]):**
+- **A Alegoria da Oliveira Santa (Romanos 11):**
   - *Raiz e Tronco:* Os patriarcas, a aliança e a herança de Israel.
   - *Ramos Naturais Quebrados:* Judeus que tropeçaram temporariamente pela incredulidade no Messias.
   - *Zambujeiro / Ramos Bravios:* Gentios enxertados na seiva da aliança israelita mediante a fé.
@@ -129,35 +129,35 @@ Rav Yosef fundamenta a dissertação paulina na própria narrativa da criação:
 
 ### 2. A Validade da Torá em Romanos 2 e 3: Prática e Consciência
 Rav Yosef desafia a leitura tradicional de Romanos, expondo os textos diretos de Paulo:
-- **Praticantes vs. Ouvintes ([[Romanos 2.13]]):** Paulo afirma expressamente que *"os que ouvem a lei não são justificados diante de Deus, mas os que praticam a lei hão de ser justificados"*. A justificação escatológica está ligada à observância fiel da instrução divina.
-- **A Torá na Consciência dos Gentios ([[Romanos 2.14|Romanos 2.14-15]]):** Os povos das nações que não receberam a revelação formal no Sinai, ao praticarem por consciência moral os preceitos de justiça, evidenciam que a obra da Torá permanece gravada na estrutura humana básica.
-- **A Circuncisão do Coração ([[Romanos 2.26|Romanos 2.26-29]]):** O gentio incircunciso que guarda a Torá tem sua incircuncisão reputada como circuncisão autêntica, demonstrando que a obediência interior supera o mero formalismo ritual exterior.
+- **Praticantes vs. Ouvintes (Romanos 2.13):** Paulo afirma expressamente que *"os que ouvem a lei não são justificados diante de Deus, mas os que praticam a lei hão de ser justificados"*. A justificação escatológica está ligada à observância fiel da instrução divina.
+- **A Torá na Consciência dos Gentios (Romanos 2.14-15):** Os povos das nações que não receberam a revelação formal no Sinai, ao praticarem por consciência moral os preceitos de justiça, evidenciam que a obra da Torá permanece gravada na estrutura humana básica.
+- **A Circuncisão do Coração (Romanos 2.26-29):** O gentio incircunciso que guarda a Torá tem sua incircuncisão reputada como circuncisão autêntica, demonstrando que a obediência interior supera o mero formalismo ritual exterior.
 - **A Tese de [[Romanos 3.31]]:** Diante da indagação sobre se a fé no Messias anula a Torá, Paulo responde com a mais enfática negação do grego bíblico (*Mē genoito* — "De maneira nenhuma!"), proclamando: *"Antes, estabelecemos a Torá"*.
 
 ### 3. A Mecânica da Graça e a Ilusão do Antinomismo (Romanos 5 a 8)
 - **A Universalidade Histórica da Graça:** O estudo desmascara o mito de que o Antigo Testamento operava sob salvação por obras e o Novo por graça. Todos os justos bíblicos (Adão, Noé, Abraão, Moisés, Davi) foram perdoados e salvos estritamente pela graça divina imerecida após caírem em transgressão.
-- **A Incompatibilidade Lógica de Pecar sob a Graça ([[Romanos 6|Romanos 6.1-2, 14-16]]):** A justificação gratuita em Yeshua ocorre pelo cancelamento da dívida da transgressão pretérita. Usar a graça como licença para permanecer em pecado (*Anomia* / quebra da Lei) é uma aberração conceitual: quem morreu com o Messias morreu para a prática do pecado.
-- **A Santidade da Lei vs. A Carnalidade do Homem ([[Romanos 7.7|Romanos 7.7-14]]):**
+- **A Incompatibilidade Lógica de Pecar sob a Graça (Romanos 6.1-2, 14-16):** A justificação gratuita em Yeshua ocorre pelo cancelamento da dívida da transgressão pretérita. Usar a graça como licença para permanecer em pecado (*Anomia* / quebra da Lei) é uma aberração conceitual: quem morreu com o Messias morreu para a prática do pecado.
+- **A Santidade da Lei vs. A Carnalidade do Homem (Romanos 7.7-14):**
   - A Torá não é pecado; ela é o raio-X moral que diagnostica a concupiscência e a cobiça (*"eu não conheceria o pecado se a lei não dissesse: Não cobiçarás"*).
   - Paulo conclui em *Romanos 7:12*: *"A Torá é santa, e o mandamento santo, justo e bom"*.
   - O problema reside na fraqueza do homem carnal vendido ao pecado, que encontra em Yeshua o libertador para subjugar a lei do pecado que atua em seus membros.
-- **O Teste Decisivo de [[Romanos 8.5|Romanos 8.5-8]]:** Paulo declara que a mente inclinada para a carne é **inimizade contra Deus, porque não é sujeita à Torá de Deus, nem em verdade o pode ser**. Portanto, quem alega estar no Espírito mas recusa sujeitar-se aos mandamentos da Torá vive em autoengano carnal.
+- **O Teste Decisivo de Romanos 8.5-8:** Paulo declara que a mente inclinada para a carne é **inimizade contra Deus, porque não é sujeita à Torá de Deus, nem em verdade o pode ser**. Portanto, quem alega estar no Espírito mas recusa sujeitar-se aos mandamentos da Torá vive em autoengano carnal.
 
 ### 4. A Crítica ao Recorte Textual Descontextualizado (Romanos 10:4, 9)
 - **O Fenômeno dos "Versículos de Reels":** Rav Yosef critica a tendência contemporânea de isolar *Romanos 10:9* (*"se confessares com a tua boca e creres no teu coração..."*) ignorando todo o tratado teológico desenvolvido nos capítulos precedentes. A confissão de Yeshua não é uma fórmula mágica desvinculada do discipulado e da santidade da Torá.
 - **O Sentido de "Fim da Lei" (*Telos Nomou* em Romanos 10:4):** No contexto exegético grego e semítico, *Telos* designa o **objetivo final, o alvo supremo, o propósito e a consumação**, e não a extinção ou abolição cronológica. Yeshua é o alvo perfeito para o qual toda a Torá aponta.
 
 ### 5. A Oliveira e a Eleição Irrevogável de Israel (Romanos 9 a 11)
-- **A Rejeição de Israel Refutada ([[Romanos 11.1|Romanos 11.1-2]]):** Paulo rebate a ideia de que Deus teria rejeitado o povo judeu para substituí-lo pela Igreja gentílica: *"Rejeitou Deus o seu povo? De maneira nenhuma!"*. Ele cita sua própria linhagem e a existência contínua do remanescente fiel (*She'arit Yisrael*), preservado pela graça em todas as gerações através dos judeus messiânicos históricos.
-- **A Advertência Contra a Soberba dos Gentios ([[Romanos 11.17|Romanos 11.17-24]]):** Os gentios convertidos são comparados a ramos de um zambujeiro bravo enxertados contra a natureza na boa Oliveira de Israel. Paulo adverte expressamente contra o antissemitismo e o orgulho teológico: os gentios não sustentam a raiz, mas a raiz (a aliança de Israel) sustenta os gentios. Se Deus não poupou os ramos naturais por incredulidade, tampouco poupará os ramos enxertados se caírem em presunção.
-- **A Redenção Plena ([[Romanos 11.25|Romanos 11.25-29]]):** O endurecimento parcial de Israel perdurará até que a plenitude dos gentios tenha entrado, momento em que todo o Israel será salvo com o retorno do Redentor de Sião, pois *"os dons e a vocação de Deus são irrevogáveis/sem arrependimento"*.
+- **A Rejeição de Israel Refutada (Romanos 11.1-2):** Paulo rebate a ideia de que Deus teria rejeitado o povo judeu para substituí-lo pela Igreja gentílica: *"Rejeitou Deus o seu povo? De maneira nenhuma!"*. Ele cita sua própria linhagem e a existência contínua do remanescente fiel (*She'arit Yisrael*), preservado pela graça em todas as gerações através dos judeus messiânicos históricos.
+- **A Advertência Contra a Soberba dos Gentios (Romanos 11.17-24):** Os gentios convertidos são comparados a ramos de um zambujeiro bravo enxertados contra a natureza na boa Oliveira de Israel. Paulo adverte expressamente contra o antissemitismo e o orgulho teológico: os gentios não sustentam a raiz, mas a raiz (a aliança de Israel) sustenta os gentios. Se Deus não poupou os ramos naturais por incredulidade, tampouco poupará os ramos enxertados se caírem em presunção.
+- **A Redenção Plena (Romanos 11.25-29):** O endurecimento parcial de Israel perdurará até que a plenitude dos gentios tenha entrado, momento em que todo o Israel será salvo com o retorno do Redentor de Sião, pois *"os dons e a vocação de Deus são irrevogáveis/sem arrependimento"*.
 
 ---
 
 ## Glossário e Rede de Conexões
 
 ### Rede de Conexões Bidirecionais
-- [[Torá]]: A instrução divina perpétua, santa, justa, boa e espiritual ([[Romanos 7|Romanos 7.12, 14]]), estabelecida pela fé messiânica ([[Romanos 3.31]]).
+- [[Torá]]: A instrução divina perpétua, santa, justa, boa e espiritual (Romanos 7.12, 14), estabelecida pela fé messiânica ([[Romanos 3.31]]).
 - [[Carta aos Romanos]]: Tratado teológico magistral de Paulo que articula a relação orgânica entre a graça divina, a justificação pela fé, a obediência à Lei e o destino de Israel.
 - [[Sha'ul HaShaliach|Paulo de Tarso]]: O apóstolo que defendeu a permanência da Torá contra o legalismo ritualista e o antinomismo gentílico.
 - [[Yeshua]]: O Messias obediente que atua como o alvo (*Telos*) da Torá, justificando o transgressor e capacitando-o a andar em novidade de vida.
@@ -192,17 +192,17 @@ Rav Yosef desafia a leitura tradicional de Romanos, expondo os textos diretos de
 ### Princípios Fundamentais Extraídos
 1. **Princípio do Estabelecimento da Torá pela Fé:** A fé autêntica no sacrifício vicário de Yeshua não revoga a Lei moral de Deus; pelo contrário, estabelece-a como guia ético de conduta para o crente regenerado ([[Romanos 3.31]]).
 2. **Princípio da Universalidade da Salvação pela Graça:** Ninguém em nenhuma dispensação bíblica foi salvo por mérito de obras mecânicas; a graça sempre foi o único veículo de perdão, enquanto a Torá atua como o padrão de vida justa.
-3. **Princípio da Sujeição Espiritual:** Estar no Espírito significa ter a mente alinhada e voluntariamente submissa à Torá de Deus; a recusa em obedecer aos mandamentos é a marca diagnóstica da mente carnal ([[Romanos 8.7]]).
+3. **Princípio da Sujeição Espiritual:** Estar no Espírito significa ter a mente alinhada e voluntariamente submissa à Torá de Deus; a recusa em obedecer aos mandamentos é a marca diagnóstica da mente carnal (Romanos 8.7).
 4. **Princípio da Humildade dos Enxertados:** Os crentes gentios devem profunda reverência e gratidão à raiz de Israel, abandonando qualquer soberba teológica ou presunção substitucionista.
 
 ### Checklist Operacional / Plano de Aplicação Prática
 
 - [ ] **Desconstrução de Vieses Antinômicos:**
   - [ ] Reler a [[Carta aos Romanos]] de forma contínua e sequencial (do capítulo 1 ao 16), evitando recortes isolados de versículos fora do contexto global.
-  - [ ] Confrontar ensinamentos que afirmam que "a lei foi abolida" com as declarações explícitas de [[Romanos 2.13]], [[Romanos 3.31]] e [[Romanos 7.12]].
+  - [ ] Confrontar ensinamentos que afirmam que "a lei foi abolida" com as declarações explícitas de Romanos 2.13, [[Romanos 3.31]] e Romanos 7.12.
 - [ ] **Alinhamento Prático da Vida Moral:**
   - [ ] Examinar a conduta pessoal à luz dos mandamentos morais da [[Torá]], identificando áreas de cobiça, falsidade ou desobediência.
-  - [ ] Praticar a mortificação das obras da carne pelo poder do Espírito Santo ([[Romanos 8.13]]), buscando a santificação concreta.
+  - [ ] Praticar a mortificação das obras da carne pelo poder do Espírito Santo (Romanos 8.13), buscando a santificação concreta.
 - [ ] **Reconexão com as Raízes de Israel:**
   - [ ] Eliminar qualquer traço de antissemitismo teológico ou Teologia da Substituição da mentalidade e do discurso.
   - [ ] Reconhecer a continuidade da eleição de Israel e apoiar o florescimento do testemunho judaico-messiânico contemporâneo.

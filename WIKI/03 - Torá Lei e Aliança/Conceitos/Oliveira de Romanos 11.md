@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Oliveira de Romanos 11
 
-**Definição:** é a alegoria de [[Romanos 11|Romanos 11.16-24]] em que [[Sha'ul HaShaliach]] compara Israel a uma oliveira cultivada. A raiz é a aliança com os patriarcas; alguns ramos naturais foram quebrados pela incredulidade; os gentios que creem são ramos de [[Zambujeiro]], a oliveira brava, enxertados no tronco. Na base, é a refutação bíblica da [[Teologia da Substituição]].
+**Definição:** é a alegoria de Romanos 11.16-24 em que [[Sha'ul HaShaliach]] compara Israel a uma oliveira cultivada. A raiz é a aliança com os patriarcas; alguns ramos naturais foram quebrados pela incredulidade; os gentios que creem são ramos de [[Zambujeiro]], a oliveira brava, enxertados no tronco. Na base, é a refutação bíblica da [[Teologia da Substituição]].
 
 ## Raiz e significado
 
@@ -20,11 +20,11 @@ A imagem vem do Tanakh. "Oliveira verde, formosa, de belo fruto, chamou o Senhor
 
 ## Na Escritura
 
-- **[[Romanos 11.1|Romanos 11.1-2]]:** "Rejeitou Deus o seu povo? De maneira nenhuma!"
-- **[[Romanos 11.17|Romanos 11.17-18]]:** "não te glories contra os ramos (...) não és tu que sustentas a raiz, mas a raiz a ti".
+- **Romanos 11.1-2:** "Rejeitou Deus o seu povo? De maneira nenhuma!"
+- **Romanos 11.17-18:** "não te glories contra os ramos (...) não és tu que sustentas a raiz, mas a raiz a ti".
 - **Romanos 11:20-22:** se D'us não poupou os ramos naturais, também não poupará os enxertados que se ensoberbecerem.
 - **Romanos 11:23-24:** os ramos naturais têm mais facilidade de ser reenxertados na própria oliveira.
-- **[[Romanos 11.25|Romanos 11.25-26]]:** o endurecimento é parcial e dura até que entre a plenitude dos gentios, "e assim todo o Israel será salvo".
+- **Romanos 11.25-26:** o endurecimento é parcial e dura até que entre a plenitude dos gentios, "e assim todo o Israel será salvo".
 
 ## Na visão da Beit Shalom
 
@@ -40,7 +40,7 @@ Um galho enxertado não escolhe a seiva. Ele bebe o que sobe da raiz. Quem foi e
 
 ## Relacionados
 
-[[Romanos 11]] · [[Romanos 11.1]] · [[Romanos 11.17]] · [[Romanos 11.25]] · [[Romanos 11.26]] · [[Zambujeiro]] · [[Teologia da Substituição]] · [[She'arit Yisrael]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Efraim]] · [[Carta aos Romanos]] · [[Sha'ul HaShaliach]]
+Romanos 11 · Romanos 11.1 · Romanos 11.17 · Romanos 11.25 · Romanos 11.26 · [[Zambujeiro]] · [[Teologia da Substituição]] · [[She'arit Yisrael]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Efraim]] · [[Carta aos Romanos]] · [[Sha'ul HaShaliach]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

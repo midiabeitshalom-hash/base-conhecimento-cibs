@@ -22,7 +22,7 @@ Samuel fecha o período dos juízes e abre o da monarquia. Julgou Israel por tod
 
 O episódio central para a base é 1 Samuel 15. Saul recebe a ordem de destruir Amaleque por inteiro, poupa o rei Agague e o melhor do gado e diz que guardou os animais "para sacrificar ao Senhor". Samuel responde: "Tem porventura Adonai tanto prazer em holocaustos e sacrifícios quanto em que se obedeça à sua palavra? Eis que o obedecer é melhor do que o sacrificar, e o atender melhor do que a gordura de carneiros. Porque a rebelião é como o pecado de feitiçaria" ([[1 Samuel 15.22|1 Samuel 15.22-23]]).
 
-A mesma linha passa por Davi ([[Salmo 40.6]]; [[Salmo 51.16|Salmo 51.16-17]]) e por Salomão: "fazer justiça e juízo é mais aceitável ao Senhor do que sacrifício" ([[Provérbios 21.3]]). Jeremias põe Samuel ao lado de Moisés como grande intercessor (Jeremias 15:1), e Pedro diz que "todos os profetas, desde Samuel", anunciaram os dias do Messias (Atos 3:24).
+A mesma linha passa por Davi (Salmo 40.6; Salmo 51.16-17) e por Salomão: "fazer justiça e juízo é mais aceitável ao Senhor do que sacrifício" (Provérbios 21.3). Jeremias põe Samuel ao lado de Moisés como grande intercessor (Jeremias 15:1), e Pedro diz que "todos os profetas, desde Samuel", anunciaram os dias do Messias (Atos 3:24).
 
 ## Na tradição judaica
 

@@ -36,7 +36,7 @@ Um aparelho cirúrgico pode estar brilhando e ainda assim não estar esterilizad
 
 ## Relacionados
 
-[[Taharah]] · [[Kashrut]] · [[Shechitá]] · [[Ruach Tum'ah]] · [[Niddah]] · [[Tzaraat]] · [[Netilat Yadayim]] · [[Kelipot]] · [[Kedushá]] · [[Atos 10]] · [[Teshuvá]] · [[Mitzvot]]
+[[Taharah]] · [[Kashrut]] · [[Shechitá]] · [[Ruach Tum'ah]] · [[Niddah]] · [[Tzaraat]] · [[Netilat Yadayim]] · [[Kelipot]] · [[Kedushá]] · Atos 10 · [[Teshuvá]] · [[Mitzvot]]
 
 ## Aparece em
 

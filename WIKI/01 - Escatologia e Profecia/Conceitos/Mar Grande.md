@@ -14,11 +14,11 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-Na geografia da Torá, *Yam HaGadol* é o Mediterrâneo, a fronteira ocidental da terra prometida (Números 34:6; Josué 1:4). Daniel escreve em aramaico: "eu estava olhando na minha visão da noite, e eis que os quatro ventos do céu agitavam o mar grande" (Daniel 7:2). O verbo é de quem revolve, faz ferver. O mar, na Escritura, carrega também a memória do [[Tehom]], o abismo das águas de [[Gênesis 1.2]], o que ainda não recebeu ordem.
+Na geografia da Torá, *Yam HaGadol* é o Mediterrâneo, a fronteira ocidental da terra prometida (Números 34:6; Josué 1:4). Daniel escreve em aramaico: "eu estava olhando na minha visão da noite, e eis que os quatro ventos do céu agitavam o mar grande" (Daniel 7:2). O verbo é de quem revolve, faz ferver. O mar, na Escritura, carrega também a memória do [[Tehom]], o abismo das águas de Gênesis 1.2, o que ainda não recebeu ordem.
 
 ## Na Escritura
 
-Os profetas usam o mar para falar das nações: "ai do bramido de muitos povos, que bramam como bramam os mares" (Isaías 17:12); "os perversos são como o mar agitado, que não se pode aquietar" (Isaías 57:20). O Apocalipse explica a imagem por conta própria: "as águas que viste são povos, multidões, nações e línguas" (Apocalipse 17:15). A besta de [[Apocalipse 13]] também sobe do mar. E na nova criação "o mar já não existe" (Apocalipse 21:1): acaba a agitação das nações sem D'us.
+Os profetas usam o mar para falar das nações: "ai do bramido de muitos povos, que bramam como bramam os mares" (Isaías 17:12); "os perversos são como o mar agitado, que não se pode aquietar" (Isaías 57:20). O Apocalipse explica a imagem por conta própria: "as águas que viste são povos, multidões, nações e línguas" (Apocalipse 17:15). A besta de Apocalipse 13 também sobe do mar. E na nova criação "o mar já não existe" (Apocalipse 21:1): acaba a agitação das nações sem D'us.
 
 ## Na visão da Beit Shalom
 
@@ -32,7 +32,7 @@ Quem olha o mar em tempestade vê onda atrás de onda, cada uma parecendo maior 
 
 ## Relacionados
 
-[[Daniel 7]] · [[Daniel 7.13]] · [[Daniel 2]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · [[Apocalipse 13]] · [[Tehom]] · [[Pedra Cortada sem Mãos]] · [[Profeta Daniel]] · [[Nefesh HaBehamit]] · [[PaRDeS]]
+[[Daniel 7]] · [[Daniel 7.13]] · [[Daniel 2]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · Apocalipse 13 · [[Tehom]] · [[Pedra Cortada sem Mãos]] · [[Profeta Daniel]] · [[Nefesh HaBehamit]] · [[PaRDeS]]
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]

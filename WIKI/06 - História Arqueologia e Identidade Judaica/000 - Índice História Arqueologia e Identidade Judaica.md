@@ -17,7 +17,7 @@ O Segundo Templo, os grupos judaicos do 1º século, os Bnei Anussim, o DNA abra
 
 ## Conceitos desta categoria
 
-_Nenhum conceito ainda._
+[[Avraham Avinu]] · [[Beit Knesset]] · [[Binyamin]] · [[Bnei Anussim]] · [[Cristãos-Novos]] · [[Cromossomo Y]] · [[DNAmt]] · [[Ebionitas]] · [[Esdras]] · [[Essênios]] · [[Fariseus]] · [[Gaspar da Gama]] · [[Genética Autossômica]] · [[Inquisição Ibérica]] · [[Lashon shel Zehorit]] · [[Mestre João Faras]] · [[Nazarenos]] · [[Neemias]] · [[Ner HaMa'aravi]] · [[Pedro Álvares Cabral]] · [[Profeta Eliseu]] · [[Rainha Isabel I de Castela]] · [[Rei D. Manuel I de Portugal]] · [[Rei Fernando II de Aragão]] · [[Rei Saul]] · [[Saduceus]] · [[Sefarad]] · [[Segundo Templo]] · [[Shimon HaTzaddik]] · [[Tzadok]] · [[Ya'akov HaTzaddik]] · [[Zelotes]] · [[Zera Israel]] · [[Édito de Granada]]
 
 ## Ver também
 - [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]

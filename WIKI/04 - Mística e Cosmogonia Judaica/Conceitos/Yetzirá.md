@@ -38,7 +38,7 @@ No canteiro de obras, a forma de madeira decide o formato da coluna antes do con
 
 ## Relacionados
 
-[[Arba'ah Olamot]] · [[Atzilut]] · [[Beriá]] · [[Assiá]] · [[Sefirot]] · [[Chesed]] · [[Tiferet]] · [[Yetzer HaRá]] · [[Yetzer Tov]] · [[Olam Katan]] · [[Sulam Ya'akov]] · [[Tzimtzum]] · [[Gênesis 1.1]] · [[Gênesis 2.7]]
+[[Arba'ah Olamot]] · [[Atzilut]] · [[Beriá]] · [[Assiá]] · [[Sefirot]] · [[Chesed]] · [[Tiferet]] · [[Yetzer HaRá]] · [[Yetzer Tov]] · [[Olam Katan]] · [[Sulam Ya'akov]] · [[Tzimtzum]] · [[Gênesis 1.1]] · Gênesis 2.7
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

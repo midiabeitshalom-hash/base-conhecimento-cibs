@@ -20,7 +20,7 @@ Em Niceia o termo venceu a disputa entre Ário, que via o Filho como gerado e su
 
 ## Na Escritura
 
-A palavra não ocorre em nenhum livro da Bíblia. O que a Escritura afirma é o oposto de uma essência partilhada entre pessoas iguais: o [[Shemá Israel]] de [[Deuteronômio 6.4]], recitado por Yeshua como o primeiro mandamento ([[Marcos 12.29]]); "o único D'us verdadeiro, e a Yeshua, o Messias, a quem enviaste" ([[João 17.3]]); "um só D'us e um só mediador entre D'us e os homens, Yeshua, o Messias, homem" ([[1 Timóteo 2.5]]). Até a frase mais usada a favor do termo, "eu e o Pai somos um" ([[João 10.30]]), é explicada pelo próprio Yeshua quando pede que os discípulos sejam "um" como ele e o Pai são um ([[João 17.21]]). É unidade de propósito e de vontade, não de substância.
+A palavra não ocorre em nenhum livro da Bíblia. O que a Escritura afirma é o oposto de uma essência partilhada entre pessoas iguais: o [[Shemá Israel]] de [[Deuteronômio 6.4]], recitado por Yeshua como o primeiro mandamento (Marcos 12.29); "o único D'us verdadeiro, e a Yeshua, o Messias, a quem enviaste" ([[João 17.3]]); "um só D'us e um só mediador entre D'us e os homens, Yeshua, o Messias, homem" ([[1 Timóteo 2.5]]). Até a frase mais usada a favor do termo, "eu e o Pai somos um" (João 10.30), é explicada pelo próprio Yeshua quando pede que os discípulos sejam "um" como ele e o Pai são um (João 17.21). É unidade de propósito e de vontade, não de substância.
 
 ## Na visão da Beit Shalom
 
@@ -30,11 +30,11 @@ A base pensa Yeshua pela função, e não pela ontologia ([[Ontologia vs. Funç�
 
 ## Leituras que a Beit Shalom corrige
 
-A leitura comum trata o *homoousios* como a explicação fiel do que os apóstolos já criam. A base mostra que os apóstolos nunca usaram a palavra, que Pedro pregou "um homem ungido por D'us, porque D'us era com ele" ([[Atos 10.38]]) e que Paulo separa em todas as saudações "D'us, nosso Pai" e "o Senhor Yeshua, o Messias". O termo é uma resposta grega a uma pergunta grega, e não uma chave para ler textos judeus.
+A leitura comum trata o *homoousios* como a explicação fiel do que os apóstolos já criam. A base mostra que os apóstolos nunca usaram a palavra, que Pedro pregou "um homem ungido por D'us, porque D'us era com ele" (Atos 10.38) e que Paulo separa em todas as saudações "D'us, nosso Pai" e "o Senhor Yeshua, o Messias". O termo é uma resposta grega a uma pergunta grega, e não uma chave para ler textos judeus.
 
 ## Como explicar à congregação
 
-Um espelho reflete o rosto com toda a exatidão, e ninguém diz que o espelho é o rosto. Yeshua é a imagem perfeita do D'us invisível ([[Colossenses 1.15]]). O *homoousios* tentou dizer que o espelho e o rosto são feitos da mesma coisa.
+Um espelho reflete o rosto com toda a exatidão, e ninguém diz que o espelho é o rosto. Yeshua é a imagem perfeita do D'us invisível (Colossenses 1.15). O *homoousios* tentou dizer que o espelho e o rosto são feitos da mesma coisa.
 
 ## Relacionados
 

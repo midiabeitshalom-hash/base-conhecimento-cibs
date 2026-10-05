@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-Em hebraico, *ben* indica pertença a uma categoria: *ben shanah* é "de um ano", *ben mavet* é "condenado à morte". *Ben adam* é, então, "da espécie humana". *Adam* vem da mesma raiz de *adamah*, terra: o homem é o que foi tirado do solo ([[Gênesis 2.7]]). Em aramaico, a forma é *bar enash*, a de [[Daniel 7.13]]. O grego dos Evangelhos traduz literalmente por *huios tou anthrōpou*.
+Em hebraico, *ben* indica pertença a uma categoria: *ben shanah* é "de um ano", *ben mavet* é "condenado à morte". *Ben adam* é, então, "da espécie humana". *Adam* vem da mesma raiz de *adamah*, terra: o homem é o que foi tirado do solo (Gênesis 2.7). Em aramaico, a forma é *bar enash*, a de [[Daniel 7.13]]. O grego dos Evangelhos traduz literalmente por *huios tou anthrōpou*.
 
 ## Na Escritura
 
@@ -24,11 +24,11 @@ Em hebraico, *ben* indica pertença a uma categoria: *ben shanah* é "de um ano"
 - **Ezequiel:** D'us chama o profeta de *ben adam* cerca de noventa vezes, lembrando a distância entre o mensageiro e quem o envia ([[Profeta Ezequiel]]).
 - **[[Daniel 7.13]]:** "um como filho de homem" vem com as nuvens até o Ancião de Dias e recebe domínio e reino. Ele *recebe*; não tem por si.
 - **Mateus 9:6-8:** Yeshua diz que "o Filho do Homem tem na terra poder para perdoar pecados", e a multidão "glorificou a Deus, que dera tal poder aos homens".
-- **[[Marcos 8.31]]:** "era necessário que o Filho do Homem padecesse muito... e depois de três dias ressuscitasse."
+- **Marcos 8.31:** "era necessário que o Filho do Homem padecesse muito... e depois de três dias ressuscitasse."
 
 ## Nas fontes judaicas
 
-O Talmud usa Daniel 7:13 na discussão sobre como o Messias virá. Em *Sanhedrin 98a*, Rabi Yehoshua ben Levi contrapõe "com as nuvens do céu, como filho de homem" a "pobre, montado num jumento" ([[Zacarias 9.9]]): se Israel for digno, ele vem com as nuvens; se não, vem humilde. A base usa o mesmo texto para as duas manifestações, [[Mashiach ben Yosef]] e [[Mashiach ben David]] ([[Talmud Bavli]]).
+O Talmud usa Daniel 7:13 na discussão sobre como o Messias virá. Em *Sanhedrin 98a*, Rabi Yehoshua ben Levi contrapõe "com as nuvens do céu, como filho de homem" a "pobre, montado num jumento" (Zacarias 9.9): se Israel for digno, ele vem com as nuvens; se não, vem humilde. A base usa o mesmo texto para as duas manifestações, [[Mashiach ben Yosef]] e [[Mashiach ben David]] ([[Talmud Bavli]]).
 
 ## Na visão da Beit Shalom
 

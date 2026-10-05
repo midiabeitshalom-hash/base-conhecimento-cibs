@@ -14,11 +14,11 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Olam* é mundo, e também tempo longo, eternidade; a tradição chassídica o aproxima de *he'elem*, ocultamento, porque o mundo esconde a presença de D'us. *Katan* é pequeno. O grego dos filósofos disse o mesmo com *mikrokosmos*, mas a raiz hebraica está em [[Gênesis 1.26]]: o homem feito à imagem ([[Tzelem Elohim]]) carrega em si o desenho do todo. E [[Gênesis 2.7]] mostra a ligação física: pó da terra e sopro de D'us, matéria e espírito no mesmo ser.
+*Olam* é mundo, e também tempo longo, eternidade; a tradição chassídica o aproxima de *he'elem*, ocultamento, porque o mundo esconde a presença de D'us. *Katan* é pequeno. O grego dos filósofos disse o mesmo com *mikrokosmos*, mas a raiz hebraica está em [[Gênesis 1.26]]: o homem feito à imagem ([[Tzelem Elohim]]) carrega em si o desenho do todo. E Gênesis 2.7 mostra a ligação física: pó da terra e sopro de D'us, matéria e espírito no mesmo ser.
 
 ## Na Escritura
 
-- **[[Gênesis 1.26]] e [[Gênesis 2.7]]:** imagem de D'us; pó e fôlego de vida.
+- **[[Gênesis 1.26]] e Gênesis 2.7:** imagem de D'us; pó e fôlego de vida.
 - **Salmo 139:14:** "de um modo terrível e tão maravilhoso fui formado".
 - **Lucas 17:20-21:** "o Reino de Deus está dentro de vós".
 - **1 Coríntios 3:16:** o ser humano como santuário onde habita o Espírito.

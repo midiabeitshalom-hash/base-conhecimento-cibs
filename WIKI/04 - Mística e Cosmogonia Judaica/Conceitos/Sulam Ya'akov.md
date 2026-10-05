@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Sulam Ya'akov
 
-**Definição:** *Sulam Ya'akov* (סֻלָּם יַעֲקֹב) é a escada que Jacó viu em sonho em Betel, "posta na terra, cujo topo tocava os céus", com os anjos subindo e descendo (Gênesis 28:12). Na Beit Shalom, é o eixo de ligação entre a terra e o céu, lido no nível *Sod* como a passagem pelos quatro mundos, e personificado em Yeshua, que se apresenta como a escada viva ([[João 1|João 1.51]]).
+**Definição:** *Sulam Ya'akov* (סֻלָּם יַעֲקֹב) é a escada que Jacó viu em sonho em Betel, "posta na terra, cujo topo tocava os céus", com os anjos subindo e descendo (Gênesis 28:12). Na Beit Shalom, é o eixo de ligação entre a terra e o céu, lido no nível *Sod* como a passagem pelos quatro mundos, e personificado em Yeshua, que se apresenta como a escada viva (João 1.51).
 
 ## Raiz e significado
 
@@ -20,7 +20,7 @@ date_captured: 2026-10-05
 
 - **Gênesis 28:10-22:** o sonho em Betel, a promessa da terra e da semente, a pedra erguida como coluna e o voto de Jacó.
 - **Gênesis 32:24-30:** no vau de Jaboque, Jacó luta e recebe o nome Israel; a escada vista vira caminho percorrido.
-- **[[João 1|João 1.51]]:** Yeshua diz a Natanael: "vereis o céu aberto, e os anjos de D'us subindo e descendo sobre o Filho do Homem".
+- **João 1.51:** Yeshua diz a Natanael: "vereis o céu aberto, e os anjos de D'us subindo e descendo sobre o Filho do Homem".
 - **[[1 Timóteo 2.5]]:** "há um só D'us, e um só mediador entre D'us e os homens, Yeshua, homem".
 
 ## Nas fontes judaicas
@@ -45,7 +45,7 @@ Um prédio tem o dono no último andar e uma escada que liga a rua à cobertura.
 
 ## Relacionados
 
-[[Ya'akov Avinu]] · [[Sha'ar HaShamayim]] · [[Even HaShetiyah]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Assiá]] · [[Adam Kadmon]] · [[Kli]] · [[Olam Katan]] · [[João 1]] · [[Har Sinai]] · [[Guematria]] · [[Sod]]
+[[Ya'akov Avinu]] · [[Sha'ar HaShamayim]] · [[Even HaShetiyah]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Assiá]] · [[Adam Kadmon]] · [[Kli]] · [[Olam Katan]] · João 1 · [[Har Sinai]] · [[Guematria]] · [[Sod]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

@@ -18,7 +18,7 @@ A raiz *G-A-L* é resgatar. Dela vem [[Goel]], o parente próximo que tem o dire
 
 ## Na Escritura
 
-A lei do resgate está em [[Levítico 25]]: "a terra não se venderá em perpetuidade, porque a terra é minha... em toda a terra da vossa possessão dareis resgate (*geulá*) à terra" (25:23-24). O livro de Rute mostra a lei em ação, com Boaz como *goel*. Na saída do Egito, D'us promete: "vos resgatarei (*vega'alti*) com braço estendido" (Êxodo 6:6), e [[Pessach]] se torna o modelo de toda redenção. Isaías anuncia: "virá o Redentor (*Goel*) a Sião" ([[Isaías 59.20]]), texto que Sha'ul aplica à salvação de todo Israel ([[Romanos 11.26]]). Yeshua diz que, quando os sinais do fim começarem, "levantai a cabeça, porque a vossa redenção está próxima" (Lucas 21:28).
+A lei do resgate está em [[Levítico 25]]: "a terra não se venderá em perpetuidade, porque a terra é minha... em toda a terra da vossa possessão dareis resgate (*geulá*) à terra" (25:23-24). O livro de Rute mostra a lei em ação, com Boaz como *goel*. Na saída do Egito, D'us promete: "vos resgatarei (*vega'alti*) com braço estendido" (Êxodo 6:6), e [[Pessach]] se torna o modelo de toda redenção. Isaías anuncia: "virá o Redentor (*Goel*) a Sião" (Isaías 59.20), texto que Sha'ul aplica à salvação de todo Israel (Romanos 11.26). Yeshua diz que, quando os sinais do fim começarem, "levantai a cabeça, porque a vossa redenção está próxima" (Lucas 21:28).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Uma família perde a casa por dívida. Anos depois, um parente aparece com o din
 
 ## Relacionados
 
-[[Goel]] · [[Levítico 25]] · [[Yovel]] · [[Isaías 59.20]] · [[Romanos 11.26]] · [[Or HaGanuz]] · [[Apocalipse 21.23]] · [[Tikkun Olam]] · [[Reino Messiânico]] · [[Olam Haba]] · [[Pessach]] · [[Teshuvá]] · [[Mashiach ben David]]
+[[Goel]] · [[Levítico 25]] · [[Yovel]] · Isaías 59.20 · Romanos 11.26 · [[Or HaGanuz]] · [[Apocalipse 21.23]] · [[Tikkun Olam]] · [[Reino Messiânico]] · [[Olam Haba]] · [[Pessach]] · [[Teshuvá]] · [[Mashiach ben David]]
 
 ## Aparece em
 

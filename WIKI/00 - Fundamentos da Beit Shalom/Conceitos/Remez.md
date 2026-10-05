@@ -18,9 +18,9 @@ Em hebraico, *remez* é um aceno, um gesto que indica sem dizer em voz alta. No 
 
 ## Na Escritura
 
-- **Números 21 e [[João 3|João 3.14-15]]:** o exemplo que a base usa. A serpente de bronze foi um fato no deserto; Yeshua a lê como aceno à sua própria elevação no madeiro ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]).
-- **[[Gênesis 22]]:** Isaque carrega a lenha e pergunta pelo cordeiro; aparece um carneiro (*ayil*), não um cordeiro (*keves*). O cordeiro fica como aceno para o futuro ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
-- **[[Gênesis 48.14|Gênesis 48.14-20]] e [[João 21.6]]:** a mão direita de Jacó sobre Efraim e a rede lançada do lado direito do barco ([[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]).
+- **Números 21 e João 3.14-15:** o exemplo que a base usa. A serpente de bronze foi um fato no deserto; Yeshua a lê como aceno à sua própria elevação no madeiro ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]).
+- **Gênesis 22:** Isaque carrega a lenha e pergunta pelo cordeiro; aparece um carneiro (*ayil*), não um cordeiro (*keves*). O cordeiro fica como aceno para o futuro ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
+- **Gênesis 48.14-20 e João 21.6:** a mão direita de Jacó sobre Efraim e a rede lançada do lado direito do barco ([[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]).
 - **[[Mateus 12.40]]:** Jonas no ventre do peixe como sinal dos três dias e três noites, o [[Sinal de Jonas]].
 
 ## Nas fontes judaicas

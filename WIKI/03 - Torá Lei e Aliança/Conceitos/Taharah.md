@@ -18,7 +18,7 @@ A raiz *T-H-R* carrega a ideia de brilho e clareza. Em Êxodo 24:10, debaixo dos
 
 ## Na Escritura
 
-A Torá manda "fazer diferença entre o santo e o profano, e entre o imundo e o limpo" (Levítico 10:10), e fecha a lista dos animais com o mesmo propósito: "para fazer diferença entre o imundo e o limpo" (Levítico 11:47). A pureza perdida se recupera por caminhos que a própria Torá dá: o tempo (sete dias, em muitos casos), a água da imersão e, no caso do contato com a morte, as cinzas da novilha vermelha (Números 19). Davi pede: "cria em mim, ó D'us, um coração puro" (*lev tahor*, Salmo 51:10), e D'us promete espalhar "água pura" sobre Israel e dar um coração novo ([[Ezequiel 36|Ezequiel 36.25-27]]). Yeshua leva o tema ao centro: "bem-aventurados os limpos de coração, porque verão a D'us" (Mateus 5:8).
+A Torá manda "fazer diferença entre o santo e o profano, e entre o imundo e o limpo" (Levítico 10:10), e fecha a lista dos animais com o mesmo propósito: "para fazer diferença entre o imundo e o limpo" (Levítico 11:47). A pureza perdida se recupera por caminhos que a própria Torá dá: o tempo (sete dias, em muitos casos), a água da imersão e, no caso do contato com a morte, as cinzas da novilha vermelha (Números 19). Davi pede: "cria em mim, ó D'us, um coração puro" (*lev tahor*, Salmo 51:10), e D'us promete espalhar "água pura" sobre Israel e dar um coração novo (Ezequiel 36.25-27). Yeshua leva o tema ao centro: "bem-aventurados os limpos de coração, porque verão a D'us" (Mateus 5:8).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Um vidro sujo continua sendo vidro, mas a luz passa mal por ele. *Taharah* é o 
 
 ## Relacionados
 
-[[Tum'ah]] · [[Kashrut]] · [[Shechitá]] · [[Kedushá]] · [[Shechinah]] · [[Tevilá]] · [[Niddah]] · [[Tzaraat]] · [[Netilat Yadayim]] · [[Kelipot]] · [[Ezequiel 36]] · [[Teshuvá]]
+[[Tum'ah]] · [[Kashrut]] · [[Shechitá]] · [[Kedushá]] · [[Shechinah]] · [[Tevilá]] · [[Niddah]] · [[Tzaraat]] · [[Netilat Yadayim]] · [[Kelipot]] · Ezequiel 36 · [[Teshuvá]]
 
 ## Aparece em
 

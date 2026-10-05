@@ -17,7 +17,7 @@ Três fatos de 1478 a 1492 marcam a relação dela com os judeus de [[Sefarad]].
 
 ## Na Escritura
 
-O profeta Obadias fala dos "exilados de Jerusalém que estão em Sefarad" (Obadias 1:20), e é desse versículo que vem o nome hebraico da península. A Torá anuncia a dispersão entre as nações e o retorno "nos últimos dias" a quem buscar a D'us de todo o coração ([[Deuteronômio 4]], versículos 27 a 31).
+O profeta Obadias fala dos "exilados de Jerusalém que estão em Sefarad" (Obadias 1:20), e é desse versículo que vem o nome hebraico da península. A Torá anuncia a dispersão entre as nações e o retorno "nos últimos dias" a quem buscar a D'us de todo o coração (Deuteronômio 4, versículos 27 a 31).
 
 ## Na tradição judaica
 

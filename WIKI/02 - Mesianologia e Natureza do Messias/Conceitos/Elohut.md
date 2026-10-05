@@ -22,7 +22,7 @@ O grego de Colossenses 2:9 usa *theotēs*, "deidade", e o verbo *katoikeō*, hab
 
 "Porque nele habita corporalmente toda a plenitude da divindade" ([[Colossenses 2.9]]). Poucos versículos antes Sha'ul explica de onde vem essa plenitude: "aprouve ao Pai que nele habitasse toda a plenitude" (Colossenses 1:19). A plenitude foi dada por decisão do Pai. O mesmo vale para o Espírito: "aquele que D'us enviou fala as palavras de D'us, pois não lhe dá D'us o Espírito por medida" (João 3:34). E Yeshua diz: "o Pai, que está em mim, é quem faz as obras" (João 14:10).
 
-O Tanakh dá o modelo: a glória enche o Tabernáculo (Êxodo 40:34) e o Templo de Salomão (1 Reis 8:10-11), e nem um nem outro são adorados como D'us. Os profetas receberam medidas do Espírito, como os 70 anciãos de [[Números 11.17]]; Yeshua recebeu a plenitude ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+O Tanakh dá o modelo: a glória enche o Tabernáculo (Êxodo 40:34) e o Templo de Salomão (1 Reis 8:10-11), e nem um nem outro são adorados como D'us. Os profetas receberam medidas do Espírito, como os 70 anciãos de Números 11.17; Yeshua recebeu a plenitude ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 ## Nas fontes judaicas
 
@@ -44,7 +44,7 @@ Uma garrafa cheia de perfume espalha o perfume pela sala inteira, mas ninguém c
 
 ## Relacionados
 
-[[Shechinah]] · [[Shaliah]] · [[Ontologia vs. Função]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Adam Kadmon]] · [[Kli]] · [[Or HaGanuz]] · [[Ruach HaKodesh]] · [[Colossenses 2.9]] · [[Colossenses 1.15]] · [[João 1.14]]
+[[Shechinah]] · [[Shaliah]] · [[Ontologia vs. Função]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Adam Kadmon]] · [[Kli]] · [[Or HaGanuz]] · [[Ruach HaKodesh]] · [[Colossenses 2.9]] · Colossenses 1.15 · João 1.14
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

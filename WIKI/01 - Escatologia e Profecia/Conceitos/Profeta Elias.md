@@ -20,7 +20,7 @@ Perseguido, foge e caminha quarenta dias e quarenta noites até o Horebe (1 Reis
 
 ## Na Escritura
 
-O Tanakh termina com o nome dele: "Eis que eu vos envio o profeta Elias, antes que venha o grande e terrível dia do Senhor; e ele converterá o coração dos pais aos filhos" (Malaquias 4:5-6). Na [[Berit Hadashah]], o anjo diz que [[João, o Imersor]] irá "no espírito e virtude de Elias" (Lucas 1:17), e Yeshua o confirma (Mateus 11:14; 17:10-13). Elias aparece com Moisés na transfiguração. Tiago o usa como modelo de oração: era "homem sujeito às mesmas paixões que nós" e orou para não chover por três anos e meio (Tiago 5:17). E Sha'ul cita os sete mil para provar que D'us não rejeitou Israel ([[Romanos 11.2|Romanos 11.2-4]]).
+O Tanakh termina com o nome dele: "Eis que eu vos envio o profeta Elias, antes que venha o grande e terrível dia do Senhor; e ele converterá o coração dos pais aos filhos" (Malaquias 4:5-6). Na [[Berit Hadashah]], o anjo diz que [[João, o Imersor]] irá "no espírito e virtude de Elias" (Lucas 1:17), e Yeshua o confirma (Mateus 11:14; 17:10-13). Elias aparece com Moisés na transfiguração. Tiago o usa como modelo de oração: era "homem sujeito às mesmas paixões que nós" e orou para não chover por três anos e meio (Tiago 5:17). E Sha'ul cita os sete mil para provar que D'us não rejeitou Israel (Romanos 11.2-4).
 
 ## Na tradição judaica
 
@@ -32,7 +32,7 @@ A base usa Elias em três pontos. Ele entra no padrão dos quarenta dias de tran
 
 ## Relacionados
 
-[[Profeta Eliseu]] · [[Izevel]] · [[João, o Imersor]] · [[Moshe Rabenu]] · [[Romanos 11.2]] · [[She'arit Yisrael]] · [[Sêder de Pessach]] · [[Havdalá]] · [[Rabi Yehoshua ben Levi]] · [[Talmud Bavli]] · [[Yovel]]
+[[Profeta Eliseu]] · [[Izevel]] · [[João, o Imersor]] · [[Moshe Rabenu]] · Romanos 11.2 · [[She'arit Yisrael]] · [[Sêder de Pessach]] · [[Havdalá]] · [[Rabi Yehoshua ben Levi]] · [[Talmud Bavli]] · [[Yovel]]
 
 ## Aparece em
 

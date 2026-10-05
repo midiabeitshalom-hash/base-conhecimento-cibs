@@ -34,7 +34,7 @@ Quem já brigou por um inventário sabe que herança não é presente: é direit
 
 ## Relacionados
 
-[[Levítico 25]] · [[Levítico 25.9]] · [[Yovel]] · [[Shemitá]] · [[Goel]] · [[Ben Adam]] · [[Doze Tribos de Israel]] · [[Yom Kippur]] · [[Reino Messiânico]] · [[Geulá]] · [[Shofar HaGadol]] · [[Hitgalut]]
+[[Levítico 25]] · Levítico 25.9 · [[Yovel]] · [[Shemitá]] · [[Goel]] · [[Ben Adam]] · [[Doze Tribos de Israel]] · [[Yom Kippur]] · [[Reino Messiânico]] · [[Geulá]] · [[Shofar HaGadol]] · [[Hitgalut]]
 
 ## Aparece em
 - [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]

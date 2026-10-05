@@ -19,7 +19,7 @@ Maquiavel o cita em *O Príncipe* (capítulo 21) como modelo de quem usa a relig
 
 ## Na Escritura
 
-Obadias 1:20 fala dos "exilados de Jerusalém que estão em Sefarad", e [[Deuteronômio 4]] anuncia a dispersão entre as nações e o retorno nos últimos dias. A história dos judeus de Aragão e Castela entra nesse quadro: um exílio dentro do exílio.
+Obadias 1:20 fala dos "exilados de Jerusalém que estão em Sefarad", e Deuteronômio 4 anuncia a dispersão entre as nações e o retorno nos últimos dias. A história dos judeus de Aragão e Castela entra nesse quadro: um exílio dentro do exílio.
 
 ## Na tradição judaica
 

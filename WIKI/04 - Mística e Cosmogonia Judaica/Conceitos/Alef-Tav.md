@@ -21,9 +21,9 @@ O versículo tem duas ocorrências: *et HaShamayim* e *ve-et HaAretz*. O código
 ## Na Escritura
 
 - **[[Gênesis 1.1]]:** *Bereshit bará Elohim et HaShamayim ve-et HaAretz*.
-- **[[Salmo 33.6]]:** "Pela palavra do Senhor foram feitos os céus." A criação acontece por fala, por [[Davar]].
-- **[[Hebreus 1.3]]:** o Filho "sustenta todas as coisas pela palavra do seu poder".
-- **[[João 1|João 1.1-3, 14]]:** a Palavra pela qual tudo foi feito "se fez carne" ([[João 1.14]]).
+- **Salmo 33.6:** "Pela palavra do Senhor foram feitos os céus." A criação acontece por fala, por [[Davar]].
+- **Hebreus 1.3:** o Filho "sustenta todas as coisas pela palavra do seu poder".
+- **João 1.1-3, 14:** a Palavra pela qual tudo foi feito "se fez carne" (João 1.14).
 
 ## Nas fontes judaicas
 
@@ -41,7 +41,7 @@ Antes de construir um programa, o programador escolhe a linguagem em que vai esc
 
 ## Relacionados
 
-[[Davar]] · [[Torá]] · [[Gênesis 1.1]] · [[Salmo 33.6]] · [[Hebreus 1.3]] · [[João 1.14]] · [[Guematria]] · [[Bereshit Rabá]] · [[Adam Kadmon]] · [[Sod]]
+[[Davar]] · [[Torá]] · [[Gênesis 1.1]] · Salmo 33.6 · Hebreus 1.3 · João 1.14 · [[Guematria]] · [[Bereshit Rabá]] · [[Adam Kadmon]] · [[Sod]]
 
 ## Aparece em
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]

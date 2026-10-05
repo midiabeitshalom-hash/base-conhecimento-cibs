@@ -20,7 +20,7 @@ A ideia aparece em outros textos com a mesma raiz: "ele restaura a minha alma", 
 
 ## Na Escritura
 
-O [[Salmo 19]] tem duas metades. A primeira fala dos céus que proclamam a glória de D'us e do sol que segue sua rota sem errar. A segunda, a partir do versículo 7, fala da Torá. A mesma ordem que governa os astros governa a alma. O versículo 7 abre uma série: a Torá é perfeita e restaura a alma, o testemunho é fiel e dá sabedoria ao simples, os preceitos são retos e alegram o coração.
+O Salmo 19 tem duas metades. A primeira fala dos céus que proclamam a glória de D'us e do sol que segue sua rota sem errar. A segunda, a partir do versículo 7, fala da Torá. A mesma ordem que governa os astros governa a alma. O versículo 7 abre uma série: a Torá é perfeita e restaura a alma, o testemunho é fiel e dá sabedoria ao simples, os preceitos são retos e alegram o coração.
 
 ## Nas fontes judaicas
 
@@ -28,7 +28,7 @@ O Talmud põe na boca de D'us: "criei a inclinação ao mal e criei para ela a T
 
 ## Na visão da Beit Shalom
 
-Rav Yosef usa a expressão para mostrar que a Torá não é um código legalista de sacrifícios, mas a matriz da criação, o [[Davar]] pelo qual D'us estruturou e sustenta a realidade ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]). No Éden, a Torá moral estava gravada na alma de [[Adam HaRishon]]. O pecado entrou como um vírus e corrompeu a alma e o corpo. A restauração é o [[Tikkun]]: voltar ao molde do [[Adam Kadmon]], e isso acontece quando a Torá é escrita no coração pela Nova Aliança ([[Jeremias 31.33]]). Yeshua não anulou o código; tirou o vírus e reinstalou o original.
+Rav Yosef usa a expressão para mostrar que a Torá não é um código legalista de sacrifícios, mas a matriz da criação, o [[Davar]] pelo qual D'us estruturou e sustenta a realidade ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]). No Éden, a Torá moral estava gravada na alma de [[Adam HaRishon]]. O pecado entrou como um vírus e corrompeu a alma e o corpo. A restauração é o [[Tikkun]]: voltar ao molde do [[Adam Kadmon]], e isso acontece quando a Torá é escrita no coração pela Nova Aliança (Jeremias 31.33). Yeshua não anulou o código; tirou o vírus e reinstalou o original.
 
 Por isso, na base, *meshivat nafesh* liga duas coisas que muita gente separa: a Torá e a teshuvá. Voltar para D'us é voltar para a instrução dele.
 
@@ -38,7 +38,7 @@ Quando o computador trava, o técnico não joga fora o sistema operacional. Ele 
 
 ## Relacionados
 
-[[Salmo 19.7]] · [[Salmo 19]] · [[Salmo 119]] · [[Torá]] · [[Teshuvá]] · [[Tikkun]] · [[Davar]] · [[Adam Kadmon]] · [[Adam HaRishon]] · [[Yetzer HaRá]] · [[Jeremias 31.33]] · [[Torá Moral]]
+[[Salmo 19.7]] · Salmo 19 · Salmo 119 · [[Torá]] · [[Teshuvá]] · [[Tikkun]] · [[Davar]] · [[Adam Kadmon]] · [[Adam HaRishon]] · [[Yetzer HaRá]] · Jeremias 31.33 · [[Torá Moral]]
 
 ## Aparece em
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]

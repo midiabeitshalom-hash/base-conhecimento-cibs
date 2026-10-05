@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-A árvore está no centro do jardim (Gênesis 2:9). Depois da queda, D'us põe querubins e uma espada flamejante para guardar o caminho até ela (Gênesis 3:22-24), para que o homem não coma em estado de pecado e eternize o mal ([[Gênesis 3]]). Os Provérbios aplicam a imagem à sabedoria e, na leitura judaica, à Torá: "é árvore da vida para os que a seguram" (Provérbios 3:18), versículo que se canta na sinagoga quando o rolo volta à arca. No fim da Escritura a árvore reaparece junto ao rio da vida ([[Apocalipse 22.1|Apocalipse 22.1-2]]) e o acesso a ela é devolvido: "bem-aventurados aqueles que guardam os seus mandamentos, para que tenham direito à árvore da vida" ([[Apocalipse 22.14]]).
+A árvore está no centro do jardim (Gênesis 2:9). Depois da queda, D'us põe querubins e uma espada flamejante para guardar o caminho até ela (Gênesis 3:22-24), para que o homem não coma em estado de pecado e eternize o mal (Gênesis 3). Os Provérbios aplicam a imagem à sabedoria e, na leitura judaica, à Torá: "é árvore da vida para os que a seguram" (Provérbios 3:18), versículo que se canta na sinagoga quando o rolo volta à arca. No fim da Escritura a árvore reaparece junto ao rio da vida (Apocalipse 22.1-2) e o acesso a ela é devolvido: "bem-aventurados aqueles que guardam os seus mandamentos, para que tenham direito à árvore da vida" ([[Apocalipse 22.14]]).
 
 ## Nas fontes judaicas
 
@@ -28,7 +28,7 @@ Na Cabala, a árvore das *Sefirot* se organiza em três colunas: misericórdia �
 
 O estudo dos quatro níveis dos mundos faz do corpo humano um mapa da árvore ([[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]): a cabeça corresponde a *Kéter*, os braços a [[Chesed]] e *Gevurá*, o tronco e o coração a [[Tiferet]], as pernas a *Netzach* e *Hod*, o órgão reprodutivo a *Yessod* e os pés a [[Malchut]]. Quando *Chesed* e *Gevurá* estão em equilíbrio, a pessoa é um canal limpo; excesso de *Chesed* vira permissividade, excesso de *Gevurá* vira tirania. Rav Yosef lê assim o cego de Betsaida, que primeiro viu "homens como árvores que andam" (Marcos 8:24): uma visão da anatomia espiritual antes da física.
 
-Daí a regra que os Fundamentos registram: o homem é uma árvore, liga-se à Etz Chaim ou à Sitra Achra e é julgado pelos frutos nos sete pilares da vida ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). A árvore que não dá fruto é cortada (Mateus 7:19; [[Mateus 7.15|Mateus 7.15-20]]); a condenação é a consequência da árvore que escolheu secar. Na leitura da base sobre as *Sefirot*, o Messias ocupa o eixo central, *Tiferet*, o canal por onde a luz desce sem destruir a criação. É lugar de mediação: a luz que passa por ele vem do [[Ein Sof]].
+Daí a regra que os Fundamentos registram: o homem é uma árvore, liga-se à Etz Chaim ou à Sitra Achra e é julgado pelos frutos nos sete pilares da vida ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). A árvore que não dá fruto é cortada (Mateus 7:19; Mateus 7.15-20); a condenação é a consequência da árvore que escolheu secar. Na leitura da base sobre as *Sefirot*, o Messias ocupa o eixo central, *Tiferet*, o canal por onde a luz desce sem destruir a criação. É lugar de mediação: a luz que passa por ele vem do [[Ein Sof]].
 
 O círculo se fecha entre Gênesis e Apocalipse. O acesso perdido no Éden é devolvido a quem guarda os mandamentos, e a Torá, "árvore da vida para os que a seguram", é o caminho de volta.
 
@@ -42,7 +42,7 @@ Uma árvore não decide dar laranja num dia e espinho no outro. O fruto revela a
 
 ## Relacionados
 
-[[Sefirot]] · [[Tiferet]] · [[Chesed]] · [[Malchut]] · [[Sitra Achra]] · [[Adam Kadmon]] · [[Olam Katan]] · [[Arba'ah Olamot]] · [[Tikkun]] · [[Kelipot]] · [[Arizal]] · [[Zohar]] · [[Apocalipse 22.14]] · [[Gênesis 3]]
+[[Sefirot]] · [[Tiferet]] · [[Chesed]] · [[Malchut]] · [[Sitra Achra]] · [[Adam Kadmon]] · [[Olam Katan]] · [[Arba'ah Olamot]] · [[Tikkun]] · [[Kelipot]] · [[Arizal]] · [[Zohar]] · [[Apocalipse 22.14]] · Gênesis 3
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

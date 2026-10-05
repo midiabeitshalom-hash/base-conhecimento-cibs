@@ -13,11 +13,11 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-O grego *charagma* (χάραγμα) é a marca gravada ou impressa: o cunho de uma moeda, o selo imperial num documento, o ferro em brasa no gado ou no escravo. Diz a quem a coisa pertence. A Escritura conhece a marca contrária. Em Ezequiel 9:4, um sinal (*tav*) é posto na testa dos que gemem pelas abominações de Jerusalém, e eles são poupados. A Torá pede que as suas palavras estejam "por sinal na tua mão" e "por frontais entre os teus olhos" (Deuteronômio 6:8, logo depois de [[Deuteronômio 6.6]]). A mão é a ação; a testa, a mente. A besta disputa exatamente os dois lugares que a Torá quer ocupar.
+O grego *charagma* (χάραγμα) é a marca gravada ou impressa: o cunho de uma moeda, o selo imperial num documento, o ferro em brasa no gado ou no escravo. Diz a quem a coisa pertence. A Escritura conhece a marca contrária. Em Ezequiel 9:4, um sinal (*tav*) é posto na testa dos que gemem pelas abominações de Jerusalém, e eles são poupados. A Torá pede que as suas palavras estejam "por sinal na tua mão" e "por frontais entre os teus olhos" (Deuteronômio 6:8, logo depois de Deuteronômio 6.6). A mão é a ação; a testa, a mente. A besta disputa exatamente os dois lugares que a Torá quer ocupar.
 
 ## Na Escritura
 
-- **[[Apocalipse 13]]:** a imagem da besta recebe fôlego (*pneuma*, 13:15) e faz matar quem não a adora; a marca na mão direita ou na testa (13:16-18).
+- **Apocalipse 13:** a imagem da besta recebe fôlego (*pneuma*, 13:15) e faz matar quem não a adora; a marca na mão direita ou na testa (13:16-18).
 - **Apocalipse 14:1 e 14:9-11:** os 144 mil trazem na testa o Nome do Pai; quem recebe a marca bebe do vinho da ira de D'us.
 - **Apocalipse 16:2:** a primeira taça produz chagas malignas só nos que têm a marca.
 - **[[Apocalipse 20.4]]:** reinam com o Messias os que não adoraram a besta nem receberam a marca.
@@ -32,7 +32,7 @@ Os Fundamentos põem a marca no centro do pilar do tempo do fim ([[kb-pilares-do
 
 ## Leituras que a Beit Shalom corrige
 
-O [[Pré-Tribulacionismo]] ensina que os fiéis serão retirados antes da marca. A base responde com [[Apocalipse 20.4]] e [[Mateus 24.29|Mateus 24.29-31]]: a reunião dos eleitos é depois da tribulação, e quem espera escapar baixa a guarda. Também corrige a leitura que reduz a marca a um chip ou a um símbolo econômico passageiro, e a teoria dos filhos de Sete, que apaga o pano de fundo de Gênesis 6.
+O [[Pré-Tribulacionismo]] ensina que os fiéis serão retirados antes da marca. A base responde com [[Apocalipse 20.4]] e Mateus 24.29-31: a reunião dos eleitos é depois da tribulação, e quem espera escapar baixa a guarda. Também corrige a leitura que reduz a marca a um chip ou a um símbolo econômico passageiro, e a teoria dos filhos de Sete, que apaga o pano de fundo de Gênesis 6.
 
 ## Como explicar à congregação
 
@@ -40,7 +40,7 @@ Todo gado marcado a ferro carrega o sinal do dono. D'us já pôs a assinatura de
 
 ## Relacionados
 
-[[Apocalipse 13]] · [[Tzelem Elohim]] · [[Tetragrama]] · [[Nefilim]] · [[Shedim]] · [[Bnei Elohim]] · [[Mastema]] · [[Transumanismo]] · [[Grande Tribulação]] · [[Primeira Ressurreição]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Chanoch]]
+Apocalipse 13 · [[Tzelem Elohim]] · [[Tetragrama]] · [[Nefilim]] · [[Shedim]] · [[Bnei Elohim]] · [[Mastema]] · [[Transumanismo]] · [[Grande Tribulação]] · [[Primeira Ressurreição]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Chanoch]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

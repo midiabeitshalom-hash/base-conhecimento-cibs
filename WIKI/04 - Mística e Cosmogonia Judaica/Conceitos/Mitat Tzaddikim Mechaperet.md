@@ -18,10 +18,10 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **O servo.** "Ele foi traspassado pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele" ([[Isaías 53]]); "quando der a sua alma como oferta pela culpa", *asham* ([[Isaías 53.10]]; [[Asham]]).
+- **O servo.** "Ele foi traspassado pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele" (Isaías 53); "quando der a sua alma como oferta pela culpa", *asham* (Isaías 53.10; [[Asham]]).
 - **O tempo da expiação.** Setenta semanas "para fazer cessar a transgressão... e expiar a iniquidade", *ulechaper avon*, e o Messias "cortado" ([[Daniel 9.24|Daniel 9.24-26]]).
-- **O inocente no lugar do culpado.** As túnicas de pele do Éden ([[Gênesis 3.21]]) e o carneiro da *Akedá* ([[Gênesis 22]]).
-- **O limite do sangue animal.** "É impossível que o sangue de touros e bodes tire pecados" ([[Hebreus 10.4]]).
+- **O inocente no lugar do culpado.** As túnicas de pele do Éden ([[Gênesis 3.21]]) e o carneiro da *Akedá* (Gênesis 22).
+- **O limite do sangue animal.** "É impossível que o sangue de touros e bodes tire pecados" (Hebreus 10.4).
 
 ## Nas fontes judaicas
 
@@ -51,7 +51,7 @@ Num hospital, um doador compatível dá o que tem para salvar outro. Ninguém di
 
 ## Relacionados
 
-[[Kapará]] · [[Asham]] · [[Isaías 53]] · [[Isaías 53.10]] · [[Daniel 9.24]] · [[Mashiach ben Yosef]] · [[Tzaddikim]] · [[Yoma 39b]] · [[Talmud Bavli]] · [[Zohar]] · [[Rashi]] · [[Ramban]] · [[Midrash Rabbah]] · [[Yom Kippur]] · [[Kohen Gadol]] · [[Aharon HaKohen]] · [[Tikkun]] · [[Gênesis 22]]
+[[Kapará]] · [[Asham]] · Isaías 53 · Isaías 53.10 · [[Daniel 9.24]] · [[Mashiach ben Yosef]] · [[Tzaddikim]] · [[Yoma 39b]] · [[Talmud Bavli]] · [[Zohar]] · [[Rashi]] · [[Ramban]] · [[Midrash Rabbah]] · [[Yom Kippur]] · [[Kohen Gadol]] · [[Aharon HaKohen]] · [[Tikkun]] · Gênesis 22
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

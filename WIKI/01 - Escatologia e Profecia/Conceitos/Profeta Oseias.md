@@ -18,7 +18,7 @@ Oseias recebe a ordem de se casar com Gômer, mulher infiel, e o casamento vira 
 
 - **Oseias 2:19-20:** "desposar-te-ei comigo para sempre", a aliança como noivado.
 - **Oseias 3:4-5:** Israel ficaria muitos dias sem rei, sem príncipe, sem sacrifício; depois voltaria e buscaria o Senhor e "Davi, seu rei", nos últimos dias.
-- **[[Oseias 4.6]]:** "o meu povo foi destruído por falta de conhecimento... visto que te esqueceste da Torá do teu Deus".
+- **Oseias 4.6:** "o meu povo foi destruído por falta de conhecimento... visto que te esqueceste da Torá do teu Deus".
 - **Oseias 6:6:** "misericórdia quero, e não sacrifício", citado por Yeshua em Mateus 9:13 e 12:7.
 - **Oseias 7:8 e 8:8:** "Efraim se mistura com os povos"; "Israel foi devorado, agora está entre as nações".
 - **Oseias 8:12:** "escrevi-lhe as grandezas da minha Torá, mas são consideradas como coisa estranha".
@@ -31,13 +31,13 @@ O [[Targum]] traduz Oseias 3:5 como "obedecerão ao Messias, filho de Davi, seu 
 
 ## Na leitura da Beit Shalom
 
-O texto de Oseias que a base mais usa é [[Oseias 4.6]]. Rav Yosef liga a "verdade" de [[2 Tessalonicenses 2.10]] à Torá do [[Salmo 119.142]] e mostra que a [[Operação do Erro]] tem raiz no profeta: a destruição não vem de uma ignorância inocente, mas da rejeição consciente do conhecimento da Torá, e o juízo responde na mesma moeda ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). Oseias também está entre os profetas clássicos chamados para descrever as festas de outono e a volta do Messias, com a promessa de habitar de novo em tendas (Oseias 12:9) ([[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]).
+O texto de Oseias que a base mais usa é Oseias 4.6. Rav Yosef liga a "verdade" de 2 Tessalonicenses 2.10 à Torá do Salmo 119.142 e mostra que a [[Operação do Erro]] tem raiz no profeta: a destruição não vem de uma ignorância inocente, mas da rejeição consciente do conhecimento da Torá, e o juízo responde na mesma moeda ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). Oseias também está entre os profetas clássicos chamados para descrever as festas de outono e a volta do Messias, com a promessa de habitar de novo em tendas (Oseias 12:9) ([[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]).
 
 E Oseias é, por excelência, o profeta de Efraim. Ele vê as dez tribos misturadas entre os povos, a Torá tratada como coisa estranha e, no fim, o retorno a D'us e a Davi. É a mesma linha da teologia das duas casas: Efraim espalhado nas nações, reunido com Judá sob um só pastor ([[Ezequiel 37]]; [[Casa de Israel]]).
 
 ## Relacionados
 
-[[Oseias 4.6]] · [[Operação do Erro]] · [[Efraim]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Teshuvá]] · [[Emet]] · [[Torá]] · [[Mashiach ben David]] · [[Ezequiel 37]] · [[Sucot]] · [[Yehoshua bin Nun]]
+Oseias 4.6 · [[Operação do Erro]] · [[Efraim]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Teshuvá]] · [[Emet]] · [[Torá]] · [[Mashiach ben David]] · [[Ezequiel 37]] · [[Sucot]] · [[Yehoshua bin Nun]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

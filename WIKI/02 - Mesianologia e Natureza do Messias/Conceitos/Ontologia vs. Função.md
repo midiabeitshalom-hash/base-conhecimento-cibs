@@ -21,10 +21,10 @@ date_captured: 2026-10-05
 - **Salmo 82:6:** os juízes são chamados *elohim*, e Yeshua cita o verso em João 10:34-36.
 - **Êxodo 23:21:** o anjo enviado diante de Israel leva o Nome de D'us "nele".
 - **[[João 17.3]]:** "o único Deus verdadeiro, e a Yeshua, o Messias, a quem enviaste".
-- **[[Atos 10.38]]:** D'us ungiu Yeshua, "porque Deus era com ele".
+- **Atos 10.38:** D'us ungiu Yeshua, "porque Deus era com ele".
 - **[[1 Timóteo 2.5]]:** "um só Deus, e um só mediador (...) Yeshua, o Messias, homem".
-- **[[Filipenses 2.9|Filipenses 2.9-11]]** e Mateus 28:18: o nome e a autoridade lhe foram *dados*.
-- **[[1 Coríntios 15.28]]:** no fim, o próprio Filho se sujeita ao Pai.
+- **Filipenses 2.9-11** e Mateus 28:18: o nome e a autoridade lhe foram *dados*.
+- **1 Coríntios 15.28:** no fim, o próprio Filho se sujeita ao Pai.
 
 ## Nas fontes judaicas
 

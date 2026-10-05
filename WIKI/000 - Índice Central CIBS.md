@@ -10,20 +10,20 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 38 notas · 0 conceitos)
+## Categorias (7 categorias · 38 notas · 297 conceitos)
 
-- [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 0 conceitos
-- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 13 notas · 0 conceitos
-- [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 5 notas · 0 conceitos
-- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 0 conceitos
-- [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 7 notas · 0 conceitos
-- [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 0 conceitos
-- [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 0 conceitos
+- [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 8 conceitos
+- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 13 notas · 87 conceitos
+- [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 5 notas · 32 conceitos
+- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 50 conceitos
+- [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 7 notas · 45 conceitos
+- [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
+- [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 34 conceitos
 
 ## Referências
 
-- [[000 - Índice Escrituras|Escrituras]] — 0 passagens
-- [[000 - Índice Fontes|Fontes]] — 0 obras e referências
+- [[000 - Índice Escrituras|Escrituras]] — 40 passagens
+- [[000 - Índice Fontes|Fontes]] — 20 obras e referências
 
 ## Todas as notas (ordem alfabética)
 

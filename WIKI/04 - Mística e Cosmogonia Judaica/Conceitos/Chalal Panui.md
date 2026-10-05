@@ -24,7 +24,7 @@ O ensino vem do Arizal, Rabi Isaac Luria, e foi registrado por Rabi Chaim Vital 
 
 Rav Yosef apresenta a sequência como o "botão de start" da criação ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]). O Ein Sof preenchia tudo; ele contraiu a luz; abriu-se o *Chalal Panui*; nele surgiu o [[Adam Kadmon]], o molde de toda a criação; e a luz desceu filtrada por quatro mundos, [[Atzilut]], [[Beriá]], [[Yetzirá]] e [[Assiá]], para que o mundo físico não fosse vaporizado pela glória de D'us ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). Ele aproxima esse movimento do *Big Bang* da cosmologia: a partir de um ponto, a criação se desdobra em níveis.
 
-O espaço vazio tem um propósito moral. Se a luz estivesse exposta por toda parte, ninguém poderia escolher contra ela. O *Chalal Panui* é a condição do arbítrio, e o arbítrio é real e tem consequência. O vazio também não é o fim: D'us "não a criou vazia, mas a formou para ser habitada" ([[Isaías 45.18]]). A criação foi aberta para ser preenchida de novo, pelas [[Mitzvot]] que fazem do mundo de baixo uma morada para D'us, a [[Dirah BeTachtonim]], até a luz plena do [[Tikkun Olam]].
+O espaço vazio tem um propósito moral. Se a luz estivesse exposta por toda parte, ninguém poderia escolher contra ela. O *Chalal Panui* é a condição do arbítrio, e o arbítrio é real e tem consequência. O vazio também não é o fim: D'us "não a criou vazia, mas a formou para ser habitada" (Isaías 45.18). A criação foi aberta para ser preenchida de novo, pelas [[Mitzvot]] que fazem do mundo de baixo uma morada para D'us, a [[Dirah BeTachtonim]], até a luz plena do [[Tikkun Olam]].
 
 ## Como explicar à congregação
 
@@ -32,7 +32,7 @@ Um pai que quer ensinar o filho a andar de bicicleta tira a mão do selim. Ele c
 
 ## Relacionados
 
-[[Tzimtzum]] · [[Ein Sof]] · [[Or Ein Sof]] · [[Adam Kadmon]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Assiá]] · [[Or HaGanuz]] · [[Arizal]] · [[Gênesis 1.2]] · [[Isaías 45.18]] · [[Dirah BeTachtonim]] · [[Tikkun Olam]]
+[[Tzimtzum]] · [[Ein Sof]] · [[Or Ein Sof]] · [[Adam Kadmon]] · [[Arba'ah Olamot]] · [[Atzilut]] · [[Assiá]] · [[Or HaGanuz]] · [[Arizal]] · Gênesis 1.2 · Isaías 45.18 · [[Dirah BeTachtonim]] · [[Tikkun Olam]]
 
 ## Aparece em
 

@@ -10,11 +10,11 @@ date_captured: 2026-10-05
 
 # Bechor
 
-**Definição:** *Bechor* (בְּכוֹר) é o primogênito. Na Torá, o título traz primazia, autoridade sobre a casa e herança dobrada. Em [[Colossenses 1.15]], Yeshua é chamado "primogênito de toda a criação", e a Beit Shalom lê o título como primazia e autoridade executiva do Messias como [[Adam Kadmon]], a primeira emanação, que tem uma fonte: o [[Ein Sof]].
+**Definição:** *Bechor* (בְּכוֹר) é o primogênito. Na Torá, o título traz primazia, autoridade sobre a casa e herança dobrada. Em Colossenses 1.15, Yeshua é chamado "primogênito de toda a criação", e a Beit Shalom lê o título como primazia e autoridade executiva do Messias como [[Adam Kadmon]], a primeira emanação, que tem uma fonte: o [[Ein Sof]].
 
 ## Raiz e significado
 
-A raiz *B-K-R* indica o que vem primeiro: *bikurim* são as primícias, *bechorá* é o direito de primogenitura. O primogênito recebe "porção dobrada" de tudo (Deuteronômio 21:17) e fala pelo pai diante dos irmãos. Mas a primogenitura não é só biologia. Esaú a vendeu a Jacó por um prato de lentilhas (Gênesis 25:33); Rúben a perdeu, e ela passou aos filhos de José (1 Crônicas 5:1-2); Jacó cruzou as mãos e pôs a direita sobre [[Efraim]], o mais novo ([[Gênesis 48]]). *Bechor* é posição que se recebe, se perde e se confere.
+A raiz *B-K-R* indica o que vem primeiro: *bikurim* são as primícias, *bechorá* é o direito de primogenitura. O primogênito recebe "porção dobrada" de tudo (Deuteronômio 21:17) e fala pelo pai diante dos irmãos. Mas a primogenitura não é só biologia. Esaú a vendeu a Jacó por um prato de lentilhas (Gênesis 25:33); Rúben a perdeu, e ela passou aos filhos de José (1 Crônicas 5:1-2); Jacó cruzou as mãos e pôs a direita sobre [[Efraim]], o mais novo (Gênesis 48). *Bechor* é posição que se recebe, se perde e se confere.
 
 ## Na Escritura
 
@@ -38,7 +38,7 @@ Numa empresa familiar, o primogênito pode receber a procuração do pai para as
 
 ## Relacionados
 
-[[Colossenses 1.15]] · [[Adam Kadmon]] · [[Tzelem Elohim HaNistar]] · [[Ein Sof]] · [[Ontologia vs. Função]] · [[Shaliah]] · [[Efraim]] · [[Gênesis 48]] · [[David HaMelech]] · [[Pessach]] · [[Bikurim]] · [[Monoteísmo Estrito]]
+Colossenses 1.15 · [[Adam Kadmon]] · [[Tzelem Elohim HaNistar]] · [[Ein Sof]] · [[Ontologia vs. Função]] · [[Shaliah]] · [[Efraim]] · Gênesis 48 · [[David HaMelech]] · [[Pessach]] · [[Bikurim]] · [[Monoteísmo Estrito]]
 
 ## Aparece em
 

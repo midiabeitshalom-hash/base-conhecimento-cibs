@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 Rav é o nome pelo qual o Talmud chama Abba bar Ayvu, apelidado *Abba Arikha*, "Abba, o alto" (c. 175–247 EC). Foi discípulo de Rabi Yehudá HaNasi, o compilador da Mishná, na Terra de Israel, e em 219 voltou à Babilônia, onde fundou a academia de Sura. Ganhou o título simples de "Rav", "mestre", porque era o mestre de toda a diáspora babilônica. Suas discussões com Shmuel, chefe da academia de Nehardea, atravessam o [[Talmud Bavli]] inteiro ("Rav e Shmuel"). A tradição atribui a ele a oração *Aleinu* e a composição das bênçãos de *Malchuyot*, *Zichronot* e *Shofarot* do [[Yom Teruá]], o "toque da casa de Rav".
 
-Não se confunde com [[Ravá]], sábio babilônico do século IV.
+Não se confunde com Ravá, sábio babilônico do século IV.
 
 ## Na Escritura
 
@@ -32,7 +32,7 @@ A segunda metade da frase de Rav é o mesmo chamado com que a base fecha seus es
 
 ## Relacionados
 
-[[Talmud Bavli]] · [[Ravá]] · [[Rabi Akiva]] · [[Rabi Yehoshua ben Levi]] · [[Daniel 9.24]] · [[Mashiach Nagid]] · [[Teshuvá]] · [[Shabat Milenar]] · [[Yom Teruá]] · [[Shofar]] · [[David HaMelech]]
+[[Talmud Bavli]] · [[Rabi Akiva]] · [[Rabi Yehoshua ben Levi]] · [[Daniel 9.24]] · [[Mashiach Nagid]] · [[Teshuvá]] · [[Shabat Milenar]] · [[Yom Teruá]] · [[Shofar]] · [[David HaMelech]]
 
 ## Aparece em
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]

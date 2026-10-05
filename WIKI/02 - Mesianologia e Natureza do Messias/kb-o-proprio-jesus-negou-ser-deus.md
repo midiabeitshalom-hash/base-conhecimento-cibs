@@ -33,43 +33,43 @@ knowledge_depth: exhaustive-academic
 - **[[Avraham Avinu|Abraão]] (Avraham Avinu):** O pai do monoteísmo, que rompeu com o politeísmo astrológico e cúltico de Ur dos Caldeus para responder ao chamado do Deus único.
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mediador da Antiga Aliança que registrou a profecia primordial do Profeta semelhante a ele ([[Deuteronômio 18.18|Deuteronômio 18.18-19]]) e a declaração fundacional do monoteísmo ([[Deuteronômio 6.4]]).
 - **[[David HaMelech|Rei Davi]] e [[Shlomo HaMelech|Salomão]]:** Figuras régias tipológicas de Israel onde a filiação divina (*Ben Elohim*) é aplicada em sentido de representatividade e governo teocrático, nunca em sentido biológico ou ontológico híbrido.
-- **[[Chizkiyahu HaMelech|Rei Ezequias]] (Chizkiyahu):** Monarca citado por sua oração solene em [[2 Reis 19.15]], atestando que *Hashem* é o único Deus sobre todos os reinos da Terra.
-- **[[Yeshua|Yeshua de Nazaré]]:** O Messias judeu, que reafirmou o *Shemá* como o primeiro de todos os mandamentos ([[Marcos 12.29]]), definiu a vida eterna no conhecimento do Pai como o único Deus verdadeiro ([[João 17.3]]) e agiu como o profeta prometido da Torá.
-- **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que reafirma de forma inequívoca em suas epístolas que *"há um só Deus, o Pai... e um só Senhor, Yeshua"* ([[1 Coríntios 8.6]]) e *"um só Deus e um só mediador entre Deus e os homens, Yeshua o Messias, homem"* ([[1 Timóteo 2.5]]).
-- **[[Ya'akov HaTzaddik|Tiago]] (Yaakov) e [[Yehudah, irmão de Yeshua|Judas]] (Yehudah):** Líderes apostólicos que ratificam a unicidade de Deus ([[Tiago 2.19]]; [[Judas 1.25]]).
+- **[[Chizkiyahu HaMelech|Rei Ezequias]] (Chizkiyahu):** Monarca citado por sua oração solene em 2 Reis 19.15, atestando que *Hashem* é o único Deus sobre todos os reinos da Terra.
+- **[[Yeshua|Yeshua de Nazaré]]:** O Messias judeu, que reafirmou o *Shemá* como o primeiro de todos os mandamentos (Marcos 12.29), definiu a vida eterna no conhecimento do Pai como o único Deus verdadeiro ([[João 17.3]]) e agiu como o profeta prometido da Torá.
+- **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que reafirma de forma inequívoca em suas epístolas que *"há um só Deus, o Pai... e um só Senhor, Yeshua"* (1 Coríntios 8.6) e *"um só Deus e um só mediador entre Deus e os homens, Yeshua o Messias, homem"* ([[1 Timóteo 2.5]]).
+- **[[Ya'akov HaTzaddik|Tiago]] (Yaakov) e [[Yehudah, irmão de Yeshua|Judas]] (Yehudah):** Líderes apostólicos que ratificam a unicidade de Deus (Tiago 2.19; Judas 1.25).
 - **O escriba de Marcos 12:** Mestre da Torá que concorda com Yeshua na recitação do *Shemá* (*"com verdade disseste que Ele é um e não há outro além Dele"*) e recebe o elogio do Messias.
 - **[[Concílio de Niceia]] e Concílio de Calcedônia:** As formulações conciliares posteriores ao século IV que introduziram a Trindade e a "união hipostática", refutadas no estudo à luz do monoteísmo bíblico.
 
 **Escrituras**
 - *Torá:* ([[Torá]] / Pentateuco)
-  - *[[Deuteronômio 4|Deuteronômio 4.35, 39]]:* *"Saberás hoje e considerarás no teu coração que Adonai é Deus... e não há outro."*
+  - *Deuteronômio 4.35, 39:* *"Saberás hoje e considerarás no teu coração que Adonai é Deus... e não há outro."*
   - *[[Deuteronômio 6.4]]:* O *Shemá Israel* (*"Ouve, Israel: Adonai nosso Deus, Adonai é Um"*).
   - *[[Deuteronômio 18.18|Deuteronômio 18.18-19]]:* A profecia do Profeta escatológico ("porei as minhas palavras na sua boca").
-  - *[[Deuteronômio 32.39]]:* *"Vede agora que Eu, Eu sou Ele, e não há outro Deus comigo."*
+  - *Deuteronômio 32.39:* *"Vede agora que Eu, Eu sou Ele, e não há outro Deus comigo."*
 - *Nevi'im:* (os Profetas e Escritos Históricos do [[Tanakh]])
   - *2 Samuel 7:14:* *"Eu lhe serei por Pai, e ele me será por filho"* — a filiação régia por eleição, autoridade e representatividade legal.
-  - *[[1 Reis 8.60]] & [[2 Reis 19.15]]:* Confissões monoteístas da monarquia israelita.
-  - *[[Isaías 11.1|Isaías 11.1-2]]:* O repouso do Espírito de *Hashem* sobre o renovo de Jessé.
-  - *[[Isaías 42.1]]:* O servo escolhido em quem a alma de Deus se compraz e sobre quem é colocado o Espírito.
-  - *[[Isaías 43.10]]:* Israel e o Servo como testemunhas de que antes de *Hashem* nenhum Deus se formou nem haverá depois Dele.
-  - *[[Isaías 44.6]]; [[Isaías 45|Isaías 45.5-6, 18, 21-22]]:* As declarações categóricas de *Hashem* contra a existência de qualquer outro ser divino ("Fora de mim não há Deus").
-  - *[[Isaías 53.10]]:* O sofrimento e oferta de reparação do Servo ([[Mashiach ben Yosef]]).
-  - *[[Ezequiel 37.24]]:* O Servo Davi como rei e único pastor conduzindo Israel nos estatutos da Torá.
-  - *[[Zacarias 9.9]]:* A entrada humilde do Rei Messias montado sobre um jumentinho.
+  - *1 Reis 8.60 & 2 Reis 19.15:* Confissões monoteístas da monarquia israelita.
+  - *Isaías 11.1-2:* O repouso do Espírito de *Hashem* sobre o renovo de Jessé.
+  - *Isaías 42.1:* O servo escolhido em quem a alma de Deus se compraz e sobre quem é colocado o Espírito.
+  - *Isaías 43.10:* Israel e o Servo como testemunhas de que antes de *Hashem* nenhum Deus se formou nem haverá depois Dele.
+  - *Isaías 44.6; Isaías 45.5-6, 18, 21-22:* As declarações categóricas de *Hashem* contra a existência de qualquer outro ser divino ("Fora de mim não há Deus").
+  - *Isaías 53.10:* O sofrimento e oferta de reparação do Servo ([[Mashiach ben Yosef]]).
+  - *Ezequiel 37.24:* O Servo Davi como rei e único pastor conduzindo Israel nos estatutos da Torá.
+  - *Zacarias 9.9:* A entrada humilde do Rei Messias montado sobre um jumentinho.
 - *Ketuvim:*
-  - *[[Salmo 40.8]]:* *"Em fazer a tua vontade, ó Deus meu, eu me deleito; a tua Torá está no íntimo do meu ser."*
+  - *Salmo 40.8:* *"Em fazer a tua vontade, ó Deus meu, eu me deleito; a tua Torá está no íntimo do meu ser."*
   - *[[Daniel 7]]:* O Messias glorioso que vem nas nuvens, a face de *Mashiach ben David*.
 - *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
-  - *[[Marcos 12.28|Marcos 12.28-34]]:* O diálogo de Yeshua com o escriba confirmando o monoteísmo estrito como o maior mandamento.
-  - *[[João 5.44]]:* A repreensão aos que buscam a glória dos homens e não a do "único Deus".
+  - *Marcos 12.28-34:* O diálogo de Yeshua com o escriba confirmando o monoteísmo estrito como o maior mandamento.
+  - *João 5.44:* A repreensão aos que buscam a glória dos homens e não a do "único Deus".
   - *[[João 17.3]]:* A definição da vida eterna: conhecer o Pai como o "único Deus verdadeiro" e a Yeshua como o "enviado".
-  - *[[Romanos 3.30]] & [[Romanos 16.27]]:* A salvação justificada pelo Deus único por meio do Messias.
-  - *[[1 Coríntios 8.4|1 Coríntios 8.4-6]]:* Não há outro Deus senão um: o Pai; e um só Senhor: Yeshua.
-  - *[[Efésios 4.6]]:* Um só Deus e Pai de todos.
+  - *Romanos 3.30 & Romanos 16.27:* A salvação justificada pelo Deus único por meio do Messias.
+  - *1 Coríntios 8.4-6:* Não há outro Deus senão um: o Pai; e um só Senhor: Yeshua.
+  - *Efésios 4.6:* Um só Deus e Pai de todos.
   - *[[Colossenses 2.9]]:* A plenitude da divindade (*Elohut*) que habitou corporalmente em Yeshua, como a *Shechinah* no Tabernáculo.
   - *[[1 Timóteo 2.5]]:* Um só Deus, um só mediador: Yeshua o Messias, homem.
-  - *[[Tiago 2.19]]:* A fé na unicidade divina (*Adonai Echad*) compartilhada até pelos demônios.
-  - *[[Judas 1.25]]:* Glória ao único Deus, nosso Salvador, por meio de Yeshua o Messias.
+  - *Tiago 2.19:* A fé na unicidade divina (*Adonai Echad*) compartilhada até pelos demônios.
+  - *Judas 1.25:* Glória ao único Deus, nosso Salvador, por meio de Yeshua o Messias.
 
 **Literatura rabínica e judaica**
 - **A máxima da agência (*Shelucho shel adam kemoto*):** "O enviado de um homem é como o próprio homem", registrada na Mishná (*Berachot 5:5*) e no [[Talmud Bavli]] (*Kiddushin 41b*), base do princípio de *Shaliah* aplicado a Yeshua.
@@ -122,26 +122,26 @@ Sem referência específica citada.
 ### 2. O Perfil do Messias no Tanakh: Servo, Profeta e Agente Autorizado
 Rav Yosef demonstra que o Tanakh constrói progressivamente a identidade messiânica como uma figura de representatividade delegada:
 1. **O Profeta Semelhante a Moisés ([[Deuteronômio 18.18|Deuteronômio 18.18-19]]):** Deus promete suscitar um profeta dentre os irmãos israelitas e colocar as Suas próprias palavras na boca dele. O Messias é, por definição bíblica, o porta-voz supremo do Criador, e não o próprio Criador que envia a Si mesmo.
-2. **O Ungido Submisso ao Seu Deus ([[Salmo 40.8]]; [[Isaías 11.1|Isaías 11.1-2]]; [[Isaías 42.1]]):**
+2. **O Ungido Submisso ao Seu Deus (Salmo 40.8; Isaías 11.1-2; Isaías 42.1):**
    - O Messias refere-se a Deus como *"Elohai"* ("meu Deus").
    - O Espírito de Deus repousa sobre ele. Rav Yosef ressalta a contradição lógica do dogma trinitário: se Yeshua fosse o próprio *Hashem*, não faria sentido que o "Espírito de *Hashem*" precisasse repousar sobre ele para revesti-lo de sabedoria e poder.
-3. **O Servo como Testemunha do Deus Único ([[Isaías 43.10]]):** O Messias é a testemunha escolhida por Deus para proclamar que antes do Pai nenhum Deus se formou e após Ele jamais existirá outro.
+3. **O Servo como Testemunha do Deus Único (Isaías 43.10):** O Messias é a testemunha escolhida por Deus para proclamar que antes do Pai nenhum Deus se formou e após Ele jamais existirá outro.
 4. **As Duas Fases Proféticas:**
    - *[[Mashiach ben Yosef]]:* O Messias que padece, esmagado como a azeitona na prensa para gerar azeite puro, oferecendo a sua vida como oferta de expiação (*Asham* / *Kaparot*), entrando em Sião sobre um jumentinho (*Zacarias 9:9*; *Isaías 53:10*).
    - *[[Mashiach ben David]]:* O Messias que retorna ressurreto e glorificado para governar sobre o trono de Davi a partir de Jerusalém, fazendo Israel e as nações guardarem os juízos e estatutos da Torá (*Ezequiel 37:24*).
 
 ### 3. As Declarações Diretas de Yeshua: A Negação da Divindade Ontológica
 Ao longo dos Evangelhos, Yeshua recusa expressamente qualquer reivindicação de divindade intrínseca ou inovação dogmática:
-- **A Ratificação do Maior Mandamento ([[Marcos 12.28|Marcos 12.28-34]]):** Ao ser inquirido pelo escriba sobre o principal mandamento, Yeshua não propõe uma trindade ou sua própria divinização; ele recita o *Shemá Israel* (*"Adonai nosso Deus é o único Senhor"*). O escriba concorda enfaticamente (*"com verdade disseste que Ele é um e não há outro além Dele"*), e Yeshua elogia sua sabedoria.
+- **A Ratificação do Maior Mandamento (Marcos 12.28-34):** Ao ser inquirido pelo escriba sobre o principal mandamento, Yeshua não propõe uma trindade ou sua própria divinização; ele recita o *Shemá Israel* (*"Adonai nosso Deus é o único Senhor"*). O escriba concorda enfaticamente (*"com verdade disseste que Ele é um e não há outro além Dele"*), e Yeshua elogia sua sabedoria.
 - **A Oração Sacerdotal e a Vida Eterna ([[João 17.3]]):** Yeshua formula o credo da salvação: *"A vida eterna é esta: que te conheçam a ti, o **único Deus verdadeiro**, e a Yeshua, o Messias, a quem **enviaste**"*. A distinção entre o único Deus verdadeiro (o Pai) e o enviado humano (Yeshua) é categórica.
-- **A Busca da Glória Exclusiva ([[João 5.44]]):** Yeshua repreende os líderes religiosos por buscarem a honra humana em detrimento da glória que procede do "único Deus".
+- **A Busca da Glória Exclusiva (João 5.44):** Yeshua repreende os líderes religiosos por buscarem a honra humana em detrimento da glória que procede do "único Deus".
 
 ### 4. A Teologia dos Apóstolos na Berit Hadashah
 As epístolas do Novo Testamento mantêm fidelidade incondicional ao monoteísmo da Torá:
-- **Paulo aos Coríntios ([[1 Coríntios 8.4|1 Coríntios 8.4-6]]):** *"Sabemos que... não há outro Deus, senão um. Porque, ainda que haja também alguns que se chamem deuses... todavia **para nós há um só Deus, o Pai**, de quem é tudo e para quem nós vivemos; e **um só Senhor, Yeshua o Messias**, por meio de quem são todas as coisas"*.
+- **Paulo aos Coríntios (1 Coríntios 8.4-6):** *"Sabemos que... não há outro Deus, senão um. Porque, ainda que haja também alguns que se chamem deuses... todavia **para nós há um só Deus, o Pai**, de quem é tudo e para quem nós vivemos; e **um só Senhor, Yeshua o Messias**, por meio de quem são todas as coisas"*.
 - **Paulo a Timóteo ([[1 Timóteo 2.5]]):** *"Porque há **um só Deus**, e **um só Mediador** entre Deus e os homens, **Yeshua o Messias, homem**"*. O apóstolo enfatiza a humanidade do mediador para demonstrar a ponte funcional entre o Criador invisível e a criação.
-- **A Agência Salvífica em Judas ([[Judas 1.25]]):** *"Ao **único Deus**, nosso Salvador, **por meio de Yeshua o Messias** nosso Senhor, seja glória e majestade"*. Deus é a fonte primária da salvação; Yeshua é o instrumento/veículo pelo qual a redenção se opera.
-- **O Testemunho Universal em Tiago ([[Tiago 2.19]]):** O monoteísmo bíblico (*"crês que Deus é um só"*) é uma verdade cósmica tão absoluta que até as entidades espirituais caídas (demônios) a reconhecem e estremecem.
+- **A Agência Salvífica em Judas (Judas 1.25):** *"Ao **único Deus**, nosso Salvador, **por meio de Yeshua o Messias** nosso Senhor, seja glória e majestade"*. Deus é a fonte primária da salvação; Yeshua é o instrumento/veículo pelo qual a redenção se opera.
+- **O Testemunho Universal em Tiago (Tiago 2.19):** O monoteísmo bíblico (*"crês que Deus é um só"*) é uma verdade cósmica tão absoluta que até as entidades espirituais caídas (demônios) a reconhecem e estremecem.
 
 ### 5. O Erro da Mesianologia Helenística e a Verdadeira Plenitude
 O estudo elucida as falhas das formulações conciliares posteriores:
@@ -197,8 +197,8 @@ O estudo elucida as falhas das formulações conciliares posteriores:
 ### Checklist Operacional / Plano de Aplicação Prática
 
 - [ ] **Desconstrução e Reavaliação Textual:**
-  - [ ] Ler e comparar sequencialmente as declarações monoteístas do Tanakh ([[Deuteronômio 6.4]], [[Isaías 43.10]], [[Isaías 45.18]]) com os Evangelhos ([[Marcos 12.29]], [[João 17.3]]).
-  - [ ] Analisar os textos paulinos de [[1 Coríntios 8.6]] e [[1 Timóteo 2.5]], destacando a humanidade e função mediadora de Yeshua.
+  - [ ] Ler e comparar sequencialmente as declarações monoteístas do Tanakh ([[Deuteronômio 6.4]], Isaías 43.10, Isaías 45.18) com os Evangelhos (Marcos 12.29, [[João 17.3]]).
+  - [ ] Analisar os textos paulinos de 1 Coríntios 8.6 e [[1 Timóteo 2.5]], destacando a humanidade e função mediadora de Yeshua.
 - [ ] **Alinhamento da Prática Cúltica e Oração:**
   - [ ] Direcionar a oração, o culto e a adoração suprema exclusivamente ao Pai (*Avinu Malkeinu* / *Akadosh Baruch Hu*), reconhecendo a mediação de Yeshua HaMashiach.
   - [ ] Purificar o vocabulário devocional de termos trinitários tardios que confundem o Criador com o Seu Ungido.

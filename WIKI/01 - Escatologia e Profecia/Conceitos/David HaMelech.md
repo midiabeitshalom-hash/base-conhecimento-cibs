@@ -18,13 +18,13 @@ Ele é ao mesmo tempo o rei vitorioso e o homem que caiu. O adultério com Bate-
 
 ## Na Escritura
 
-- **A unção e o Espírito.** "Desde aquele dia em diante o Espírito do Senhor se apoderou de Davi" (1 Samuel 16:13). Depois do pecado ele pede: "não retires de mim o teu Espírito Santo" ([[Salmo 51.11]]).
+- **A unção e o Espírito.** "Desde aquele dia em diante o Espírito do Senhor se apoderou de Davi" (1 Samuel 16:13). Depois do pecado ele pede: "não retires de mim o teu Espírito Santo" (Salmo 51.11).
 - **A aliança davídica.** "Levantarei depois de ti a tua descendência... e estabelecerei o trono do seu reino para sempre. Eu lhe serei por pai, e ele me será por filho" (2 Samuel 7:12-16).
-- **O perdão sem sacrifício.** "Não te comprazes em sacrifícios, senão eu os daria; o sacrifício para D'us é o espírito quebrantado" ([[Salmo 51.16|Salmo 51.16-17]]).
-- **A prostração diante do rei.** Mefibosete "caiu sobre o seu rosto e se prostrou" diante de Davi ([[2 Samuel 9.6]]).
+- **O perdão sem sacrifício.** "Não te comprazes em sacrifícios, senão eu os daria; o sacrifício para D'us é o espírito quebrantado" (Salmo 51.16-17).
+- **A prostração diante do rei.** Mefibosete "caiu sobre o seu rosto e se prostrou" diante de Davi (2 Samuel 9.6).
 - **Os gigantes de Gate.** As guerras de Davi e dos seus valentes contra os últimos descendentes dos gigantes (2 Samuel 21:15-22; 1 Crônicas 20:4-8).
-- **O rei futuro com o nome dele.** "O meu servo Davi será rei sobre eles, e todos eles terão um só pastor" ([[Ezequiel 37.24]]); "buscarão ao Senhor seu D'us e a Davi, seu rei" (Oseias 3:5).
-- **O filho de Davi.** "Brotará um rebento do tronco de Jessé" ([[Isaías 11.1]]); "o Senhor D'us lhe dará o trono de Davi, seu pai" (Lucas 1:32).
+- **O rei futuro com o nome dele.** "O meu servo Davi será rei sobre eles, e todos eles terão um só pastor" (Ezequiel 37.24); "buscarão ao Senhor seu D'us e a Davi, seu rei" (Oseias 3:5).
+- **O filho de Davi.** "Brotará um rebento do tronco de Jessé" (Isaías 11.1); "o Senhor D'us lhe dará o trono de Davi, seu pai" (Lucas 1:32).
 
 ## Na tradição judaica
 
@@ -40,7 +40,7 @@ A tradição liga Davi à própria cronologia de Adão: a *Pirkei de Rabbi Eliez
 
 **Filho por eleição.** "Eu lhe serei por pai, e ele me será por filho" é o padrão da filiação de Yeshua: eleição, autoridade e representação, não geração biológica divina ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). A prostração de Mefibosete diante de Davi mostra que prostrar-se diante de um rei não é adorá-lo ([[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]; [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]).
 
-**Medida do Espírito.** Davi recebeu uma medida do Espírito para o ofício, como Saul; em Yeshua repousou a plenitude ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Ungido com o Espírito, ele temia perder a presença do Espírito ([[Salmo 51.11]]) sem que isso o tornasse D'us, e o mesmo vale para o Messias ([[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]). Com Moisés e Arão, Davi é um dos justos que receberam centelhas da presença divina ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]). É também o salmista que canta a Torá perfeita que restaura a alma ([[Salmo 19.7]]) e que ensina que o sacrifício que D'us quer é o coração quebrantado ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]).
+**Medida do Espírito.** Davi recebeu uma medida do Espírito para o ofício, como Saul; em Yeshua repousou a plenitude ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Ungido com o Espírito, ele temia perder a presença do Espírito (Salmo 51.11) sem que isso o tornasse D'us, e o mesmo vale para o Messias ([[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]). Com Moisés e Arão, Davi é um dos justos que receberam centelhas da presença divina ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]). É também o salmista que canta a Torá perfeita que restaura a alma ([[Salmo 19.7]]) e que ensina que o sacrifício que D'us quer é o coração quebrantado ([[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]).
 
 **Outros fios.** Davi exterminou os gigantes remanescentes de Gate, o que a base lê na linha dos [[Nefilim]] ([[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]]); é o autor do Salmo 78, que chama o maná de "trigo dos céus" e "pão dos anjos" ([[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]); e o Salmo 1 apresenta o justo como árvore plantada junto às correntes de águas, que medita na Torá, o arquétipo do *tzaddik* na leitura do homem como árvore ([[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]).
 
@@ -50,7 +50,7 @@ Davi tinha tudo para ser descartado: caiu feio, pecou de propósito. Mas voltou 
 
 ## Relacionados
 
-[[Mashiach ben David]] · [[Rei Saul]] · [[Shlomo HaMelech]] · [[Profeta Samuel]] · [[Casa de Judá]] · [[Doze Tribos de Israel]] · [[Ezequiel 37.24]] · [[Isaías 11.1]] · [[Salmo 51.11]] · [[Salmo 51.16]] · [[2 Samuel 9.6]] · [[Proskynesis]] · [[Hishtachavah]] · [[Ben Elohim]] · [[Nefilim]] · [[Reino Messiânico]] · [[Goel]]
+[[Mashiach ben David]] · [[Rei Saul]] · [[Shlomo HaMelech]] · [[Profeta Samuel]] · [[Casa de Judá]] · [[Doze Tribos de Israel]] · Ezequiel 37.24 · Isaías 11.1 · Salmo 51.11 · Salmo 51.16 · 2 Samuel 9.6 · [[Proskynesis]] · [[Hishtachavah]] · [[Ben Elohim]] · [[Nefilim]] · [[Reino Messiânico]] · [[Goel]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

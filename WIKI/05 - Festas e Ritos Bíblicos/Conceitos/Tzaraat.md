@@ -22,7 +22,7 @@ A pessoa atingida é o *metzora* (מְצֹרָע). Os sábios leram a palavra co
 - **Números 12:10:** Miriã fica branca como a neve depois de falar contra Moisés.
 - **2 Crônicas 26:19-21:** o rei Uzias é ferido ao invadir o serviço sacerdotal.
 - **[[2 Reis 5|2 Reis 5.1-14]]:** Naamã, o comandante sírio, mergulha sete vezes no Jordão por ordem de [[Profeta Eliseu|Eliseu]], e sua carne volta "como a carne de um menino pequeno". No mesmo capítulo, Geazi recebe a *tzaraat* pela cobiça (5:27).
-- **[[Mateus 8.2|Mateus 8.2-4]]** e **[[Lucas 5|Lucas 5.12-14]]:** Yeshua toca o *metzora*, cura-o e o manda ao sacerdote para oferecer "a oferta que Moisés ordenou". Em Lucas 4:27 ele mesmo lembra a cura de Naamã.
+- **Mateus 8.2-4** e **Lucas 5.12-14:** Yeshua toca o *metzora*, cura-o e o manda ao sacerdote para oferecer "a oferta que Moisés ordenou". Em Lucas 4:27 ele mesmo lembra a cura de Naamã.
 
 ## Nas fontes judaicas
 
@@ -30,7 +30,7 @@ O [[Talmud Bavli]] em *Arakhin 16a* lista sete pecados que trazem os *nega'im* (
 
 ## Na visão da Beit Shalom
 
-O estudo [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] põe a cura de Naamã como o segundo marco da cadeia tipológica do Jordão: o altar submerso de [[Josué 4]], a cura de Naamã, a imersão de Yeshua aos 30 anos e o derramar do Ruach em [[Shavuot]]. A *tzaraat* é lida como doença ligada à decomposição e à impureza, uma morte em vida. Naamã obedece ao profeta, mergulha sete vezes, e a carne apodrecida volta como a de uma criança recém-nascida. É um renascimento pela água, e por isso o estudo o liga ao [[Novo Nascimento]] de [[João 3.3|João 3.3-5]] e à [[Tevilá]] de Yeshua no mesmo rio.
+O estudo [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] põe a cura de Naamã como o segundo marco da cadeia tipológica do Jordão: o altar submerso de [[Josué 4]], a cura de Naamã, a imersão de Yeshua aos 30 anos e o derramar do Ruach em [[Shavuot]]. A *tzaraat* é lida como doença ligada à decomposição e à impureza, uma morte em vida. Naamã obedece ao profeta, mergulha sete vezes, e a carne apodrecida volta como a de uma criança recém-nascida. É um renascimento pela água, e por isso o estudo o liga ao [[Novo Nascimento]] de João 3.3-5 e à [[Tevilá]] de Yeshua no mesmo rio.
 
 O rito de Levítico 14 confirma a leitura: a purificação do *metzora* passa por [[Maim Chaim]], água viva, e por imersão, e o homem que estava fora do acampamento volta à comunhão no oitavo dia, o número do novo começo. Ao mandar o curado ao sacerdote, Yeshua mostra que não veio desfazer a Torá, mas cumpri-la, um dos pontos que os pilares sustentam ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
@@ -44,7 +44,7 @@ Naamã queria um gesto espetacular e recebeu uma ordem simples: descer ao rio e 
 
 ## Relacionados
 
-[[Naamã]] · [[2 Reis 5]] · [[Profeta Eliseu]] · [[Rio Jordão]] · [[Tevilá]] · [[Maim Chaim]] · [[Novo Nascimento]] · [[Tum'ah]] · [[Taharah]] · [[Teshuvá]] · [[Mateus 8.2]] · [[Lucas 5]] · [[Josué 4]]
+[[Naamã]] · [[2 Reis 5]] · [[Profeta Eliseu]] · [[Rio Jordão]] · [[Tevilá]] · [[Maim Chaim]] · [[Novo Nascimento]] · [[Tum'ah]] · [[Taharah]] · [[Teshuvá]] · Mateus 8.2 · Lucas 5 · [[Josué 4]]
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]

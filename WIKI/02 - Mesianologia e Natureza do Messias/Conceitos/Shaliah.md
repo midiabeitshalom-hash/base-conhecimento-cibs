@@ -22,7 +22,7 @@ O ponto que a tradução perde é o peso legal. O *shaliah* não é um simples m
 
 O padrão aparece cedo. O servo de Abraão vai buscar esposa para Isaque com plenos poderes do patrão (Gênesis 24). O anjo que guia Israel no deserto leva o Nome de D'us: "o meu nome está nele" (Êxodo 23:21), e mesmo assim não é D'us. [[Moshe Rabenu]] é o enviado por excelência ("o Eu Sou me enviou a vós", Êxodo 3:14), e o profeta como Moisés de [[Deuteronômio 18.18]] é aquele em cuja boca D'us põe as suas palavras.
 
-Nos Evangelhos, Yeshua se define o tempo todo como enviado. "A vida eterna é esta: que te conheçam a ti, o único D'us verdadeiro, e a Yeshua, o Messias, a quem enviaste" ([[João 17.3]]); Rav Yosef lê ali o *hon apesteilas*, "aquele que enviaste". "O servo não é maior do que o seu senhor, nem o enviado maior do que aquele que o enviou" (João 13:16). "O Pai, que me enviou, ele me deu mandamento sobre o que hei de dizer" (João 12:49). Hebreus 3:1 chama Yeshua de "o Apóstolo e Sumo Sacerdote da nossa confissão", isto é, o *Shaliah* supremo. Pedro resume: um homem ungido que andou fazendo o bem "porque D'us era com ele" ([[Atos 10.38]]).
+Nos Evangelhos, Yeshua se define o tempo todo como enviado. "A vida eterna é esta: que te conheçam a ti, o único D'us verdadeiro, e a Yeshua, o Messias, a quem enviaste" ([[João 17.3]]); Rav Yosef lê ali o *hon apesteilas*, "aquele que enviaste". "O servo não é maior do que o seu senhor, nem o enviado maior do que aquele que o enviou" (João 13:16). "O Pai, que me enviou, ele me deu mandamento sobre o que hei de dizer" (João 12:49). Hebreus 3:1 chama Yeshua de "o Apóstolo e Sumo Sacerdote da nossa confissão", isto é, o *Shaliah* supremo. Pedro resume: um homem ungido que andou fazendo o bem "porque D'us era com ele" (Atos 10.38).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ O princípio também explica a prostração diante de Yeshua: é reverência ao 
 
 ## Leituras que a Beit Shalom corrige
 
-A leitura trinitária toma as frases de autoridade ("quem me vê, vê o Pai", "eu e o Pai somos um") como declarações de identidade de substância. Lidas como fala de *Shaliah*, elas dizem que o enviado representa o mandante com perfeição. A unidade de [[João 10.30]] é a mesma que Yeshua pede para os discípulos em [[João 17.21]]: unidade de propósito.
+A leitura trinitária toma as frases de autoridade ("quem me vê, vê o Pai", "eu e o Pai somos um") como declarações de identidade de substância. Lidas como fala de *Shaliah*, elas dizem que o enviado representa o mandante com perfeição. A unidade de João 10.30 é a mesma que Yeshua pede para os discípulos em João 17.21: unidade de propósito.
 
 ## Como explicar à congregação
 

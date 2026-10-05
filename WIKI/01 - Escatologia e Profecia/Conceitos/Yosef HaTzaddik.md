@@ -18,16 +18,16 @@ O nome vem de *yasaf*, acrescentar: Raquel o chama assim dizendo "o Senhor me ac
 
 ## Na Escritura
 
-- **[[Gênesis 37]]:** os sonhos de primazia, a inveja dos irmãos, a cova, a venda aos ismaelitas e a túnica molhada no sangue de um cabrito levada a Jacó.
-- **[[Gênesis 41.45]]:** o Faraó lhe dá o nome egípcio [[Zafenate-Paneia]], roupas de linho e autoridade sobre o Egito.
-- **[[Gênesis 42|Gênesis 42-45]]:** os irmãos descem para comprar trigo e se prostram diante dele sem reconhecê-lo ([[Gênesis 42.6]]). Na segunda viagem, já com [[Binyamin]], José manda sair todos os egípcios e se revela a sós: *Ani Yosef*, "eu sou José" ([[Gênesis 45.1]]).
-- **[[Gênesis 48]]:** Jacó cruza as mãos e põe a direita sobre Efraim, o mais novo ([[Gênesis 48.14]]).
-- **[[Gênesis 49]]:** "José é ramo frutífero", a bênção sobre a sua casa.
+- **Gênesis 37:** os sonhos de primazia, a inveja dos irmãos, a cova, a venda aos ismaelitas e a túnica molhada no sangue de um cabrito levada a Jacó.
+- **Gênesis 41.45:** o Faraó lhe dá o nome egípcio [[Zafenate-Paneia]], roupas de linho e autoridade sobre o Egito.
+- **Gênesis 42-45:** os irmãos descem para comprar trigo e se prostram diante dele sem reconhecê-lo (Gênesis 42.6). Na segunda viagem, já com [[Binyamin]], José manda sair todos os egípcios e se revela a sós: *Ani Yosef*, "eu sou José" (Gênesis 45.1).
+- **Gênesis 48:** Jacó cruza as mãos e põe a direita sobre Efraim, o mais novo (Gênesis 48.14).
+- **Gênesis 49:** "José é ramo frutífero", a bênção sobre a sua casa.
 - **[[Ezequiel 37]]:** a vara de José, nas mãos de Efraim, unida à vara de Judá.
 
 ## Na tradição judaica
 
-O [[Talmud Bavli]] fala de um [[Mashiach ben Yosef]], o Messias que morre e é pranteado, e lê com ele [[Zacarias 12.10]] (*Sukkah 52a*). A solução das duas manifestações, o filho de José que sofre e o filho de Davi que reina, nasce da tensão entre profecias de humilhação e de glória. O princípio que sustenta a tipologia é *Ma'aseh Avot Siman LaBanim*, "o que aconteceu aos pais é sinal para os filhos", formulado por [[Ramban]] em seu comentário a Gênesis 12:6 ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]).
+O [[Talmud Bavli]] fala de um [[Mashiach ben Yosef]], o Messias que morre e é pranteado, e lê com ele Zacarias 12.10 (*Sukkah 52a*). A solução das duas manifestações, o filho de José que sofre e o filho de Davi que reina, nasce da tensão entre profecias de humilhação e de glória. O princípio que sustenta a tipologia é *Ma'aseh Avot Siman LaBanim*, "o que aconteceu aos pais é sinal para os filhos", formulado por [[Ramban]] em seu comentário a Gênesis 12:6 ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]).
 
 ## Na leitura da Beit Shalom
 
@@ -41,7 +41,7 @@ Uma imagem para a congregação: os irmãos de José comeram do pão dele, se pr
 
 ## Relacionados
 
-[[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Zafenate-Paneia]] · [[Ani Yosef]] · [[Ya'akov Avinu]] · [[Binyamin]] · [[Efraim]] · [[Menashe]] · [[Et Tzarah l'Yaakov]] · [[Gênesis 37]] · [[Gênesis 45.1]] · [[Gênesis 48]] · [[Ezequiel 37]]
+[[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Zafenate-Paneia]] · [[Ani Yosef]] · [[Ya'akov Avinu]] · [[Binyamin]] · [[Efraim]] · [[Menashe]] · [[Et Tzarah l'Yaakov]] · Gênesis 37 · Gênesis 45.1 · Gênesis 48 · [[Ezequiel 37]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

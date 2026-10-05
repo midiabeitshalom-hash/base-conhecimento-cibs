@@ -19,15 +19,15 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Isaías 2:2-4:** "de Sião sairá a Torá, e de Jerusalém a palavra do Senhor"; as nações não aprenderão mais a guerra. A frase é o [[Ki MiTzion Teitzei Torá]].
-- **Isaías 11:1-10:** o rebento de Jessé julga com justiça, o lobo habita com o cordeiro, e a terra se enche do conhecimento do Senhor ([[Isaías 11.1]]).
+- **Isaías 11:1-10:** o rebento de Jessé julga com justiça, o lobo habita com o cordeiro, e a terra se enche do conhecimento do Senhor (Isaías 11.1).
 - **[[Daniel 2]] e [[Daniel 7.13]]:** a [[Pedra Cortada sem Mãos]] esmiúça a estátua e vira um monte que enche a terra; o Filho do Homem recebe domínio e reino.
-- **[[Zacarias 14]]:** o Senhor põe os pés no monte das Oliveiras; as nações que restarem sobem todos os anos a Jerusalém para celebrar [[Sucot]], sob pena de não receber chuva (Zacarias 14:16-19).
+- **Zacarias 14:** o Senhor põe os pés no monte das Oliveiras; as nações que restarem sobem todos os anos a Jerusalém para celebrar [[Sucot]], sob pena de não receber chuva (Zacarias 14:16-19).
 - **[[Apocalipse 20.4|Apocalipse 20.4-6]]:** os que não adoraram a besta nem receberam a sua marca vivem e reinam com o Messias mil anos; "esta é a primeira ressurreição".
-- **[[Mateus 26.26|Mateus 26.26-29]]:** Yeshua diz que voltará a beber do fruto da videira "no Reino de meu Pai", e Pessach continua.
+- **Mateus 26.26-29:** Yeshua diz que voltará a beber do fruto da videira "no Reino de meu Pai", e Pessach continua.
 
 ## Nas fontes judaicas
 
-O Talmud ensina que "o mundo existe seis mil anos, e um milênio será desolado" (*Sanhedrin 97a*), e lê o Salmo 92, o "salmo para o dia do Shabat", como canto do dia que é todo Shabat. Na mesma página está a divisão em três eras de dois mil anos que a base usa para a cronologia. Em *Berachot 34b*, Shmuel diz que a diferença entre este mundo e os dias do Messias é só o fim da sujeição aos reinos: os dias do Messias são história, na terra, e não o fim da história. *Sanhedrin 98a* põe lado a lado o Messias que vem "humilde, montado num jumento" ([[Zacarias 9.9]]) e o que vem "com as nuvens do céu" ([[Daniel 7.13]]), a tensão que a base resolve com [[Mashiach ben Yosef]] e [[Mashiach ben David]].
+O Talmud ensina que "o mundo existe seis mil anos, e um milênio será desolado" (*Sanhedrin 97a*), e lê o Salmo 92, o "salmo para o dia do Shabat", como canto do dia que é todo Shabat. Na mesma página está a divisão em três eras de dois mil anos que a base usa para a cronologia. Em *Berachot 34b*, Shmuel diz que a diferença entre este mundo e os dias do Messias é só o fim da sujeição aos reinos: os dias do Messias são história, na terra, e não o fim da história. *Sanhedrin 98a* põe lado a lado o Messias que vem "humilde, montado num jumento" (Zacarias 9.9) e o que vem "com as nuvens do céu" ([[Daniel 7.13]]), a tensão que a base resolve com [[Mashiach ben Yosef]] e [[Mashiach ben David]].
 
 ## Na visão da Beit Shalom
 

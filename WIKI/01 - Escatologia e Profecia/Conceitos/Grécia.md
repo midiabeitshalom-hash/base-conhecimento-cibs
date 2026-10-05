@@ -14,18 +14,18 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Yavan* é o nome de um neto de Noé, filho de Jafé (Gênesis 10:2, na tábua das nações de [[Gênesis 10]]), pai dos povos das ilhas e costas do Mediterrâneo; dele vem o nome dos jônios. Nas visões de Daniel, a palavra aparece explícita: "o bode peludo é o rei da Grécia" (*melech Yavan*, Daniel 8:21), e "levantar-se-á um rei valente... e o seu reino será quebrado e repartido para os quatro ventos do céu" (Daniel 11:3-4).
+*Yavan* é o nome de um neto de Noé, filho de Jafé (Gênesis 10:2, na tábua das nações de Gênesis 10), pai dos povos das ilhas e costas do Mediterrâneo; dele vem o nome dos jônios. Nas visões de Daniel, a palavra aparece explícita: "o bode peludo é o rei da Grécia" (*melech Yavan*, Daniel 8:21), e "levantar-se-á um rei valente... e o seu reino será quebrado e repartido para os quatro ventos do céu" (Daniel 11:3-4).
 
 ## Na Escritura
 
 - [[Daniel 2]]: depois do ouro (Babilônia) e da prata ([[Medo-Pérsia]]), o bronze, "o qual terá domínio sobre toda a terra".
 - [[Daniel 7]]: o leopardo, fera veloz, com quatro asas de ave e quatro cabeças.
 - Daniel 8: o bode que vem do ocidente sem tocar o chão e quebra o carneiro persa; o chifre grande se quebra e no lugar dele sobem quatro.
-- [[Daniel 11.31]]: do reino grego dividido sai o rei que profana o santuário e põe a [[Abominação da Desolação]], cumprida em Antíoco IV Epifânio (167 a.C.), contra quem se levantaram os macabeus.
+- Daniel 11.31: do reino grego dividido sai o rei que profana o santuário e põe a [[Abominação da Desolação]], cumprida em Antíoco IV Epifânio (167 a.C.), contra quem se levantaram os macabeus.
 
 ## Nas fontes judaicas
 
-O Midrash lê os quatro impérios já em [[Gênesis 1.2]]: *tohu* é a Babilônia, *bohu* a Média, *choshech*, as trevas, é a Grécia, "que escureceu os olhos de Israel com os seus decretos", e *tehom* é Roma ([[Bereshit Rabá]] 2:4). [[Flávio Josefo]] conta que, ao entrar em Jerusalém, Alexandre viu o livro de Daniel e entendeu que a profecia falava dele (*Antiguidades* 11.8.5). O [[Talmud Bavli]] narra o encontro de Alexandre com [[Shimon HaTzaddik]], diante de quem o conquistador se curvou (*Yoma 69a*).
+O Midrash lê os quatro impérios já em Gênesis 1.2: *tohu* é a Babilônia, *bohu* a Média, *choshech*, as trevas, é a Grécia, "que escureceu os olhos de Israel com os seus decretos", e *tehom* é Roma ([[Bereshit Rabá]] 2:4). [[Flávio Josefo]] conta que, ao entrar em Jerusalém, Alexandre viu o livro de Daniel e entendeu que a profecia falava dele (*Antiguidades* 11.8.5). O [[Talmud Bavli]] narra o encontro de Alexandre com [[Shimon HaTzaddik]], diante de quem o conquistador se curvou (*Yoma 69a*).
 
 ## Na visão da Beit Shalom
 
@@ -39,7 +39,7 @@ A Grécia venceu com espadas por poucos anos, mas com ideias por muitos séculos
 
 ## Relacionados
 
-[[Alexandre, o Grande]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Daniel 2]] · [[Daniel 7]] · [[Daniel 11.31]] · [[Abominação da Desolação]] · [[Septuaginta]] · [[Homoousios]] · [[Concílio de Niceia]] · [[Shimon HaTzaddik]] · [[Pedra Cortada sem Mãos]]
+[[Alexandre, o Grande]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Daniel 2]] · [[Daniel 7]] · Daniel 11.31 · [[Abominação da Desolação]] · [[Septuaginta]] · [[Homoousios]] · [[Concílio de Niceia]] · [[Shimon HaTzaddik]] · [[Pedra Cortada sem Mãos]]
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]

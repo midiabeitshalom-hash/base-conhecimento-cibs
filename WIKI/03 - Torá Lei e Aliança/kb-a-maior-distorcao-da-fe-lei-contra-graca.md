@@ -31,14 +31,14 @@ knowledge_depth: exhaustive-academic
 
 **Figuras bíblicas e históricas**
 - **[[Adam HaRishon]] (Adão) e [[Chavah]] (Eva):** Receptores da Torá moral interiorizada no Éden, que após a transgressão receberam vestes de pele (*Gênesis 3:21*) como inauguração do princípio sacrificial de substituição vicária.
-- **[[Kayin|Caim]] e [[Hevel|Abel]] (Kayin ve-Hevel):** Primeiros descendentes que perpetuaram o modelo pedagógico de aproximação sacrificial no altar ([[Gênesis 4]]).
-- **[[Noach|Noé]] (Noach):** Patriarca que, após o dilúvio, ofereceu sacrifícios de animais limpos e aves limpas no altar ([[Gênesis 8.20]]), preservando a linhagem sacerdotal original.
-- **[[Shem|Sem]] (Shem / Melquisedeque):** Filho de Noé identificado pela tradição judaica como [[Malki-Tzedek]] (Rei de Justiça e Sacerdote do Deus Altíssimo), que ministrou pão e vinho a Abraão ([[Gênesis 14.18]]).
+- **[[Kayin|Caim]] e [[Hevel|Abel]] (Kayin ve-Hevel):** Primeiros descendentes que perpetuaram o modelo pedagógico de aproximação sacrificial no altar (Gênesis 4).
+- **[[Noach|Noé]] (Noach):** Patriarca que, após o dilúvio, ofereceu sacrifícios de animais limpos e aves limpas no altar (Gênesis 8.20), preservando a linhagem sacerdotal original.
+- **[[Shem|Sem]] (Shem / Melquisedeque):** Filho de Noé identificado pela tradição judaica como [[Malki-Tzedek]] (Rei de Justiça e Sacerdote do Deus Altíssimo), que ministrou pão e vinho a Abraão (Gênesis 14.18).
 - **[[Avraham Avinu|Abraão]] (Avraham Avinu):** Receptor da aliança sacerdotal e da promessa de que em sua descendência seriam benditas todas as famílias da Terra.
 - **[[Yitzchak Avinu|Isaque]] e [[Ya'akov Avinu|Jacó]]:** Elos patriarcais da genealogia sacerdotal entre Abraão e os primogênitos de Israel.
 - **A Tribo de Levi:** Separada para o sacerdócio levítico em substituição aos primogênitos, por ter permanecido fiel no episódio do bezerro de ouro.
 - **[[Rei Saul]] e [[Profeta Samuel]] (Shemuel HaNavi):** O profeta repreende Saul com a máxima de que a obediência à Torá é superior aos sacrifícios rituais de animais ([[1 Samuel 15.22]]).
-- **[[Shlomo HaMelech|Rei Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo (*Beit HaMikdash*), concebido como "casa de oração para todos os povos" ([[Isaías 56.7]]).
+- **[[Shlomo HaMelech|Rei Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo (*Beit HaMikdash*), concebido como "casa de oração para todos os povos" (Isaías 56.7).
 - **[[Profeta Jeremias]] (Yirmeyahu):** Autor da profecia de [[Jeremias 31.31|Jeremias 31.31-34]] sobre a Nova Aliança inscrita no coração da Casa de Israel e de Judá.
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel, a Palavra eterna (*Davar*) encarnada, o arquétipo do *Adam Kadmon*, o Justo (*Tzadik*) cuja morte voluntária cobriu os pecados da humanidade e ratificou a Torá perpétua.
 - **As legiões romanas (70 EC):** Destruíram o [[Segundo Templo]] e extinguiram os sacrifícios levíticos, o vácuo de quase 2.000 anos de que o estudo parte.
@@ -48,19 +48,19 @@ knowledge_depth: exhaustive-academic
   - *[[Gênesis 2.16|Gênesis 2.16-17]]:* O mandamento edênico primordial e a instituição do arbítrio moral.
   - *Gênesis 2:2-3:* O sétimo dia da criação, origem edênica do Shabat.
   - *[[Gênesis 3.21]]:* As túnicas de pele feitas por Deus para cobrir a nudez de Adão e Eva (inauguração da expiação vicária animal).
-  - *[[Gênesis 4.3|Gênesis 4.3-5]]:* As ofertas de Caim e Abel no altar.
-  - *[[Gênesis 8.20]]:* O sacrifício pós-diluviano de Noé com animais puros.
-  - *[[Gênesis 14.18|Gênesis 14.18-20]]:* O encontro sacerdotal entre Melquisedeque (Sem) e Abraão.
-  - *[[Êxodo 20.8]]:* *"Lembra-te do dia de Shabat para o santificar"* (o verbo "lembra-te" atesta sua instituição prévia no Éden, não no Sinai).
-  - *[[Êxodo 32]]:* O bezerro de ouro e a passagem do sacerdócio dos primogênitos para os levitas.
+  - *Gênesis 4.3-5:* As ofertas de Caim e Abel no altar.
+  - *Gênesis 8.20:* O sacrifício pós-diluviano de Noé com animais puros.
+  - *Gênesis 14.18-20:* O encontro sacerdotal entre Melquisedeque (Sem) e Abraão.
+  - *Êxodo 20.8:* *"Lembra-te do dia de Shabat para o santificar"* (o verbo "lembra-te" atesta sua instituição prévia no Éden, não no Sinai).
+  - *Êxodo 32:* O bezerro de ouro e a passagem do sacerdócio dos primogênitos para os levitas.
 - *Nevi'im:* (Profetas do [[Tanakh]])
   - *[[1 Samuel 15.22]]:* A primazia da obediência à Palavra sobre os sacrifícios.
-  - *[[Isaías 56.7]]:* O Templo como "casa de oração para todos os povos".
+  - *Isaías 56.7:* O Templo como "casa de oração para todos os povos".
   - *[[Jeremias 31.31|Jeremias 31.31-34]]:* O oráculo da Nova Aliança (*Berit Hadashah*) que interioriza a Lei.
 - *Ketuvim:* Sem referência específica citada.
 - *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Mateus 5.17|Mateus 5.17-20]]:* Yeshua ratifica que nenhum *yod* ou traço da Torá passará e condena o antinomismo.
-  - *[[Mateus 25|Mateus 25.1-13]]:* A Parábola das Dez Virgens (o azeite de reserva como a preparação espiritual e estudo da Palavra para as vésperas do retorno do Noivo).
+  - *Mateus 25.1-13:* A Parábola das Dez Virgens (o azeite de reserva como a preparação espiritual e estudo da Palavra para as vésperas do retorno do Noivo).
   - *[[1 Timóteo 2.5]]:* *"Há um só Deus e um só mediador entre Deus e os homens, Yeshua o Messias, homem."*
 
 **Literatura rabínica e judaica**
@@ -135,7 +135,7 @@ Rav Yosef confronta a teologia tradicional com uma questão histórica incontorn
 ### 5. A Refutação do Antinomismo e o Shabat como Dádiva Edênica
 - **O Alerta de Mateus 5:17-20:** Yeshua advertiu que aquele que quebrar o menor mandamento da Torá e ensinar os outros a fazê-lo será considerado menor no Reino dos Céus.
 - **A Origem Edênica do Shabat:** O mandamento do descanso semanal não foi inventado no Monte Sinai para os judeus; foi instituído no Éden no sétimo dia da criação (*Gênesis 2:2-3*). Por essa razão, o quarto mandamento do Decálogo inicia com o imperativo *"Lembra-te"* (*Zajor* em *Êxodo 20:8*), pois tratava-se de um memorial cósmico pré-existente dado a toda a humanidade na pessoa de Adão.
-- **A Parábola das Dez Virgens ([[Mateus 25|Mateus 25.1-13]]):** Rav Yosef utiliza a parábola escatológica para advertir sobre a necessidade do "azeite de reserva" — a dedicação contínua ao estudo da Palavra, guarda dos mandamentos e santificação pelo Espírito Santo —, conclamando os discípulos a estarem despertos e preparados para o retorno do Rei Messias em Jerusalém.
+- **A Parábola das Dez Virgens (Mateus 25.1-13):** Rav Yosef utiliza a parábola escatológica para advertir sobre a necessidade do "azeite de reserva" — a dedicação contínua ao estudo da Palavra, guarda dos mandamentos e santificação pelo Espírito Santo —, conclamando os discípulos a estarem despertos e preparados para o retorno do Rei Messias em Jerusalém.
 
 ---
 
@@ -150,7 +150,7 @@ Rav Yosef confronta a teologia tradicional com uma questão histórica incontorn
 - [[Adam Kadmon]]: O homem primordial e arquétipo cósmico espiritual segundo o qual o universo e o homem foram criados.
 - [[Shabat]]: O sétimo dia sagrado de descanso e conexão divina, instituído no Éden para toda a humanidade e ratificado no Decálogo.
 - [[Malki-Tzedek|Melquisedeque]]: A linhagem sacerdotal régia original (*Malki-Tzedek*), associada historicamente a Sem, que prefigura o sacerdócio eterno de Yeshua.
-- [[Jeremias 31]]: Texto profético basilar da Nova Aliança (*Berit Hadashah*) focada na interiorização da Torá no coração.
+- Jeremias 31: Texto profético basilar da Nova Aliança (*Berit Hadashah*) focada na interiorização da Torá no coração.
 - [[Teshuvá]]: O retorno ativo e prático a Deus mediante o abandono do pecado e a obediência voluntária aos Seus mandamentos.
 
 **Notas relacionadas na base:**

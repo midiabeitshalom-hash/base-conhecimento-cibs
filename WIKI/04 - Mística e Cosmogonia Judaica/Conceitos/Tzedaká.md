@@ -22,7 +22,7 @@ A raiz é *tzadi-dalet-kuf* (צ־ד־ק), a mesma de *tzedek* (justiça), de [[T
 - **Deuteronômio 15:7-11:** "abrirás a tua mão ao teu irmão", sem coração mesquinho.
 - **Provérbios 10:2 e 11:4:** "a *tzedaká* livra da morte".
 - **Mateus 6:1-4:** Yeshua ensina a dar em segredo, sem tocar trombeta; a tradução hebraica de Delitzsch usa *tzedaká* para a "esmola" do texto.
-- **[[Atos 10|Atos 10.2-4]]:** as esmolas de [[Cornélio]] "subiram como memorial diante de D'us".
+- **Atos 10.2-4:** as esmolas de [[Cornélio]] "subiram como memorial diante de D'us".
 
 ## Nas fontes judaicas
 

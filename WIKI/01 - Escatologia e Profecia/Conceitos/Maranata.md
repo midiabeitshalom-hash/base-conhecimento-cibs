@@ -26,7 +26,7 @@ A expressão aparece no fim da primeira carta aos coríntios: "se alguém não a
 
 O título "Senhor" aqui é o de *Mar*, o mestre e rei a quem se deve honra. Ele cabe no [[Monoteísmo Estrito]] da base: Yeshua é o Senhor ungido que vem em nome do Pai, e a oração continua dirigida a D'us ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
-Rav Yosef fecha o estudo do arrebatamento com a prática diária de proclamar "Maranata, ora vem Yeshua" ([[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]). A palavra combina com a leitura pós-tribulacional ([[Pós-Tribulacionismo]]). Quem diz "vem" não está pedindo para ser levado embora antes da aflição; está chamando o Rei para descer e reinar em Jerusalém. A espera é ativa: vigiar, guardar a [[Torá]], recusar a [[Marca da Besta]] e manter o testemunho de Yeshua até o soar da última trombeta ([[1 Coríntios 15.51|1 Coríntios 15.51-52]]). Yeshua mesmo ligou sua volta a uma frase dita por Israel: "não me vereis até que digais: [[Baruch Haba B'Shem Adonai|bendito o que vem em nome do Senhor]]" ([[Mateus 23.39]]).
+Rav Yosef fecha o estudo do arrebatamento com a prática diária de proclamar "Maranata, ora vem Yeshua" ([[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]). A palavra combina com a leitura pós-tribulacional ([[Pós-Tribulacionismo]]). Quem diz "vem" não está pedindo para ser levado embora antes da aflição; está chamando o Rei para descer e reinar em Jerusalém. A espera é ativa: vigiar, guardar a [[Torá]], recusar a [[Marca da Besta]] e manter o testemunho de Yeshua até o soar da última trombeta (1 Coríntios 15.51-52). Yeshua mesmo ligou sua volta a uma frase dita por Israel: "não me vereis até que digais: [[Baruch Haba B'Shem Adonai|bendito o que vem em nome do Senhor]]" (Mateus 23.39).
 
 ## Como explicar à congregação
 
@@ -34,7 +34,7 @@ Numa casa em que o pai viajou e avisou que volta, os filhos não ficam parados n
 
 ## Relacionados
 
-[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Reino Messiânico]] · [[Shofar HaGadol]] · [[Yom Teruá]] · [[Baruch Haba B'Shem Adonai]] · [[Mateus 23.39]] · [[1 Coríntios 15.51]] · [[Marca da Besta]] · [[Yeshua]]
+[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Primeira Ressurreição]] · [[Reino Messiânico]] · [[Shofar HaGadol]] · [[Yom Teruá]] · [[Baruch Haba B'Shem Adonai]] · Mateus 23.39 · 1 Coríntios 15.51 · [[Marca da Besta]] · [[Yeshua]]
 
 ## Aparece em
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]

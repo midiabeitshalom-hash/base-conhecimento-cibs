@@ -17,11 +17,11 @@ O grego diz *hē anastasis hē prōtē*, "a ressurreição, a primeira". *Anasta
 
 ## Na Escritura
 
-- **[[Daniel 12|Daniel 12.2]]:** "muitos dos que dormem no pó da terra ressuscitarão, uns para vida eterna".
+- **Daniel 12.2:** "muitos dos que dormem no pó da terra ressuscitarão, uns para vida eterna".
 - **Isaías 26:19** e **[[Ezequiel 37]]:** os mortos que vivem e o vale dos ossos secos.
-- **[[1 Coríntios 15.20]]** e 15:23: o Messias como primícias, "depois os que são do Messias, na sua vinda".
+- **1 Coríntios 15.20** e 15:23: o Messias como primícias, "depois os que são do Messias, na sua vinda".
 - **[[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]:** os vivos não precedem os que dormem; os mortos ressuscitam primeiro.
-- **[[1 Coríntios 15.51|1 Coríntios 15.51-52]]:** a transformação acontece na última trombeta.
+- **1 Coríntios 15.51-52:** a transformação acontece na última trombeta.
 - **[[Apocalipse 20.4|Apocalipse 20.4-6]]:** os decapitados pelo testemunho de Yeshua, que não adoraram a besta nem receberam o sinal, vivem e reinam mil anos. "Esta é a primeira ressurreição. Bem-aventurado e santo aquele que tem parte na primeira ressurreição; sobre estes não tem poder a segunda morte".
 
 ## Nas fontes judaicas
@@ -30,7 +30,7 @@ A Mishná abre o capítulo sobre o mundo vindouro dizendo que todo Israel tem pa
 
 ## Na visão da Beit Shalom
 
-O estudo [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] monta o argumento em três passos. A Primeira Ressurreição inclui os mártires da besta, e portanto acontece depois da perseguição. O arrebatamento dos vivos não pode vir antes da ressurreição dos mortos. Logo, o [[Arrebatamento]] é pós-tribulacional. O pilar 18 de [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]] registra a mesma cadeia e acrescenta [[Mateus 24.29|Mateus 24.29-31]]: os eleitos são reunidos "logo depois da tribulação". Os ressuscitados sobem ao encontro do Rei para descer com ele a Jerusalém e reinar no [[Reino Messiânico]], o [[Shabat Milenar]].
+O estudo [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] monta o argumento em três passos. A Primeira Ressurreição inclui os mártires da besta, e portanto acontece depois da perseguição. O arrebatamento dos vivos não pode vir antes da ressurreição dos mortos. Logo, o [[Arrebatamento]] é pós-tribulacional. O pilar 18 de [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]] registra a mesma cadeia e acrescenta Mateus 24.29-31: os eleitos são reunidos "logo depois da tribulação". Os ressuscitados sobem ao encontro do Rei para descer com ele a Jerusalém e reinar no [[Reino Messiânico]], o [[Shabat Milenar]].
 
 ## Leituras que a Beit Shalom corrige
 
@@ -42,7 +42,7 @@ Numa fila, quem é o primeiro não tem ninguém na frente. João diz que esta é
 
 ## Relacionados
 
-[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Apocalipse 20.4]] · [[1 Tessalonicenses 4.15]] · [[1 Coríntios 15.51]] · [[Mateus 24.29]] · [[Daniel 12]] · [[Grande Tribulação]] · [[Marca da Besta]] · [[Reino Messiânico]] · [[Shabat Milenar]] · [[Bikurim]]
+[[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Apocalipse 20.4]] · [[1 Tessalonicenses 4.15]] · 1 Coríntios 15.51 · Mateus 24.29 · Daniel 12 · [[Grande Tribulação]] · [[Marca da Besta]] · [[Reino Messiânico]] · [[Shabat Milenar]] · [[Bikurim]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

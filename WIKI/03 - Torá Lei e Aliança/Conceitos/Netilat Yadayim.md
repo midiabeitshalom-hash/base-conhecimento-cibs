@@ -38,7 +38,7 @@ Muitas igrejas leem Mateus 15:11 como "Jesus liberou todos os alimentos". O cont
 
 ## Relacionados
 
-[[Kashrut]] · [[Halachá]] · [[Tum'ah]] · [[Taharah]] · [[Fariseus]] · [[Mitzvot]] · [[Corbanot]] · [[Shimon Kefa]] · [[Atos 10]]
+[[Kashrut]] · [[Halachá]] · [[Tum'ah]] · [[Taharah]] · [[Fariseus]] · [[Mitzvot]] · [[Corbanot]] · [[Shimon Kefa]] · Atos 10
 
 ## Aparece em
 

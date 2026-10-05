@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O nome não aparece no texto bíblico, mas o lugar sim. No Moriá, [[Avraham Avinu]] amarra Isaque e D'us provê o carneiro ([[Gênesis 22]]). No mesmo monte, segundo a tradição, Jacó põe uma pedra por travesseiro, vê a escada que liga a terra ao céu e diz: "esta é a casa de D'us, e esta é a porta dos céus" (Gênesis 28:17), a [[Sha'ar HaShamayim]]. Davi compra a eira de Araúna e Salomão levanta ali o Templo (2 Crônicas 3:1).
+O nome não aparece no texto bíblico, mas o lugar sim. No Moriá, [[Avraham Avinu]] amarra Isaque e D'us provê o carneiro (Gênesis 22). No mesmo monte, segundo a tradição, Jacó põe uma pedra por travesseiro, vê a escada que liga a terra ao céu e diz: "esta é a casa de D'us, e esta é a porta dos céus" (Gênesis 28:17), a [[Sha'ar HaShamayim]]. Davi compra a eira de Araúna e Salomão levanta ali o Templo (2 Crônicas 3:1).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Toda casa tem uma pedra fundamental, enterrada e invisível, que segura o resto.
 
 ## Relacionados
 
-[[Sulam Ya'akov]] · [[Sha'ar HaShamayim]] · [[Ya'akov Avinu]] · [[Adam Kadmon]] · [[Arba'ah Olamot]] · [[Malchut]] · [[Tehom]] · [[Kohen Gadol]] · [[Yom Kippur]] · [[Gênesis 22]] · [[Terceiro Templo]] · [[Shechinah]]
+[[Sulam Ya'akov]] · [[Sha'ar HaShamayim]] · [[Ya'akov Avinu]] · [[Adam Kadmon]] · [[Arba'ah Olamot]] · [[Malchut]] · [[Tehom]] · [[Kohen Gadol]] · [[Yom Kippur]] · Gênesis 22 · [[Terceiro Templo]] · [[Shechinah]]
 
 ## Aparece em
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]

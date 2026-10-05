@@ -29,7 +29,7 @@ O [[1 Enoque]] (6:6) diz que os anjos vigilantes desceram sobre o cume do Hermon
 
 ## Na visão da Beit Shalom
 
-No estudo [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]], Rav Yosef começa a cadeia do Jordão no Hermon. O rio é abastecido pelo degelo das neves, que se infiltra na rocha e brota nas nascentes do sopé. A água, por isso, desce literalmente do alto. Ele liga essa hidrologia à mística das águas: o Espírito pairava sobre as águas antes de qualquer outra obra ([[Gênesis 1.2]]), a tradição do Midrash faz as águas procederem do [[Kisse HaKavod]], e [[Apocalipse 22.1|Apocalipse 22.1-2]] mostra o rio da água da vida saindo do trono de D'us e do Cordeiro. A [[Tevilá]] no Jordão é imersão em [[Maim Chaim]], águas vivas que vêm de cima.
+No estudo [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]], Rav Yosef começa a cadeia do Jordão no Hermon. O rio é abastecido pelo degelo das neves, que se infiltra na rocha e brota nas nascentes do sopé. A água, por isso, desce literalmente do alto. Ele liga essa hidrologia à mística das águas: o Espírito pairava sobre as águas antes de qualquer outra obra (Gênesis 1.2), a tradição do Midrash faz as águas procederem do [[Kisse HaKavod]], e Apocalipse 22.1-2 mostra o rio da água da vida saindo do trono de D'us e do Cordeiro. A [[Tevilá]] no Jordão é imersão em [[Maim Chaim]], águas vivas que vêm de cima.
 
 O outro lado do Hermon aparece em [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]], onde a base lembra as ciências ocultas ensinadas pelos anjos caídos no monte. O mesmo lugar recebeu a descida da rebelião e manda para baixo a água da purificação.
 
@@ -39,7 +39,7 @@ A neve do Hermon é como a chuva guardada em reserva no alto. Ela derrete devaga
 
 ## Relacionados
 
-[[Rio Jordão]] · [[Tevilá]] · [[Maim Chaim]] · [[Kisse HaKavod]] · [[Apocalipse 22]] · [[Apocalipse 22.1]] · [[Gênesis 1.2]] · [[1 Enoque]] · [[Nefilim]] · [[Bnei Elohim]] · [[Novo Nascimento]]
+[[Rio Jordão]] · [[Tevilá]] · [[Maim Chaim]] · [[Kisse HaKavod]] · Apocalipse 22 · Apocalipse 22.1 · Gênesis 1.2 · [[1 Enoque]] · [[Nefilim]] · [[Bnei Elohim]] · [[Novo Nascimento]]
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]

@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O Salmo diz: "a tua Torá é a verdade" ([[Salmo 119.142]]), e "a soma da tua palavra é a verdade" ([[Salmo 119.160]]). Se a Torá é *Emet*, o mundo que a ignora fica entregue ao *sheker*. Em [[2 Tessalonicenses 2.10]], os que não acolhem o amor da verdade recebem a [[Operação do Erro]] e passam a crer na mentira. Yeshua chama o adversário de "pai da mentira" (João 8:44).
+O Salmo diz: "a tua Torá é a verdade" (Salmo 119.142), e "a soma da tua palavra é a verdade" (Salmo 119.160). Se a Torá é *Emet*, o mundo que a ignora fica entregue ao *sheker*. Em 2 Tessalonicenses 2.10, os que não acolhem o amor da verdade recebem a [[Operação do Erro]] e passam a crer na mentira. Yeshua chama o adversário de "pai da mentira" (João 8:44).
 
 ## Na visão da Beit Shalom
 
@@ -36,7 +36,7 @@ Num labirinto de espelhos cada corredor parece uma saída, e a pessoa gasta a ta
 
 ## Relacionados
 
-[[Emet]] · [[Arba'ah Olamot]] · [[Assiá]] · [[Atzilut]] · [[Sulam Ya'akov]] · [[Operação do Erro]] · [[Salmo 119.142]] · [[Kelipot]] · [[Yetzer HaRá]] · [[Olam Haba]] · [[Teshuvá]]
+[[Emet]] · [[Arba'ah Olamot]] · [[Assiá]] · [[Atzilut]] · [[Sulam Ya'akov]] · [[Operação do Erro]] · Salmo 119.142 · [[Kelipot]] · [[Yetzer HaRá]] · [[Olam Haba]] · [[Teshuvá]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

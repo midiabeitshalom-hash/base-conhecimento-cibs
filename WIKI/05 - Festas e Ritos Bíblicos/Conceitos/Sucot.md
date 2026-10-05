@@ -18,11 +18,11 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-[[Levítico 23]] (versículos 34-43) fixa a data, os sete dias, a santa convocação do primeiro dia e do oitavo, as quatro espécies (Levítico 23:40) e a habitação em cabanas. É uma das três subidas de [[Deuteronômio 16.16]]. Números 29 prescreve, ao longo dos sete dias, setenta novilhos. Yeshua sobe a Jerusalém para a festa, e "no último dia, o grande dia da festa", clama: "se alguém tem sede, venha a mim e beba" (João 7:37-38). O prólogo de João diz que o Verbo "habitou entre nós" ([[João 1.14]]); o verbo grego *skēnoō* quer dizer armar tenda, tabernacular. Na transfiguração, Pedro quer levantar três cabanas (Mateus 17:4). E Zacarias profetiza que todas as nações subirão ano após ano a Jerusalém "para celebrar a festa dos tabernáculos", sob pena de não receberem chuva ([[Zacarias 14|Zacarias 14.16-19]]).
+[[Levítico 23]] (versículos 34-43) fixa a data, os sete dias, a santa convocação do primeiro dia e do oitavo, as quatro espécies (Levítico 23:40) e a habitação em cabanas. É uma das três subidas de Deuteronômio 16.16. Números 29 prescreve, ao longo dos sete dias, setenta novilhos. Yeshua sobe a Jerusalém para a festa, e "no último dia, o grande dia da festa", clama: "se alguém tem sede, venha a mim e beba" (João 7:37-38). O prólogo de João diz que o Verbo "habitou entre nós" (João 1.14); o verbo grego *skēnoō* quer dizer armar tenda, tabernacular. Na transfiguração, Pedro quer levantar três cabanas (Mateus 17:4). E Zacarias profetiza que todas as nações subirão ano após ano a Jerusalém "para celebrar a festa dos tabernáculos", sob pena de não receberem chuva (Zacarias 14.16-19).
 
 ## Nas fontes judaicas
 
-O [[Talmud Bavli]] liga os setenta novilhos às setenta nações do mundo, oferecidos em favor delas (*Sukkah 55b*). A Mishná descreve a libação da água e a alegria da noite: "quem não viu a alegria da casa da tiragem da água nunca viu alegria na vida" (*Sukkah 5:1*), o pano de fundo exato de João 7. *Sukkah 52a* traz uma das passagens clássicas sobre [[Mashiach ben Yosef]], lida com [[Zacarias 12.10]].
+O [[Talmud Bavli]] liga os setenta novilhos às setenta nações do mundo, oferecidos em favor delas (*Sukkah 55b*). A Mishná descreve a libação da água e a alegria da noite: "quem não viu a alegria da casa da tiragem da água nunca viu alegria na vida" (*Sukkah 5:1*), o pano de fundo exato de João 7. *Sukkah 52a* traz uma das passagens clássicas sobre [[Mashiach ben Yosef]], lida com Zacarias 12.10.
 
 ## Na visão da Beit Shalom
 
@@ -38,7 +38,7 @@ Uma semana numa cabana de ramos ensina o que a casa de alvenaria faz esquecer: a
 
 ## Relacionados
 
-[[Moedim]] · [[Levítico 23]] · [[Shemini Atzeret]] · [[Yom Teruá]] · [[Yom Kippur]] · [[Shalosh Regalim]] · [[Chol HaMoed]] · [[Reino Messiânico]] · [[Shechinah]] · [[Zacarias 14]] · [[João 1.14]] · [[Deuteronômio 16.16]] · [[Mashiach ben David]]
+[[Moedim]] · [[Levítico 23]] · [[Shemini Atzeret]] · [[Yom Teruá]] · [[Yom Kippur]] · [[Shalosh Regalim]] · [[Chol HaMoed]] · [[Reino Messiânico]] · [[Shechinah]] · Zacarias 14 · João 1.14 · Deuteronômio 16.16 · [[Mashiach ben David]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

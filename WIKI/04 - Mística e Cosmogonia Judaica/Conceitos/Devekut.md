@@ -18,7 +18,7 @@ A raiz *D-V-K* é colar, grudar, aderir. É o verbo do casamento: "o homem deixa
 
 ## Na Escritura
 
-A Torá manda: "ao Senhor teu D'us temerás, a ele servirás e a ele te apegarás" ([[Deuteronômio 10.20]]). E promete: "vós que vos apegastes ao Senhor vosso D'us estais todos vivos hoje" ([[Deuteronômio 4]], 4:4). O apego vem sempre amarrado à obediência: amar a D'us, andar nos seus caminhos e apegar-se a ele (Deuteronômio 11:22; 30:20). Na [[Berit Hadashah]], Yeshua usa a imagem da videira: "permanecei em mim, e eu em vós; como a vara de si mesma não pode dar fruto se não permanecer na videira" (João 15:4).
+A Torá manda: "ao Senhor teu D'us temerás, a ele servirás e a ele te apegarás" (Deuteronômio 10.20). E promete: "vós que vos apegastes ao Senhor vosso D'us estais todos vivos hoje" (Deuteronômio 4, 4:4). O apego vem sempre amarrado à obediência: amar a D'us, andar nos seus caminhos e apegar-se a ele (Deuteronômio 11:22; 30:20). Na [[Berit Hadashah]], Yeshua usa a imagem da videira: "permanecei em mim, e eu em vós; como a vara de si mesma não pode dar fruto se não permanecer na videira" (João 15:4).
 
 ## Nas fontes judaicas
 
@@ -34,7 +34,7 @@ Dois pedaços de madeira colados com cola boa: se você tentar separar, a madeir
 
 ## Relacionados
 
-[[Nefesh HaElokit]] · [[Nefesh HaBehamit]] · [[Mitzvot]] · [[Kavanah]] · [[Birur]] · [[Kelipot]] · [[Deuteronômio 10.20]] · [[Deuteronômio 4]] · [[Emuná]] · [[Shabat]] · [[Neshamá]] · [[Kedushá]]
+[[Nefesh HaElokit]] · [[Nefesh HaBehamit]] · [[Mitzvot]] · [[Kavanah]] · [[Birur]] · [[Kelipot]] · Deuteronômio 10.20 · Deuteronômio 4 · [[Emuná]] · [[Shabat]] · [[Neshamá]] · [[Kedushá]]
 
 ## Aparece em
 

@@ -19,8 +19,8 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **[[Êxodo 20]]:** "não terás outros deuses diante de mim; não farás para ti imagem de escultura".
-- **[[Deuteronômio 6.4]]:** o [[Shemá Israel]], que Yeshua recita como o primeiro mandamento ([[Marcos 12.29]]).
-- **[[Isaías 44.6]] e [[Isaías 45|Isaías 45.5-6, 21-22]]:** "além de mim não há D'us".
+- **[[Deuteronômio 6.4]]:** o [[Shemá Israel]], que Yeshua recita como o primeiro mandamento (Marcos 12.29).
+- **Isaías 44.6 e Isaías 45.5-6, 21-22:** "além de mim não há D'us".
 - **2 Reis 18:4:** [[Chizkiyahu HaMelech]] despedaça a serpente de bronze de Moisés, a que o povo queimava incenso, e a chama de [[Nechushtan]].
 - **Jeremias 10:1-5:** a árvore cortada do bosque e enfeitada com prata e ouro.
 - **1 Coríntios 10:20 e Atos 15:20:** o que se sacrifica a ídolos se sacrifica a demônios; os gentios devem se abster do que foi oferecido a ídolos.

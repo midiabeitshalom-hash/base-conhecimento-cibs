@@ -30,30 +30,30 @@ knowledge_depth: exhaustive-academic
 **Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
 
 **Figuras bíblicas e históricas**
-- **[[Adam HaRishon]] (O Primeiro Adão):** Criado à semelhança do molde de Adam Kadmon; ao transgredir o limite no Éden, perdeu o domínio teocrático e passou a gerar descendência à sua imagem decaída ([[Gênesis 5.3]]).
-- **[[Avraham Avinu|Abraão]] (Avraham Avinu):** Pai da fé que, no sacrifício de Isaque no Monte Moriá ([[Gênesis 22]]), visualizou a tipologia profética do Cordeiro que Deus proveria (*"Viu o meu dia e alegrou-se"* — [[João 8.56]]).
+- **[[Adam HaRishon]] (O Primeiro Adão):** Criado à semelhança do molde de Adam Kadmon; ao transgredir o limite no Éden, perdeu o domínio teocrático e passou a gerar descendência à sua imagem decaída (Gênesis 5.3).
+- **[[Avraham Avinu|Abraão]] (Avraham Avinu):** Pai da fé que, no sacrifício de Isaque no Monte Moriá (Gênesis 22), visualizou a tipologia profética do Cordeiro que Deus proveria (*"Viu o meu dia e alegrou-se"* — João 8.56).
 - **[[Yitzchak Avinu|Isaque]] (Yitzchak):** O filho da promessa cuja amarração (*Akedá*) prefigurou a entrega voluntária do justo no madeiro.
 - **[[Moshe Rabenu|Moisés]], [[Aharon HaKohen|Arão]] e [[David HaMelech|Davi]]:** Justos (*Tzadikim*) e líderes de Israel que atuaram como receptáculos de centelhas parciais da presença divina (*Elohut*).
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O "Último Adão" e "Espírito Vivificante" ([[1 Coríntios 15.45]]), receptáculo corpóreo da plenitude da divindade ([[Colossenses 2.9]]), mediador humano entre Deus e a humanidade ([[1 Timóteo 2.5]]).
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que utilizou categorias da mística judaica de Adam Kadmon para formular a relação entre o primeiro Adão (alma vivente) e o último Adão (espírito vivificante) em Romanos 5 e 1 Coríntios 15.
-- **[[Profeta Daniel]]:** Citado pela profecia do encerramento e selamento das visões até o tempo do fim, quando o conhecimento místico e profético seria destrancado ([[Daniel 12|Daniel 12.4, 9-10]]).
+- **[[Profeta Daniel]]:** Citado pela profecia do encerramento e selamento das visões até o tempo do fim, quando o conhecimento místico e profético seria destrancado (Daniel 12.4, 9-10).
 
 **Escrituras**
 - *Torá:* ([[Torá]] / Pentateuco)
   - *[[Gênesis 1.26]]:* *"Na'assê Adam be-tsalmênu kidmutênu"* ("Façamos o homem à nossa imagem, conforme a nossa semelhança").
   - *[[Gênesis 2.16|Gênesis 2.16-17]]:* O mandamento edênico e o estabelecimento do arbítrio com consequências de causa e efeito.
-  - *[[Gênesis 3.15]]:* O *Protoevangelho* — a promessa da semente da mulher que esmagaria a cabeça da serpente.
-  - *[[Gênesis 5.3]]:* O registro de que Adão decaído gerou um filho à sua própria imagem e semelhança corruptível.
-  - *[[Gênesis 22|Gênesis 22.1-14]]:* O episódio da *Akedá* (a amarração de Isaque) e a provisão do carneiro no arbusto.
+  - *Gênesis 3.15:* O *Protoevangelho* — a promessa da semente da mulher que esmagaria a cabeça da serpente.
+  - *Gênesis 5.3:* O registro de que Adão decaído gerou um filho à sua própria imagem e semelhança corruptível.
+  - *Gênesis 22.1-14:* O episódio da *Akedá* (a amarração de Isaque) e a provisão do carneiro no arbusto.
 - *Nevi'im:*
   - Sem referência específica citada.
 - *Ketuvim:* (parte do [[Tanakh]])
-  - *[[Daniel 12|Daniel 12.4, 9-10]]:* A revelação do conhecimento oculto e a purificação dos justos nos tempos finais.
+  - *Daniel 12.4, 9-10:* A revelação do conhecimento oculto e a purificação dos justos nos tempos finais.
 - *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
-  - *[[João 1|João 1.1-14]]:* O Verbo/Palavra primordial que se faz carne.
-  - *[[João 8.56|João 8.56-58]]:* *"Antes que Abraão existisse, Eu Sou"* e a visão de Abraão sobre o dia do Messias.
-  - *[[João 14.8|João 14.8-9]]:* O diálogo com Filipe (*"Quem me vê a mim, vê o Pai"* — o Messias como a lâmpada que projeta a Luz invisível).
-  - *[[Romanos 5.12|Romanos 5.12-19]]:* O paralelismo antropológico entre a transgressão de Adão e a justificação pelo Messias.
+  - *João 1.1-14:* O Verbo/Palavra primordial que se faz carne.
+  - *João 8.56-58:* *"Antes que Abraão existisse, Eu Sou"* e a visão de Abraão sobre o dia do Messias.
+  - *João 14.8-9:* O diálogo com Filipe (*"Quem me vê a mim, vê o Pai"* — o Messias como a lâmpada que projeta a Luz invisível).
+  - *Romanos 5.12-19:* O paralelismo antropológico entre a transgressão de Adão e a justificação pelo Messias.
   - *[[1 Coríntios 15.45|1 Coríntios 15.45-47]]:* O primeiro homem, Adão, feito alma vivente (*Nefesh Chayah*); o último Adão, espírito vivificante (*Ruach Mechayeh*).
   - *[[Colossenses 2.9]]:* A plenitude corporal da presença divina (*Elohut*) habitando no Messias.
   - *[[1 Timóteo 2.5]]:* A distinção categórica: *"Um só Deus, e um só Mediador entre Deus e os homens, Yeshua o Messias, homem"*.
@@ -133,9 +133,9 @@ O enigma do plural em *"Façamos o homem"* é desvendado a partir da antropologi
 - **A Promessa da Semente (*Protoevangelho*):** A partir da queda, a "carta mestra" do Criador — o projeto do Messias — é ativada em *Gênesis 3:15* como a promessa da semente da mulher que esmagará o poder da serpente.
 
 ### 4. A Tipologia Patriarcal: Abraão, Isaque e o Cordeiro Provedor
-Rav Yosef analisa as 20 gerações de Adão a Abraão e o clímax da *Akedá* ([[Gênesis 22]]):
+Rav Yosef analisa as 20 gerações de Adão a Abraão e o clímax da *Akedá* (Gênesis 22):
 - **O Enigma do Cordeiro Provedor:** Quando Isaque pergunta onde está o cordeiro para o holocausto, Abraão profetiza: *"Deus proverá para Si o cordeiro"*. No entanto, ao final da prova, o animal encontrado preso no arbusto é um **carneiro** (*Ayil*), e não um cordeiro (*Keves*).
-- **O Testemunho de Yeshua em [[João 8.56|João 8.56-58]]:** Yeshua explica o mistério: *"Abraão, vosso pai, exultou por ver o meu dia; viu-o e alegrou-se"*. Abraão viu a tipologia profética de que o verdadeiro Cordeiro de Deus seria fornecido no futuro na pessoa do Messias.
+- **O Testemunho de Yeshua em João 8.56-58:** Yeshua explica o mistério: *"Abraão, vosso pai, exultou por ver o meu dia; viu-o e alegrou-se"*. Abraão viu a tipologia profética de que o verdadeiro Cordeiro de Deus seria fornecido no futuro na pessoa do Messias.
 - **A Natureza da Expiação do Justo (*Kaparot*):** A execução de Yeshua no madeiro opera sob o princípio estritamente judaico da **morte do justo que expia pelos pecados de uma geração**. Sendo um homem sem pecado, Sua morte voluntária funciona como substituição legal e cobertura espiritual (*Kaparot*) definitiva para todos os que entram na aliança.
 
 ### 5. A Mesianologia da Luz e da Lâmpada (Or HaGanuz, Kli e Apocalipse 21:23)
@@ -143,7 +143,7 @@ O estudo culmina na definição rigorosa da natureza do Messias:
 - **A Metáfora da Luz e da Lâmpada ([[Apocalipse 21.23]]):**
   - *Deus é a Luz Infinita:* A essência transcendente, invisível, incriada e inacessível (*Or Ein Sof*).
   - *O Messias é a Lâmpada:* O vaso (*Kli*), o receptáculo corpóreo visível projetado para filtrar e irradiar a glória divina sem destruir a criação.
-- **A Explicação de "Quem me vê a mim, vê o Pai" ([[João 14.9]]):** Yeshua não estava afirmando ser ontologicamente o Pai. Ele declarou que, sendo a lâmpada perfeita, contemplá-lo é enxergar a projeção mais pura e tangível da Luz do Pai que a humanidade pode suportar.
+- **A Explicação de "Quem me vê a mim, vê o Pai" (João 14.9):** Yeshua não estava afirmando ser ontologicamente o Pai. Ele declarou que, sendo a lâmpada perfeita, contemplá-lo é enxergar a projeção mais pura e tangível da Luz do Pai que a humanidade pode suportar.
 - **O Messias como Homem Revestido da Plenitude (*Elohut*):**
   - Justos como Moisés, Arão e Davi receberam **centelhas e fragmentos** da presença divina.
   - No Messias Yeshua habitou **corporalmente toda a plenitude da divindade** (*Colossenses 2:9*), fazendo Dele o "Último Adão" e "Espírito Vivificante" (*1 Coríntios 15:45*).
@@ -198,13 +198,13 @@ O estudo culmina na definição rigorosa da natureza do Messias:
 ### Checklist Operacional / Plano de Aplicação Prática
 
 - [ ] **Alinhamento Teológico e Desconstrução de Dogmas:**
-  - [ ] Relacionar [[Gênesis 1.26]] com [[1 Coríntios 15.45|1 Coríntios 15.45-47]] e [[Colossenses 1.15|Colossenses 1.15-17]], compreendendo o conceito de [[Adam Kadmon]].
+  - [ ] Relacionar [[Gênesis 1.26]] com [[1 Coríntios 15.45|1 Coríntios 15.45-47]] e Colossenses 1.15-17, compreendendo o conceito de [[Adam Kadmon]].
   - [ ] Superar formulações politeístas ou trinitárias helenísticas, afirmando o monoteísmo estrito de [[1 Timóteo 2.5]] e [[João 17.3]].
 - [ ] **Compreensão da Mecânica da Redenção:**
-  - [ ] Estudar o episódio da *Akedá* em [[Gênesis 22]] em paralelo com a obra vicária de Yeshua como o Cordeiro provido por Deus.
+  - [ ] Estudar o episódio da *Akedá* em Gênesis 22 em paralelo com a obra vicária de Yeshua como o Cordeiro provido por Deus.
   - [ ] Reconhecer a morte do justo como cobertura de expiação (*Kaparot*), vivendo em gratidão pela justificação imerecida.
 - [ ] **Transformação Ética e Vivência Prática:**
   - [ ] Fazer [[Teshuvá]] diária, abandonando as inclinações da carne herdadas do primeiro Adão e revestindo-se do homem espiritual em Yeshua.
-  - [ ] Praticar a justiça da Torá com o entendimento de que os tempos finais exigem a multiplicação dos atos de santidade ([[Daniel 12.10]]).
+  - [ ] Praticar a justiça da Torá com o entendimento de que os tempos finais exigem a multiplicação dos atos de santidade (Daniel 12.10).
 - [ ] **Conexão com a Luz Divina:**
   - [ ] Buscar a comunhão contínua com o Criador através da oração e do estudo bíblico, utilizando o Messias Yeshua como o modelo/lâmpada perfeito de vida.

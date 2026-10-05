@@ -10,19 +10,19 @@ date_captured: 2026-10-05
 
 # Tzelem Elohim HaNistar
 
-**Definição:** *Tzelem Elohim HaNistar* (צֶלֶם אֱלֹהִים הַנִּסְתָּר), "a imagem do D'us oculto" ou "invisível", é o título que a base dá ao Messias a partir de [[Colossenses 1.15]]: "ele é a imagem do D'us invisível, o primogênito de toda a criação". Yeshua é o revelador visível da glória de um D'us que, em si mesmo, ninguém pode ver.
+**Definição:** *Tzelem Elohim HaNistar* (צֶלֶם אֱלֹהִים הַנִּסְתָּר), "a imagem do D'us oculto" ou "invisível", é o título que a base dá ao Messias a partir de Colossenses 1.15: "ele é a imagem do D'us invisível, o primogênito de toda a criação". Yeshua é o revelador visível da glória de um D'us que, em si mesmo, ninguém pode ver.
 
 ## Raiz e significado
 
-*Tzelem* (צֶלֶם) é imagem, forma, a sombra que reproduz o contorno do objeto; é a palavra de "façamos o homem à nossa imagem" ([[Gênesis 1.26]]; [[Tzelem Elohim]]). *Nistar* (נִסְתָּר) vem de *s-t-r*, esconder: é o que está encoberto. Deuteronômio 29:29 fala das *nistarot*, "as coisas encobertas que pertencem ao Senhor", e [[Isaías 45|Isaías 45.15]] diz: "verdadeiramente tu és um D'us que te ocultas" (*El mistater*). No grego de Colossenses a expressão é *eikōn tou Theou tou aoratou*: *eikōn*, imagem, ícone; *aoratos*, invisível. A imagem existe para mostrar quem não se mostra.
+*Tzelem* (צֶלֶם) é imagem, forma, a sombra que reproduz o contorno do objeto; é a palavra de "façamos o homem à nossa imagem" ([[Gênesis 1.26]]; [[Tzelem Elohim]]). *Nistar* (נִסְתָּר) vem de *s-t-r*, esconder: é o que está encoberto. Deuteronômio 29:29 fala das *nistarot*, "as coisas encobertas que pertencem ao Senhor", e Isaías 45.15 diz: "verdadeiramente tu és um D'us que te ocultas" (*El mistater*). No grego de Colossenses a expressão é *eikōn tou Theou tou aoratou*: *eikōn*, imagem, ícone; *aoratos*, invisível. A imagem existe para mostrar quem não se mostra.
 
 ## Na Escritura
 
-- **[[Colossenses 1.15|Colossenses 1.15-18]]:** a imagem do D'us invisível e o [[Bechor]], o primogênito da criação.
+- **Colossenses 1.15-18:** a imagem do D'us invisível e o [[Bechor]], o primogênito da criação.
 - **Êxodo 33:20:** "não poderás ver a minha face, porque homem nenhum verá a minha face e viverá".
-- **[[João 1|João 1.18]]:** "ninguém jamais viu a D'us; o Filho unigênito, que está no seio do Pai, esse o revelou".
-- **[[João 14.9]]:** "quem me vê a mim vê o Pai".
-- **[[Hebreus 1.3]]:** o resplendor da glória e a expressão exata do seu ser.
+- **João 1.18:** "ninguém jamais viu a D'us; o Filho unigênito, que está no seio do Pai, esse o revelou".
+- **João 14.9:** "quem me vê a mim vê o Pai".
+- **Hebreus 1.3:** o resplendor da glória e a expressão exata do seu ser.
 - **[[Colossenses 2.9]]:** nele habita corporalmente toda a plenitude da [[Elohut]].
 
 ## Nas fontes judaicas
@@ -45,7 +45,7 @@ Ninguém olha para o sol de frente sem queimar os olhos, mas todos veem o sol re
 
 ## Relacionados
 
-[[Tzelem Elohim]] · [[Adam Kadmon]] · [[Bechor]] · [[Ein Sof]] · [[Tzimtzum]] · [[Sefirot]] · [[Kli]] · [[Elohut]] · [[Monoteísmo Estrito]] · [[Ontologia vs. Função]] · [[Colossenses 1.15]] · [[Colossenses 2.9]] · [[João 14.9]] · [[Hebreus 1.3]]
+[[Tzelem Elohim]] · [[Adam Kadmon]] · [[Bechor]] · [[Ein Sof]] · [[Tzimtzum]] · [[Sefirot]] · [[Kli]] · [[Elohut]] · [[Monoteísmo Estrito]] · [[Ontologia vs. Função]] · Colossenses 1.15 · [[Colossenses 2.9]] · João 14.9 · Hebreus 1.3
 
 ## Aparece em
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]

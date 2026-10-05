@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Nefesh* é alma, vida, o ser que respira. *Elokit* é o adjetivo de *Elokim* (D'us, escrito com *kuf* por reverência): divina. A ideia nasce de [[Gênesis 2.7]]. O homem é formado do pó da terra, e só se torna "alma vivente" quando D'us lhe sopra nas narinas o *nishmat chaim*, o fôlego de vida. O pó é a parte que ele partilha com os animais; o sopro é a parte que vem de cima. A base cita também Jó 32:8: "o sopro do Todo-Poderoso lhes dá entendimento".
+*Nefesh* é alma, vida, o ser que respira. *Elokit* é o adjetivo de *Elokim* (D'us, escrito com *kuf* por reverência): divina. A ideia nasce de Gênesis 2.7. O homem é formado do pó da terra, e só se torna "alma vivente" quando D'us lhe sopra nas narinas o *nishmat chaim*, o fôlego de vida. O pó é a parte que ele partilha com os animais; o sopro é a parte que vem de cima. A base cita também Jó 32:8: "o sopro do Todo-Poderoso lhes dá entendimento".
 
 ## Nas fontes judaicas
 

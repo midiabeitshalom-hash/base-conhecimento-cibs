@@ -30,9 +30,9 @@ Assim como [[Ben Adam]] quer dizer "da espécie humana", *ben* com outro termo i
 
 ## Na visão da Beit Shalom
 
-O estudo sobre o Messias homem define *Ben Elohim* como designação de eleição, afeto e representação régia, outorgada a reis, profetas, anjos e supremamente ao Messias ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). Rav Yosef refuta a ideia de uma filiação biológica que geraria um híbrido "cem por cento D'us e cem por cento homem". A filiação de [[Yeshua]] segue o padrão de [[David HaMelech]] e [[Shlomo HaMelech]]: eleição, autoridade e representação legal. Ele é o [[Shaliah]], o enviado que age com a autoridade de quem o envia, e o [[Bechor]], o primogênito em posição, de [[Colossenses 1.15]].
+O estudo sobre o Messias homem define *Ben Elohim* como designação de eleição, afeto e representação régia, outorgada a reis, profetas, anjos e supremamente ao Messias ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). Rav Yosef refuta a ideia de uma filiação biológica que geraria um híbrido "cem por cento D'us e cem por cento homem". A filiação de [[Yeshua]] segue o padrão de [[David HaMelech]] e [[Shlomo HaMelech]]: eleição, autoridade e representação legal. Ele é o [[Shaliah]], o enviado que age com a autoridade de quem o envia, e o [[Bechor]], o primogênito em posição, de Colossenses 1.15.
 
-É a distinção que a base chama de [[Ontologia vs. Função]]: Yeshua tem centralidade funcional absoluta e não tem divindade ontológica ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). O Pai é "o único D'us verdadeiro", e o Filho é "aquele que enviaste" ([[João 17.3]]); o Filho tem um D'us ([[João 20.17]]) e, no fim, se submete "para que Deus seja tudo em todos" ([[1 Coríntios 15.28]]).
+É a distinção que a base chama de [[Ontologia vs. Função]]: Yeshua tem centralidade funcional absoluta e não tem divindade ontológica ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). O Pai é "o único D'us verdadeiro", e o Filho é "aquele que enviaste" ([[João 17.3]]); o Filho tem um D'us ([[João 20.17]]) e, no fim, se submete "para que Deus seja tudo em todos" (1 Coríntios 15.28).
 
 ## Leituras que a Beit Shalom corrige
 

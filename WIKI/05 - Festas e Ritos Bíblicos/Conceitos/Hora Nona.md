@@ -18,7 +18,7 @@ O dia judaico divide o período de luz em doze horas, contadas a partir do nasce
 
 ## Na Escritura
 
-- [[Mateus 27.46]]: "perto da hora nona, Yeshua clamou com grande voz: *Eli, Eli, lamá sabactâni*", as palavras do [[Salmo 22.1]]. As trevas cobrem a terra da hora sexta à nona ([[Mateus 27|Mateus 27.45-50]]).
+- Mateus 27.46: "perto da hora nona, Yeshua clamou com grande voz: *Eli, Eli, lamá sabactâni*", as palavras do Salmo 22.1. As trevas cobrem a terra da hora sexta à nona (Mateus 27.45-50).
 - Atos 3:1: [[Shimon Kefa]] e João sobem ao Templo "à hora da oração, a nona".
 - Atos 10:3, 30: [[Cornélio]] orava em casa à hora nona quando o anjo apareceu.
 - Êxodo 12:6: o cordeiro é imolado *bein ha'arbayim*, "entre as duas tardes", expressão que a tradição entendeu como o meio da tarde.
@@ -37,7 +37,7 @@ Imagine o Templo às três da tarde: o som do shofar, a fila de famílias com se
 
 ## Relacionados
 
-[[Pessach]] · [[Corban Pessach]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · [[Mateus 27.46]] · [[Salmo 22.1]] · [[Levítico 23.5]] · [[Êxodo 12.1]] · [[Cornélio]]
+[[Pessach]] · [[Corban Pessach]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · Mateus 27.46 · Salmo 22.1 · Levítico 23.5 · Êxodo 12.1 · [[Cornélio]]
 
 ## Aparece em
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]

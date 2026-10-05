@@ -22,8 +22,8 @@ A tradução perde um detalhe. No hebraico, graça e mandamento andam juntos: D'
 
 - **Antes do Sinai:** D'us cobre Adão e Eva com túnicas de pele ([[Gênesis 3.21]]) em vez de executar a sentença no mesmo dia; Noé acha graça; Abraão é chamado sem mérito anterior.
 - **No Sinai:** a aliança é dada a um povo resgatado antes de obedecer. Primeiro a saída do Egito, depois os mandamentos.
-- **Nos Profetas:** a promessa de um coração novo e do Espírito que faz andar nos estatutos ([[Ezequiel 36.26|Ezequiel 36.26-27]]; [[Jeremias 31.33]]).
-- **Na Berit Hadashah:** Yeshua vem "cheio de graça e de verdade" ([[João 1.14]]), o par *chesed ve'emet* de Êxodo 34:6. A graça "ensina a renunciar à impiedade" (Tito 2:11-12). Estar "debaixo da graça" não autoriza o pecado: "De modo nenhum" ([[Romanos 6|Romanos 6.1-2, 14-15]]). A fé não anula a Torá, confirma-a ([[Romanos 3.31]]).
+- **Nos Profetas:** a promessa de um coração novo e do Espírito que faz andar nos estatutos ([[Ezequiel 36.26|Ezequiel 36.26-27]]; Jeremias 31.33).
+- **Na Berit Hadashah:** Yeshua vem "cheio de graça e de verdade" (João 1.14), o par *chesed ve'emet* de Êxodo 34:6. A graça "ensina a renunciar à impiedade" (Tito 2:11-12). Estar "debaixo da graça" não autoriza o pecado: "De modo nenhum" (Romanos 6.1-2, 14-15). A fé não anula a Torá, confirma-a ([[Romanos 3.31]]).
 
 ## Nas fontes judaicas
 
@@ -33,7 +33,7 @@ A tradição diz que "o mundo é construído com *chesed*" (*olam chesed yibaneh
 
 Rav Yosef define a graça como o favor imerecido e o perdão dados ao pecador arrependido, presente em todas as eras bíblicas e consumado em Yeshua ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]). Adão, Noé, Abraão, Moisés e Davi foram perdoados de graça; ninguém, em nenhuma época, foi salvo por mérito próprio ([[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]). A graça poupou Adão da execução imediata e abriu tempo para a *teshuvá*; os sacrifícios eram a pedagogia dessa graça, e a morte do justo, [[Mitat Tzaddikim Mechaperet]], foi a sua forma definitiva.
 
-O ponto que a base mais repete é que a graça capacita. Ela perdoa o passado e dá, pelo [[Ruach HaKodesh]], força para guardar os mandamentos no presente ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). A imagem é a da serra elétrica: a placa de aviso é a Torá; quem põe a mão na serra perde a mão; o Messias é o cirurgião que a reimplanta; e quem volta a pôr a mão na serra, achando que sempre haverá cirurgia, despreza o sangue da aliança ([[Hebreus 10.26|Hebreus 10.26-29]]). Outra imagem é a da mulher resgatada da prostituição pelo [[Goel]]: o resgate é de graça, mas ela não volta à vida antiga ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]).
+O ponto que a base mais repete é que a graça capacita. Ela perdoa o passado e dá, pelo [[Ruach HaKodesh]], força para guardar os mandamentos no presente ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). A imagem é a da serra elétrica: a placa de aviso é a Torá; quem põe a mão na serra perde a mão; o Messias é o cirurgião que a reimplanta; e quem volta a pôr a mão na serra, achando que sempre haverá cirurgia, despreza o sangue da aliança (Hebreus 10.26-29). Outra imagem é a da mulher resgatada da prostituição pelo [[Goel]]: o resgate é de graça, mas ela não volta à vida antiga ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]).
 
 ## Leituras que a Beit Shalom corrige
 

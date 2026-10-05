@@ -16,7 +16,7 @@ date_captured: 2026-10-05
 
 O mandamento do Éden é dado a Adão em [[Gênesis 2.16|Gênesis 2.16-17]], com uma ordem positiva ("de toda árvore do jardim comerás") e uma proibitiva ("da árvore do conhecimento do bem e do mal não comerás"). Chavah o conhece e o repete à serpente, o [[Nachash]], mas com um acréscimo: "nem nele tocareis" (Gênesis 3:3). Ela vê que a árvore é boa para comer, agradável aos olhos e desejável para dar entendimento, come e dá ao marido (Gênesis 3:6).
 
-O capítulo [[Gênesis 3]] traz as consequências e, no meio delas, a primeira promessa: a semente da mulher esmagará a cabeça da serpente ([[Gênesis 3.15]]). Logo depois, D'us faz túnicas de pele para os dois ([[Gênesis 3.21]]). Fora do Éden, Chavah dá à luz [[Kayin]] e [[Hevel]] ([[Gênesis 4]]) e, depois da morte de Hevel, Sete (Gênesis 4:25). Sha'ul lembra que a serpente a enganou com astúcia (2 Coríntios 11:3).
+O capítulo Gênesis 3 traz as consequências e, no meio delas, a primeira promessa: a semente da mulher esmagará a cabeça da serpente (Gênesis 3.15). Logo depois, D'us faz túnicas de pele para os dois ([[Gênesis 3.21]]). Fora do Éden, Chavah dá à luz [[Kayin]] e [[Hevel]] (Gênesis 4) e, depois da morte de Hevel, Sete (Gênesis 4:25). Sha'ul lembra que a serpente a enganou com astúcia (2 Coríntios 11:3).
 
 ## Na tradição judaica
 
@@ -32,7 +32,7 @@ A promessa de Gênesis 3:15 faz de Chavah a mãe da linhagem por onde viria o Me
 
 ## Relacionados
 
-[[Adam HaRishon]] · [[Nachash]] · [[Etz Chaim]] · [[Torá Moral]] · [[Mitzvot]] · [[Kashrut]] · [[Corbanot]] · [[Kapará]] · [[Kayin]] · [[Hevel]] · [[Gênesis 3]] · [[Gênesis 3.21]]
+[[Adam HaRishon]] · [[Nachash]] · [[Etz Chaim]] · [[Torá Moral]] · [[Mitzvot]] · [[Kashrut]] · [[Corbanot]] · [[Kapará]] · [[Kayin]] · [[Hevel]] · Gênesis 3 · [[Gênesis 3.21]]
 
 ## Aparece em
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]

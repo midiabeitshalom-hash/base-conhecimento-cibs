@@ -14,15 +14,15 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Shavuot* é plural de *shavua*, semana, da mesma raiz de *sheva*, sete. A festa é contada, não marcada no calendário: "contareis desde o dia seguinte ao Shabat... sete semanas completas; até o dia seguinte ao sétimo Shabat contareis cinquenta dias" (Levítico 23:15-16). É a contagem do *Ômer*, que liga [[Pessach]] a Shavuot, a libertação à aliança. A Torá dá outros nomes à festa: *Chag HaKatzir*, festa da colheita (Êxodo 23:16), *Chag Shavuot* (Êxodo 34:22) e *Yom HaBikurim*, dia das primícias (Números 28:26). É uma das três festas de peregrinação, os [[Shalosh Regalim]], em que todo homem devia subir a Jerusalém ([[Deuteronômio 16.16]]).
+*Shavuot* é plural de *shavua*, semana, da mesma raiz de *sheva*, sete. A festa é contada, não marcada no calendário: "contareis desde o dia seguinte ao Shabat... sete semanas completas; até o dia seguinte ao sétimo Shabat contareis cinquenta dias" (Levítico 23:15-16). É a contagem do *Ômer*, que liga [[Pessach]] a Shavuot, a libertação à aliança. A Torá dá outros nomes à festa: *Chag HaKatzir*, festa da colheita (Êxodo 23:16), *Chag Shavuot* (Êxodo 34:22) e *Yom HaBikurim*, dia das primícias (Números 28:26). É uma das três festas de peregrinação, os [[Shalosh Regalim]], em que todo homem devia subir a Jerusalém (Deuteronômio 16.16).
 
 ## Na Escritura
 
 - **O rito.** Dois pães de trigo levedados como primícias, movidos diante do Senhor ([[Levítico 23]], 23:17-21).
-- **O Sinai.** No terceiro mês depois da saída do Egito, o povo chega ao monte ([[Êxodo 19]]), e D'us fala os Dez Mandamentos ([[Êxodo 20]]). "Todo o povo via as vozes" (Êxodo 20:18), as [[Kolot]]. Logo depois vem o bezerro de ouro e caem 3.000 homens ([[Êxodo 32.28]]).
-- **A espera.** Yeshua manda os discípulos esperarem em Jerusalém a promessa do Pai ([[Atos 1.4|Atos 1.4-8]]); cerca de 120 pessoas estão reunidas (Atos 1:15).
-- **Atos 2.** "Cumprindo-se o dia de Pentecostes", vem um som como de vento, línguas como de fogo e o falar nas línguas dos peregrinos de muitas nações; Pedro cita [[Joel 2.28|Joel 2.28-32]], e quase 3.000 almas são acrescentadas ([[Atos 2]]; [[Atos 2.1|Atos 2.1-4]]).
-- **A promessa por trás.** A Torá escrita no coração ([[Jeremias 31.33]]) e o Espírito que faz andar nos estatutos ([[Ezequiel 36.26|Ezequiel 36.26-27]]).
+- **O Sinai.** No terceiro mês depois da saída do Egito, o povo chega ao monte (Êxodo 19), e D'us fala os Dez Mandamentos ([[Êxodo 20]]). "Todo o povo via as vozes" (Êxodo 20:18), as [[Kolot]]. Logo depois vem o bezerro de ouro e caem 3.000 homens (Êxodo 32.28).
+- **A espera.** Yeshua manda os discípulos esperarem em Jerusalém a promessa do Pai (Atos 1.4-8); cerca de 120 pessoas estão reunidas (Atos 1:15).
+- **Atos 2.** "Cumprindo-se o dia de Pentecostes", vem um som como de vento, línguas como de fogo e o falar nas línguas dos peregrinos de muitas nações; Pedro cita Joel 2.28-32, e quase 3.000 almas são acrescentadas ([[Atos 2]]; Atos 2.1-4).
+- **A promessa por trás.** A Torá escrita no coração (Jeremias 31.33) e o Espírito que faz andar nos estatutos ([[Ezequiel 36.26|Ezequiel 36.26-27]]).
 
 ## Nas fontes judaicas
 
@@ -41,7 +41,7 @@ O [[Talmud Bavli]] discute se a Torá foi dada em 6 ou 7 de Sivan (*Shabat 86b*)
 | Línguas | as 70 línguas do Midrash | as línguas dos peregrinos das nações |
 | Resultado | 3.000 mortos no bezerro de ouro | 3.000 salvos |
 
-A ponte entre "dedo" e "Espírito" está nos Evangelhos: "pelo dedo de D'us" em [[Lucas 11.20]] é "pelo Espírito de D'us" em [[Mateus 12.28]]. As 70 línguas remetem às 70 nações da tabela de [[Gênesis 10]] e à dispersão da [[Torre de Babel]]; o [[Erev Rav]], a mistura de povos que saiu do Egito com Israel, representa essas nações no Sinai ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
+A ponte entre "dedo" e "Espírito" está nos Evangelhos: "pelo dedo de D'us" em Lucas 11.20 é "pelo Espírito de D'us" em Mateus 12.28. As 70 línguas remetem às 70 nações da tabela de Gênesis 10 e à dispersão da [[Torre de Babel]]; o [[Erev Rav]], a mistura de povos que saiu do Egito com Israel, representa essas nações no Sinai ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
 
 **A renovação da aliança.** Shavuot é o cumprimento visível da [[Berit Hadashah]]: as cláusulas ficam, e o suporte passa da pedra ao coração ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
@@ -63,7 +63,7 @@ No Sinai, D'us escreveu numa pedra e o povo quebrou o contrato no mesmo mês. Em
 
 ## Relacionados
 
-[[Moedim]] · [[Shalosh Regalim]] · [[Pessach]] · [[Bikurim]] · [[Levítico 23]] · [[Har Sinai]] · [[Êxodo 19]] · [[Kolot]] · [[Dedo de Deus]] · [[Atos 2]] · [[Joel 2.28]] · [[Ruach HaKodesh]] · [[Berit Hadashah]] · [[Xenoglossia]] · [[Glossolalia]] · [[Erev Rav]] · [[Menorá]]
+[[Moedim]] · [[Shalosh Regalim]] · [[Pessach]] · [[Bikurim]] · [[Levítico 23]] · [[Har Sinai]] · Êxodo 19 · [[Kolot]] · [[Dedo de Deus]] · [[Atos 2]] · Joel 2.28 · [[Ruach HaKodesh]] · [[Berit Hadashah]] · [[Xenoglossia]] · [[Glossolalia]] · [[Erev Rav]] · [[Menorá]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

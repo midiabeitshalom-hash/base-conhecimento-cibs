@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-Ela aparece em todos os momentos finais. Olhava de longe a crucificação, com Maria Madalena e [[Salomé]] (Marcos 15:40-41; Mateus 27:56). Viu onde [[José de Arimateia]] depositou o corpo (Marcos 15:47). "Passado o Shabat", comprou aromas para ungi-lo com as outras ([[Marcos 16.1]]). Lucas diz que as mulheres prepararam aromas e "no Shabat repousaram, conforme o mandamento" ([[Lucas 23.54|Lucas 23.54-56]]). E foi ao túmulo "no fim do Shabat, quando já despontava o primeiro dia da semana" ([[Mateus 28.1]]), onde ouviu do anjo que Yeshua já tinha ressuscitado. Lucas a inclui entre as que levaram a notícia aos apóstolos (Lucas 24:10).
+Ela aparece em todos os momentos finais. Olhava de longe a crucificação, com Maria Madalena e [[Salomé]] (Marcos 15:40-41; Mateus 27:56). Viu onde [[José de Arimateia]] depositou o corpo (Marcos 15:47). "Passado o Shabat", comprou aromas para ungi-lo com as outras (Marcos 16.1). Lucas diz que as mulheres prepararam aromas e "no Shabat repousaram, conforme o mandamento" (Lucas 23.54-56). E foi ao túmulo "no fim do Shabat, quando já despontava o primeiro dia da semana" (Mateus 28.1), onde ouviu do anjo que Yeshua já tinha ressuscitado. Lucas a inclui entre as que levaram a notícia aos apóstolos (Lucas 24:10).
 
 ## Na tradição judaica
 
@@ -28,7 +28,7 @@ O testemunho delas fecha a conta do [[Sinal de Jonas]]: Yeshua morreu na quarta 
 
 ## Relacionados
 
-[[Maria Madalena]] · [[Salomé]] · [[José de Arimateia]] · [[Marcos 16.1]] · [[Lucas 23.54]] · [[Mateus 28.1]] · [[Shabbaton]] · [[Chol HaMoed]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Bikurim]] · [[Shabat]]
+[[Maria Madalena]] · [[Salomé]] · [[José de Arimateia]] · Marcos 16.1 · Lucas 23.54 · Mateus 28.1 · [[Shabbaton]] · [[Chol HaMoed]] · [[Dia da Preparação]] · [[Sinal de Jonas]] · [[Bikurim]] · [[Shabat]]
 
 ## Aparece em
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]

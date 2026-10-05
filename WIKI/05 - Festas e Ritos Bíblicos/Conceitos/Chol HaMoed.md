@@ -20,8 +20,8 @@ date_captured: 2026-10-05
 
 - **Levítico 23:6-8:** os Pães Ázimos duram sete dias; "no primeiro dia tereis santa convocação; nenhum trabalho servil fareis... ao sétimo dia haverá santa convocação". Os dias do meio não recebem essa proibição.
 - **Levítico 23:34-36:** Sucot dura sete dias, com santa convocação no primeiro, e um oitavo dia solene, [[Shemini Atzeret]].
-- **[[Marcos 16.1]]:** "passado o sábado", as mulheres compram os aromas para ungir o corpo de Yeshua.
-- **[[Lucas 23.54|Lucas 23.54-56]]:** elas preparam os aromas e "no sábado repousaram, conforme o mandamento".
+- **Marcos 16.1:** "passado o sábado", as mulheres compram os aromas para ungir o corpo de Yeshua.
+- **Lucas 23.54-56:** elas preparam os aromas e "no sábado repousaram, conforme o mandamento".
 
 ## Nas fontes judaicas
 
@@ -39,7 +39,7 @@ Entre o Natal e o Ano-Novo as lojas abrem e as pessoas trabalham, mas todo mundo
 
 ## Relacionados
 
-[[Shabbaton]] · [[Moedim]] · [[Chag HaMatzot]] · [[Sucot]] · [[Levítico 23]] · [[Dia da Preparação]] · [[Marcos 16.1]] · [[Lucas 23.54]] · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · [[Yom Tov]]
+[[Shabbaton]] · [[Moedim]] · [[Chag HaMatzot]] · [[Sucot]] · [[Levítico 23]] · [[Dia da Preparação]] · Marcos 16.1 · Lucas 23.54 · [[Sinal de Jonas]] · [[Cômputo Inclusivo]] · [[Yom Tov]]
 
 ## Aparece em
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]

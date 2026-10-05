@@ -14,14 +14,14 @@ date_captured: 2026-10-05
 
 ## Quem é
 
-O nome original é *Avram* (אַבְרָם), "pai exaltado". Em [[Gênesis 12.3|Gênesis 12.1-3]] D'us o tira da casa do pai e promete que nele "serão benditas todas as famílias da terra". Em Gênesis 17:5 o nome muda para *Avraham*, lido pela própria Torá como *av hamon goyim*, "pai de uma multidão de nações". O título *Avinu*, "nosso pai", é o que a Mishná usa para ele (*Pirkei Avot* 5:3 fala das dez provas de *Avraham Avinu*). Teve oito filhos: Ismael com Hagar, Isaque com Sara e seis com Queturá (Gênesis 25:1-2) ([[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]).
+O nome original é *Avram* (אַבְרָם), "pai exaltado". Em Gênesis 12.1-3 D'us o tira da casa do pai e promete que nele "serão benditas todas as famílias da terra". Em Gênesis 17:5 o nome muda para *Avraham*, lido pela própria Torá como *av hamon goyim*, "pai de uma multidão de nações". O título *Avinu*, "nosso pai", é o que a Mishná usa para ele (*Pirkei Avot* 5:3 fala das dez provas de *Avraham Avinu*). Teve oito filhos: Ismael com Hagar, Isaque com Sara e seis com Queturá (Gênesis 25:1-2) ([[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]).
 
 ## Na Escritura
 
-- **O chamado e a promessa:** [[Gênesis 12.3]] e [[Gênesis 12.7]], a terra dada à sua descendência.
-- **O encontro com [[Malki-Tzedek]]:** em [[Gênesis 14.18|Gênesis 14.18-20]] recebe pão e vinho do sacerdote do D'us Altíssimo, que a tradição identifica com [[Shem]] ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]).
-- **A Torá antes do Sinai:** em [[Gênesis 26.5]] D'us diz a Isaque que Abraão guardou *Mishmarti*, *Mitzvotai*, *Chukotai* e *Torotai*, quatro séculos antes de Moisés ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]).
-- **A *Akedá*:** em [[Gênesis 22]] Abraão diz que D'us proveria o cordeiro, mas o animal preso no arbusto é um *ayil*, carneiro, e não um *keves*, cordeiro. O cordeiro ficou para o futuro, e é o dia que Abraão "viu e se alegrou" em [[João 8.56]] ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
+- **O chamado e a promessa:** Gênesis 12.3 e Gênesis 12.7, a terra dada à sua descendência.
+- **O encontro com [[Malki-Tzedek]]:** em Gênesis 14.18-20 recebe pão e vinho do sacerdote do D'us Altíssimo, que a tradição identifica com [[Shem]] ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]).
+- **A Torá antes do Sinai:** em Gênesis 26.5 D'us diz a Isaque que Abraão guardou *Mishmarti*, *Mitzvotai*, *Chukotai* e *Torotai*, quatro séculos antes de Moisés ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]).
+- **A *Akedá*:** em Gênesis 22 Abraão diz que D'us proveria o cordeiro, mas o animal preso no arbusto é um *ayil*, carneiro, e não um *keves*, cordeiro. O cordeiro ficou para o futuro, e é o dia que Abraão "viu e se alegrou" em João 8.56 ([[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]).
 
 ## Na tradição judaica
 
@@ -43,7 +43,7 @@ Uma imagem para a congregação: Abraão é o meio da régua. Para trás, 2.000 
 
 ## Relacionados
 
-[[Yitzchak Avinu]] · [[Ya'akov Avinu]] · [[Malki-Tzedek]] · [[Shem]] · [[Gênesis 22]] · [[Gênesis 26.5]] · [[Yovel]] · [[Monoteísmo Estrito]] · [[Zera Israel]] · [[Bnei Anussim]] · [[Torá]]
+[[Yitzchak Avinu]] · [[Ya'akov Avinu]] · [[Malki-Tzedek]] · [[Shem]] · Gênesis 22 · Gênesis 26.5 · [[Yovel]] · [[Monoteísmo Estrito]] · [[Zera Israel]] · [[Bnei Anussim]] · [[Torá]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

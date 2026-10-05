@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-O nome liga duas coisas. A primeira é a cidade de Nazaré (*Natzrat*), onde Yeshua cresceu. A segunda é a palavra *netzer* (נֵצֶר), "rebento, broto", de [[Isaías 11.1]]: "brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará". Mateus 2:23 junta as duas: Yeshua habita em Nazaré "para que se cumprisse o que foi dito pelos profetas: ele será chamado Nazareno". Muitos leem aí o *netzer* de Isaías. Há ainda a raiz *notzer*, "guardar": em Provérbios 28:7, "quem guarda (*notzer*) a Torá é filho sábio". Para quem guardava os mandamentos, o nome tinha sentido duplo.
+O nome liga duas coisas. A primeira é a cidade de Nazaré (*Natzrat*), onde Yeshua cresceu. A segunda é a palavra *netzer* (נֵצֶר), "rebento, broto", de Isaías 11.1: "brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará". Mateus 2:23 junta as duas: Yeshua habita em Nazaré "para que se cumprisse o que foi dito pelos profetas: ele será chamado Nazareno". Muitos leem aí o *netzer* de Isaías. Há ainda a raiz *notzer*, "guardar": em Provérbios 28:7, "quem guarda (*notzer*) a Torá é filho sábio". Para quem guardava os mandamentos, o nome tinha sentido duplo.
 
 Em hebraico, *Notzrim* passou depois a designar os cristãos em geral, e ainda hoje é assim em Israel. Nos primeiros séculos, porém, o nome pertencia aos judeus messiânicos.
 
@@ -45,7 +45,7 @@ Uma árvore cortada ainda solta brotos da raiz. Isaías chama o Messias de *netz
 
 ## Relacionados
 
-[[Ebionitas]] · [[Segundo Templo]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Zelotes]] · [[Isaías 11.1]] · [[Bnei Anussim]] · [[Teologia da Substituição]] · [[Ya'akov HaTzaddik]] · [[Sha'ul HaShaliach]]
+[[Ebionitas]] · [[Segundo Templo]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Zelotes]] · Isaías 11.1 · [[Bnei Anussim]] · [[Teologia da Substituição]] · [[Ya'akov HaTzaddik]] · [[Sha'ul HaShaliach]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

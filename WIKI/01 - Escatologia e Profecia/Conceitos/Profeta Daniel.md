@@ -18,14 +18,14 @@ O nome quer dizer "D'us é meu juiz". Foi levado de Jerusalém por [[Nabucodonos
 
 ## Na Escritura
 
-- **[[Daniel 2]]:** a estátua de ouro, prata, bronze, ferro e barro, e a [[Pedra Cortada sem Mãos]] que vira um monte. Diante da interpretação, Nabucodonosor se prostra a Daniel e manda oferecer-lhe oblações ([[Daniel 2.46]]).
-- **[[Daniel 3]]:** os companheiros, [[Sadraque, Mesaque e Abede-Nego]], recusam a estátua de ouro.
-- **[[Daniel 4]]:** os sete tempos de Nabucodonosor como animal e o seu reconhecimento do D'us de Israel.
+- **[[Daniel 2]]:** a estátua de ouro, prata, bronze, ferro e barro, e a [[Pedra Cortada sem Mãos]] que vira um monte. Diante da interpretação, Nabucodonosor se prostra a Daniel e manda oferecer-lhe oblações (Daniel 2.46).
+- **Daniel 3:** os companheiros, [[Sadraque, Mesaque e Abede-Nego]], recusam a estátua de ouro.
+- **Daniel 4:** os sete tempos de Nabucodonosor como animal e o seu reconhecimento do D'us de Israel.
 - **[[Daniel 7]]:** os quatro animais que sobem do [[Mar Grande]], o Ancião de Dias, o Filho do Homem nas nuvens ([[Daniel 7.13]]) e o chifre que "cuida em mudar os tempos e a lei" ([[Daniel 7.25]]).
 - **[[Daniel 9.24|Daniel 9.24-27]]:** as 70 semanas, o [[Mashiach Nagid]] "cortado" e a destruição da cidade e do santuário.
-- **[[Daniel 11.31]] e [[Daniel 12.11]]:** a [[Abominação da Desolação]].
-- **[[Daniel 12]]:** as palavras seladas até o tempo do fim, quando "muitos serão purificados" ([[Daniel 12.10]]).
-- **[[Mateus 24.15]]:** Yeshua o chama de "o profeta Daniel".
+- **Daniel 11.31 e Daniel 12.11:** a [[Abominação da Desolação]].
+- **Daniel 12:** as palavras seladas até o tempo do fim, quando "muitos serão purificados" (Daniel 12.10).
+- **Mateus 24.15:** Yeshua o chama de "o profeta Daniel".
 
 ## Na tradição judaica
 
@@ -43,7 +43,7 @@ No cânon hebraico o livro está entre os *Ketuvim*, e não entre os [[Nevi'im]]
 
 ## Relacionados
 
-[[Daniel 2]] · [[Daniel 7]] · [[Daniel 9.24]] · [[Daniel 12]] · [[Nabucodonosor II]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · [[Pedra Cortada sem Mãos]] · [[Mudar os Tempos e a Lei]] · [[Abominação da Desolação]] · [[Mashiach Nagid]] · [[Artaxerxes I]] · [[Kashrut]]
+[[Daniel 2]] · [[Daniel 7]] · [[Daniel 9.24]] · Daniel 12 · [[Nabucodonosor II]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · [[Pedra Cortada sem Mãos]] · [[Mudar os Tempos e a Lei]] · [[Abominação da Desolação]] · [[Mashiach Nagid]] · [[Artaxerxes I]] · [[Kashrut]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

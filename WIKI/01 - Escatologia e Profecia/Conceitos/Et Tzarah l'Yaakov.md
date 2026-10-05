@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Et Tzarah l'Yaakov
 
-**Definição:** *Et Tzarah l'Yaakov* (עֵת צָרָה לְיַעֲקֹב), "tempo de angústia para Jacó", é a expressão de [[Jeremias 30.7]] para a pressão final sobre o povo de Israel, militar e espiritual, que antecede o livramento e a revelação do Messias. Na base, é o momento em que Yeshua se dará a conhecer a Israel.
+**Definição:** *Et Tzarah l'Yaakov* (עֵת צָרָה לְיַעֲקֹב), "tempo de angústia para Jacó", é a expressão de Jeremias 30.7 para a pressão final sobre o povo de Israel, militar e espiritual, que antecede o livramento e a revelação do Messias. Na base, é o momento em que Yeshua se dará a conhecer a Israel.
 
 ## Raiz e significado
 
@@ -18,12 +18,12 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-"Ah! porque aquele dia é tão grande, que não houve outro semelhante! e é tempo de angústia para Jacó; ele, porém, será salvo dela" ([[Jeremias 30.7]]). O contexto é a restauração: no versículo anterior os homens aparecem com as mãos sobre os lombos "como a que está de parto" (30:6), e logo depois vem a promessa: "servirão ao Senhor seu Deus, como também a Davi, seu rei, que lhes levantarei" (30:9).
+"Ah! porque aquele dia é tão grande, que não houve outro semelhante! e é tempo de angústia para Jacó; ele, porém, será salvo dela" (Jeremias 30.7). O contexto é a restauração: no versículo anterior os homens aparecem com as mãos sobre os lombos "como a que está de parto" (30:6), e logo depois vem a promessa: "servirão ao Senhor seu Deus, como também a Davi, seu rei, que lhes levantarei" (30:9).
 
 O mesmo quadro aparece em outros textos:
-- Daniel 12:1: "haverá um tempo de angústia (*et tzarah*), qual nunca houve", e nesse tempo o povo será livrado ([[Daniel 12]]).
-- [[Zacarias 12|Zacarias 12-14]]: as nações cercam Jerusalém, e a casa de Davi olha para aquele a quem traspassaram ([[Zacarias 12.10]]).
-- [[Mateus 24|Mateus 24.21, 29-31]]: a [[Grande Tribulação]], seguida da reunião dos eleitos "logo depois da aflição daqueles dias".
+- Daniel 12:1: "haverá um tempo de angústia (*et tzarah*), qual nunca houve", e nesse tempo o povo será livrado (Daniel 12).
+- Zacarias 12-14: as nações cercam Jerusalém, e a casa de Davi olha para aquele a quem traspassaram (Zacarias 12.10).
+- Mateus 24.21, 29-31: a [[Grande Tribulação]], seguida da reunião dos eleitos "logo depois da aflição daqueles dias".
 
 ## Nas fontes judaicas
 
@@ -45,7 +45,7 @@ Jacó, na noite do Jaboque, estava sozinho, com medo do irmão e sem saída. Foi
 
 ## Relacionados
 
-[[Jeremias 30.7]] · [[Daniel 12]] · [[Zacarias 12]] · [[Zacarias 12.10]] · [[Zacarias 14]] · [[Grande Tribulação]] · [[Dores de Parto]] · [[Pós-Tribulacionismo]] · [[Ya'akov Avinu]] · [[Ani Yosef]] · [[Zafenate-Paneia]] · [[Mashiach ben David]] · [[Reino Messiânico]]
+Jeremias 30.7 · Daniel 12 · Zacarias 12 · Zacarias 12.10 · Zacarias 14 · [[Grande Tribulação]] · [[Dores de Parto]] · [[Pós-Tribulacionismo]] · [[Ya'akov Avinu]] · [[Ani Yosef]] · [[Zafenate-Paneia]] · [[Mashiach ben David]] · [[Reino Messiânico]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

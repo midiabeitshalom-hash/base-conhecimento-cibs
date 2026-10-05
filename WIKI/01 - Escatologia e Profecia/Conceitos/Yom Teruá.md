@@ -20,7 +20,7 @@ date_captured: 2026-10-05
 
 As trombetas de prata de Números 10 tinham duas funções: convocar a congregação e dar o alarme da guerra, "e sereis lembrados perante o Senhor vosso D'us, e sereis salvos dos vossos inimigos" (Números 10:9). Os profetas ligam o dia do Senhor ao shofar e à *teru'á*: "dia de trombeta e de alarido contra as cidades fortificadas" (Sofonias 1:14-16); "tocai o shofar em Sião" (Joel 2:1, 15).
 
-Na [[Berit Hadashah]], a volta do Messias vem com som de trombeta: "o mesmo Senhor descerá do céu com alarido, com voz de arcanjo e com a trombeta de D'us, e os que morreram no Messias ressuscitarão primeiro" ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]); "com grande som de trombeta" ele ajunta os escolhidos, "logo depois da tribulação daqueles dias" ([[Mateus 24.29|Mateus 24.29-31]]).
+Na [[Berit Hadashah]], a volta do Messias vem com som de trombeta: "o mesmo Senhor descerá do céu com alarido, com voz de arcanjo e com a trombeta de D'us, e os que morreram no Messias ressuscitarão primeiro" ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]); "com grande som de trombeta" ele ajunta os escolhidos, "logo depois da tribulação daqueles dias" (Mateus 24.29-31).
 
 ## Nas fontes judaicas
 

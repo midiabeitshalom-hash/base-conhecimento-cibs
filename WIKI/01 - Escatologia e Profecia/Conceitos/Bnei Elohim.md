@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-"Viram os filhos de D'us que as filhas dos homens eram formosas" e "havia naqueles dias gigantes (*nefilim*) na terra" (Gênesis 6:2, 4). Em [[Iyov]], a mesma expressão aparece três vezes para a corte celeste: os filhos de D'us vêm apresentar-se diante de Adonai (Jó 1:6; 2:1), e "jubilavam todos os filhos de D'us" na fundação da terra (Jó 38:7). A [[Berit Hadashah]] conhece a queda: os anjos "que não guardaram o seu principado, mas deixaram a sua própria habitação" estão em cadeias eternas (Judas 1:6), lançados no abismo (2 Pedro 2:4). Yeshua compara o fim aos "dias de Noé" ([[Mateus 24|Mateus 24.37]]).
+"Viram os filhos de D'us que as filhas dos homens eram formosas" e "havia naqueles dias gigantes (*nefilim*) na terra" (Gênesis 6:2, 4). Em [[Iyov]], a mesma expressão aparece três vezes para a corte celeste: os filhos de D'us vêm apresentar-se diante de Adonai (Jó 1:6; 2:1), e "jubilavam todos os filhos de D'us" na fundação da terra (Jó 38:7). A [[Berit Hadashah]] conhece a queda: os anjos "que não guardaram o seu principado, mas deixaram a sua própria habitação" estão em cadeias eternas (Judas 1:6), lançados no abismo (2 Pedro 2:4). Yeshua compara o fim aos "dias de Noé" (Mateus 24.37).
 
 ## Nas fontes judaicas
 
@@ -40,7 +40,7 @@ D'us pôs cada criatura no seu lugar, como um engenheiro separa os circuitos. Em
 
 ## Relacionados
 
-[[Nefilim]] · [[Shedim]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Monte Hermon]] · [[Azazel]] · [[Chanoch]] · [[Noach]] · [[Iyov]] · [[Marca da Besta]] · [[Transumanismo]] · [[Ben Elohim]] · [[Gênesis 6.3]] · [[Mateus 24]]
+[[Nefilim]] · [[Shedim]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Monte Hermon]] · [[Azazel]] · [[Chanoch]] · [[Noach]] · [[Iyov]] · [[Marca da Besta]] · [[Transumanismo]] · [[Ben Elohim]] · [[Gênesis 6.3]] · Mateus 24
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

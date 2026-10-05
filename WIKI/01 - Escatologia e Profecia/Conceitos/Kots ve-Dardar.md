@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Kots ve-Dardar
 
-**Definição:** *Kots ve-Dardar* (קוֹץ וְדַרְדַּר), "espinho e abrolho", é a expressão de [[Gênesis 3.18]] para o que a terra passou a produzir depois da transgressão de Adão. Na base, é a imagem do fruto natural da rebelião contra os mandamentos: esterilidade, desolação e obras que não alimentam ninguém.
+**Definição:** *Kots ve-Dardar* (קוֹץ וְדַרְדַּר), "espinho e abrolho", é a expressão de Gênesis 3.18 para o que a terra passou a produzir depois da transgressão de Adão. Na base, é a imagem do fruto natural da rebelião contra os mandamentos: esterilidade, desolação e obras que não alimentam ninguém.
 
 ## Raiz e significado
 
@@ -20,9 +20,9 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **[[Gênesis 3.17|Gênesis 3.17-18]]:** a terra amaldiçoada por causa do homem.
+- **Gênesis 3.17-18:** a terra amaldiçoada por causa do homem.
 - **Oseias 10:8:** sobre os altares idólatras de Israel "subirão espinhos e cardos", *kots vedardar*, a mesma dupla de Gênesis.
-- **[[Mateus 7.15|Mateus 7.15-20]]:** "colhem-se uvas dos espinheiros ou figos dos abrolhos?". Yeshua evoca o Éden para falar dos falsos profetas.
+- **Mateus 7.15-20:** "colhem-se uvas dos espinheiros ou figos dos abrolhos?". Yeshua evoca o Éden para falar dos falsos profetas.
 - **Hebreus 6:8:** a terra que produz espinhos e abrolhos é rejeitada.
 
 ## Nas fontes judaicas
@@ -39,7 +39,7 @@ Um terreno abandonado não fica vazio: enche de mato e espinho sozinho. Ninguém
 
 ## Relacionados
 
-[[Gênesis 3.18]] · [[Gênesis 3.17]] · [[Gênesis 3]] · [[Mateus 7.15]] · [[Adam HaRishon]] · [[Anomia]] · [[Teshuvá]] · [[Operação do Erro]] · [[Berit Hadashah]] · [[Apocalipse 22.14]] · [[Etz Chaim]] · [[Rabi Akiva]]
+Gênesis 3.18 · Gênesis 3.17 · Gênesis 3 · Mateus 7.15 · [[Adam HaRishon]] · [[Anomia]] · [[Teshuvá]] · [[Operação do Erro]] · [[Berit Hadashah]] · [[Apocalipse 22.14]] · [[Etz Chaim]] · [[Rabi Akiva]]
 
 ## Aparece em
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]

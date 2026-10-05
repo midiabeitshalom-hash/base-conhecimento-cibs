@@ -26,7 +26,7 @@ O texto de Daniel 2 está em aramaico. *Even* é pedra; *di-la vidayin*, "que n�
 
 ## Na visão da Beit Shalom
 
-O estudo [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] lê Daniel 2 e [[Daniel 7]] como um mapa contínuo da história. Roma, o quarto império, sobrevive em duas pernas: a ocidental, católica e protestante, que manteve o domingo, a anulação da Torá e a Trindade, e a oriental, o bloco islâmico. Os pés de ferro e barro são a fragilidade das alianças atuais antes do golpe final. A pedra atinge exatamente os pés: o tempo presente. Rav Yosef ensina que Yeshua já recebeu autoridade diante do Ancião de Dias, mas a implantação física do Reino acontece no esmagamento da estátua, de uma vez, contra todas as heranças imperiais. Daí o chamado de [[Apocalipse 18.4]]: "sai dela, povo meu". O pilar 20 de [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]] resume: a Pedra Cortada sem Mãos é o Reino de Yeshua, que não vem por força humana.
+O estudo [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] lê Daniel 2 e [[Daniel 7]] como um mapa contínuo da história. Roma, o quarto império, sobrevive em duas pernas: a ocidental, católica e protestante, que manteve o domingo, a anulação da Torá e a Trindade, e a oriental, o bloco islâmico. Os pés de ferro e barro são a fragilidade das alianças atuais antes do golpe final. A pedra atinge exatamente os pés: o tempo presente. Rav Yosef ensina que Yeshua já recebeu autoridade diante do Ancião de Dias, mas a implantação física do Reino acontece no esmagamento da estátua, de uma vez, contra todas as heranças imperiais. Daí o chamado de Apocalipse 18.4: "sai dela, povo meu". O pilar 20 de [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]] resume: a Pedra Cortada sem Mãos é o Reino de Yeshua, que não vem por força humana.
 
 ## Leituras que a Beit Shalom corrige
 
@@ -38,7 +38,7 @@ Uma estátua enorme, cara, cheia de metal nobre, apoiada em pés de barro. Não 
 
 ## Relacionados
 
-[[Daniel 2]] · [[Daniel 7]] · [[Daniel 7.13]] · [[Reino Messiânico]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · [[Nabucodonosor II]] · [[Profeta Daniel]] · [[Apocalipse 18.4]] · [[Mudar os Tempos e a Lei]] · [[Zelotes]] · [[Mashiach ben David]]
+[[Daniel 2]] · [[Daniel 7]] · [[Daniel 7.13]] · [[Reino Messiânico]] · [[Babilônia]] · [[Medo-Pérsia]] · [[Grécia]] · [[Nabucodonosor II]] · [[Profeta Daniel]] · Apocalipse 18.4 · [[Mudar os Tempos e a Lei]] · [[Zelotes]] · [[Mashiach ben David]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

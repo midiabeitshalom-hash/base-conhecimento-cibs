@@ -20,9 +20,9 @@ A raiz é *Sh-V-B* (שׁוּב), voltar, retornar, dar meia-volta. A mesma raiz 
 
 - **Na Torá.** "Quando te voltares ao Senhor teu D'us e deres ouvidos à sua voz" (Deuteronômio 30:2), promessa feita a um povo já disperso entre as nações.
 - **Nos Profetas.** "Voltai, filhos rebeldes" (Jeremias 3:14); "lançai de vós todas as vossas transgressões e fazei-vos um coração novo" (Ezequiel 18:31); "volta, Israel" (Oseias 14:1), lido no Shabat entre Rosh Hashaná e [[Yom Kippur]], chamado por isso *Shabat Shuvá*.
-- **Em João, o Imersor.** "Produzi frutos dignos de arrependimento" ([[Mateus 3.8]]): o machado está posto à raiz, e o pedigree de "temos Abraão por pai" não substitui o fruto ([[João, o Imersor]]).
-- **Na parábola do filho pródigo** ([[Lucas 15]]): o filho "cai em si" e volta à casa do pai, que o recebe com beijo, roupa nova e anel.
-- **No Apocalipse.** "Sai dela, povo meu" ([[Apocalipse 18.4]]), o chamado para deixar a Babilônia espiritual.
+- **Em João, o Imersor.** "Produzi frutos dignos de arrependimento" (Mateus 3.8): o machado está posto à raiz, e o pedigree de "temos Abraão por pai" não substitui o fruto ([[João, o Imersor]]).
+- **Na parábola do filho pródigo** (Lucas 15): o filho "cai em si" e volta à casa do pai, que o recebe com beijo, roupa nova e anel.
+- **No Apocalipse.** "Sai dela, povo meu" (Apocalipse 18.4), o chamado para deixar a Babilônia espiritual.
 
 ## Nas fontes judaicas
 
@@ -30,9 +30,9 @@ A raiz é *Sh-V-B* (שׁוּב), voltar, retornar, dar meia-volta. A mesma raiz 
 
 ## Na visão da Beit Shalom
 
-**O retorno é à Torá, com o testemunho de Yeshua.** O método do Rav Yosef sempre termina no mesmo lugar: a guarda dos mandamentos da Torá somada ao testemunho de [[Yeshua]], com um chamado à *teshuvá* ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). O remanescente do fim tem as duas marcas ([[Apocalipse 12.17]]; [[Apocalipse 14.12]]), como o animal *kasher* que precisa ter casco fendido e ruminar ao mesmo tempo ([[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]). Pecado é [[Anomia]], transgressão da Torá ([[1 João 3.4]]); por isso a *teshuvá* tem conteúdo concreto: Shabat, mesa, festas, moral do Decálogo ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+**O retorno é à Torá, com o testemunho de Yeshua.** O método do Rav Yosef sempre termina no mesmo lugar: a guarda dos mandamentos da Torá somada ao testemunho de [[Yeshua]], com um chamado à *teshuvá* ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). O remanescente do fim tem as duas marcas (Apocalipse 12.17; [[Apocalipse 14.12]]), como o animal *kasher* que precisa ter casco fendido e ruminar ao mesmo tempo ([[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]). Pecado é [[Anomia]], transgressão da Torá ([[1 João 3.4]]); por isso a *teshuvá* tem conteúdo concreto: Shabat, mesa, festas, moral do Decálogo ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
-**O critério são os frutos, não os sinais.** Curas e exorcismos não provam aprovação; os que fizeram milagres em nome de Yeshua ouvem "apartai-vos, vós que praticais a anomia" ([[Mateus 7.21|Mateus 7.21-23]]). O teste é o fruto de *teshuvá* de [[Mateus 3.8]] ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]).
+**O critério são os frutos, não os sinais.** Curas e exorcismos não provam aprovação; os que fizeram milagres em nome de Yeshua ouvem "apartai-vos, vós que praticais a anomia" (Mateus 7.21-23). O teste é o fruto de *teshuvá* de Mateus 3.8 ([[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]).
 
 **A graça abre o tempo da teshuvá.** Quando Adão pecou, D'us não executou a sentença na hora: cobriu o casal com túnicas de pele ([[Gênesis 3.21]]) e deu tempo. Rav Yosef define essa graça primordial como a concessão de tempo e de uma cobertura substitutiva para que o homem caído pudesse fazer *teshuvá* ([[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]). Os sacrifícios eram pedagogia visual para mover o coração ao retorno ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]; [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]). A [[Kapará]] cobre o passado; a *teshuvá* é a vida nova que ela torna possível ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]).
 
@@ -54,7 +54,7 @@ O GPS não grita com o motorista que errou a saída. Ele diz "recalculando" e mo
 
 ## Relacionados
 
-[[Torá]] · [[Mitzvot]] · [[Anomia]] · [[Kapará]] · [[Graça]] · [[Emuná]] · [[Tevilá]] · [[Yom Kippur]] · [[Shofar]] · [[Lucas 15]] · [[Mateus 3.8]] · [[Apocalipse 18.4]] · [[Efraim]] · [[Bnei Anussim]] · [[João, o Imersor]]
+[[Torá]] · [[Mitzvot]] · [[Anomia]] · [[Kapará]] · [[Graça]] · [[Emuná]] · [[Tevilá]] · [[Yom Kippur]] · [[Shofar]] · Lucas 15 · Mateus 3.8 · Apocalipse 18.4 · [[Efraim]] · [[Bnei Anussim]] · [[João, o Imersor]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

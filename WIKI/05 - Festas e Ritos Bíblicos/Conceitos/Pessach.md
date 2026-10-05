@@ -18,10 +18,10 @@ A raiz *P-S-Ch* (פ־ס־ח) significa saltar, passar por cima. Em Êxodo 12:13 
 
 ## Na Escritura
 
-- **A instituição:** [[Êxodo 12.1|Êxodo 12.1-6]], o cordeiro escolhido no dia 10 e imolado no crepúsculo do 14º dia; [[Êxodo 12]] inteiro, com a ordem de guardar a festa "por estatuto perpétuo" (12:14) e de não quebrar nenhum osso do cordeiro (12:46).
-- **O calendário:** [[Levítico 23.5|Levítico 23.5-11]] põe em sequência Pessach (14), [[Chag HaMatzot]] (15, um [[Shabbaton]]) e [[Bikurim]].
-- **As três festas de peregrinação:** [[Deuteronômio 16.16]], as [[Shalosh Regalim]].
-- **O Sêder de Yeshua:** [[Mateus 26|Mateus 26.26-57]], o pão e o vinho, e a promessa de beber de novo do fruto da videira no Reino ([[Mateus 26.26|Mateus 26.26-29]]).
+- **A instituição:** Êxodo 12.1-6, o cordeiro escolhido no dia 10 e imolado no crepúsculo do 14º dia; Êxodo 12 inteiro, com a ordem de guardar a festa "por estatuto perpétuo" (12:14) e de não quebrar nenhum osso do cordeiro (12:46).
+- **O calendário:** Levítico 23.5-11 põe em sequência Pessach (14), [[Chag HaMatzot]] (15, um [[Shabbaton]]) e [[Bikurim]].
+- **As três festas de peregrinação:** Deuteronômio 16.16, as [[Shalosh Regalim]].
+- **O Sêder de Yeshua:** Mateus 26.26-57, o pão e o vinho, e a promessa de beber de novo do fruto da videira no Reino (Mateus 26.26-29).
 
 ## Nas fontes judaicas
 
@@ -48,7 +48,7 @@ No Egito, a casa marcada com sangue não foi a casa de quem era melhor, e sim a 
 
 ## Relacionados
 
-[[Moedim]] · [[Chag HaMatzot]] · [[Bikurim]] · [[Shavuot]] · [[Corban Pessach]] · [[Sêder de Pessach]] · [[Shalosh Regalim]] · [[Dia da Preparação]] · [[Hora Nona]] · [[Sinal de Jonas]] · [[Shabbaton]] · [[Êxodo 12]] · [[Levítico 23]]
+[[Moedim]] · [[Chag HaMatzot]] · [[Bikurim]] · [[Shavuot]] · [[Corban Pessach]] · [[Sêder de Pessach]] · [[Shalosh Regalim]] · [[Dia da Preparação]] · [[Hora Nona]] · [[Sinal de Jonas]] · [[Shabbaton]] · Êxodo 12 · [[Levítico 23]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

@@ -43,7 +43,7 @@ A Shechitá funciona como uma devolução. Antes de comer, o homem devolve a D'u
 
 ## Relacionados
 
-[[Kashrut]] · [[Tum'ah]] · [[Taharah]] · [[Corbanot]] · [[Kapará]] · [[Corban Pessach]] · [[Noach]] · [[Bnei Noach]] · [[Levítico 1]] · [[Êxodo 12]] · [[Torá Cerimonial]]
+[[Kashrut]] · [[Tum'ah]] · [[Taharah]] · [[Corbanot]] · [[Kapará]] · [[Corban Pessach]] · [[Noach]] · [[Bnei Noach]] · Levítico 1 · Êxodo 12 · [[Torá Cerimonial]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

@@ -14,15 +14,15 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Kipurim* é o plural de *kipur*, da raiz *K-F-R*, cobrir, a mesma de [[Kapará]]. O plural indica as várias coberturas do dia: pelo santuário, pelos sacerdotes e por todo o povo (*Levítico* 16:33). O mandamento central é *te'anu et nafshoteichem*, "afligireis as vossas almas" (*Levítico* 23:27), que a tradição entende como jejum. O dia é um [[Shabbaton]], um Shabat anual, guardado "de tarde a tarde" ([[Levítico 23.32]]).
+*Kipurim* é o plural de *kipur*, da raiz *K-F-R*, cobrir, a mesma de [[Kapará]]. O plural indica as várias coberturas do dia: pelo santuário, pelos sacerdotes e por todo o povo (*Levítico* 16:33). O mandamento central é *te'anu et nafshoteichem*, "afligireis as vossas almas" (*Levítico* 23:27), que a tradição entende como jejum. O dia é um [[Shabbaton]], um Shabat anual, guardado "de tarde a tarde" (Levítico 23.32).
 
 ## Na Escritura
 
 - **Levítico 16:** o único dia em que o [[Kohen Gadol]] entrava no Santo dos Santos, com o sangue do novilho e do bode, e o bode vivo enviado a [[Azazel]] levando as iniquidades.
 - **[[Levítico 23]]:** o lugar do dia entre [[Yom Teruá]] (1º de Tishrei) e [[Sucot]] (15 de Tishrei).
-- **[[Levítico 25.9]]:** "no dia das expiações fareis passar a trombeta por toda a vossa terra". É no Yom Kippur do 50º ano que o shofar proclama o [[Yovel]].
+- **Levítico 25.9:** "no dia das expiações fareis passar a trombeta por toda a vossa terra". É no Yom Kippur do 50º ano que o shofar proclama o [[Yovel]].
 - **Joel 2:15-16:** "tocai a trombeta em Sião, santificai um jejum", a convocação de pranto nacional que a base liga a este dia.
-- **[[Zacarias 12.10]]:** "olharão para aquele a quem traspassaram e o prantearão", o arrependimento de Israel no fim.
+- **Zacarias 12.10:** "olharão para aquele a quem traspassaram e o prantearão", o arrependimento de Israel no fim.
 
 ## Nas fontes judaicas
 
@@ -44,7 +44,7 @@ Num processo de despejo, a data da audiência está marcada em cartório. A Tor�
 
 ## Relacionados
 
-[[Kapará]] · [[Moedim]] · [[Yom Teruá]] · [[Sucot]] · [[Shemini Atzeret]] · [[Yovel]] · [[Shemitá]] · [[Shofar]] · [[Shofar HaGadol]] · [[Kohen Gadol]] · [[Azazel]] · [[Lashon shel Zehorit]] · [[Yoma 39b]] · [[Goel]] · [[Levítico 25.9]]
+[[Kapará]] · [[Moedim]] · [[Yom Teruá]] · [[Sucot]] · [[Shemini Atzeret]] · [[Yovel]] · [[Shemitá]] · [[Shofar]] · [[Shofar HaGadol]] · [[Kohen Gadol]] · [[Azazel]] · [[Lashon shel Zehorit]] · [[Yoma 39b]] · [[Goel]] · Levítico 25.9
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

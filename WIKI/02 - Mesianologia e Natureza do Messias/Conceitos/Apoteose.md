@@ -18,13 +18,13 @@ A palavra vem de *apo* ("a partir de", com sentido de transformação) e *theos*
 
 ## Na Escritura
 
-A Bíblia registra essa tendência e a rejeita todas as vezes. [[Nabucodonosor II]] se prostrou diante de Daniel e mandou lhe oferecer oblação e incenso ([[Daniel 2.46]]). Cornélio, gentio, prostrou-se diante de Pedro, que o levantou dizendo "eu também sou homem" ([[Atos 10.25|Atos 10.25-26]]). Em Listra, a multidão chamou Barnabé de Zeus e Paulo de Hermes e quis sacrificar a eles; os dois rasgaram as vestes ([[Atos 14.11|Atos 14.11-15]]). Herodes Agripa aceitou ser aclamado com "voz de deus, e não de homem" e foi ferido na hora (Atos 12:21-23). E o anjo recusou a prostração de João: "adora a D'us" ([[Apocalipse 22.8|Apocalipse 22.8-9]]).
+A Bíblia registra essa tendência e a rejeita todas as vezes. [[Nabucodonosor II]] se prostrou diante de Daniel e mandou lhe oferecer oblação e incenso (Daniel 2.46). Cornélio, gentio, prostrou-se diante de Pedro, que o levantou dizendo "eu também sou homem" (Atos 10.25-26). Em Listra, a multidão chamou Barnabé de Zeus e Paulo de Hermes e quis sacrificar a eles; os dois rasgaram as vestes (Atos 14.11-15). Herodes Agripa aceitou ser aclamado com "voz de deus, e não de homem" e foi ferido na hora (Atos 12:21-23). E o anjo recusou a prostração de João: "adora a D'us" (Apocalipse 22.8-9).
 
 ## Na visão da Beit Shalom
 
 Rav Yosef chama a apoteose de "psicologia gentílica da divinização" ([[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]). O judeu do 1º século via em Yeshua o [[Mashiach]], homem ungido e constituído por D'us; o gentio convertido, criado num mundo que divinizava imperadores, tendia a fazer dele um deus. Quando a fé saiu do ambiente judaico e entrou no império, essa tendência ganhou linguagem filosófica no [[Homoousios]] e força de lei no [[Concílio de Niceia]] ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 
-A base distingue a honra devida a quem D'us exaltou da adoração devida só a D'us. O dobrar de joelhos de [[Filipenses 2.9|Filipenses 2.9-11]] termina "para a glória de D'us Pai". A [[Proskynesis]] e a [[Hishtachavah]] diante de Yeshua são prostração diante do Rei, como a de Jacó diante de Esaú ou dos irmãos diante de José, e não culto ([[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]).
+A base distingue a honra devida a quem D'us exaltou da adoração devida só a D'us. O dobrar de joelhos de Filipenses 2.9-11 termina "para a glória de D'us Pai". A [[Proskynesis]] e a [[Hishtachavah]] diante de Yeshua são prostração diante do Rei, como a de Jacó diante de Esaú ou dos irmãos diante de José, e não culto ([[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]).
 
 ## Leituras que a Beit Shalom corrige
 

@@ -14,15 +14,15 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Shemá* vem da raiz *Sh-M-'*, ouvir. Em hebraico, ouvir é também atender e obedecer: quem "ouve" a voz de D'us faz o que ela diz. Por isso a frase não é só uma declaração de doutrina, é uma convocação à obediência, e os versículos seguintes já pedem amar a D'us de todo o coração e trazer as palavras gravadas no coração ([[Deuteronômio 6.6]]).
+*Shemá* vem da raiz *Sh-M-'*, ouvir. Em hebraico, ouvir é também atender e obedecer: quem "ouve" a voz de D'us faz o que ela diz. Por isso a frase não é só uma declaração de doutrina, é uma convocação à obediência, e os versículos seguintes já pedem amar a D'us de todo o coração e trazer as palavras gravadas no coração (Deuteronômio 6.6).
 
-*Echad* (אֶחָד) é o numeral "um". No texto hebraico, o *ayin* de *Shemá* e o *dalet* de *Echad* são escritos em tamanho maior; juntos formam *'ed* (עֵד), "testemunha". Quem recita o Shemá se põe como testemunha de que D'us é um, o mesmo papel que [[Isaías 43.10]] dá a Israel.
+*Echad* (אֶחָד) é o numeral "um". No texto hebraico, o *ayin* de *Shemá* e o *dalet* de *Echad* são escritos em tamanho maior; juntos formam *'ed* (עֵד), "testemunha". Quem recita o Shemá se põe como testemunha de que D'us é um, o mesmo papel que Isaías 43.10 dá a Israel.
 
 ## Na Escritura
 
-O Shemá litúrgico tem três partes: [[Deuteronômio 6.4]] e seguintes, Deuteronômio 11:13-21 e Números 15:37-41. A confissão ecoa em todo o Tanakh: "não há outro" ([[Deuteronômio 4|Deuteronômio 4.35, 39]]), "Eu, Eu sou ele, e não há D'us comigo" ([[Deuteronômio 32.39]]), "fora de mim não há D'us" ([[Isaías 44.6]]; [[Isaías 45]]). Os reis a repetem ([[1 Reis 8.60]]; [[2 Reis 19.15]]), e o profeta a projeta para o fim: "naquele dia um será Adonai, e um o seu nome" (Zacarias 14:9).
+O Shemá litúrgico tem três partes: [[Deuteronômio 6.4]] e seguintes, Deuteronômio 11:13-21 e Números 15:37-41. A confissão ecoa em todo o Tanakh: "não há outro" (Deuteronômio 4.35, 39), "Eu, Eu sou ele, e não há D'us comigo" (Deuteronômio 32.39), "fora de mim não há D'us" (Isaías 44.6; Isaías 45). Os reis a repetem (1 Reis 8.60; 2 Reis 19.15), e o profeta a projeta para o fim: "naquele dia um será Adonai, e um o seu nome" (Zacarias 14:9).
 
-Na [[Berit Hadashah]], quando o escriba pergunta qual é o primeiro mandamento, Yeshua recita o Shemá ([[Marcos 12.28|Marcos 12.28-34]]). O escriba responde que "ele é um, e não há outro além dele", e Yeshua elogia a resposta. Paulo diz o mesmo: "para nós há um só D'us, o Pai" ([[1 Coríntios 8.6]]; [[Romanos 3.30]]; [[Efésios 4.6]]), e Tiago lembra que até os demônios creem que D'us é um ([[Tiago 2.19]]).
+Na [[Berit Hadashah]], quando o escriba pergunta qual é o primeiro mandamento, Yeshua recita o Shemá (Marcos 12.28-34). O escriba responde que "ele é um, e não há outro além dele", e Yeshua elogia a resposta. Paulo diz o mesmo: "para nós há um só D'us, o Pai" (1 Coríntios 8.6; Romanos 3.30; Efésios 4.6), e Tiago lembra que até os demônios creem que D'us é um (Tiago 2.19).
 
 ## Nas fontes judaicas
 
@@ -42,7 +42,7 @@ O Shemá funciona como o juramento de quem sobe ao banco de testemunhas: "eu vi,
 
 ## Relacionados
 
-[[Adonai Echad]] · [[Monoteísmo Estrito]] · [[Tetragrama]] · [[Akadosh Baruch Hu]] · [[Trindade]] · [[Avodah Zarah]] · [[Homoousios]] · [[Mitzvot]] · [[Deuteronômio 6.4]] · [[Marcos 12.29]]
+[[Adonai Echad]] · [[Monoteísmo Estrito]] · [[Tetragrama]] · [[Akadosh Baruch Hu]] · [[Trindade]] · [[Avodah Zarah]] · [[Homoousios]] · [[Mitzvot]] · [[Deuteronômio 6.4]] · Marcos 12.29
 
 ## Aparece em
 

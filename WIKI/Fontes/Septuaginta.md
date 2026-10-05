@@ -13,7 +13,7 @@ date_captured: 2026-10-05
 
 ## Como a Beit Shalom usa esta fonte
 
-O Rav Yosef usa a Septuaginta como prova filológica. O caso central é a prostração. O verbo hebraico *hishtachavah* (הִשְׁתַּחֲוָה, "prostrar-se", "inclinar-se até o chão") descreve gestos de reverência diante de homens: Abraão diante dos três visitantes (Gênesis 18:2), Jacó diante de Esaú ([[Gênesis 33.3]]), os irmãos diante de José ([[Gênesis 42.6]]), Rute diante de Boaz (Rute 2:10), Moisés diante de Jetro (Êxodo 18:7). A Septuaginta traduz todos esses casos por *proskyneo*, e as traduções em português dizem "prostrou-se". Quando o mesmo *proskyneo* aparece diante de Yeshua ([[Mateus 8.2]], [[Mateus 15.25]], [[João 9.38]]), as traduções modernas trocam por "adorou". A Septuaginta mostra que a palavra é a mesma e que o gesto é o mesmo: reverência a uma autoridade, não culto a D'us ([[Proskynesis]]) ([[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). A conclusão serve ao pilar do [[Monoteísmo Estrito]]: honrar Yeshua como Rei ungido sem cruzar a linha da adoração ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+O Rav Yosef usa a Septuaginta como prova filológica. O caso central é a prostração. O verbo hebraico *hishtachavah* (הִשְׁתַּחֲוָה, "prostrar-se", "inclinar-se até o chão") descreve gestos de reverência diante de homens: Abraão diante dos três visitantes (Gênesis 18:2), Jacó diante de Esaú (Gênesis 33.3), os irmãos diante de José (Gênesis 42.6), Rute diante de Boaz (Rute 2:10), Moisés diante de Jetro (Êxodo 18:7). A Septuaginta traduz todos esses casos por *proskyneo*, e as traduções em português dizem "prostrou-se". Quando o mesmo *proskyneo* aparece diante de Yeshua (Mateus 8.2, Mateus 15.25, João 9.38), as traduções modernas trocam por "adorou". A Septuaginta mostra que a palavra é a mesma e que o gesto é o mesmo: reverência a uma autoridade, não culto a D'us ([[Proskynesis]]) ([[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). A conclusão serve ao pilar do [[Monoteísmo Estrito]]: honrar Yeshua como Rei ungido sem cruzar a linha da adoração ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 ## Passagens citadas na base
 - **A tradução de *hishtachavah* por *proskyneo*** em Gênesis 18:2, 33:3 e 42:6 e na prostração de Rute e de Moisés, o "elo lexical" entre o Tanakh e o grego dos Evangelhos ([[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]).
@@ -21,7 +21,7 @@ O Rav Yosef usa a Septuaginta como prova filológica. O caso central é a prostr
 - Listada nos Fundamentos entre a literatura do Segundo Templo, com [[1 Enoque]], o [[Livro dos Jubileus]], [[Flávio Josefo]] e os [[Manuscritos do Mar Morto]] ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
 ## Relacionados
-[[Proskynesis]] · [[Tanakh]] · [[Berit Hadashah]] · [[Targum]] · [[Monoteísmo Estrito]] · [[Segundo Templo]] · [[Gênesis 33.3]] · [[Gênesis 42.6]]
+[[Proskynesis]] · [[Tanakh]] · [[Berit Hadashah]] · [[Targum]] · [[Monoteísmo Estrito]] · [[Segundo Templo]] · Gênesis 33.3 · Gênesis 42.6
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

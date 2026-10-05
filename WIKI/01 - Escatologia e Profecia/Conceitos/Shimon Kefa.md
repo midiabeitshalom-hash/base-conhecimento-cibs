@@ -20,10 +20,10 @@ date_captured: 2026-10-05
 
 - **A confissão:** "tu és o Messias, o Filho do D'us vivo" (*Mateus* 16:16).
 - **A transfiguração:** propõe fazer três cabanas, *sukot*, ao ver a glória do Reino (*Mateus* 17:4).
-- **A pesca:** depois da ressurreição, lança a rede do lado direito e a recolhe cheia ([[João 21.6]]); ouve três vezes "apascenta as minhas ovelhas" ([[João 21]]).
-- **Shavuot:** em [[Atos 2]] cita Joel 2 ([[Joel 2.28]]) e 3.000 são acrescentados.
-- **O profeta como Moisés:** em [[Atos 3.22|Atos 3.22-23]] aplica a Yeshua [[Deuteronômio 18.15]].
-- **Cornélio:** em [[Atos 10]] recusa a prostração do centurião ([[Atos 10.25|Atos 10.25-26]]) e prega Yeshua como homem ungido "porque D'us era com ele" ([[Atos 10.38]]).
+- **A pesca:** depois da ressurreição, lança a rede do lado direito e a recolhe cheia (João 21.6); ouve três vezes "apascenta as minhas ovelhas" (João 21).
+- **Shavuot:** em [[Atos 2]] cita Joel 2 (Joel 2.28) e 3.000 são acrescentados.
+- **O profeta como Moisés:** em Atos 3.22-23 aplica a Yeshua [[Deuteronômio 18.15]].
+- **Cornélio:** em Atos 10 recusa a prostração do centurião (Atos 10.25-26) e prega Yeshua como homem ungido "porque D'us era com ele" (Atos 10.38).
 - **As cartas:** os anjos que pecaram lançados no abismo (*2 Pedro* 2:4) e os elementos, *stoicheia*, que se desfazem no Dia do Senhor ([[2 Pedro 3.10]]).
 
 ## Na tradição judaica
@@ -44,7 +44,7 @@ Na mesma carta, Kefa avisa que há nas cartas de Sha'ul "pontos difíceis de ent
 
 ## Relacionados
 
-[[Yeshua]] · [[Sha'ul HaShaliach]] · [[Yochanan HaShaliach]] · [[Ya'akov HaTzaddik]] · [[Cornélio]] · [[Estêvão]] · [[Atos 2]] · [[Atos 10]] · [[Atos 10.38]] · [[2 Pedro 3.10]] · [[Stoicheia]] · [[Proskynesis]] · [[Kashrut]] · [[Shavuot]]
+[[Yeshua]] · [[Sha'ul HaShaliach]] · [[Yochanan HaShaliach]] · [[Ya'akov HaTzaddik]] · [[Cornélio]] · [[Estêvão]] · [[Atos 2]] · Atos 10 · Atos 10.38 · [[2 Pedro 3.10]] · [[Stoicheia]] · [[Proskynesis]] · [[Kashrut]] · [[Shavuot]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

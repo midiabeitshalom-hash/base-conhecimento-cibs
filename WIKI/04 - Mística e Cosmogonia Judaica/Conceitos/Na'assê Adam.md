@@ -18,7 +18,7 @@ O versículo inteiro é *na'assê adam be-tsalmênu kidmutênu*, "façamos o hom
 
 ## Na Escritura
 
-A frase abre a linha que a base acompanha até a [[Berit Hadashah]]. Adão é feito à imagem ([[Tzelem Elohim]]), mas depois da queda gera um filho "à sua imagem, conforme a sua semelhança" ([[Gênesis 5.3]]), e não mais à imagem do molde original. Sha'ul retoma o par: o primeiro Adão, alma vivente; o último Adão, espírito vivificante ([[1 Coríntios 15.45]]). E Yeshua é "a imagem do D'us invisível, o primogênito de toda a criação" ([[Colossenses 1.15]]).
+A frase abre a linha que a base acompanha até a [[Berit Hadashah]]. Adão é feito à imagem ([[Tzelem Elohim]]), mas depois da queda gera um filho "à sua imagem, conforme a sua semelhança" (Gênesis 5.3), e não mais à imagem do molde original. Sha'ul retoma o par: o primeiro Adão, alma vivente; o último Adão, espírito vivificante ([[1 Coríntios 15.45]]). E Yeshua é "a imagem do D'us invisível, o primogênito de toda a criação" (Colossenses 1.15).
 
 ## Nas fontes judaicas
 
@@ -38,7 +38,7 @@ Um arquiteto, antes de construir, olha para a planta e diz: "vamos fazer assim".
 
 ## Relacionados
 
-[[Gênesis 1.26]] · [[Adam Kadmon]] · [[Adam HaRishon]] · [[Tzelem Elohim]] · [[Gênesis 5.3]] · [[1 Coríntios 15.45]] · [[Colossenses 1.15]] · [[Tzimtzum]] · [[Kli]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Bereshit Rabá]]
+[[Gênesis 1.26]] · [[Adam Kadmon]] · [[Adam HaRishon]] · [[Tzelem Elohim]] · Gênesis 5.3 · [[1 Coríntios 15.45]] · Colossenses 1.15 · [[Tzimtzum]] · [[Kli]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Bereshit Rabá]]
 
 ## Aparece em
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]

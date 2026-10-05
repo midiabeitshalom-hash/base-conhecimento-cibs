@@ -55,7 +55,7 @@ O estudo desconstrói o antinomismo cristão ocidental (marcionismo velado) que 
   - *Bereshit* / Gênesis 2:16-17 (Mandamentos edênicos: comer livremente vs. proibição da árvore do conhecimento).
   - *Bereshit* / Gênesis 3:21 (As túnicas de pele feitas por Hashem — primeiro sacrifício vicário).
   - *Bereshit* / Gênesis 4:3-7 (Ofertas de primícias de Caim e Abel e a advertência sobre o pecado à porta).
-  - *Bereshit* / [[Gênesis 26.5]] (Abraão guardando mandamentos, estatutos e leis).
+  - *Bereshit* / Gênesis 26.5 (Abraão guardando mandamentos, estatutos e leis).
   - *Shemot* / Êxodo 19:5-6; 20:8 (O pacto do Sinai e o mandamento de *lembrar* - *Zachor* - do Shabat pré-existente).
   - *Shemot* / Êxodo 21–23 (Códigos civis e penais adaptáveis).
   - *Vayicrá* / Levítico 1–7 (Instruções detalhadas dos sacrifícios: *Olá*, *Minchá*, *Shelamim*).
@@ -144,7 +144,7 @@ Sem referência específica citada.
 - **A Evidência de Caim e Abel (*Gênesis 4*):**
   - Abel trouxe da gordura e das primogênitas de suas ovelhas; Caim trouxe dos frutos da terra. A existência dessas ofertas específicas comprova que as leis sacerdotais de sacrifícios e primícias já haviam sido transmitidas por Adão.
   - A advertência divina a Caim (*"o pecado jaz à porta"*) atesta a vigência da lei moral, pois onde não há lei, o pecado não é imputado (Romanos 5:13).
-- **A Torá Integral Guardada por Abraão ([[Gênesis 26.5]]):**
+- **A Torá Integral Guardada por Abraão (Gênesis 26.5):**
   - Quatro séculos antes de Moisés subir ao Sinai, Hashem declara a Isaque que Abraão obedeceu à Sua voz e guardou:
     1. **Torotai (תּוֹרוֹתַי):** Minhas instruções / leis.
     2. **Mitzvotai (מִצְוֺתַי):** Meus mandamentos morais.
@@ -191,7 +191,7 @@ Para compreender as cartas apostólicas e a epístola aos Hebreus, é imperativo
 
 ---
 
-### 4.5. O Alerta Solene de [[Hebreus 10.26|Hebreus 10.26-29]] e o Perigo da Condenação
+### 4.5. O Alerta Solene de Hebreus 10.26-29 e o Perigo da Condenação
 - **A Impossibilidade de Sacrifício para o Pecado Voluntário:**
   - *"Porque, se pecarmos voluntariamente, depois de havermos recebido o conhecimento da verdade, já não resta mais sacrifício pelos pecados, mas uma certa expectação horrível de juízo e ardor de fogo..."* (Hebreus 10:26-27).
 - **Graça Não é Licença para Pecar:**

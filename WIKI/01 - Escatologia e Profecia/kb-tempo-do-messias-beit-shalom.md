@@ -33,7 +33,7 @@ knowledge_depth: exhaustive-academic
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mestre primordial de Israel, profeta que falava com Deus face a face e estabeleceu o padrão de autoridade e transmissão da palavra divina em [[Deuteronômio 18.15|Deuteronômio 18.15-19]].
 - **[[João, o Imersor]] (Yochanan HaMatbil):** Figura profética de transição que questionou Yeshua no cárcere se ele era "aquele que havia de vir ou se deveriam esperar outro".
 - **[[Yeshua|Yeshua de Nazaré]]:** Apresentado como o Profeta escatológico, cumprimento do arquétipo de [[Adam Kadmon]] / [[Tzelem Elohim]], que atuou em conformidade total com a Torá e se manifestou no tempo profetizado por Daniel.
-- **[[Shimon Kefa|Pedro]] (Shimon Kefa) e [[Estêvão]]:** Apóstolos dos primeiros séculos que, em [[Atos 3.22|Atos 3.22-23]] e [[Atos 7.37]], utilizaram explicitamente Deuteronômio 18 como prova irrefutável do messianismo de Yeshua.
+- **[[Shimon Kefa|Pedro]] (Shimon Kefa) e [[Estêvão]]:** Apóstolos dos primeiros séculos que, em Atos 3.22-23 e Atos 7.37, utilizaram explicitamente Deuteronômio 18 como prova irrefutável do messianismo de Yeshua.
 - **[[Artaxerxes I]]:** Monarca persa que emitiu o decreto de restauração e reconstrução dos muros de Jerusalém (conforme Neemias 2), marco inicial da contagem das 70 semanas.
 - **[[Rabi Akiva]]:** Principal erudito do século II que identificou erroneamente Simão Bar Kokhba como o Messias político-militar, levando Israel à catástrofe da Segunda Revolta Judaica.
 - **Tito:** General romano cujas legiões destruíram a cidade e o santuário no ano 70 EC, cumprindo Daniel 9:26 (ver o item 3).
@@ -182,11 +182,11 @@ A demonstração histórica e matemática do advento do Messias repousa sobre a 
 
 ### Checklist Operacional / Plano de Aplicação Prática
 - [ ] **Investigação Exegética Pessoal:**
-  - [ ] Ler e contrastar minuciosamente [[Deuteronômio 18.15|Deuteronômio 18.15-19]] com os discursos apostólicos em [[Atos 3.22|Atos 3.22-23]] e [[Atos 7.37]].
+  - [ ] Ler e contrastar minuciosamente [[Deuteronômio 18.15|Deuteronômio 18.15-19]] com os discursos apostólicos em Atos 3.22-23 e Atos 7.37.
   - [ ] Analisar a cronologia de 483 anos proféticos em [[Daniel 9.24|Daniel 9.24-26]] a partir do decreto de restauração de Neemias 2.
 - [ ] **Purificação Teológica e Conceitual:**
   - [ ] Desvencilhar a compreensão de Yeshua de noções antitorá (como a falsa premissa de abolição da Lei ou do Shabat).
-  - [ ] Reavaliar os textos messiânicos de [[Isaías 53]] à luz do *Targum Yonatan* e do *Zohar Parashat Vayakhel*.
+  - [ ] Reavaliar os textos messiânicos de Isaías 53 à luz do *Targum Yonatan* e do *Zohar Parashat Vayakhel*.
 - [ ] **Integração Prática com as Raízes Bíblicas:**
   - [ ] Iniciar a observância consciente dos preceitos fundamentais da Torá (Shabat, mandamentos éticos, santidade nos hábitos).
   - [ ] Fazer [[Teshuvá]] genuína, alinhando a conduta diária à instrução bíblica expressa por Yeshua em [[Mateus 5.17|Mateus 5.17-19]].

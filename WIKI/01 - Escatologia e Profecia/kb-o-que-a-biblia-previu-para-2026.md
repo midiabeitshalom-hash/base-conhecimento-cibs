@@ -30,33 +30,33 @@ knowledge_depth: exhaustive-academic
 **Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
 
 **Figuras bíblicas e históricas**
-- **[[Avraham Avinu|Abraão]] (Avraham):** Receptor da promessa inicial de que em sua semente seriam benditas todas as famílias da Terra ([[Gênesis 12.3]]). Pai de 8 filhos (Ismael com Hagar, Isaque com Sara e 6 com Queturá).
+- **[[Avraham Avinu|Abraão]] (Avraham):** Receptor da promessa inicial de que em sua semente seriam benditas todas as famílias da Terra (Gênesis 12.3). Pai de 8 filhos (Ismael com Hagar, Isaque com Sara e 6 com Queturá).
 - **[[Yitzchak Avinu|Isaque]] (Yitzchak) e [[Ya'akov Avinu|Jacó]] (Yaakov / Israel):** Herdeiros da linhagem patriarcal da promessa. Jacó recebe a primogenitura de Esaú e tem seu nome mudado para Israel após lutar no vau de Jaboque.
-- **[[Yosef HaTzaddik|José]] (Yosef) e seus filhos [[Efraim]] e [[Menashe|Manassés]] (Menashe):** Protagonistas da bênção patriarcal de [[Gênesis 48]], na qual Jacó cruza as mãos para conferir a bênção da mão direita ao mais novo (Efraim).
+- **[[Yosef HaTzaddik|José]] (Yosef) e seus filhos [[Efraim]] e [[Menashe|Manassés]] (Menashe):** Protagonistas da bênção patriarcal de Gênesis 48, na qual Jacó cruza as mãos para conferir a bênção da mão direita ao mais novo (Efraim).
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu) e [[Yehoshua bin Nun|Josué]] (Yehoshua):** O libertador do Êxodo e o líder sucessor que introduziu Israel em Canaã sob a aliança condicional de fidelidade à Torá.
 - **[[Rei Saul|Saul]], [[David HaMelech|Davi]] e [[Shlomo HaMelech|Salomão]]:** Os únicos três monarcas que reinaram sobre as 12 tribos de Israel unificadas antes do cisma.
-- **[[Yeshua|Yeshua de Nazaré]]:** O Messias enviado especificamente às "ovelhas perdidas da casa de Israel" ([[Mateus 15.24]]), autor das parábolas proféticas que retratam o reencontro das duas casas.
+- **[[Yeshua|Yeshua de Nazaré]]:** O Messias enviado especificamente às "ovelhas perdidas da casa de Israel" (Mateus 15.24), autor das parábolas proféticas que retratam o reencontro das duas casas.
 - **[[Profeta Ezequiel]]:** Autor das visões proféticas do Vale de Ossos Secos e da união das duas varas ([[Ezequiel 37]]).
-- **[[Profeta Zacarias]]:** Profeta do Tanakh referenciado pelo pranto escatológico da Casa de Davi sobre Aquele a quem traspassaram ([[Zacarias 12.10]]).
+- **[[Profeta Zacarias]]:** Profeta do Tanakh referenciado pelo pranto escatológico da Casa de Davi sobre Aquele a quem traspassaram (Zacarias 12.10).
 
 **Escrituras** (o [[Tanakh]] — Torá, Profetas e Escritos — e a Berit Hadashah)
 - *Torá:*
-  - *[[Gênesis 12.3]]:* A promessa a Abraão de que em sua semente seriam benditas todas as famílias da Terra.
-  - *[[Gênesis 48.14|Gênesis 48.14-20]]:* O cruzamento das mãos de Jacó e a profecia de que Efraim se multiplicaria como peixes (*ve-yidgu la-rov*) no meio da terra.
+  - *Gênesis 12.3:* A promessa a Abraão de que em sua semente seriam benditas todas as famílias da Terra.
+  - *Gênesis 48.14-20:* O cruzamento das mãos de Jacó e a profecia de que Efraim se multiplicaria como peixes (*ve-yidgu la-rov*) no meio da terra.
 - *Nevi'im:*
-  - *[[1 Reis 11]]–[[1 Reis 12]]:* A divisão monárquica entre Jeroboão (Reino do Norte/Efraim - 10 tribos, capital Samaria) e Roboão (Reino do Sul/Judá - 2 tribos, capital Jerusalém).
-  - *[[2 Reis 17]]:* A invasão assíria (722 a.C.) e a dispersão/assimilação definitiva das dez tribos do Norte.
-  - *[[2 Reis 25]]:* A invasão babilônica (586 a.C.) e o exílio temporário de Judá.
-  - *[[Ezequiel 34]]:* Deus como o verdadeiro Pastor que busca, cura e congrega as ovelhas espalhadas.
+  - *1 Reis 11–1 Reis 12:* A divisão monárquica entre Jeroboão (Reino do Norte/Efraim - 10 tribos, capital Samaria) e Roboão (Reino do Sul/Judá - 2 tribos, capital Jerusalém).
+  - *2 Reis 17:* A invasão assíria (722 a.C.) e a dispersão/assimilação definitiva das dez tribos do Norte.
+  - *2 Reis 25:* A invasão babilônica (586 a.C.) e o exílio temporário de Judá.
+  - *Ezequiel 34:* Deus como o verdadeiro Pastor que busca, cura e congrega as ovelhas espalhadas.
   - *[[Ezequiel 37|Ezequiel 37.1-14]]:* A ressurreição nacional e espiritual do Vale de Ossos Secos.
   - *[[Ezequiel 37|Ezequiel 37.15-28]]:* O oráculo das duas varas (Judá e Efraim) que se tornam uma só na mão do Messias.
-  - *[[Zacarias 12.10]]:* O arrependimento da Casa de Judá ao contemplar o Messias traspassado.
+  - *Zacarias 12.10:* O arrependimento da Casa de Judá ao contemplar o Messias traspassado.
 - *Ketuvim:* Sem referência específica citada.
 - *[[Berit Hadashah]] (Evangelhos e Epístolas):*
-  - *[[Mateus 15.24]]:* *"Não fui enviado senão às ovelhas perdidas da casa de Israel."*
-  - *[[Lucas 15|Lucas 15.11-32]]:* A Parábola do Filho Pródigo reinterpretada como a trajetória histórica de Judá (irmão mais velho) e Efraim (irmão mais novo).
-  - *[[João 10.11|João 10.11-16]]:* O Bom Pastor que congrega "outras ovelhas que não são deste aprisco" para formar um só rebanho.
-  - *[[João 21|João 21.1-11]] / [[Lucas 5]]:* A Pesca Maravilhosa lançada especificamente ao **lado direito** do barco.
+  - *Mateus 15.24:* *"Não fui enviado senão às ovelhas perdidas da casa de Israel."*
+  - *Lucas 15.11-32:* A Parábola do Filho Pródigo reinterpretada como a trajetória histórica de Judá (irmão mais velho) e Efraim (irmão mais novo).
+  - *João 10.11-16:* O Bom Pastor que congrega "outras ovelhas que não são deste aprisco" para formar um só rebanho.
+  - *João 21.1-11 / Lucas 5:* A Pesca Maravilhosa lançada especificamente ao **lado direito** do barco.
 
 **Literatura rabínica e judaica**
 - Sem referência específica citada.
@@ -116,7 +116,7 @@ knowledge_depth: exhaustive-academic
 #### A Declaração Programática
 Quando Yeshua afirma em Mateus 15:24: *"Não fui enviado senão às ovelhas perdidas da casa de Israel"*, Ele delimita sua missão profética: reatar a aliança rompida com as tribos do Norte dispersas no gentio, além de chamar Judá ao arrependimento.
 
-#### A Parábola do Filho Pródigo ([[Lucas 15|Lucas 15.11-32]]) como Tipologia Nacional
+#### A Parábola do Filho Pródigo (Lucas 15.11-32) como Tipologia Nacional
 Rav Yosef estabelece uma correspondência alegórico-profética direta:
 - **O Filho Mais Velho (A Casa de Judá / O Judaísmo Tradicional):** Permaneceu na "casa do Pai" guardando a Torá e preservando os mandamentos. No entanto, desenvolveu autossuficiência e relutância em aceitar a graça concedida ao irmão desgarrado.
 - **O Filho Mais Novo (A Casa de Efraim / As Dez Tribos Dispersas):** Pediu sua herança, partiu para uma terra distante e gastou seus bens espirituais com "meretrizes" (falsos deuses e religiões pagãs). Chegou à degradação máxima de alimentar porcos (o animal mais impuro da cultura semítica), símbolo da completa assimilação gentílica.
@@ -124,9 +124,9 @@ Rav Yosef estabelece uma correspondência alegórico-profética direta:
 - **O Bezerro Cevado (O Banquete Messiânico):** A melhor iguaria da casa — reservada para a celebração do retorno — é entregue ao filho que voltou. O "bezerro cevado" tipifica o próprio Messias Yeshua, cuja mensagem redentora foi abraçada pelos povos e dispersos, enquanto o irmão mais velho permaneceu do lado de fora em ciúme e cegueira espiritual.
 
 #### O Segredo dos Pescadores e a Bênção Cruzada de Jacó
-- **A Bênção de Efraim em [[Gênesis 48]]:** Jacó cruzou profeticamente os braços, pondo a mão direita sobre a cabeça de Efraim (o mais novo). Em Gênesis 48:16, Jacó profetizou: *ve-yidgu la-rov be-kerev ha-arets* ("e multipliquem-se como peixes em multidão no meio da terra").
+- **A Bênção de Efraim em Gênesis 48:** Jacó cruzou profeticamente os braços, pondo a mão direita sobre a cabeça de Efraim (o mais novo). Em Gênesis 48:16, Jacó profetizou: *ve-yidgu la-rov be-kerev ha-arets* ("e multipliquem-se como peixes em multidão no meio da terra").
 - **A Conexão com os Pescadores do Evangelho:** Yeshua não recrutou sacerdotes ou líderes do Sinédrio, mas pescadores da Galileia, dizendo que os faria "pescadores de homens".
-- **A Pesca do Lado Direito ([[João 21.6]]):** Ao ordenar que a rede fosse lançada especificamente do *lado direito* do barco após uma noite de frustração, Yeshua apontava para a bênção da mão direita de Jacó sobre Efraim, sinalizando que a grande pesca escatológica colheria os descendentes efraimitas ocultos no mar das nações.
+- **A Pesca do Lado Direito (João 21.6):** Ao ordenar que a rede fosse lançada especificamente do *lado direito* do barco após uma noite de frustração, Yeshua apontava para a bênção da mão direita de Jacó sobre Efraim, sinalizando que a grande pesca escatológica colheria os descendentes efraimitas ocultos no mar das nações.
 
 ### 4. O Cenário Profético Atual: Bnei Anussim e a União de Ezequiel 37
 - **Os Bnei Anussim no Brasil e nas Américas:** A partir de 1500, a Inquisição em Portugal e Espanha impôs o batismo forçado a milhares de judeus sefarditas, que migraram para o Brasil colônia e preservaram costumes hebraicos em segredo (*criptojudaísmo*).
@@ -184,8 +184,8 @@ Rav Yosef estabelece uma correspondência alegórico-profética direta:
 ### Checklist Operacional / Plano de Aplicação Prática
 
 - [ ] **Investigação e Alinhamento Bíblico:**
-  - [ ] Ler e meditar nos capítulos de [[Ezequiel 34]], [[Ezequiel 37]] e [[Gênesis 48]] para absorver a profecia da unificação das duas casas.
-  - [ ] Reler as parábolas de [[Lucas 15]] e [[João 10]] sob a chave hermenêutica de Judá e Efraim.
+  - [ ] Ler e meditar nos capítulos de Ezequiel 34, [[Ezequiel 37]] e Gênesis 48 para absorver a profecia da unificação das duas casas.
+  - [ ] Reler as parábolas de Lucas 15 e João 10 sob a chave hermenêutica de Judá e Efraim.
 - [ ] **Despertar e Prática da Teshuvá:**
   - [ ] Iniciar o processo consciente de retorno aos mandamentos da Torá (iniciando pela santificação do [[Shabat]] e estudo das Escrituras).
   - [ ] Abandonar práticas sincréticas e tradições religiosas que contradizem a instrução bíblica expressa.

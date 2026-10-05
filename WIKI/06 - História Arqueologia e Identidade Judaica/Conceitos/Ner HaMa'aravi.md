@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-A Torá manda manter a lâmpada acesa continuamente com azeite puro de oliva, *ner tamid*, "da tarde até a manhã, perante o Senhor" (Êxodo 27:20-21; Levítico 24:2-3). Em Siló, antes do chamado de Samuel, o texto anota que "a lâmpada de D'us ainda não se havia apagado" (1 Samuel 3:3), sinal de que a presença não tinha abandonado o santuário. No Apocalipse, Yeshua anda entre sete candelabros, que são as congregações ([[Apocalipse 1.12]]), e avisa que pode remover o candelabro de quem abandonar o primeiro amor (Apocalipse 2:5).
+A Torá manda manter a lâmpada acesa continuamente com azeite puro de oliva, *ner tamid*, "da tarde até a manhã, perante o Senhor" (Êxodo 27:20-21; Levítico 24:2-3). Em Siló, antes do chamado de Samuel, o texto anota que "a lâmpada de D'us ainda não se havia apagado" (1 Samuel 3:3), sinal de que a presença não tinha abandonado o santuário. No Apocalipse, Yeshua anda entre sete candelabros, que são as congregações (Apocalipse 1.12), e avisa que pode remover o candelabro de quem abandonar o primeiro amor (Apocalipse 2:5).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Pense num prédio com uma luz acesa na portaria dia e noite. Enquanto ela está 
 
 ## Relacionados
 
-[[Menorá]] · [[Shechinah]] · [[Yoma 39b]] · [[Lashon shel Zehorit]] · [[Shimon HaTzaddik]] · [[Kohen Gadol]] · [[Segundo Templo]] · [[Apocalipse 1.12]] · [[Apocalipse 21.23]] · [[Kli]] · [[Or HaGanuz]] · [[Neshamá]]
+[[Menorá]] · [[Shechinah]] · [[Yoma 39b]] · [[Lashon shel Zehorit]] · [[Shimon HaTzaddik]] · [[Kohen Gadol]] · [[Segundo Templo]] · Apocalipse 1.12 · [[Apocalipse 21.23]] · [[Kli]] · [[Or HaGanuz]] · [[Neshamá]]
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]

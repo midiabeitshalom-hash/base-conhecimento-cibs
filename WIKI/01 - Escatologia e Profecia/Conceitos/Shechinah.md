@@ -16,7 +16,7 @@ date_captured: 2026-10-05
 
 A raiz é *sh-k-n* (ש-כ-ן), habitar, morar, fixar tenda. Da mesma raiz vem *mishkan* (מִשְׁכָּן), o Tabernáculo, "o lugar da habitação", e *shachen*, vizinho. O versículo-base é Êxodo 25:8: "e me farão um santuário, e habitarei (*veshachanti*) no meio deles". Note que D'us não diz "habitarei nele", mas "no meio deles". A *Shechinah* é a presença que desce para morar perto; o lugar onde ela mora continua sendo lugar.
 
-O grego da [[Berit Hadashah]] tem um eco curioso: *skēnē* (tenda) e *skēnoō* (tabernacular) soam como *sh-k-n*. "O Verbo se fez carne e habitou (*eskēnōsen*) entre nós" ([[João 1.14]]); "eis aqui o tabernáculo (*skēnē*) de D'us com os homens" (Apocalipse 21:3).
+O grego da [[Berit Hadashah]] tem um eco curioso: *skēnē* (tenda) e *skēnoō* (tabernacular) soam como *sh-k-n*. "O Verbo se fez carne e habitou (*eskēnōsen*) entre nós" (João 1.14); "eis aqui o tabernáculo (*skēnē*) de D'us com os homens" (Apocalipse 21:3).
 
 ## Na Escritura
 
@@ -40,7 +40,7 @@ Ninguém se ajoelhava diante das tábuas de acácia do Tabernáculo, e todo mund
 
 ## Relacionados
 
-[[Elohut]] · [[Shaliah]] · [[Monoteísmo Estrito]] · [[Ontologia vs. Função]] · [[Kli]] · [[Or HaGanuz]] · [[Segundo Templo]] · [[Terceiro Templo]] · [[Sucot]] · [[Reino Messiânico]] · [[Kisse HaKavod]] · [[Colossenses 2.9]] · [[João 1.14]] · [[Apocalipse 21.23]]
+[[Elohut]] · [[Shaliah]] · [[Monoteísmo Estrito]] · [[Ontologia vs. Função]] · [[Kli]] · [[Or HaGanuz]] · [[Segundo Templo]] · [[Terceiro Templo]] · [[Sucot]] · [[Reino Messiânico]] · [[Kisse HaKavod]] · [[Colossenses 2.9]] · João 1.14 · [[Apocalipse 21.23]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

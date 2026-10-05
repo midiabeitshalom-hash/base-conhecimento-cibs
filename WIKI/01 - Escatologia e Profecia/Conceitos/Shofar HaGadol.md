@@ -18,9 +18,9 @@ O [[Shofar]] é o chifre de carneiro, e *gadol* é "grande". O shofar fala por t
 
 ## Na Escritura
 
-A lei do jubileu manda: "no mês sétimo, aos dez do mês, farás passar a trombeta do jubileu; no Dia da Expiação fareis passar a trombeta por toda a vossa terra", e cada um volta à sua possessão ([[Levítico 25.9|Levítico 25.9-10]]). Isaías dá o nome: "naquele dia se tocará o grande shofar, e os que andavam perdidos pela terra da Assíria e os que foram desterrados para a terra do Egito tornarão a vir, e adorarão ao Senhor no monte santo em Jerusalém" (Isaías 27:13). A Assíria é para onde foram levadas as dez tribos da [[Casa de Israel]].
+A lei do jubileu manda: "no mês sétimo, aos dez do mês, farás passar a trombeta do jubileu; no Dia da Expiação fareis passar a trombeta por toda a vossa terra", e cada um volta à sua possessão (Levítico 25.9-10). Isaías dá o nome: "naquele dia se tocará o grande shofar, e os que andavam perdidos pela terra da Assíria e os que foram desterrados para a terra do Egito tornarão a vir, e adorarão ao Senhor no monte santo em Jerusalém" (Isaías 27:13). A Assíria é para onde foram levadas as dez tribos da [[Casa de Israel]].
 
-Yeshua retoma a imagem: depois da tribulação, ele enviará os seus anjos "com grande som de trombeta, e ajuntarão os seus escolhidos desde os quatro ventos" ([[Mateus 24.29|Mateus 24.29-31]]). Sha'ul fala da "última trombeta" em que os mortos ressuscitam e os vivos são transformados ([[1 Coríntios 15.51|1 Coríntios 15.51-52]]; [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]). E no Apocalipse, ao toque da sétima trombeta, "os reinos do mundo passaram a ser do nosso Senhor e do seu Messias" (Apocalipse 11:15).
+Yeshua retoma a imagem: depois da tribulação, ele enviará os seus anjos "com grande som de trombeta, e ajuntarão os seus escolhidos desde os quatro ventos" (Mateus 24.29-31). Sha'ul fala da "última trombeta" em que os mortos ressuscitam e os vivos são transformados (1 Coríntios 15.51-52; [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]). E no Apocalipse, ao toque da sétima trombeta, "os reinos do mundo passaram a ser do nosso Senhor e do seu Messias" (Apocalipse 11:15).
 
 ## Nas fontes judaicas
 
@@ -36,7 +36,7 @@ Num leilão de imóvel, o martelo bate uma vez e o negócio está fechado. O gra
 
 ## Relacionados
 
-[[Shofar]] · [[Yovel]] · [[Shemitá]] · [[Levítico 25.9]] · [[Yom Kippur]] · [[Yom Teruá]] · [[Goel]] · [[Geulá]] · [[Nachalah]] · [[Arrebatamento]] · [[Primeira Ressurreição]] · [[Doze Tribos de Israel]] · [[Efraim]]
+[[Shofar]] · [[Yovel]] · [[Shemitá]] · Levítico 25.9 · [[Yom Kippur]] · [[Yom Teruá]] · [[Goel]] · [[Geulá]] · [[Nachalah]] · [[Arrebatamento]] · [[Primeira Ressurreição]] · [[Doze Tribos de Israel]] · [[Efraim]]
 
 ## Aparece em
 

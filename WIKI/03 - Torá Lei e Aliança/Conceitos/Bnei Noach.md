@@ -19,8 +19,8 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Gênesis 9:1-17:** depois do dilúvio, D'us faz aliança com Noé e com "toda alma vivente". Permite comer carne, proíbe o sangue (9:4) e o derramamento de sangue humano (9:6).
-- **Gênesis 7:2** e **[[Gênesis 8.20]]:** Noé já distinguia animais puros e impuros e oferecia sobre o altar só os puros, séculos antes do Sinai.
-- **Isaías 56:6-7:** os estrangeiros que se unem ao Senhor, guardam o Shabat e abraçam a aliança serão levados ao monte santo, "porque a minha casa será chamada casa de oração para todos os povos" ([[Isaías 56.7]]).
+- **Gênesis 7:2** e **Gênesis 8.20:** Noé já distinguia animais puros e impuros e oferecia sobre o altar só os puros, séculos antes do Sinai.
+- **Isaías 56:6-7:** os estrangeiros que se unem ao Senhor, guardam o Shabat e abraçam a aliança serão levados ao monte santo, "porque a minha casa será chamada casa de oração para todos os povos" (Isaías 56.7).
 - **Atos 15:19-21:** os apóstolos pedem aos gentios que se abstenham de idolatria, imoralidade sexual, carne sufocada e sangue, "porque Moisés, desde tempos antigos, é lido nas sinagogas todos os sábados".
 
 ## Nas fontes judaicas
@@ -43,7 +43,7 @@ As regras para entrar numa escola, como matrícula e uniforme, não são o curr�
 
 ## Relacionados
 
-[[Noach]] · [[Gênesis 8.20]] · [[Kashrut]] · [[Torá Moral]] · [[Shabat]] · [[Isaías 56.7]] · [[Oliveira de Romanos 11]] · [[Cornélio]] · [[Avodah Zarah]] · [[Mitzvot]] · [[Halachá]]
+[[Noach]] · Gênesis 8.20 · [[Kashrut]] · [[Torá Moral]] · [[Shabat]] · Isaías 56.7 · [[Oliveira de Romanos 11]] · [[Cornélio]] · [[Avodah Zarah]] · [[Mitzvot]] · [[Halachá]]
 
 ## Aparece em
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]

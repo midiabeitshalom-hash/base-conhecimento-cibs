@@ -24,13 +24,13 @@ O Talmud classifica Naamã como *ger toshav*, o estrangeiro que abandona a idola
 
 ## Na leitura da Beit Shalom
 
-Naamã é o segundo marco da cadeia tipológica do [[Rio Jordão]] que Rav Yosef monta no estudo da imersão de Yeshua ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Primeiro vem o memorial das doze pedras deixado no leito do rio ([[Josué 4]]); depois, no mesmo rio, Naamã; por fim, Yeshua imerso no ponto onde estava o memorial ([[Mateus 3.13|Mateus 3.13-17]]). A *[[Tzaraat]]* é decomposição em vida, e a pele que volta "como a de um menino" faz do Jordão o arquétipo do [[Novo Nascimento]]: um homem condenado sai das águas como criatura nova. Rav Yosef liga isso a [[João 3.3|João 3.3-5]], o nascer da água e do Espírito ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
+Naamã é o segundo marco da cadeia tipológica do [[Rio Jordão]] que Rav Yosef monta no estudo da imersão de Yeshua ([[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]). Primeiro vem o memorial das doze pedras deixado no leito do rio ([[Josué 4]]); depois, no mesmo rio, Naamã; por fim, Yeshua imerso no ponto onde estava o memorial (Mateus 3.13-17). A *[[Tzaraat]]* é decomposição em vida, e a pele que volta "como a de um menino" faz do Jordão o arquétipo do [[Novo Nascimento]]: um homem condenado sai das águas como criatura nova. Rav Yosef liga isso a João 3.3-5, o nascer da água e do Espírito ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 
 Três coisas da história ficam para a prática. A cura veio pela obediência a uma ordem simples, e não por um rito espetacular. Foi completa só no sétimo mergulho, o número da plenitude. E Naamã, um gentio, entrou pela porta da fé de Israel, confessando o D'us único: a imersão ([[Tevilá]]) é retorno ao D'us de Israel, não adesão a uma religião nova.
 
 ## Relacionados
 
-[[Profeta Eliseu]] · [[Rio Jordão]] · [[2 Reis 5]] · [[Tzaraat]] · [[Tevilá]] · [[Novo Nascimento]] · [[Josué 4]] · [[Monte Hermon]] · [[João 3.3]] · [[Bnei Noach]] · [[Maim Chaim]] · [[Teshuvá]]
+[[Profeta Eliseu]] · [[Rio Jordão]] · [[2 Reis 5]] · [[Tzaraat]] · [[Tevilá]] · [[Novo Nascimento]] · [[Josué 4]] · [[Monte Hermon]] · João 3.3 · [[Bnei Noach]] · [[Maim Chaim]] · [[Teshuvá]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

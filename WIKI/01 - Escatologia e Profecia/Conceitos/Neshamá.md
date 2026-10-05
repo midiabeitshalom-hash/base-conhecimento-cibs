@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-A raiz *n-sh-m* é respirar, ofegar. *Neshamá* é fôlego, e daí alma. O texto-base é [[Gênesis 2.7]]: "formou o Senhor D'us o homem do pó da terra e soprou nas suas narinas o fôlego de vida (*nishmat chaim*), e o homem tornou-se alma vivente (*nefesh chayah*)". O corpo vem de baixo, o fôlego vem de cima. A tradição distingue cinco níveis da alma: *nefesh*, *ruach*, *neshamá*, *chayah* e *yechidah* (*Bereshit Rabá* 14:9). A *neshamá* é o nível do entendimento.
+A raiz *n-sh-m* é respirar, ofegar. *Neshamá* é fôlego, e daí alma. O texto-base é Gênesis 2.7: "formou o Senhor D'us o homem do pó da terra e soprou nas suas narinas o fôlego de vida (*nishmat chaim*), e o homem tornou-se alma vivente (*nefesh chayah*)". O corpo vem de baixo, o fôlego vem de cima. A tradição distingue cinco níveis da alma: *nefesh*, *ruach*, *neshamá*, *chayah* e *yechidah* (*Bereshit Rabá* 14:9). A *neshamá* é o nível do entendimento.
 
 ## Na Escritura
 
@@ -26,7 +26,7 @@ Toda manhã a oração judaica agradece: "meu D'us, a alma que puseste em mim é
 
 ## Na visão da Beit Shalom
 
-Rav Yosef usa a dupla composição do homem para explicar por que Daniel vê os impérios como feras ([[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]). O ser humano é pó, a natureza física e instintiva, a [[Nefesh HaBehamit]], infundido pelo sopro direto de D'us. Sem a consciência do D'us único, o líder e o império descem ao nível da fera predadora. É o que aconteceu com [[Nabucodonosor II]]: viveu como animal no campo até reconhecer o Altíssimo, quando "o entendimento me voltou" ([[Daniel 4]]). Em [[Daniel 7.4]], o leão recebe "coração de homem": a *neshamá* desperta.
+Rav Yosef usa a dupla composição do homem para explicar por que Daniel vê os impérios como feras ([[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]). O ser humano é pó, a natureza física e instintiva, a [[Nefesh HaBehamit]], infundido pelo sopro direto de D'us. Sem a consciência do D'us único, o líder e o império descem ao nível da fera predadora. É o que aconteceu com [[Nabucodonosor II]]: viveu como animal no campo até reconhecer o Altíssimo, quando "o entendimento me voltou" (Daniel 4). Em Daniel 7.4, o leão recebe "coração de homem": a *neshamá* desperta.
 
 A mesma antropologia sustenta a leitura da base sobre a alma divina e a alma animal, [[Nefesh HaElokit]] e *Nefesh HaBehamit*, e sobre o ser humano como [[Olam Katan]] ([[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]). E aponta para a restauração: o primeiro Adão foi alma vivente; o último Adão é espírito vivificante, [[Ruach Mechayeh]] ([[1 Coríntios 15.45]]).
 
@@ -36,7 +36,7 @@ Um carro sem motorista pode ter motor potente, mas vai para onde a ladeira manda
 
 ## Relacionados
 
-[[Gênesis 2.7]] · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Olam Katan]] · [[Tzelem Elohim]] · [[Daniel 4]] · [[Daniel 7.4]] · [[Nabucodonosor II]] · [[Mar Grande]] · [[Ruach Mechayeh]] · [[1 Coríntios 15.45]] · [[Shabat]]
+Gênesis 2.7 · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Olam Katan]] · [[Tzelem Elohim]] · Daniel 4 · Daniel 7.4 · [[Nabucodonosor II]] · [[Mar Grande]] · [[Ruach Mechayeh]] · [[1 Coríntios 15.45]] · [[Shabat]]
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]

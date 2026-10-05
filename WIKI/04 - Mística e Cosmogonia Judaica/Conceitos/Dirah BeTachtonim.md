@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-O tema percorre a Torá. "E me farão um santuário, e habitarei no meio deles" (Êxodo 25:8): o texto diz "no meio deles", e não "no meio dele", o que os comentaristas leem como habitar em cada pessoa. A [[Shechinah]], a presença que habita, enche o Tabernáculo e o Templo. Na [[Berit Hadashah]], o mesmo verbo aparece em [[João 1.14]], "habitou (*eskēnōsen*, armou tenda) entre nós", e o fim de Apocalipse anuncia que "o tabernáculo de Deus está com os homens, pois com eles habitará" (Apocalipse 21:3).
+O tema percorre a Torá. "E me farão um santuário, e habitarei no meio deles" (Êxodo 25:8): o texto diz "no meio deles", e não "no meio dele", o que os comentaristas leem como habitar em cada pessoa. A [[Shechinah]], a presença que habita, enche o Tabernáculo e o Templo. Na [[Berit Hadashah]], o mesmo verbo aparece em João 1.14, "habitou (*eskēnōsen*, armou tenda) entre nós", e o fim de Apocalipse anuncia que "o tabernáculo de Deus está com os homens, pois com eles habitará" (Apocalipse 21:3).
 
 ## Nas fontes judaicas
 
@@ -40,7 +40,7 @@ Um rei que quisesse morar num palácio já tinha muitos. Este Rei escolheu morar
 
 ## Relacionados
 
-[[Assiá]] · [[Arba'ah Olamot]] · [[Shechinah]] · [[Mitzvot]] · [[Birur]] · [[Tikkun]] · [[Tikkun Olam]] · [[Kelipat Nogah]] · [[Sulam Ya'akov]] · [[Olam Katan]] · [[Midrash]] · [[João 1.14]]
+[[Assiá]] · [[Arba'ah Olamot]] · [[Shechinah]] · [[Mitzvot]] · [[Birur]] · [[Tikkun]] · [[Tikkun Olam]] · [[Kelipat Nogah]] · [[Sulam Ya'akov]] · [[Olam Katan]] · [[Midrash]] · João 1.14
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

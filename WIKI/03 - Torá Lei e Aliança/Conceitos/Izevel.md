@@ -26,11 +26,11 @@ O Midrash registra que dela sobraram apenas o crânio, os pés e as palmas das m
 
 ## Na leitura da Beit Shalom
 
-Rav Yosef põe Izevel ao lado de [[Bil'am]] como os dois arquétipos bíblicos da sedução pela mesa ([[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]). Bil'am ensinou Moabe a vencer Israel por um banquete aos deuses ([[Números 25]]); Izevel sustentou à sua mesa os profetas de Baal. Os dois reaparecem em Apocalipse 2:14 e 2:20, sempre com a mesma dupla: prostituição espiritual e comida sacrificada a ídolos. Para a base, isso mostra que comer é um ato espiritual e que a [[Kashrut]] protege contra a [[Avodah Zarah]]. Não é à toa que o decreto de Atos 15 proíbe justamente o sacrificado a ídolos, o sangue e o sufocado. Tolerar Izevel, hoje, é aceitar dentro da congregação o ensino que libera o que a Torá proíbe.
+Rav Yosef põe Izevel ao lado de [[Bil'am]] como os dois arquétipos bíblicos da sedução pela mesa ([[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]). Bil'am ensinou Moabe a vencer Israel por um banquete aos deuses (Números 25); Izevel sustentou à sua mesa os profetas de Baal. Os dois reaparecem em Apocalipse 2:14 e 2:20, sempre com a mesma dupla: prostituição espiritual e comida sacrificada a ídolos. Para a base, isso mostra que comer é um ato espiritual e que a [[Kashrut]] protege contra a [[Avodah Zarah]]. Não é à toa que o decreto de Atos 15 proíbe justamente o sacrificado a ídolos, o sangue e o sufocado. Tolerar Izevel, hoje, é aceitar dentro da congregação o ensino que libera o que a Torá proíbe.
 
 ## Relacionados
 
-[[Bil'am]] · [[Profeta Elias]] · [[Profeta Eliseu]] · [[Avodah Zarah]] · [[Kashrut]] · [[Tum'ah]] · [[Números 25]] · [[Hitgalut]] · [[Operação do Erro]]
+[[Bil'am]] · [[Profeta Elias]] · [[Profeta Eliseu]] · [[Avodah Zarah]] · [[Kashrut]] · [[Tum'ah]] · Números 25 · [[Hitgalut]] · [[Operação do Erro]]
 
 ## Aparece em
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]

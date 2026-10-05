@@ -25,11 +25,11 @@ Ninguém lê nesses textos que o amor extingue o mandamento ou que a salvação 
 
 ## Na Escritura
 
-O contexto de [[Romanos 10]] é Israel, que buscou a justiça sem reconhecer o alvo para onde a Torá apontava (10:2-3). Sha'ul continua citando a própria Torá: Romanos 10:6-8 é Deuteronômio 30:12-14, o texto que diz que o mandamento "está na tua boca e no teu coração, para o cumprires". A mesma carta afirma que a fé estabelece a Torá ([[Romanos 3.31]]) e que a Torá é "santa, e o mandamento santo, justo e bom" ([[Romanos 7.12]]).
+O contexto de Romanos 10 é Israel, que buscou a justiça sem reconhecer o alvo para onde a Torá apontava (10:2-3). Sha'ul continua citando a própria Torá: Romanos 10:6-8 é Deuteronômio 30:12-14, o texto que diz que o mandamento "está na tua boca e no teu coração, para o cumprires". A mesma carta afirma que a fé estabelece a Torá ([[Romanos 3.31]]) e que a Torá é "santa, e o mandamento santo, justo e bom" (Romanos 7.12).
 
 ## Na visão da Beit Shalom
 
-Rav Yosef trata Romanos 10:4 como exemplo do "versículo de reels", recortado do argumento que [[Sha'ul HaShaliach]] vinha construindo desde o capítulo 1 ([[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]). Lida em sequência, a [[Carta aos Romanos]] diz que os praticantes da Torá serão justificados (2:13), que a fé não anula a Torá (3:31) e que a mente carnal é inimiga de D'us "porque não é sujeita à lei de Deus" ([[Romanos 8.7]]). Nesse fio, *Telos* só pode significar alvo: Yeshua é a corporificação viva para a qual toda a Torá aponta.
+Rav Yosef trata Romanos 10:4 como exemplo do "versículo de reels", recortado do argumento que [[Sha'ul HaShaliach]] vinha construindo desde o capítulo 1 ([[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]). Lida em sequência, a [[Carta aos Romanos]] diz que os praticantes da Torá serão justificados (2:13), que a fé não anula a Torá (3:31) e que a mente carnal é inimiga de D'us "porque não é sujeita à lei de Deus" (Romanos 8.7). Nesse fio, *Telos* só pode significar alvo: Yeshua é a corporificação viva para a qual toda a Torá aponta.
 
 O conceito faz par com [[Le'malei]]. Em Mateus 5:17 Yeshua veio "encher" a Torá; em Romanos 10:4 ele é o ponto de chegada dela. Nos dois casos a Torá continua de pé ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). E o guia de voz o coloca ao lado de [[Anomia]]: viver sem a Torá é exatamente errar o alvo que ela mostra ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
@@ -43,7 +43,7 @@ Uma placa na estrada diz "Jerusalém, 30 km". Quando o carro chega a Jerusalém,
 
 ## Relacionados
 
-[[Romanos 10]] · [[Carta aos Romanos]] · [[Romanos 3.31]] · [[Romanos 7.12]] · [[Le'malei]] · [[Anomia]] · [[Torá]] · [[Graça]] · [[Sha'ul HaShaliach]] · [[Teologia da Substituição]]
+Romanos 10 · [[Carta aos Romanos]] · [[Romanos 3.31]] · Romanos 7.12 · [[Le'malei]] · [[Anomia]] · [[Torá]] · [[Graça]] · [[Sha'ul HaShaliach]] · [[Teologia da Substituição]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

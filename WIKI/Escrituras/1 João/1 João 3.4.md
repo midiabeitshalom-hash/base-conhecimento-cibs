@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # 1 João 3.4
 
-> "Qualquer que pratica o pecado também practica a transgressão da Torá; porque o pecado é a transgressão da Torá."
+> "Qualquer que pratica o pecado também pratica a transgressão da Torá; porque o pecado é a transgressão da Torá."
 
 **Original:** *hē hamartia estin hē anomia*, "o pecado é a *anomia*". *Anomia* vem de *a-* (sem) e *nomos* (lei, Torá): viver sem Torá ([[Anomia]]).
 

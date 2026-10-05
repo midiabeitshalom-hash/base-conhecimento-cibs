@@ -16,11 +16,11 @@ date_captured: 2026-10-05
 
 A raiz é *k-r-v* (ק-ר-ב), aproximar-se, chegar perto. O mesmo verbo abre o livro de Levítico: *adam ki yakriv mikem corban*, "quando algum de vós oferecer oferta" (Levítico 1:2), literalmente "quando alguém aproximar uma aproximação". A tradução "sacrifício" põe o peso na morte do animal; o hebraico põe o peso no reencontro. Ao lado dela está a [[Kapará]], de *k-f-r*, cobrir: o *corban* aproxima, a *kapará* cobre ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 
-Os tipos principais estão em [[Levítico 1|Levítico 1-7]]: a *olá* (holocausto, que sobe inteiro), a *minchá* (oferta de cereais), os *shelamim* (ofertas de paz), a *chatat* (pelo pecado) e o [[Asham]] (de reparação), este último retomado em [[Isaías 53.10]] para o Servo.
+Os tipos principais estão em Levítico 1-7: a *olá* (holocausto, que sobe inteiro), a *minchá* (oferta de cereais), os *shelamim* (ofertas de paz), a *chatat* (pelo pecado) e o [[Asham]] (de reparação), este último retomado em Isaías 53.10 para o Servo.
 
 ## Na Escritura
 
-O princípio aparece antes do Sinai. D'us faz túnicas de pele para Adão e Eva ([[Gênesis 3.21]]); [[Hevel]] traz as primícias do rebanho ([[Gênesis 4]]); [[Noach]] edifica um altar com animais puros ([[Gênesis 8.20]]); Abraão levanta altares ([[Gênesis 12.7]]). Os profetas lembram que o sacrifício nunca foi fim em si: "obedecer é melhor do que sacrificar" ([[1 Samuel 15.22]]); "sacrifício e oferta não quiseste" ([[Salmo 40.6]]); "os sacrifícios para D'us são o espírito quebrantado" ([[Salmo 51.16|Salmo 51.16-17]]); "fazer justiça e juízo é mais aceitável a Adonai do que sacrifício" ([[Provérbios 21.3]]). E Hebreus fecha a conta: "é impossível que o sangue de touros e de bodes tire pecados" ([[Hebreus 10.4]]).
+O princípio aparece antes do Sinai. D'us faz túnicas de pele para Adão e Eva ([[Gênesis 3.21]]); [[Hevel]] traz as primícias do rebanho (Gênesis 4); [[Noach]] edifica um altar com animais puros (Gênesis 8.20); Abraão levanta altares (Gênesis 12.7). Os profetas lembram que o sacrifício nunca foi fim em si: "obedecer é melhor do que sacrificar" ([[1 Samuel 15.22]]); "sacrifício e oferta não quiseste" (Salmo 40.6); "os sacrifícios para D'us são o espírito quebrantado" (Salmo 51.16-17); "fazer justiça e juízo é mais aceitável a Adonai do que sacrifício" (Provérbios 21.3). E Hebreus fecha a conta: "é impossível que o sangue de touros e de bodes tire pecados" (Hebreus 10.4).
 
 ## Nas fontes judaicas
 
@@ -42,7 +42,7 @@ O antivírus segura o estrago enquanto o técnico não chega. Quando o técnico 
 
 ## Relacionados
 
-[[Kapará]] · [[Asham]] · [[Torá Cerimonial]] · [[Torá Moral]] · [[Mitat Tzaddikim Mechaperet]] · [[Corban Pessach]] · [[Kohen Gadol]] · [[Yom Kippur]] · [[Segundo Templo]] · [[Graça]] · [[Gênesis 3.21]] · [[1 Samuel 15.22]] · [[Hebreus 10.4]]
+[[Kapará]] · [[Asham]] · [[Torá Cerimonial]] · [[Torá Moral]] · [[Mitat Tzaddikim Mechaperet]] · [[Corban Pessach]] · [[Kohen Gadol]] · [[Yom Kippur]] · [[Segundo Templo]] · [[Graça]] · [[Gênesis 3.21]] · [[1 Samuel 15.22]] · Hebreus 10.4
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

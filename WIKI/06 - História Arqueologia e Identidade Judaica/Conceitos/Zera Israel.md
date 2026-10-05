@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Zera* é semente e, por extensão, descendência. É a palavra das promessas aos patriarcas: "à tua semente darei esta terra" ([[Gênesis 12.7]]), "na tua semente serão benditas todas as nações" (Gênesis 22:18). A expressão completa aparece nos profetas e nos livros do retorno: "em Adonai será justificada e se gloriará toda a semente de Israel" (Isaías 45:25); D'us só rejeitaria "toda a semente de Israel" se os céus pudessem ser medidos (Jeremias 31:36-37); e "a semente de Israel se separou de todos os estrangeiros" para confessar seus pecados (Neemias 9:2). A semente é uma realidade de sangue e de promessa ao mesmo tempo.
+*Zera* é semente e, por extensão, descendência. É a palavra das promessas aos patriarcas: "à tua semente darei esta terra" (Gênesis 12.7), "na tua semente serão benditas todas as nações" (Gênesis 22:18). A expressão completa aparece nos profetas e nos livros do retorno: "em Adonai será justificada e se gloriará toda a semente de Israel" (Isaías 45:25); D'us só rejeitaria "toda a semente de Israel" se os céus pudessem ser medidos (Jeremias 31:36-37); e "a semente de Israel se separou de todos os estrangeiros" para confessar seus pecados (Neemias 9:2). A semente é uma realidade de sangue e de promessa ao mesmo tempo.
 
 ## Nas fontes judaicas
 

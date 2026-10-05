@@ -9,15 +9,15 @@ date_captured: 2026-10-05
 
 # A Mulher Samaritana
 
-**Definição:** a interlocutora de [[Yeshua]] no poço de Jacó, em [[João 4]]. É a ela que o Messias diz "nós adoramos o que sabemos" e explica que os verdadeiros adoradores adoram o Pai em espírito e em verdade. Para a Beit Shalom, o diálogo é um dos textos mais claros sobre a quem se dirige a adoração.
+**Definição:** a interlocutora de [[Yeshua]] no poço de Jacó, em João 4. É a ela que o Messias diz "nós adoramos o que sabemos" e explica que os verdadeiros adoradores adoram o Pai em espírito e em verdade. Para a Beit Shalom, o diálogo é um dos textos mais claros sobre a quem se dirige a adoração.
 
 ## Quem é
 
-O Evangelho não dá o nome dela. Era de Sicar, cidade de Samaria junto ao campo que Jacó deu a José, e foi tirar água ao meio-dia, a hora sexta (João 4:5-7). Os samaritanos descendiam da mistura entre os israelitas que ficaram no norte e os povos que a Assíria trouxe depois da queda de Samaria em 722 a.C. ([[2 Reis 17]], 17:24-41). Aceitavam só os cinco livros da Torá, adoravam no monte Gerizim e tinham rivalidade antiga com os judeus, a ponto de ela se espantar que um judeu lhe pedisse água (João 4:9).
+O Evangelho não dá o nome dela. Era de Sicar, cidade de Samaria junto ao campo que Jacó deu a José, e foi tirar água ao meio-dia, a hora sexta (João 4:5-7). Os samaritanos descendiam da mistura entre os israelitas que ficaram no norte e os povos que a Assíria trouxe depois da queda de Samaria em 722 a.C. (2 Reis 17, 17:24-41). Aceitavam só os cinco livros da Torá, adoravam no monte Gerizim e tinham rivalidade antiga com os judeus, a ponto de ela se espantar que um judeu lhe pedisse água (João 4:9).
 
 ## Na Escritura
 
-O diálogo avança por etapas. Yeshua oferece a água viva; ela pergunta se ele é maior que o pai Jacó; ele revela que sabe da vida dela, e ela o reconhece como profeta (4:10-19). Vem então a questão do lugar de culto: Gerizim ou Jerusalém? Yeshua responde: "vós adorais o que não sabeis; nós adoramos o que sabemos, porque a salvação vem dos judeus. Mas vem a hora, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade... D'us é Espírito" ([[João 4.21|João 4.21-24]]). Ela diz que sabe que o Messias vem, e ele responde: "Eu o sou, eu que falo contigo" (4:25-26). A mulher deixa o cântaro, chama a cidade, e muitos samaritanos creem (4:28-42).
+O diálogo avança por etapas. Yeshua oferece a água viva; ela pergunta se ele é maior que o pai Jacó; ele revela que sabe da vida dela, e ela o reconhece como profeta (4:10-19). Vem então a questão do lugar de culto: Gerizim ou Jerusalém? Yeshua responde: "vós adorais o que não sabeis; nós adoramos o que sabemos, porque a salvação vem dos judeus. Mas vem a hora, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade... D'us é Espírito" (João 4.21-24). Ela diz que sabe que o Messias vem, e ele responde: "Eu o sou, eu que falo contigo" (4:25-26). A mulher deixa o cântaro, chama a cidade, e muitos samaritanos creem (4:28-42).
 
 ## Na tradição judaica
 
@@ -31,7 +31,7 @@ O *Egō eimi* de João 4:26 também é lido no contexto ([[kb-a-trindade-e-idola
 
 ## Relacionados
 
-[[João 4]] · [[João 4.21]] · [[Yeshua]] · [[Monoteísmo Estrito]] · [[Avodá]] · [[Hishtachavah]] · [[Proskynesis]] · [[Deuteronômio 18.15]] · [[2 Reis 17]] · [[Ya'akov Avinu]] · [[Maim Chaim]] · [[João 17.3]]
+João 4 · João 4.21 · [[Yeshua]] · [[Monoteísmo Estrito]] · [[Avodá]] · [[Hishtachavah]] · [[Proskynesis]] · [[Deuteronômio 18.15]] · 2 Reis 17 · [[Ya'akov Avinu]] · [[Maim Chaim]] · [[João 17.3]]
 
 ## Aparece em
 

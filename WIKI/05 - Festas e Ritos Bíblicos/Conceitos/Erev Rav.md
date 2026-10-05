@@ -18,7 +18,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-A Torá previu desde a saída que haveria estrangeiros no meio de Israel e deu a eles uma regra: "uma mesma Torá haverá para o natural e para o estrangeiro que peregrina entre vós" (Êxodo 12:49). No Sinai, todo o povo estava ao pé do monte ([[Êxodo 19]]). Mais tarde os profetas abrem a mesma porta: a casa de D'us "será chamada casa de oração para todos os povos" ([[Isaías 56.7]]).
+A Torá previu desde a saída que haveria estrangeiros no meio de Israel e deu a eles uma regra: "uma mesma Torá haverá para o natural e para o estrangeiro que peregrina entre vós" (Êxodo 12:49). No Sinai, todo o povo estava ao pé do monte (Êxodo 19). Mais tarde os profetas abrem a mesma porta: a casa de D'us "será chamada casa de oração para todos os povos" (Isaías 56.7).
 
 ## Nas fontes judaicas
 
@@ -26,7 +26,7 @@ O Midrash conta que, no Sinai, cada palavra que saiu da boca de D'us se dividiu 
 
 ## Na visão da Beit Shalom
 
-Rav Yosef usa o *Erev Rav* para mostrar que [[Shavuot]] sempre teve as nações no horizonte ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]). A Torá foi dada no Sinai a Israel com uma multidão de povos ao redor, e as 70 vozes respondem às 70 nações de [[Gênesis 10]], espalhadas em [[Torre de Babel|Babel]]. Em [[Atos 2]], no mesmo Shavuot, judeus e prosélitos vindos de várias terras ouvem os discípulos falar nas suas próprias línguas: a dispersão de Babel começa a ser revertida, e a Torá escrita no coração ([[Jeremias 31.33]]) alcança gente de toda parte. O padrão invertido completa o quadro: no bezerro de ouro morreram 3.000 ([[Êxodo 32.28]]); em Atos 2, 3.000 foram salvos. O estrangeiro que se junta a Israel entra pela mesma Torá, como o *Erev Rav* que subiu do Egito.
+Rav Yosef usa o *Erev Rav* para mostrar que [[Shavuot]] sempre teve as nações no horizonte ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]). A Torá foi dada no Sinai a Israel com uma multidão de povos ao redor, e as 70 vozes respondem às 70 nações de Gênesis 10, espalhadas em [[Torre de Babel|Babel]]. Em [[Atos 2]], no mesmo Shavuot, judeus e prosélitos vindos de várias terras ouvem os discípulos falar nas suas próprias línguas: a dispersão de Babel começa a ser revertida, e a Torá escrita no coração (Jeremias 31.33) alcança gente de toda parte. O padrão invertido completa o quadro: no bezerro de ouro morreram 3.000 (Êxodo 32.28); em Atos 2, 3.000 foram salvos. O estrangeiro que se junta a Israel entra pela mesma Torá, como o *Erev Rav* que subiu do Egito.
 
 ## Como explicar à congregação
 
@@ -34,7 +34,7 @@ Quando Israel saiu do Egito, não saiu sozinho: muita gente de fora viu o que D'
 
 ## Relacionados
 
-[[Shavuot]] · [[Har Sinai]] · [[Kolot]] · [[Gênesis 10]] · [[Torre de Babel]] · [[Atos 2]] · [[Xenoglossia]] · [[Êxodo 32]] · [[Bnei Noach]] · [[Isaías 56.7]] · [[Midrash]]
+[[Shavuot]] · [[Har Sinai]] · [[Kolot]] · Gênesis 10 · [[Torre de Babel]] · [[Atos 2]] · [[Xenoglossia]] · Êxodo 32 · [[Bnei Noach]] · Isaías 56.7 · [[Midrash]]
 
 ## Aparece em
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]

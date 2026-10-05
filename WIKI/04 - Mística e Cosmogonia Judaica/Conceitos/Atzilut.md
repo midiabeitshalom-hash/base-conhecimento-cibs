@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-A raiz *A-Tz-L* (א־צ־ל) dá *etzel*, "junto a", "perto de" ([[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]). O verbo aparece na Torá num contexto revelador. Em [[Números 11.17]] D'us diz a Moisés: "tirarei (*ve'atzalti*) do espírito que está sobre ti e o porei sobre eles", e os 70 anciãos recebem do mesmo espírito sem que Moisés perca nada. Emanar é isso: dar de si sem se diminuir, como uma vela que acende outra. A tradução "emanação" guarda a ideia de fluir da fonte; a raiz acrescenta a de proximidade.
+A raiz *A-Tz-L* (א־צ־ל) dá *etzel*, "junto a", "perto de" ([[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]). O verbo aparece na Torá num contexto revelador. Em Números 11.17 D'us diz a Moisés: "tirarei (*ve'atzalti*) do espírito que está sobre ti e o porei sobre eles", e os 70 anciãos recebem do mesmo espírito sem que Moisés perca nada. Emanar é isso: dar de si sem se diminuir, como uma vela que acende outra. A tradução "emanação" guarda a ideia de fluir da fonte; a raiz acrescenta a de proximidade.
 
 ## Na Escritura
 
@@ -40,7 +40,7 @@ Antes de existir a casa, existe a vontade de construí-la. Ninguém vê essa von
 
 ## Relacionados
 
-[[Arba'ah Olamot]] · [[Beriá]] · [[Yetzirá]] · [[Assiá]] · [[Ein Sof]] · [[Or Ein Sof]] · [[Tzimtzum]] · [[Adam Kadmon]] · [[Sefirot]] · [[Tetragrama]] · [[Olam Katan]] · [[Sulam Ya'akov]] · [[Números 11.17]]
+[[Arba'ah Olamot]] · [[Beriá]] · [[Yetzirá]] · [[Assiá]] · [[Ein Sof]] · [[Or Ein Sof]] · [[Tzimtzum]] · [[Adam Kadmon]] · [[Sefirot]] · [[Tetragrama]] · [[Olam Katan]] · [[Sulam Ya'akov]] · Números 11.17
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

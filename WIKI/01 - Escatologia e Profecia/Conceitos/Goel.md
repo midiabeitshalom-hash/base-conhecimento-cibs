@@ -22,7 +22,7 @@ A raiz *G-A-L* (ג־א־ל) quer dizer resgatar, reivindicar o que é da famíli
 - **O livro de Rute:** Boaz, parente de Elimeleque, resgata o campo da família e se casa com Rute, depois que o parente mais próximo recusa o resgate.
 - **Jó 19:25:** "eu sei que o meu *Goel* vive, e por fim se levantará sobre a terra" ([[Iyov]]).
 - **Jeremias 32:6-15:** Jeremias compra o campo de Anatote pelo direito de resgate, com escritura selada e outra aberta, guardadas num vaso de barro.
-- **Isaías:** D'us é chamado "Rei de Israel e seu *Goel*" ([[Isaías 44.6]]), e "virá o *Goel* a Sião" ([[Isaías 59.20]]).
+- **Isaías:** D'us é chamado "Rei de Israel e seu *Goel*" (Isaías 44.6), e "virá o *Goel* a Sião" (Isaías 59.20).
 
 ## Na visão da Beit Shalom
 
@@ -42,7 +42,7 @@ Num inventário, quem pode reclamar a casa da família é o herdeiro de sangue, 
 
 ## Relacionados
 
-[[Geulá]] · [[Yovel]] · [[Shemitá]] · [[Nachalah]] · [[Ben Adam]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Iyov]] · [[Levítico 25]] · [[Isaías 59.20]] · [[Graça]] · [[Mashiach ben David]]
+[[Geulá]] · [[Yovel]] · [[Shemitá]] · [[Nachalah]] · [[Ben Adam]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Iyov]] · [[Levítico 25]] · Isaías 59.20 · [[Graça]] · [[Mashiach ben David]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

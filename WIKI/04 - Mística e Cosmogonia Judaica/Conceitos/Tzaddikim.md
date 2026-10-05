@@ -21,9 +21,9 @@ A raiz é *tzadi-dalet-kuf* (צ־ד־ק), a mesma de *tzedek*, justiça, de [[Tz
 - **Habacuque 2:4:** "o justo viverá pela sua fé" (*tzaddik be'emunato yichyeh*), a fidelidade que dura.
 - **Provérbios 10:25:** "o justo é o fundamento do mundo" (*tzaddik yesod olam*).
 - **Salmo 97:11:** "a luz semeia-se para o justo" (*or zarua latzaddik*), o versículo que a tradição liga à luz escondida.
-- **[[Daniel 12|Daniel 12.3]]:** os que conduzem muitos à justiça brilharão como as estrelas para sempre.
+- **Daniel 12.3:** os que conduzem muitos à justiça brilharão como as estrelas para sempre.
 - **Mateus 13:43:** "então os justos resplandecerão como o sol no Reino de seu Pai".
-- **[[Apocalipse 22.11]]:** "o justo faça justiça ainda", e logo depois [[Apocalipse 22.14]]: entram na cidade os que guardam os mandamentos.
+- **Apocalipse 22.11:** "o justo faça justiça ainda", e logo depois [[Apocalipse 22.14]]: entram na cidade os que guardam os mandamentos.
 
 ## Nas fontes judaicas
 
@@ -45,7 +45,7 @@ Uma semente de luz plantada debaixo da terra (Salmo 97:11). Durante o inverno ni
 
 ## Relacionados
 
-[[Or HaGanuz]] · [[Geulá]] · [[Ein Sof]] · [[Tzimtzum]] · [[Tzedaká]] · [[Malki-Tzedek]] · [[Mitat Tzaddikim Mechaperet]] · [[Noach]] · [[Yosef HaTzaddik]] · [[Shimon HaTzaddik]] · [[Shechinah]] · [[Emuná]] · [[Daniel 12]] · [[Apocalipse 22.11]]
+[[Or HaGanuz]] · [[Geulá]] · [[Ein Sof]] · [[Tzimtzum]] · [[Tzedaká]] · [[Malki-Tzedek]] · [[Mitat Tzaddikim Mechaperet]] · [[Noach]] · [[Yosef HaTzaddik]] · [[Shimon HaTzaddik]] · [[Shechinah]] · [[Emuná]] · Daniel 12 · Apocalipse 22.11
 
 ## Aparece em
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]

@@ -26,7 +26,7 @@ A Mishná conta que o [[Kohen Gadol]] atava uma fita escarlate na cabeça do bod
 
 ## Na visão da Beit Shalom
 
-Rav Yosef lê *Yoma 39b* como testemunho independente, vindo de fora da fé messiânica ([[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]). Quarenta anos antes de 70 EC é por volta de 30 EC, a época da morte e da ressurreição de [[Yeshua]]. A partir daí a fita ficou vermelha todos os anos. A leitura da base é que o céu deixou de confirmar o sacrifício levítico, porque a expiação definitiva já tinha sido feita pela morte do justo ([[Mitat Tzaddikim Mechaperet]]). O sangue de touros e bodes nunca tirou pecado ([[Hebreus 10.4]]); os [[Corbanot]] eram pedagogia, e o Templo em ruínas há quase dois mil anos confirma que esse capítulo se fechou ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+Rav Yosef lê *Yoma 39b* como testemunho independente, vindo de fora da fé messiânica ([[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]). Quarenta anos antes de 70 EC é por volta de 30 EC, a época da morte e da ressurreição de [[Yeshua]]. A partir daí a fita ficou vermelha todos os anos. A leitura da base é que o céu deixou de confirmar o sacrifício levítico, porque a expiação definitiva já tinha sido feita pela morte do justo ([[Mitat Tzaddikim Mechaperet]]). O sangue de touros e bodes nunca tirou pecado (Hebreus 10.4); os [[Corbanot]] eram pedagogia, e o Templo em ruínas há quase dois mil anos confirma que esse capítulo se fechou ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 ## Como explicar à congregação
 

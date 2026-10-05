@@ -18,12 +18,12 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- Daniel 12:1 ([[Daniel 12]]): "haverá um tempo de angústia, qual nunca houve, desde que houve nação até aquele tempo; mas naquele tempo livrar-se-á o teu povo".
+- Daniel 12:1 (Daniel 12): "haverá um tempo de angústia, qual nunca houve, desde que houve nação até aquele tempo; mas naquele tempo livrar-se-á o teu povo".
 - [[Daniel 7.25]]: o chifre pequeno "destruirá os santos do Altíssimo e cuidará em mudar os tempos e a lei", por "um tempo, e tempos, e metade de um tempo".
-- [[Daniel 9.27]]: na metade da última semana, a [[Abominação da Desolação]].
-- [[Mateus 24.15|Mateus 24.15-22]]: "haverá então grande aflição, como nunca houve desde o princípio do mundo até agora"; os dias são abreviados por causa dos escolhidos.
-- [[Mateus 24.29|Mateus 24.29-31]]: "logo depois da aflição daqueles dias" o Filho do Homem aparece e os anjos reúnem os escolhidos com grande som de shofar.
-- [[Apocalipse 13]]: a besta faz guerra aos santos e impõe a marca. Apocalipse 7:14 fala dos que "vieram da grande tribulação".
+- Daniel 9.27: na metade da última semana, a [[Abominação da Desolação]].
+- Mateus 24.15-22: "haverá então grande aflição, como nunca houve desde o princípio do mundo até agora"; os dias são abreviados por causa dos escolhidos.
+- Mateus 24.29-31: "logo depois da aflição daqueles dias" o Filho do Homem aparece e os anjos reúnem os escolhidos com grande som de shofar.
+- Apocalipse 13: a besta faz guerra aos santos e impõe a marca. Apocalipse 7:14 fala dos que "vieram da grande tribulação".
 - [[Apocalipse 20.4|Apocalipse 20.4-5]]: os que não adoraram a besta nem receberam a marca vivem e reinam com o Messias. "Esta é a primeira ressurreição."
 
 ## Na visão da Beit Shalom
@@ -42,7 +42,7 @@ Quem acredita que o avião vai decolar antes da tempestade não leva guarda-chuv
 
 ## Relacionados
 
-[[Dores de Parto]] · [[Et Tzarah l'Yaakov]] · [[Marca da Besta]] · [[Abominação da Desolação]] · [[Primeira Ressurreição]] · [[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Kidushim]] · [[Operação do Erro]] · [[Mateus 24]] · [[Daniel 12]] · [[Apocalipse 13]]
+[[Dores de Parto]] · [[Et Tzarah l'Yaakov]] · [[Marca da Besta]] · [[Abominação da Desolação]] · [[Primeira Ressurreição]] · [[Arrebatamento]] · [[Pós-Tribulacionismo]] · [[Pré-Tribulacionismo]] · [[Kidushim]] · [[Operação do Erro]] · Mateus 24 · Daniel 12 · Apocalipse 13
 
 ## Aparece em
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]

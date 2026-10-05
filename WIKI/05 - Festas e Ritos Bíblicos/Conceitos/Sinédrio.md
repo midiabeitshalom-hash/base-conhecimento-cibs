@@ -14,12 +14,12 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-A palavra é grega, mas a instituição se apoia na Torá. Em Números 11:16-17 D'us manda Moisés reunir setenta anciãos e põe sobre eles o espírito que estava sobre ele ([[Números 11.17]]). Setenta com Moisés à frente dão os 71 do Grande Sinédrio (Mishná, *Sanhedrin* 1:6). Os [[70 Anciãos]] são o modelo: juízes que recebem uma medida do Espírito para julgar o povo segundo a Torá.
+A palavra é grega, mas a instituição se apoia na Torá. Em Números 11:16-17 D'us manda Moisés reunir setenta anciãos e põe sobre eles o espírito que estava sobre ele (Números 11.17). Setenta com Moisés à frente dão os 71 do Grande Sinédrio (Mishná, *Sanhedrin* 1:6). Os [[70 Anciãos]] são o modelo: juízes que recebem uma medida do Espírito para julgar o povo segundo a Torá.
 
 ## Na Escritura
 
 - **Mateus 26:57-66:** Yeshua é levado à casa de Caifás, o [[Kohen Gadol]], onde os escribas e os anciãos estão reunidos.
-- **[[Mateus 27.62|Mateus 27.62-64]]:** os chefes dos sacerdotes e os fariseus vão a Pilatos: "Lembramo-nos de que aquele enganador, vivendo ainda, disse: Depois de três dias ressuscitarei".
+- **Mateus 27.62-64:** os chefes dos sacerdotes e os fariseus vão a Pilatos: "Lembramo-nos de que aquele enganador, vivendo ainda, disse: Depois de três dias ressuscitarei".
 - **João 3:1 e 7:50-51:** [[Nicodemos]], membro do conselho, defende que ninguém seja condenado sem ser ouvido. Lucas 23:50-51 diz que [[José de Arimateia]], também conselheiro, não consentiu na decisão.
 - **Atos 5:34-39 e 23:6-8:** Gamaliel aconselha prudência, e Sha'ul divide o conselho entre [[Fariseus]] e [[Saduceus]] por causa da ressurreição.
 

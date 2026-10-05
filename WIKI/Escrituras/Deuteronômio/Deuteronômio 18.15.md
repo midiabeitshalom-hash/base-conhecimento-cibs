@@ -18,12 +18,12 @@ date_captured: 2026-10-05
 Moisés fala no fim do deserto, após as leis contra adivinhação e magia (18.9-14). O profeta prometido é a alternativa legítima aos oráculos pagãos. Os versículos 18-19 trazem a voz do próprio D'us ([[Deuteronômio 18.18]]): "porei as minhas palavras na sua boca".
 
 ## Leitura da Beit Shalom
-Rav Yosef ensina que este é um dos três pilares que provam a messianidade de [[Yeshua]]: ele é o profeta semelhante a Moisés, como pregaram [[Shimon Kefa|Pedro]] ([[Atos 3.22]]) e Estêvão ([[Atos 7.37]]). A semelhança é de função: como Moisés, ele é mediador de uma aliança, ensina a Torá, liberta, intercede, tem sinais confirmando a missão. Moisés não ensinou um evangelho sem Torá, e o profeta "como ele" também não: o que ele traz é a Torá renovada, a mesma que o Sinai entregou ([[Jeremias 31.31|Jeremias 31.31-34]]).
+Rav Yosef ensina que este é um dos três pilares que provam a messianidade de [[Yeshua]]: ele é o profeta semelhante a Moisés, como pregaram [[Shimon Kefa|Pedro]] (Atos 3.22) e Estêvão (Atos 7.37). A semelhança é de função: como Moisés, ele é mediador de uma aliança, ensina a Torá, liberta, intercede, tem sinais confirmando a missão. Moisés não ensinou um evangelho sem Torá, e o profeta "como ele" também não: o que ele traz é a Torá renovada, a mesma que o Sinai entregou ([[Jeremias 31.31|Jeremias 31.31-34]]).
 
 O texto também fornece o filtro: o profeta de Deuteronômio 18 fala o que D'us pôs na sua boca, e a seguir (Dt 13.1-5) a Torá avisa que quem desvia do mandamento é falso, ainda que faça sinais. É o princípio que a base aplica a toda reivindicação messiânica que anule a Torá. As outras duas provas, os 483 anos de [[Daniel 9.24|Daniel 9.24-26]] e o cumprimento das festas de primavera ([[Levítico 23]]), convergem com esta.
 
 ## Conexões
-[[Deuteronômio 18.18]] · [[Atos 3.22]] · [[Atos 7.37]] · [[João 5.46]] · [[Mashiach ben Yosef]] · [[Mashiach]] · [[Moshe Rabenu]].
+[[Deuteronômio 18.18]] · Atos 3.22 · Atos 7.37 · João 5.46 · [[Mashiach ben Yosef]] · [[Mashiach]] · [[Moshe Rabenu]].
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

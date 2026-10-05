@@ -22,7 +22,7 @@ No debate rabínico do 1º século havia um par fixo de verbos. "Anular" (*levat
 
 - [[Mateus 5.17|Mateus 5.17-19]]: o texto-base, com a advertência a quem quebrar "um destes mínimos mandamentos".
 - [[Romanos 3.31]]: Sha'ul usa a mesma lógica ao dizer que a fé não anula a Torá, mas a estabelece.
-- [[Salmo 40.8]]: "deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração", o retrato de quem cumpre por dentro.
+- Salmo 40.8: "deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração", o retrato de quem cumpre por dentro.
 
 ## Nas fontes judaicas
 

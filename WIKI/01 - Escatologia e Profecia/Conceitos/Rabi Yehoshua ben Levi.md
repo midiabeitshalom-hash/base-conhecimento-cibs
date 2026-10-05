@@ -16,7 +16,7 @@ Rabi Yehoshua ben Levi foi um sábio da primeira geração dos *amoraim* da Terr
 
 ## Na Escritura
 
-Os textos ligados a ele na base são [[Zacarias 9.9]], o rei "humilde e montado sobre um jumento", e [[Daniel 7.13]], o filho do homem que vem "com as nuvens do céu". Ele também aproximou Isaías 60:22, onde D'us diz que trará a redenção "a seu tempo" e "apressarei".
+Os textos ligados a ele na base são Zacarias 9.9, o rei "humilde e montado sobre um jumento", e [[Daniel 7.13]], o filho do homem que vem "com as nuvens do céu". Ele também aproximou Isaías 60:22, onde D'us diz que trará a redenção "a seu tempo" e "apressarei".
 
 ## Na tradição judaica
 
@@ -28,11 +28,11 @@ Na mesma página está a história mais conhecida dele. Rabi Yehoshua encontra E
 
 Rav Yosef traz Rabi Yehoshua ben Levi como a testemunha talmúdica da tensão entre as duas imagens do Messias ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). O mesmo Messias vem humilde num jumento e glorioso sobre as nuvens. A base lê essa tensão pela doutrina das duas manifestações: o [[Mashiach ben Yosef]], servo que sofre e expia, e o [[Mashiach ben David]], rei que volta para reinar. Yeshua cumpriu Zacarias 9:9 na primeira vinda e cumprirá Daniel 7:13 no retorno.
 
-A imagem do Messias entre os doentes, carregando as feridas deles, conversa com o "palácio dos filhos doentes" do [[Zohar]] e com [[Isaías 53]], que o estudo usa na mesma seção. E o "hoje" de Elias é um chamado à [[Teshuvá]]: a redenção depende de ouvir a voz.
+A imagem do Messias entre os doentes, carregando as feridas deles, conversa com o "palácio dos filhos doentes" do [[Zohar]] e com Isaías 53, que o estudo usa na mesma seção. E o "hoje" de Elias é um chamado à [[Teshuvá]]: a redenção depende de ouvir a voz.
 
 ## Relacionados
 
-[[Zacarias 9.9]] · [[Daniel 7.13]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Isaías 53]] · [[Profeta Elias]] · [[Rav]] · [[Rabi Akiva]] · [[Talmud Bavli]] · [[Zohar]] · [[Teshuvá]]
+Zacarias 9.9 · [[Daniel 7.13]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · Isaías 53 · [[Profeta Elias]] · [[Rav]] · [[Rabi Akiva]] · [[Talmud Bavli]] · [[Zohar]] · [[Teshuvá]]
 
 ## Aparece em
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]

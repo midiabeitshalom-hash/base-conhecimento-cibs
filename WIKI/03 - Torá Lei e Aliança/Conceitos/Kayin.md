@@ -10,17 +10,17 @@ date_captured: 2026-10-05
 
 # Kayin
 
-**Definição:** *Kayin* (קַיִן), Caim, primeiro filho de [[Adam HaRishon]] e [[Chavah]], lavrador da terra, que trouxe uma oferta dos frutos do solo e matou o irmão [[Hevel]] ([[Gênesis 4]]). Na base, ele e Hevel são a prova de que a Torá sacrificial e moral já vigorava antes do Sinai.
+**Definição:** *Kayin* (קַיִן), Caim, primeiro filho de [[Adam HaRishon]] e [[Chavah]], lavrador da terra, que trouxe uma oferta dos frutos do solo e matou o irmão [[Hevel]] (Gênesis 4). Na base, ele e Hevel são a prova de que a Torá sacrificial e moral já vigorava antes do Sinai.
 
 ## Quem é
 
-O nome é explicado pela própria mãe: *kaniti ish et Adonai*, "adquiri um homem com Adonai" (Gênesis 4:1). A raiz *K-N-H* é adquirir, possuir. Hevel (הֶבֶל), ao contrário, quer dizer sopro, vapor, a mesma palavra do "vaidade de vaidades" de Eclesiastes. Um nome fala de posse e de terra; o outro, de algo passageiro. Kayin lavrava o solo amaldiçoado depois da queda ([[Gênesis 3.17]]); Hevel apascentava ovelhas.
+O nome é explicado pela própria mãe: *kaniti ish et Adonai*, "adquiri um homem com Adonai" (Gênesis 4:1). A raiz *K-N-H* é adquirir, possuir. Hevel (הֶבֶל), ao contrário, quer dizer sopro, vapor, a mesma palavra do "vaidade de vaidades" de Eclesiastes. Um nome fala de posse e de terra; o outro, de algo passageiro. Kayin lavrava o solo amaldiçoado depois da queda (Gênesis 3.17); Hevel apascentava ovelhas.
 
 ## Na Escritura
 
-Em [[Gênesis 4.3|Gênesis 4.3-5]], "ao fim de dias", Kayin traz dos frutos da terra e Hevel traz "das primícias do seu rebanho e da gordura deles". D'us atenta para Hevel e sua oferta, e não para Kayin. Em seguida vem a primeira advertência moral da Bíblia depois do Éden: "Se bem fizeres, não haverá aceitação? E se não fizeres bem, o pecado jaz à porta, e para ti será o seu desejo, e sobre ele dominarás" (Gênesis 4:7). É a primeira vez que a palavra *chatat*, pecado, aparece na Torá. Kayin não domina, mata o irmão no campo e é condenado a vagar pela terra, com um sinal de proteção (Gênesis 4:8-16).
+Em Gênesis 4.3-5, "ao fim de dias", Kayin traz dos frutos da terra e Hevel traz "das primícias do seu rebanho e da gordura deles". D'us atenta para Hevel e sua oferta, e não para Kayin. Em seguida vem a primeira advertência moral da Bíblia depois do Éden: "Se bem fizeres, não haverá aceitação? E se não fizeres bem, o pecado jaz à porta, e para ti será o seu desejo, e sobre ele dominarás" (Gênesis 4:7). É a primeira vez que a palavra *chatat*, pecado, aparece na Torá. Kayin não domina, mata o irmão no campo e é condenado a vagar pela terra, com um sinal de proteção (Gênesis 4:8-16).
 
-A [[Berit Hadashah]] retoma a história três vezes: Hevel ofereceu "pela fé" um sacrifício melhor (Hebreus 11:4); Kayin "era do maligno e matou o irmão, porque as suas obras eram más" (1 João 3:12, ver [[1 João 3]]); e o "caminho de Caim" é o dos que se corrompem (Judas 1:11).
+A [[Berit Hadashah]] retoma a história três vezes: Hevel ofereceu "pela fé" um sacrifício melhor (Hebreus 11:4); Kayin "era do maligno e matou o irmão, porque as suas obras eram más" (1 João 3:12, ver 1 João 3); e o "caminho de Caim" é o dos que se corrompem (Judas 1:11).
 
 ## Na tradição judaica
 
@@ -34,7 +34,7 @@ Os dois irmãos abrem a linha pedagógica dos [[Corbanot]]: o pecador vê o inoc
 
 ## Relacionados
 
-[[Hevel]] · [[Adam HaRishon]] · [[Chavah]] · [[Gênesis 4]] · [[Corbanot]] · [[Torá Moral]] · [[Torá Cerimonial]] · [[Yetzer HaRá]] · [[Teshuvá]] · [[Noach]]
+[[Hevel]] · [[Adam HaRishon]] · [[Chavah]] · Gênesis 4 · [[Corbanot]] · [[Torá Moral]] · [[Torá Cerimonial]] · [[Yetzer HaRá]] · [[Teshuvá]] · [[Noach]]
 
 ## Aparece em
 

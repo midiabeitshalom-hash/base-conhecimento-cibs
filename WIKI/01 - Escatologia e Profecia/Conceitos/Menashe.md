@@ -16,7 +16,7 @@ O nome vem da raiz *N-Sh-H*, esquecer. José explica: "Deus me fez esquecer (*na
 
 ## Na Escritura
 
-- **[[Gênesis 48]]:** José leva os dois filhos ao leito de Jacó, com Menashe à direita do avô. Jacó cruza os braços e põe a mão direita sobre Efraim ([[Gênesis 48.14]]). José protesta, e Jacó responde que Menashe também será grande, mas o irmão será maior. Em 48:16 vem a bênção [[Yidgu]], "multipliquem-se como peixes".
+- **Gênesis 48:** José leva os dois filhos ao leito de Jacó, com Menashe à direita do avô. Jacó cruza os braços e põe a mão direita sobre Efraim (Gênesis 48.14). José protesta, e Jacó responde que Menashe também será grande, mas o irmão será maior. Em 48:16 vem a bênção [[Yidgu]], "multipliquem-se como peixes".
 - **Gênesis 48:20:** "Deus te faça como a Efraim e como a Manassés", a bênção que Israel passaria a usar.
 - **Números 32 e Josué 17:** a tribo se divide; metade fica a leste do Jordão, em Gileade e Basã, e metade recebe terra a oeste.
 - **Juízes 6:15:** Gideão é de Manassés, "o menor da casa de meu pai".
@@ -34,7 +34,7 @@ O [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalo
 
 ## Relacionados
 
-[[Efraim]] · [[Yosef HaTzaddik]] · [[Ya'akov Avinu]] · [[Gênesis 48]] · [[Gênesis 48.14]] · [[Yidgu]] · [[Casa de Israel]] · [[Doze Tribos de Israel]] · [[Ezequiel 37]] · [[Zafenate-Paneia]]
+[[Efraim]] · [[Yosef HaTzaddik]] · [[Ya'akov Avinu]] · Gênesis 48 · Gênesis 48.14 · [[Yidgu]] · [[Casa de Israel]] · [[Doze Tribos de Israel]] · [[Ezequiel 37]] · [[Zafenate-Paneia]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

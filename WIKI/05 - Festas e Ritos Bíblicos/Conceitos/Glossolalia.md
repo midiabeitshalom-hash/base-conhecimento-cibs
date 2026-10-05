@@ -17,10 +17,10 @@ O termo é moderno, formado a partir da expressão de Sha'ul *lalein glōssais*,
 
 ## Na Escritura
 
-- **[[Romanos 8|Romanos 8.26]]:** o Espírito intercede "com gemidos inexprimíveis" (*stenagmois alalētois*), sem palavras.
-- **[[1 Coríntios 14|1 Coríntios 14.2-28]]:** quem fala em língua edifica a si mesmo; "o meu espírito ora, mas o meu entendimento fica sem fruto" (14:14). Sha'ul fala em línguas mais que todos, mas na congregação prefere cinco palavras compreensíveis a dez mil em língua (14:18-19). Exige ordem: dois ou três, um de cada vez, com intérprete; sem intérprete, fale consigo e com D'us (14:27-28). E conclui: "não proibais falar em línguas" (14:39).
-- **[[1 Coríntios 12]]:** variedade de línguas e interpretação estão entre os dons distribuídos pelo mesmo Espírito.
-- **[[Atos 10.44|Atos 10.44-46]] e [[Atos 19|Atos 19.6]]:** a casa de Cornélio e os discípulos de Éfeso falam em línguas quando recebem o Ruach.
+- **Romanos 8.26:** o Espírito intercede "com gemidos inexprimíveis" (*stenagmois alalētois*), sem palavras.
+- **1 Coríntios 14.2-28:** quem fala em língua edifica a si mesmo; "o meu espírito ora, mas o meu entendimento fica sem fruto" (14:14). Sha'ul fala em línguas mais que todos, mas na congregação prefere cinco palavras compreensíveis a dez mil em língua (14:18-19). Exige ordem: dois ou três, um de cada vez, com intérprete; sem intérprete, fale consigo e com D'us (14:27-28). E conclui: "não proibais falar em línguas" (14:39).
+- **1 Coríntios 12:** variedade de línguas e interpretação estão entre os dons distribuídos pelo mesmo Espírito.
+- **Atos 10.44-46 e Atos 19.6:** a casa de Cornélio e os discípulos de Éfeso falam em línguas quando recebem o Ruach.
 
 ## Nas fontes judaicas
 
@@ -34,7 +34,7 @@ O dom, porém, não é o objetivo. O Ruach é dado para obedecer: para escrever 
 
 ## Leituras que a Beit Shalom corrige
 
-O pentecostalismo antinômico guardou o fenômeno exterior, o falar em línguas, e descartou o propósito do Espírito, que é capacitar para cumprir os mandamentos e abandonar a [[Anomia]]. Em [[Mateus 7.21|Mateus 7.21-23]], gente que profetizou e fez milagres em nome de Yeshua ouve "apartai-vos, vós que praticais a anomia". Línguas sem Torá não provam aprovação; o critério são os frutos.
+O pentecostalismo antinômico guardou o fenômeno exterior, o falar em línguas, e descartou o propósito do Espírito, que é capacitar para cumprir os mandamentos e abandonar a [[Anomia]]. Em Mateus 7.21-23, gente que profetizou e fez milagres em nome de Yeshua ouve "apartai-vos, vós que praticais a anomia". Línguas sem Torá não provam aprovação; o critério são os frutos.
 
 ## Como explicar à congregação
 
@@ -42,7 +42,7 @@ Uma criança pequena que corre para o colo do pai depois de um susto não faz di
 
 ## Relacionados
 
-[[Xenoglossia]] · [[Ruach HaKodesh]] · [[Shavuot]] · [[Atos 2]] · [[1 Coríntios 14]] · [[1 Coríntios 12]] · [[Kavanah]] · [[Anomia]] · [[Novo Nascimento]] · [[Tevilá]] · [[Dedo de Deus]]
+[[Xenoglossia]] · [[Ruach HaKodesh]] · [[Shavuot]] · [[Atos 2]] · 1 Coríntios 14 · 1 Coríntios 12 · [[Kavanah]] · [[Anomia]] · [[Novo Nascimento]] · [[Tevilá]] · [[Dedo de Deus]]
 
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]

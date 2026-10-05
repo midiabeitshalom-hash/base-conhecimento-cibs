@@ -17,7 +17,7 @@ O termo é moderno, mas descreve com exatidão o texto de Lucas. Em Atos 2:4 os 
 
 ## Na Escritura
 
-O pano de fundo é a Torre de Babel. Em [[Gênesis 11]] D'us confunde a língua dos homens e os espalha; em [[Gênesis 10]] estão as setenta nações que saem dessa dispersão. Em Shavuot, as línguas que dividiram a humanidade passam a servir para reuni-la ao redor da Torá e do Messias. Sha'ul cita Isaías 28:11, "por lábios estranhos e por outra língua falarei a este povo", e conclui que as línguas são sinal para os que não creem (1 Coríntios 14:21-22). É exatamente a função da xenoglossia: testemunho público, entendido por quem está de fora.
+O pano de fundo é a Torre de Babel. Em Gênesis 11 D'us confunde a língua dos homens e os espalha; em Gênesis 10 estão as setenta nações que saem dessa dispersão. Em Shavuot, as línguas que dividiram a humanidade passam a servir para reuni-la ao redor da Torá e do Messias. Sha'ul cita Isaías 28:11, "por lábios estranhos e por outra língua falarei a este povo", e conclui que as línguas são sinal para os que não creem (1 Coríntios 14:21-22). É exatamente a função da xenoglossia: testemunho público, entendido por quem está de fora.
 
 ## Nas fontes judaicas
 
@@ -31,7 +31,7 @@ O Ruach é dado para obedecer. Os dons, incluindo as línguas reais, servem ao t
 
 ## Leituras que a Beit Shalom corrige
 
-O pentecostalismo antinômico ficou com o fenômeno e largou o propósito. Fala em línguas e despreza o [[Shabat]], as festas e a [[Kashrut]]. Para a base, línguas sem Torá não provam aprovação ([[Mateus 7.21|Mateus 7.21-23]]).
+O pentecostalismo antinômico ficou com o fenômeno e largou o propósito. Fala em línguas e despreza o [[Shabat]], as festas e a [[Kashrut]]. Para a base, línguas sem Torá não provam aprovação (Mateus 7.21-23).
 
 ## Como explicar à congregação
 
@@ -39,7 +39,7 @@ Em Babel, D'us embaralhou os idiomas para frear um projeto humano. Em Shavuot, e
 
 ## Relacionados
 
-[[Glossolalia]] · [[Shavuot]] · [[Atos 2]] · [[Atos 2.1]] · [[Ruach HaKodesh]] · [[Dedo de Deus]] · [[Kolot]] · [[Har Sinai]] · [[Torre de Babel]] · [[Gênesis 11]] · [[Erev Rav]] · [[1 Coríntios 14]] · [[Joel 2.28]]
+[[Glossolalia]] · [[Shavuot]] · [[Atos 2]] · Atos 2.1 · [[Ruach HaKodesh]] · [[Dedo de Deus]] · [[Kolot]] · [[Har Sinai]] · [[Torre de Babel]] · Gênesis 11 · [[Erev Rav]] · 1 Coríntios 14 · Joel 2.28
 
 ## Aparece em
 

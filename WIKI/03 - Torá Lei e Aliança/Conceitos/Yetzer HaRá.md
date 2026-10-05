@@ -14,11 +14,11 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Yetzer* vem de *yatzar* (יצר), formar, moldar, a palavra do oleiro. O mesmo verbo descreve D'us formando o homem do pó em [[Gênesis 2.7]]. *Yetzer* é, portanto, aquilo que o coração "fabrica": desejo, impulso, imaginação. A Torá usa a palavra em Gênesis 6, quando "toda a imaginação (*yetzer*) dos pensamentos do seu coração era só má continuamente" (6:5), e depois do dilúvio: "a imaginação do coração do homem é má desde a sua meninice" (8:21).
+*Yetzer* vem de *yatzar* (יצר), formar, moldar, a palavra do oleiro. O mesmo verbo descreve D'us formando o homem do pó em Gênesis 2.7. *Yetzer* é, portanto, aquilo que o coração "fabrica": desejo, impulso, imaginação. A Torá usa a palavra em Gênesis 6, quando "toda a imaginação (*yetzer*) dos pensamentos do seu coração era só má continuamente" (6:5), e depois do dilúvio: "a imaginação do coração do homem é má desde a sua meninice" (8:21).
 
 ## Na Escritura
 
-O primeiro retrato do *yetzer* em ação está na advertência a [[Kayin]]: "o pecado jaz à porta, e para ti será o seu desejo, e sobre ele dominarás" (Gênesis 4:7). O impulso espreita, mas o homem pode governá-lo. Na [[Berit Hadashah]], Sha'ul descreve a mesma luta em [[Romanos 7]], a "lei do pecado que está nos meus membros", e em [[Romanos 8.7]], a inclinação da carne que "não é sujeita à lei de Deus". A resposta profética é o novo coração de [[Ezequiel 36.26]] e a [[Circuncisão do Coração]].
+O primeiro retrato do *yetzer* em ação está na advertência a [[Kayin]]: "o pecado jaz à porta, e para ti será o seu desejo, e sobre ele dominarás" (Gênesis 4:7). O impulso espreita, mas o homem pode governá-lo. Na [[Berit Hadashah]], Sha'ul descreve a mesma luta em Romanos 7, a "lei do pecado que está nos meus membros", e em Romanos 8.7, a inclinação da carne que "não é sujeita à lei de Deus". A resposta profética é o novo coração de [[Ezequiel 36.26]] e a [[Circuncisão do Coração]].
 
 ## Nas fontes judaicas
 
@@ -45,7 +45,7 @@ O *yetzer hará* é como o fogo da cozinha. Sem ele não se faz comida; solto, e
 
 ## Relacionados
 
-[[Yetzer Tov]] · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Kelipot]] · [[Birur]] · [[Romanos 7]] · [[Romanos 8.7]] · [[Ezequiel 36.26]] · [[Circuncisão do Coração]] · [[Graça]] · [[Teshuvá]] · [[Adam HaRishon]]
+[[Yetzer Tov]] · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Kelipot]] · [[Birur]] · Romanos 7 · Romanos 8.7 · [[Ezequiel 36.26]] · [[Circuncisão do Coração]] · [[Graça]] · [[Teshuvá]] · [[Adam HaRishon]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

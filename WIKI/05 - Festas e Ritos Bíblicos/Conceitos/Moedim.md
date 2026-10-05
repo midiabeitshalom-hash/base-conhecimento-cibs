@@ -23,7 +23,7 @@ A raiz é *Y-A-D* (י־ע־ד), marcar, combinar um encontro. *Moed* é a hora e
 - **Primavera:** [[Pessach]] (14 de Abibe), [[Chag HaMatzot]] (15 a 21), [[Bikurim]] (as primícias) e [[Shavuot]] (50 dias depois).
 - **Outono, no sétimo mês:** [[Yom Teruá]] (1º de Tishrei), [[Yom Kippur]] (10) e [[Sucot]] (15 a 21), seguida de [[Shemini Atzeret]].
 
-Três delas são festas de peregrinação, as [[Shalosh Regalim]] ([[Deuteronômio 16.16]]). Entre os dois blocos ficam os meses de Tamuz, Av e Elul.
+Três delas são festas de peregrinação, as [[Shalosh Regalim]] (Deuteronômio 16.16). Entre os dois blocos ficam os meses de Tamuz, Av e Elul.
 
 ## Na visão da Beit Shalom
 
@@ -31,7 +31,7 @@ Três delas são festas de peregrinação, as [[Shalosh Regalim]] ([[Deuteronôm
 
 **A história lida pelo calendário.** A guerra do Yom Kippur de 1973 e o ataque de Shemini Atzeret em 2023 estão separados por exatos 50 anos, um jubileu. Para Rav Yosef, os conflitos atuais do Oriente Médio seguem o relógio dos *Moedim* e mostram que ele entrou na fase final ([[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]).
 
-**As festas continuam valendo.** Yeshua celebrará Pessach no Reino ([[Mateus 26.26|Mateus 26.26-29]]), e todas as nações subirão a Jerusalém para Sucot (Zacarias 14:16-19). O calendário dos *Moedim*, ao lado do Shabat do sétimo dia, sai do núcleo da fé da Beit Shalom ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). O guia de voz fixa *Moedim* como grafia canônica ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
+**As festas continuam valendo.** Yeshua celebrará Pessach no Reino (Mateus 26.26-29), e todas as nações subirão a Jerusalém para Sucot (Zacarias 14:16-19). O calendário dos *Moedim*, ao lado do Shabat do sétimo dia, sai do núcleo da fé da Beit Shalom ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). O guia de voz fixa *Moedim* como grafia canônica ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
 ## Leituras que a Beit Shalom corrige
 

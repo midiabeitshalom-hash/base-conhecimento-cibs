@@ -34,26 +34,26 @@ knowledge_depth: exhaustive-academic
 - **[[David HaMelech|Rei Davi]] (David HaMelech):** Rei de Israel, protótipo do monarca vitorioso e guerreiro que subjugou todos os inimigos nacionais e estabeleceu a dinastia eterna da qual provém *Mashiach ben David*.
 - **[[Ya'akov Avinu|Jacó]] (Yaakov / Israel):** Patriarca que chorou a suposta morte de José após receber sua túnica ensanguentada e cuja bênção profética antecipou a trajetória da descendência.
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mediador da Torá a quem Deus prometeu o envio de um Profeta escatológico semelhante a ele ([[Deuteronômio 18.15|Deuteronômio 18.15-19]]).
-- **[[Bil'am|Balaão]] (Bilaam):** Vidente contratado para amaldiçoar Israel que, por inspiração divina, profetizou a "Estrela de Jacó" e o "Cetro de Israel" ([[Números 24.17]]).
+- **[[Bil'am|Balaão]] (Bilaam):** Vidente contratado para amaldiçoar Israel que, por inspiração divina, profetizou a "Estrela de Jacó" e o "Cetro de Israel" (Números 24.17).
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel que se manifestou na primeira vinda como o servo sofredor (*Ben Yosef*), entregue a Roma e ocultado de seus irmãos hebreus, que regressará como o Rei vitorioso (*Ben David*).
 - **[[Binyamin|Benjamim]] (Binyamin):** Irmão uterino de José, cuja presença na segunda descida ao Egito completou a unidade da casa de Israel para a revelação do governador.
 
 **Escrituras**
 - *Torá:* ([[Torá]] / Pentateuco)
   - *[[Deuteronômio 18.15|Deuteronômio 18.15-19]] (Sefer Devarim):* A profecia do Profeta semelhante a Moisés cujas palavras postas na boca devem ser ouvidas sob pena de requisição divina.
-  - *[[Números 24.17]] (Sefer BaMidbar):* O oráculo de Balaão sobre o surgimento da Estrela procedente de Jacó e do Cetro régio de Israel.
-  - *[[Gênesis 37]]:* A inveja dos irmãos, o lançamento de José na cova, a venda aos ismaelitas/midianitas e a túnica banhada em sangue de cabrito apresentada a Jacó.
-  - *[[Gênesis 41.45]]:* A mudança de nome de José para *Zafenate-Paneia* e a outorga de vestes de linho fino e autoridade sobre o Egito.
-  - *[[Gênesis 42|Gênesis 42 a 45]]:* As duas viagens dos irmãos ao Egito durante a grande fome, a não-identificação inicial de José e a revelação privada (*"Ani Yosef"* — "Eu sou José") após a saída de todos os egípcios do recinto.
+  - *Números 24.17 (Sefer BaMidbar):* O oráculo de Balaão sobre o surgimento da Estrela procedente de Jacó e do Cetro régio de Israel.
+  - *Gênesis 37:* A inveja dos irmãos, o lançamento de José na cova, a venda aos ismaelitas/midianitas e a túnica banhada em sangue de cabrito apresentada a Jacó.
+  - *Gênesis 41.45:* A mudança de nome de José para *Zafenate-Paneia* e a outorga de vestes de linho fino e autoridade sobre o Egito.
+  - *Gênesis 42 a 45:* As duas viagens dos irmãos ao Egito durante a grande fome, a não-identificação inicial de José e a revelação privada (*"Ani Yosef"* — "Eu sou José") após a saída de todos os egípcios do recinto.
 - *Nevi'im:* (do [[Tanakh]])
-  - *[[Jeremias 30.7]]:* A profecia do tempo de angústia de Jacó (*Et Tzarah l'Yaakov*) e a subsequente libertação divina.
-  - *[[Isaías 53]]* (conexão): O servo rejeitado, traspassado e ferido pelas iniquidades do povo, o retrato do Messias Sofredor que o estudo contrapõe ao Messias Glorioso.
-  - *[[Zacarias 12.10]]* (conexão): Israel olhará para aquele a quem traspassaram e o prantearão, cena da revelação final do Messias à nação.
+  - *Jeremias 30.7:* A profecia do tempo de angústia de Jacó (*Et Tzarah l'Yaakov*) e a subsequente libertação divina.
+  - *Isaías 53* (conexão): O servo rejeitado, traspassado e ferido pelas iniquidades do povo, o retrato do Messias Sofredor que o estudo contrapõe ao Messias Glorioso.
+  - *Zacarias 12.10* (conexão): Israel olhará para aquele a quem traspassaram e o prantearão, cena da revelação final do Messias à nação.
 - *Ketuvim:*
-  - *[[Salmo 118.26]]:* A bênção messiânica citada por Yeshua: *"Baruch Haba B'Shem Adonai"* ("Bendito o que vem em nome do Senhor").
+  - *Salmo 118.26:* A bênção messiânica citada por Yeshua: *"Baruch Haba B'Shem Adonai"* ("Bendito o que vem em nome do Senhor").
 - *Berit Hadashah:* ([[Berit Hadashah]] — Novo Testamento)
-  - *[[Mateus 23.39]]:* A declaração solene de Yeshua a Jerusalém de que não mais O veriam até que proclamassem *"Baruch Haba B'Shem Adonai"*.
-  - *[[Marcos 8.31]]:* O anúncio profético de Yeshua sobre a rejeição pelos anciãos, principais sacerdotes e escribas, sua morte e ressurreição.
+  - *Mateus 23.39:* A declaração solene de Yeshua a Jerusalém de que não mais O veriam até que proclamassem *"Baruch Haba B'Shem Adonai"*.
+  - *Marcos 8.31:* O anúncio profético de Yeshua sobre a rejeição pelos anciãos, principais sacerdotes e escribas, sua morte e ressurreição.
 
 **Literatura rabínica e judaica**
 - **A tradição dos sábios sobre as duas personificações messiânicas:** O estudo apoia-se na solução rabínica clássica que distingue [[Mashiach ben Yosef]] e [[Mashiach ben David]].
@@ -106,7 +106,7 @@ Sem referência específica citada.
 ### 1. As Profecias Messiânicas na Torá e o Dilema da Dupla Manifestação
 Rav Yosef estabelece que a esperança messiânica não é uma invenção tardia, mas um tema explícito desde o Pentateuco:
 - **A Profecia de Moisés ([[Deuteronômio 18.15|Deuteronômio 18.15-19]]):** Deus afirma a Moisés que suscitará do meio dos irmãos israelitas um profeta com Sua palavra na boca, cujo desatendimento acarretará juízo pessoal e nacional.
-- **A Estrela de Jacó ([[Números 24.17]]):** O vidente Balaão contempla nos tempos futuros o cetro e a estrela soberana despontando da linhagem patriarcal.
+- **A Estrela de Jacó (Números 24.17):** O vidente Balaão contempla nos tempos futuros o cetro e a estrela soberana despontando da linhagem patriarcal.
 - **A Tensão Hermenêutica Central:** Textos do Tanakh apresentam dois retratos aparentemente antagônicos do Ungido:
   1. *O Messias Glorioso:* Reinando com autoridade irresistível, restaurando o trono de Davi e trazendo soberania definitiva a Israel;
   2. *O Messias Sofredor:* Rejeitado, desamparado, traspassado e ferido pelas iniquidades do povo.
@@ -117,7 +117,7 @@ A trajetória de José em Gênesis 37 a 45 é dissecada como o arquétipo profé
 - **A Rejeição Fraterna:** José foi enviado pelo pai ao encontro dos seus irmãos, mas estes conspiraram contra ele devido aos seus sonhos de primazia e à denúncia de suas falhas morais.
 - **A Cova e a Venda:** Lançado na cova da morte e vendido a mercadores estrangeiros (ismaelitas e midianitas), José foi entregue aos gentios.
 - **A Túnica Ensanguentada:** Seus irmãos mataram um cabrito, ensoparam sua túnica de cores no sangue e a entregaram a Jacó, fazendo a Casa de Israel acreditar que José estava irremediavelmente morto.
-- **A Metamorfose Cultural no Egito ([[Gênesis 41.45]]):**
+- **A Metamorfose Cultural no Egito (Gênesis 41.45):**
   - O Faraó concedeu a José o nome egípcio **Zafenate-Paneia** (*Zafnat Pa'neach* — "revelador de segredos" ou "salvador do mundo");
   - Suas vestes hebreias foram substituídas por vestes reais de linho fino egípcio, e seu cabelo/barba foram aparados conforme os costumes da corte pagã;
   - José governou sobre todo o império egípcio e distribuiu pão aos gentios, tornando-se o sustentáculo da vida internacional.
@@ -134,7 +134,7 @@ Rav Yosef estabelece a correspondência exata com o que sucedeu a Yeshua no cen�
 ### 4. O Banquete da Fome e a Revelação Soberana (Gênesis 45)
 O relato de Gênesis fornece o roteiro profético do retorno escatológico:
 - **A Fome na Terra:** A escassez forçou os filhos de Israel a descerem ao Egito para comprar trigo. Eles conversaram com Zafenate-Paneia, prostraram-se diante dele e negociaram provisões, sem suspeitar que o soberano era José.
-- **A Ordem da Segunda Viagem ([[Gênesis 45.1]]):** Na segunda ocasião, com a família completa reunida (incluindo Benjamim):
+- **A Ordem da Segunda Viagem (Gênesis 45.1):** Na segunda ocasião, com a família completa reunida (incluindo Benjamim):
   - José ordenou que **todos os egípcios e estrangeiros saíssem imediatamente da sala**;
   - Em privacidade absoluta com seus irmãos de sangue, José retirou a postura de governante egípcio, prorrompeu em choro e proclamou na língua materna: *"Ani Yosef! Ha'od avi chai?"* ("Eu sou José! Meu pai ainda vive?");
   - Os irmãos ficaram atônitos e aterrorizados, mas José os abraçou e revelou o propósito soberano divino: *"Não fostes vós que me enviastes para cá, senão Deus, para preservação da vida"*.
@@ -159,8 +159,8 @@ O relato de Gênesis fornece o roteiro profético do retorno escatológico:
 - [[Yosef HaTzaddik|José do Egito]]: O patriarca bíblico (*Yosef HaTzadik*) cuja vida constitui o protótipo profético e tipológico exato da trajetória messiânica.
 - [[Zafenate-Paneia]]: Nome egípcio conferido a José pelo Faraó, tipologia da roupagem gentílica "Jesus" imposta a Yeshua pelas nações.
 - [[Torá]]: A instrução e lei perpétua dada no Sinai que Yeshua viveu e ensinou, cuja distorção causou a cegueira e separação histórica.
-- [[Et Tzarah l'Yaakov|Angústia de Jacó]]: O período de tribulação escatológica final (*Et Tzarah l'Yaakov* — [[Jeremias 30.7]]) que antecede a revelação do Messias a Israel.
-- [[Baruch Haba B'Shem Adonai]]: A aclamação messiânica de [[Salmo 118.26]] e [[Mateus 23.39]] necessária para o retorno glorioso do Messias.
+- [[Et Tzarah l'Yaakov|Angústia de Jacó]]: O período de tribulação escatológica final (*Et Tzarah l'Yaakov* — Jeremias 30.7) que antecede a revelação do Messias a Israel.
+- [[Baruch Haba B'Shem Adonai]]: A aclamação messiânica de Salmo 118.26 e Mateus 23.39 necessária para o retorno glorioso do Messias.
 - [[Teshuvá]]: O retorno voluntário e sincero aos mandamentos do Eterno e à aliança de Israel.
 - [[Bessorá]]: As Boas Novas da redenção messiânica emanadas de Sião para todas as nações.
 
@@ -198,8 +198,8 @@ O relato de Gênesis fornece o roteiro profético do retorno escatológico:
   - [ ] Distinguir claramente nos estudos bíblicos e pregações a pessoa de [[Yeshua]] (o Messias hebreu) da roupagem histórica de "Jesus" construída pelos concílios romanos.
   - [ ] Compreender as razões históricas e exegéticas pelas quais a comunidade judaica ortodoxa rejeita a teologia cristã tradicional.
 - [ ] **Estudo e Meditação Tipológica:**
-  - [ ] Ler e comparar sequencialmente a vida de José em [[Gênesis 37]] a [[Gênesis 45]] com os relatos da vida, morte e ocultamento de Yeshua nos Evangelhos.
-  - [ ] Analisar os textos de [[Deuteronômio 18.15|Deuteronômio 18.15-19]] e [[Números 24.17]] como bases da profecia messiânica da Torá.
+  - [ ] Ler e comparar sequencialmente a vida de José em Gênesis 37 a Gênesis 45 com os relatos da vida, morte e ocultamento de Yeshua nos Evangelhos.
+  - [ ] Analisar os textos de [[Deuteronômio 18.15|Deuteronômio 18.15-19]] e Números 24.17 como bases da profecia messiânica da Torá.
 - [ ] **Alinhamento Escatológico e Prática de Fé:**
   - [ ] Unir-se em oração contínua pela paz de Jerusalém e pela reconciliação da Casa de Israel com o seu Messias.
   - [ ] Praticar a [[Teshuvá]] diária, guardando os mandamentos da Torá (Shabat, festas e santidade moral) como testemunho vivo do Reino.

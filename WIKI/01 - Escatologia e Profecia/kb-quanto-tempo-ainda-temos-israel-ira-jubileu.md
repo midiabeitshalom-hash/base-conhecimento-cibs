@@ -32,7 +32,7 @@ knowledge_depth: exhaustive-academic
 **Figuras bíblicas e históricas**
 - **[[Avraham Avinu|Abraão]] (Avraham Avinu):** Marco inicial da segunda dispensação histórica de 2.000 anos (ano 2000 da criação / 40º jubileu).
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias que cumpriu as festas de primavera em sua primeira manifestação como [[Mashiach ben Yosef]] (ano 4000 da criação / 80º jubileu) e que retornará como [[Mashiach ben David]] nas nuvens ao final dos 6.000 anos (120º jubileu).
-- **[[Profeta Zacarias]]:** Profeta do Tanakh citado pelas descrições milenares da guerra escatológica em Jerusalém ([[Zacarias 12.2|Zacarias 12.2-9]]) e pela caracterização biofísica da vaporização de tecidos em um ataque nuclear ([[Zacarias 14.12]]).
+- **[[Profeta Zacarias]]:** Profeta do Tanakh citado pelas descrições milenares da guerra escatológica em Jerusalém (Zacarias 12.2-9) e pela caracterização biofísica da vaporização de tecidos em um ataque nuclear ([[Zacarias 14.12]]).
 - **[[Shimon Kefa|Apóstolo Pedro]] (Shimon Kefa):** Autor de [[2 Pedro 3.10]], que utilizou terminologia técnica grega (*Stoicheia*) para descrever a dissolução atômica pelo fogo no Dia do Senhor.
 - **Líderes Contemporâneos e Atores Geopolíticos:** Referências geopolíticas a Donald Trump e seu entorno diplomático/familiar no contexto dos acordos de normalização, reconstrução potencial do Terceiro Templo e a dinâmica de liderança no Oriente Médio.
 
@@ -40,15 +40,15 @@ knowledge_depth: exhaustive-academic
 - *[[Torá]] / Pentateuco:*
   - *[[Gênesis 6.3]]:* O decreto divino de que os dias do homem seriam 120 anos (interpretado na cronologia jubilar como 120 ciclos de 50 anos = 6.000 anos).
   - *[[Levítico 23]]:* Ordenação cronológica e profética das 7 festas sagradas do Senhor (*Moedim*).
-  - *[[Levítico 25.8|Levítico 25.8-13]]:* A instituição da Lei do Jubileu (*Yovel*), proclamada ao toque do Shofar no dia de Yom Kippur a cada 50 anos.
+  - *Levítico 25.8-13:* A instituição da Lei do Jubileu (*Yovel*), proclamada ao toque do Shofar no dia de Yom Kippur a cada 50 anos.
 - *Nevi'im* (Profetas do [[Tanakh]]):
-  - *[[Zacarias 12|Zacarias 12.2-3, 9-10]]:* Jerusalém como "cálice de vertigem" e "pedra pesada" para todas as nações da Terra.
+  - *Zacarias 12.2-3, 9-10:* Jerusalém como "cálice de vertigem" e "pedra pesada" para todas as nações da Terra.
   - *[[Zacarias 14.12]]:* A praga dos exércitos agressores cuja carne, olhos e língua apodrecem/vaporizam enquanto ainda estão em pé.
 - *Ketuvim:* Sem referência específica citada.
 - *[[Berit Hadashah]] (Novo Testamento):*
   - *[[2 Pedro 3.10|2 Pedro 3.10-12]]:* A dissolução dos céus com estrondo e a fusão dos elementos (*Stoicheia*) pelo calor extremo.
-  - *[[1 Tessalonicenses 5.3]]:* A advertência de que *"quando disserem: Paz e segurança, então lhes sobrevirá repentina destruição"*.
-  - *[[Apocalipse 1.12|Apocalipse 1.12-20]]:* O Messias que anda no meio dos sete candeeiros/menorot de ouro.
+  - *1 Tessalonicenses 5.3:* A advertência de que *"quando disserem: Paz e segurança, então lhes sobrevirá repentina destruição"*.
+  - *Apocalipse 1.12-20:* O Messias que anda no meio dos sete candeeiros/menorot de ouro.
 
 **Literatura rabínica e judaica**
 - *Tradição Talmúdica dos 6.000 Anos (Sanhedrin 97a, [[Talmud Bavli]]):* Divisão da história em 2.000 anos de Caos (*Tohu*), 2.000 anos de Torá e 2.000 anos da Era Messiânica.
@@ -88,7 +88,7 @@ knowledge_depth: exhaustive-academic
 
 ### 1. A Precisão dos Ciclos Jubilares: 1973 vs. 2023
 Rav Yosef estabelece que os conflitos existenciais de Israel ocorrem estritamente alinhados com o calendário litúrgico divinamente ordenado:
-- **A Guerra do Yom Kippur (Outubro de 1973):** Ocorreu no 10º dia do sétimo mês bíblico (*Yom HaKipurim*), a data exata ordenada em [[Levítico 25.9]] para a proclamação formal do ano do Jubileu (*Yovel*).
+- **A Guerra do Yom Kippur (Outubro de 1973):** Ocorreu no 10º dia do sétimo mês bíblico (*Yom HaKipurim*), a data exata ordenada em Levítico 25.9 para a proclamação formal do ano do Jubileu (*Yovel*).
 - **O Ataque de 7 de Outubro de 2023:** Ocorreu com um intervalo matemático exato de **50 anos (um ciclo jubilar completo)** em relação a 1973. O ataque foi deflagrado em **Shemini Atzeret** (o 22º dia do sétimo mês), o "Oitavo Dia da Santa Convocação" imediatamente subsequente aos sete dias da Festa das Cabanas (*Sucot*).
 - **O Significado do Número Oito:** Na hermenêutica hebraica, enquanto o número 7 representa a completude do ciclo natural, o número 8 simboliza **novos começos, a dimensão da eternidade e o início de um novo regime de juízo e redenção**. A transição de 1973 para 2023 encerrou a era de graça jubilar anterior, deflagrando o processo final de disputa pela herança territorial de Israel.
 
@@ -137,7 +137,7 @@ Rav Yosef demonstra como descrições bíblicas milenares de eventos apocalípti
 ### 5. O Cenário Geopolítico: Irã, Bloco Árabe, Terceiro Templo e a Falsa Paz
 - **A Guerra por Procuração e o Confronto Direto:** O conflito que começou via grupos paramilitares (Hamas, Hezbollah) evoluiu para o enfrentamento interestatal direto com o Irã, envolvendo os EUA e a vigilância da Rússia.
 - **A Cisão Intra-Islâmica (Sunitas vs. Shiitas):** O Irã teocrático (xiita radical) ataca não apenas Israel e bases ocidentais, mas ameaça as monarquias do Golfo e nações da aliança árabe (sunitas), criando um cenário de guerra multifacetada onde alianças provisórias podem colapsar rapidamente.
-- **O Ponto de Virada — O Isolamento de Israel:** Rav Yosef adverte que nações que atualmente agem como parceiras pragmáticas de Israel, ao sofrerem danos devastadores em uma escalada armamentista regional, poderão responsabilizar o Estado de Israel pelo início do cataclismo global, cumprindo [[Zacarias 12.3]]: *"contra ela se ajuntarão todas as nações da terra"*.
+- **O Ponto de Virada — O Isolamento de Israel:** Rav Yosef adverte que nações que atualmente agem como parceiras pragmáticas de Israel, ao sofrerem danos devastadores em uma escalada armamentista regional, poderão responsabilizar o Estado de Israel pelo início do cataclismo global, cumprindo Zacarias 12.3: *"contra ela se ajuntarão todas as nações da terra"*.
 - **A Dinâmica do Terceiro Templo e a Falsa Paz:** - A possibilidade de que a guerra danifique ou destrua o Domo da Rocha no Monte do Templo criará as condições geopolíticas para a reconstrução do Terceiro Templo (*Beit HaMikdash*).
   - Um líder internacional proeminente poderá articular um tratado de pacificação regional (*"Paz e Segurança"* — *1 Ts 5:3*), promovendo a aclamação de um falso messias político, cujo governo de falsa trégua será subitamente interrompido pela destruição repentina e o juízo escatológico.
 - **A Promessa de Proteção Sobrenatural:** Em meio ao pânico nuclear e bélico, a Escritura assegura que, da mesma forma que os israelitas na terra de Gósen foram milagrosamente preservados das pragas do Egito, os crentes fiéis que guardam os mandamentos da Torá e mantêm a *Emuná* em Yeshua estarão sob o manto de proteção divina.
@@ -154,7 +154,7 @@ Rav Yosef demonstra como descrições bíblicas milenares de eventos apocalípti
 - [[Mashiach ben David]]: A manifestação escatológica do Messias como Rei triunfante nas nuvens que inaugura o Milênio.
 - [[Menorá]]: O candelabro de ouro de 7 hastes do Templo, representação visual da ordem cronológica das 7 festas anuais.
 - [[Stoicheia]]: Vocábulo grego em 2 Pedro 3:10 que designa os componentes fundamentais e atômicos da matéria.
-- [[Zacarias 14]]: Capítulo profético crucial que antecipa a intervenção divina em Jerusalém e a desintegração física de exércitos invasores.
+- Zacarias 14: Capítulo profético crucial que antecipa a intervenção divina em Jerusalém e a desintegração física de exércitos invasores.
 - [[Shabat Milenar]]: O período de 1.000 anos de repouso e teocracia messiânica na Terra após os 6.000 anos de história humana.
 - [[Terceiro Templo]]: O futuro santuário em Jerusalém associado aos eventos do fim dos tempos e acordos de falsa paz.
 
@@ -188,7 +188,7 @@ Rav Yosef demonstra como descrições bíblicas milenares de eventos apocalípti
 
 - [ ] **Alinhamento e Estudo Profético:**
   - [ ] Mapear o ciclo das 7 Festas Bíblicas em [[Levítico 23]] e sua correlação com as etapas de redenção do Messias.
-  - [ ] Estudar as profecias de [[Zacarias 12]]–[[Zacarias 14]] e [[2 Pedro 3.10|2 Pedro 3.10-14]] à luz dos acontecimentos geopolíticos modernos.
+  - [ ] Estudar as profecias de Zacarias 12–Zacarias 14 e [[2 Pedro 3.10|2 Pedro 3.10-14]] à luz dos acontecimentos geopolíticos modernos.
 - [ ] **Desconexão do Medo e Fortalecimento Espiritual:**
   - [ ] Superar a ansiedade provocada pelas notícias de conflitos armados, ancorando a mente na certeza da soberania divina e no limite dos 6.000 anos.
   - [ ] Rejeitar a confiança cega em tratados políticos humanos ou falsas promessas de segurança internacional.

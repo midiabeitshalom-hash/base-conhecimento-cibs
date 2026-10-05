@@ -20,11 +20,11 @@ A frase termina com *be-kerev ha-aretz*, "no meio da terra". Os peixes vivem no 
 
 ## Na Escritura
 
-- **[[Gênesis 48.14|Gênesis 48.14-20]]:** Jacó cruza os braços, põe a mão direita sobre Efraim, o mais novo, e a esquerda sobre Manassés. Diz que Efraim será maior e que sua descendência será *melo ha-goyim*, "plenitude das nações" (48:19).
-- **[[Gênesis 48]]:** o capítulo inteiro, em que Efraim e Manassés são adotados como filhos de Jacó.
+- **Gênesis 48.14-20:** Jacó cruza os braços, põe a mão direita sobre Efraim, o mais novo, e a esquerda sobre Manassés. Diz que Efraim será maior e que sua descendência será *melo ha-goyim*, "plenitude das nações" (48:19).
+- **Gênesis 48:** o capítulo inteiro, em que Efraim e Manassés são adotados como filhos de Jacó.
 - **Jeremias 16:16:** "Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão", logo depois da promessa de trazer Israel "de todas as terras para onde os tinha lançado".
-- **Mateus 4:19** e **[[Lucas 5]]:** Yeshua chama pescadores da Galileia e diz que os fará pescadores de homens.
-- **[[João 21.6]]:** depois de uma noite sem nada, a rede lançada "à direita do barco" se enche.
+- **Mateus 4:19** e **Lucas 5:** Yeshua chama pescadores da Galileia e diz que os fará pescadores de homens.
+- **João 21.6:** depois de uma noite sem nada, a rede lançada "à direita do barco" se enche.
 
 ## Nas fontes judaicas
 
@@ -40,7 +40,7 @@ Quem olha o mar de cima não vê os cardumes; vê só água. Mas o pescador sabe
 
 ## Relacionados
 
-[[Efraim]] · [[Menashe]] · [[Ya'akov Avinu]] · [[Yosef HaTzaddik]] · [[Gênesis 48]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Ezequiel 37]] · [[João 21.6]] · [[Bnei Anussim]] · [[Rashi]]
+[[Efraim]] · [[Menashe]] · [[Ya'akov Avinu]] · [[Yosef HaTzaddik]] · Gênesis 48 · [[Casa de Israel]] · [[Casa de Judá]] · [[Ezequiel 37]] · João 21.6 · [[Bnei Anussim]] · [[Rashi]]
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

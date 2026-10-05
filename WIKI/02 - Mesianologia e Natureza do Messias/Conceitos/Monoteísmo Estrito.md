@@ -17,9 +17,9 @@ O núcleo está numa palavra: *echad* (אֶחָד), um. Em [[Deuteronômio 6.4]]
 
 ## Na Escritura
 
-A Torá: "a ti te foi mostrado para que soubesses que Adonai é D'us; nenhum outro há senão ele" (Deuteronômio 4:35, 39); "vede agora que eu, eu o sou, e mais nenhum D'us há comigo" ([[Deuteronômio 32.39]]). Os reis: Salomão ora "para que todos os povos da terra saibam que Adonai é D'us e que não há outro" ([[1 Reis 8.60]]); Ezequias confessa "só tu és o D'us de todos os reinos da terra" ([[2 Reis 19.15]]). Os profetas: [[Isaías 43.10]], [[Isaías 44.6]], [[Isaías 45|Isaías 45.5-6, 18, 21-22]] ("fora de mim não há D'us").
+A Torá: "a ti te foi mostrado para que soubesses que Adonai é D'us; nenhum outro há senão ele" (Deuteronômio 4:35, 39); "vede agora que eu, eu o sou, e mais nenhum D'us há comigo" (Deuteronômio 32.39). Os reis: Salomão ora "para que todos os povos da terra saibam que Adonai é D'us e que não há outro" (1 Reis 8.60); Ezequias confessa "só tu és o D'us de todos os reinos da terra" (2 Reis 19.15). Os profetas: Isaías 43.10, Isaías 44.6, Isaías 45.5-6, 18, 21-22 ("fora de mim não há D'us").
 
-Yeshua confirma: recita o *Shemá* como o primeiro mandamento ([[Marcos 12.29]]), chama o Pai de "o único D'us verdadeiro" ([[João 17.3]]), fala da glória "que vem do único D'us" ([[João 5.44]]), diz "meu D'us e vosso D'us" ([[João 20.17]]) e, tentado, responde com a Torá: "ao Senhor teu D'us adorarás, e só a ele servirás" ([[Mateus 4.8|Mateus 4.8-10]]). Os apóstolos seguem o mesmo: [[1 Coríntios 8.6]], [[Efésios 4.6]], [[1 Timóteo 2.5]], [[Romanos 3.30]], [[Tiago 2.19]] (até os demônios creem que D'us é um) e [[Judas 1.25]] ("ao único D'us, nosso Salvador, por meio de Yeshua").
+Yeshua confirma: recita o *Shemá* como o primeiro mandamento (Marcos 12.29), chama o Pai de "o único D'us verdadeiro" ([[João 17.3]]), fala da glória "que vem do único D'us" (João 5.44), diz "meu D'us e vosso D'us" ([[João 20.17]]) e, tentado, responde com a Torá: "ao Senhor teu D'us adorarás, e só a ele servirás" (Mateus 4.8-10). Os apóstolos seguem o mesmo: 1 Coríntios 8.6, Efésios 4.6, [[1 Timóteo 2.5]], Romanos 3.30, Tiago 2.19 (até os demônios creem que D'us é um) e Judas 1.25 ("ao único D'us, nosso Salvador, por meio de Yeshua").
 
 ## Nas fontes judaicas
 

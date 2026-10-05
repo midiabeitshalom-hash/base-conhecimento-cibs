@@ -19,10 +19,10 @@ date_captured: 2026-10-05
 ## Na Escritura
 
 - **Zacarias 13:2:** "naquele dia (...) farei sair da terra os profetas e o espírito da impureza" (*ve'et ruach hatum'ah a'avir min ha'aretz*). A expressão hebraica está no próprio Tanakh, num texto sobre o dia do Senhor.
-- **Os Evangelhos:** o grego *pneuma akatharton*, "espírito imundo", traduz a mesma ideia. O homem de Gerasa, possuído, corre e se prostra diante de Yeshua ([[Marcos 5.6]]); os espíritos pedem para entrar nos porcos.
+- **Os Evangelhos:** o grego *pneuma akatharton*, "espírito imundo", traduz a mesma ideia. O homem de Gerasa, possuído, corre e se prostra diante de Yeshua (Marcos 5.6); os espíritos pedem para entrar nos porcos.
 - **Mateus 12:43-45:** o espírito imundo sai do homem, anda por lugares secos procurando repouso e volta com outros sete.
-- **[[Apocalipse 18|Apocalipse 18.2]]:** a Babilônia caída vira "morada de demônios e guarida de todo espírito imundo".
-- **[[Apocalipse 13|Apocalipse 13.15]]:** é dado *pneuma*, fôlego, à imagem da besta, para que fale.
+- **Apocalipse 18.2:** a Babilônia caída vira "morada de demônios e guarida de todo espírito imundo".
+- **Apocalipse 13.15:** é dado *pneuma*, fôlego, à imagem da besta, para que fale.
 
 ## Nas fontes judaicas
 
@@ -42,7 +42,7 @@ Uma casa vazia, varrida e enfeitada, mas sem dono, é convite para invasor (Mate
 
 ## Relacionados
 
-[[Ruach HaKodesh]] · [[Tum'ah]] · [[Taharah]] · [[Shedim]] · [[Nefilim]] · [[Bnei Elohim]] · [[Apocalipse 13]] · [[Apocalipse 18]] · [[Marcos 5.6]] · [[Daniel 2]] · [[Transumanismo]] · [[Torre de Babel]] · [[Tzelem Elohim]] · [[Marca da Besta]]
+[[Ruach HaKodesh]] · [[Tum'ah]] · [[Taharah]] · [[Shedim]] · [[Nefilim]] · [[Bnei Elohim]] · Apocalipse 13 · Apocalipse 18 · Marcos 5.6 · [[Daniel 2]] · [[Transumanismo]] · [[Torre de Babel]] · [[Tzelem Elohim]] · [[Marca da Besta]]
 
 ## Aparece em
 - [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]]

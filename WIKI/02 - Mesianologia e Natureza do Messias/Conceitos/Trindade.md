@@ -17,7 +17,7 @@ A palavra não existe no hebraico nem no grego da Escritura. O latim *trinitas* 
 
 ## Na Escritura
 
-A confissão de Israel é "Ouve, Israel, Adonai nosso D'us, Adonai é um" ([[Deuteronômio 6.4]]). Yeshua a recita como o primeiro mandamento, e o escriba responde que D'us "é um e não há outro além dele" ([[Marcos 12.29]]). Os profetas excluem qualquer companheiro: "Eu sou o primeiro e eu sou o último, e fora de mim não há D'us" ([[Isaías 44.6]]); "antes de mim D'us nenhum se formou, e depois de mim nenhum haverá" ([[Isaías 43.10]]); "não há D'us comigo" ([[Deuteronômio 32.39]]). Na [[Berit Hadashah]], o Pai é "o único D'us verdadeiro" e Yeshua "aquele que enviaste" ([[João 17.3]]); "para nós há um só D'us, o Pai" ([[1 Coríntios 8.6]]); "um só D'us e um só mediador, Yeshua o Messias, homem" ([[1 Timóteo 2.5]]); "um só D'us e Pai de todos" ([[Efésios 4.6]]). Yeshua tem um D'us ([[João 20.17]]) e, no fim, entrega o Reino ao Pai para que D'us seja tudo em todos ([[1 Coríntios 15.28]]).
+A confissão de Israel é "Ouve, Israel, Adonai nosso D'us, Adonai é um" ([[Deuteronômio 6.4]]). Yeshua a recita como o primeiro mandamento, e o escriba responde que D'us "é um e não há outro além dele" (Marcos 12.29). Os profetas excluem qualquer companheiro: "Eu sou o primeiro e eu sou o último, e fora de mim não há D'us" (Isaías 44.6); "antes de mim D'us nenhum se formou, e depois de mim nenhum haverá" (Isaías 43.10); "não há D'us comigo" (Deuteronômio 32.39). Na [[Berit Hadashah]], o Pai é "o único D'us verdadeiro" e Yeshua "aquele que enviaste" ([[João 17.3]]); "para nós há um só D'us, o Pai" (1 Coríntios 8.6); "um só D'us e um só mediador, Yeshua o Messias, homem" ([[1 Timóteo 2.5]]); "um só D'us e Pai de todos" (Efésios 4.6). Yeshua tem um D'us ([[João 20.17]]) e, no fim, entrega o Reino ao Pai para que D'us seja tudo em todos (1 Coríntios 15.28).
 
 ## Nas fontes judaicas
 
@@ -31,9 +31,9 @@ Rav Yosef aponta a contradição interna: se Yeshua fosse o próprio *Hashem*, o
 
 ## Leituras que a Beit Shalom corrige
 
-- **"Eu e o Pai somos um"** ([[João 10.30]]): unidade de propósito, a mesma que Yeshua pede para os discípulos em [[João 17.21]].
+- **"Eu e o Pai somos um"** (João 10.30): unidade de propósito, a mesma que Yeshua pede para os discípulos em João 17.21.
 - **"Façamos o homem"** ([[Gênesis 1.26]]): diálogo com o Adam Kadmon, não conversa entre pessoas divinas.
-- **"Quem me vê a mim vê o Pai"** ([[João 14.9]]): a imagem no espelho reflete o objeto sem ser o objeto.
+- **"Quem me vê a mim vê o Pai"** (João 14.9): a imagem no espelho reflete o objeto sem ser o objeto.
 - **A filiação divina**: Filho por eleição, como Davi e Salomão em 2 Samuel 7:14, e não por geração biológica de um "híbrido".
 
 ## Como explicar à congregação

@@ -13,7 +13,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-A expressão não está no texto hebraico; é uma ferramenta de leitura. A própria Torá, porém, já mostra camadas diferentes de mandamentos. Em [[Gênesis 26.5]] Abraão guarda *mishmarti*, *mitzvotai*, *chukotai* e *torotai*, "o meu encargo, os meus mandamentos, os meus estatutos e as minhas instruções". Os sábios distinguem os *mishpatim*, juízos que a razão reconhece (não matar, não roubar), dos *chukim*, decretos cuja razão não é evidente, e separam os mandamentos *bein adam laMakom* (entre o homem e D'us) dos *bein adam lachavero* (entre o homem e o próximo). A Torá Moral reúne o núcleo que vale para todo ser humano em qualquer época: a justiça, a fidelidade, o respeito à vida, a pureza, o Shabat que o Decálogo manda lembrar ([[Zachor e Shamor]]).
+A expressão não está no texto hebraico; é uma ferramenta de leitura. A própria Torá, porém, já mostra camadas diferentes de mandamentos. Em Gênesis 26.5 Abraão guarda *mishmarti*, *mitzvotai*, *chukotai* e *torotai*, "o meu encargo, os meus mandamentos, os meus estatutos e as minhas instruções". Os sábios distinguem os *mishpatim*, juízos que a razão reconhece (não matar, não roubar), dos *chukim*, decretos cuja razão não é evidente, e separam os mandamentos *bein adam laMakom* (entre o homem e D'us) dos *bein adam lachavero* (entre o homem e o próximo). A Torá Moral reúne o núcleo que vale para todo ser humano em qualquer época: a justiça, a fidelidade, o respeito à vida, a pureza, o Shabat que o Decálogo manda lembrar ([[Zachor e Shamor]]).
 
 ## Na Escritura
 
@@ -21,11 +21,11 @@ A expressão não está no texto hebraico; é uma ferramenta de leitura. A próp
 - **Gênesis 4:7:** a advertência a [[Kayin]], "o pecado jaz à porta". Onde não há lei, o pecado não é imputado (Romanos 5:13), e por isso a lei moral já valia.
 - **[[Êxodo 20]]:** no Sinai a Torá Moral é escrita em pedra para uma nação, e não criada.
 - **[[Salmo 19.7]]:** "a Torá do Senhor é perfeita e restaura a alma".
-- **[[1 Samuel 15.22]]** e **[[Provérbios 21.3]]:** obedecer e praticar a justiça valem mais que sacrificar.
-- **[[Isaías 24.5]]:** a terra se corrompe porque os homens "transgridem as leis, mudam os estatutos e quebram a aliança eterna".
-- **[[Romanos 2.14|Romanos 2.14-15]]:** as nações que fazem "por natureza" o que a Torá pede mostram a obra da Torá escrita no coração.
-- **[[Jeremias 31.33]]:** na [[Berit Hadashah]] essa mesma Torá passa da pedra para o coração.
-- **[[Mateus 5|Mateus 5.21-28]]:** Yeshua aprofunda a intenção moral dos mandamentos: o homicídio começa na ira, o adultério na cobiça do olhar.
+- **[[1 Samuel 15.22]]** e **Provérbios 21.3:** obedecer e praticar a justiça valem mais que sacrificar.
+- **Isaías 24.5:** a terra se corrompe porque os homens "transgridem as leis, mudam os estatutos e quebram a aliança eterna".
+- **Romanos 2.14-15:** as nações que fazem "por natureza" o que a Torá pede mostram a obra da Torá escrita no coração.
+- **Jeremias 31.33:** na [[Berit Hadashah]] essa mesma Torá passa da pedra para o coração.
+- **Mateus 5.21-28:** Yeshua aprofunda a intenção moral dos mandamentos: o homicídio começa na ira, o adultério na cobiça do olhar.
 
 ## Nas fontes judaicas
 
@@ -47,7 +47,7 @@ Num hospital, há o código de ética médica e há o protocolo de uma epidemia.
 
 ## Relacionados
 
-[[Torá]] · [[Torá Cerimonial]] · [[Corbanot]] · [[Kapará]] · [[Le'malei]] · [[Anomia]] · [[Graça]] · [[Bnei Noach]] · [[Circuncisão do Coração]] · [[Davar]] · [[Adam HaRishon]] · [[Êxodo 20]] · [[Gênesis 26.5]] · [[Romanos 2.14]] · [[Jeremias 31.33]]
+[[Torá]] · [[Torá Cerimonial]] · [[Corbanot]] · [[Kapará]] · [[Le'malei]] · [[Anomia]] · [[Graça]] · [[Bnei Noach]] · [[Circuncisão do Coração]] · [[Davar]] · [[Adam HaRishon]] · [[Êxodo 20]] · Gênesis 26.5 · Romanos 2.14 · Jeremias 31.33
 
 ## Aparece em
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]

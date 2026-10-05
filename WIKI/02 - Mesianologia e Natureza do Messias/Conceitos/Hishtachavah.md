@@ -18,9 +18,9 @@ A forma é reflexiva, "curvar-se a si mesmo". A gramática tradicional a liga à
 
 ## Na Escritura
 
-Os exemplos com destinatário humano são muitos: Abraão diante dos três homens (Gênesis 18:2); Jacó sete vezes diante de Esaú ([[Gênesis 33.3]]); os irmãos diante de José ([[Gênesis 42.6]]); Moisés diante de Jetro (Êxodo 18:7); Rute diante de Boaz (Rute 2:10); Mefibosete diante de Davi ([[2 Samuel 9.6]]). O versículo mais claro é 1 Crônicas 29:20: o povo "inclinou-se e prostrou-se perante Adonai e perante o rei", o mesmo verbo para os dois no mesmo versículo.
+Os exemplos com destinatário humano são muitos: Abraão diante dos três homens (Gênesis 18:2); Jacó sete vezes diante de Esaú (Gênesis 33.3); os irmãos diante de José (Gênesis 42.6); Moisés diante de Jetro (Êxodo 18:7); Rute diante de Boaz (Rute 2:10); Mefibosete diante de Davi (2 Samuel 9.6). O versículo mais claro é 1 Crônicas 29:20: o povo "inclinou-se e prostrou-se perante Adonai e perante o rei", o mesmo verbo para os dois no mesmo versículo.
 
-Na [[Berit Hadashah]], o leproso ([[Mateus 8.2]]), o chefe da sinagoga ([[Mateus 9.18]]), a mulher cananeia ([[Mateus 15.25]]), o geraseno ([[Marcos 5.6]]) e o cego curado ([[João 9.38]]) fazem *proskynesis* diante de Yeshua. Muitas traduções põem "adorou". A linha do culto, porém, está marcada: Yeshua responde ao adversário "ao Senhor teu D'us adorarás, e só a ele servirás" ([[Mateus 4.8|Mateus 4.8-10]], citando [[Deuteronômio 6.13]]); Pedro levanta Cornélio, que se prostrara a ele ([[Atos 10.25|Atos 10.25-26]]); o anjo recusa a prostração de João ([[Apocalipse 22.8|Apocalipse 22.8-9]]). E quando Nabucodonosor se prostra diante de Daniel e manda oferecer-lhe incenso ([[Daniel 2.46]]), o próprio rei acaba reconhecendo o "D'us dos deuses" (2:47), porque Daniel já tinha dito que o segredo não vinha da sua sabedoria (2:28-30).
+Na [[Berit Hadashah]], o leproso (Mateus 8.2), o chefe da sinagoga (Mateus 9.18), a mulher cananeia (Mateus 15.25), o geraseno (Marcos 5.6) e o cego curado (João 9.38) fazem *proskynesis* diante de Yeshua. Muitas traduções põem "adorou". A linha do culto, porém, está marcada: Yeshua responde ao adversário "ao Senhor teu D'us adorarás, e só a ele servirás" (Mateus 4.8-10, citando Deuteronômio 6.13); Pedro levanta Cornélio, que se prostrara a ele (Atos 10.25-26); o anjo recusa a prostração de João (Apocalipse 22.8-9). E quando Nabucodonosor se prostra diante de Daniel e manda oferecer-lhe incenso (Daniel 2.46), o próprio rei acaba reconhecendo o "D'us dos deuses" (2:47), porque Daniel já tinha dito que o segredo não vinha da sua sabedoria (2:28-30).
 
 ## Nas fontes judaicas
 
@@ -28,7 +28,7 @@ A [[Septuaginta]], tradução judaica do Tanakh para o grego feita antes de Yesh
 
 ## Na visão da Beit Shalom
 
-Rav Yosef usa o par *hishtachavah*/*proskynesis* como exemplo do método: diante de uma leitura comum, volta ao original e monta a cadeia de textos ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). A conclusão está no pilar 9: o gesto é reverência a uma autoridade, e trocar "prostrou-se" por "adorou" diante de Yeshua cria uma divinização que o texto não traz ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). Em [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]], ele lembra que os povos pagãos tendiam a deificar homens poderosos ([[Apoteose]]), e que Pedro, Paulo e o anjo recusaram essa honra. Yeshua recebe a prostração como Rei ungido e [[Shaliah]] do Pai; ele mesmo adora o Pai ([[João 4.21|João 4.21-24]]) e tem um D'us ([[João 20.17]]). O dobrar de joelhos de [[Filipenses 2.9|Filipenses 2.9-11]] termina "para a glória de D'us Pai".
+Rav Yosef usa o par *hishtachavah*/*proskynesis* como exemplo do método: diante de uma leitura comum, volta ao original e monta a cadeia de textos ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]). A conclusão está no pilar 9: o gesto é reverência a uma autoridade, e trocar "prostrou-se" por "adorou" diante de Yeshua cria uma divinização que o texto não traz ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). Em [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]], ele lembra que os povos pagãos tendiam a deificar homens poderosos ([[Apoteose]]), e que Pedro, Paulo e o anjo recusaram essa honra. Yeshua recebe a prostração como Rei ungido e [[Shaliah]] do Pai; ele mesmo adora o Pai (João 4.21-24) e tem um D'us ([[João 20.17]]). O dobrar de joelhos de Filipenses 2.9-11 termina "para a glória de D'us Pai".
 
 ## Leituras que a Beit Shalom corrige
 
@@ -40,7 +40,7 @@ No Oriente, até hoje, há quem se curve diante de um rei sem pensar em adorá-l
 
 ## Relacionados
 
-[[Proskynesis]] · [[Septuaginta]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Shaliah]] · [[Apoteose]] · [[Avodah Zarah]] · [[Yosef HaTzaddik]] · [[Ya'akov Avinu]] · [[Avraham Avinu]] · [[Gênesis 33.3]] · [[Gênesis 42.6]] · [[Mateus 4.8]] · [[João 9.38]]
+[[Proskynesis]] · [[Septuaginta]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Shaliah]] · [[Apoteose]] · [[Avodah Zarah]] · [[Yosef HaTzaddik]] · [[Ya'akov Avinu]] · [[Avraham Avinu]] · Gênesis 33.3 · Gênesis 42.6 · Mateus 4.8 · João 9.38
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

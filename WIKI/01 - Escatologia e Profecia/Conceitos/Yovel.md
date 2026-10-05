@@ -18,8 +18,8 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **A conta.** "Contarás sete semanas de anos, sete vezes sete anos... quarenta e nove anos" ([[Levítico 25.8]]).
-- **O toque.** "No décimo dia do sétimo mês farás passar a trombeta; no dia da expiação" ([[Levítico 25.9]]).
+- **A conta.** "Contarás sete semanas de anos, sete vezes sete anos... quarenta e nove anos" (Levítico 25.8).
+- **O toque.** "No décimo dia do sétimo mês farás passar a trombeta; no dia da expiação" (Levítico 25.9).
 - **A liberdade.** "Santificareis o ano quinquagésimo e apregoareis liberdade (*deror*) na terra a todos os seus moradores; cada um voltará à sua possessão" (Levítico 25:10).
 - **O dono.** "A terra não se venderá em perpetuidade, porque a terra é minha; vós sois estrangeiros e peregrinos comigo" (Levítico 25:23).
 - **O resgate.** O parente mais próximo, o [[Goel]], tem o direito e o dever de resgatar a herança alienada (Levítico 25:25).
@@ -34,7 +34,7 @@ O [[Talmud Bavli]] ensina que o jubileu só se conta quando todas as tribos est�
 
 **A régua dos 120 jubileus.** No nível *Sod*, os "120 anos" de [[Gênesis 6.3]] são 120 jubileus: 120 × 50 = 6.000 anos concedidos à administração humana, seguidos do sétimo milênio, o [[Shabat Milenar]] ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]). A conta se divide em três eras de 40 jubileus, 2.000 anos cada: de Adão a Abraão, de Abraão à primeira vinda de Yeshua, no jubileu 80, e de Yeshua ao retorno, no 120. O padrão de 40 se repete na vida de Moisés (três vezes 40) e nos reinados de Saul, Davi e Salomão (40 anos cada) ([[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]).
 
-**A reintegração de posse.** A terra é de D'us; Adão perdeu o domínio e o adversário ficou como posseiro, como ele mesmo confessa em Lucas 4:6. O rolo de sete selos de Apocalipse 5 é a escritura de posse, modelada no contrato selado de Jeremias 32; os selos e as trombetas executam o despejo, e a última trombeta, o [[Shofar HaGadol]], soa no [[Yom Kippur]] do ano do jubileu, como manda Levítico 25:9. A "última trombeta" de [[1 Coríntios 15.51|1 Coríntios 15.51-52]] e [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.16]] ganha data legal ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]). O toque do *shofar* tem quatro sons: *teki'á* (soberania), *shevarim* (quebrantamento e *teshuvá*), *teru'á* (alarme) e *teki'á guedolá* (vitória do Rei).
+**A reintegração de posse.** A terra é de D'us; Adão perdeu o domínio e o adversário ficou como posseiro, como ele mesmo confessa em Lucas 4:6. O rolo de sete selos de Apocalipse 5 é a escritura de posse, modelada no contrato selado de Jeremias 32; os selos e as trombetas executam o despejo, e a última trombeta, o [[Shofar HaGadol]], soa no [[Yom Kippur]] do ano do jubileu, como manda Levítico 25:9. A "última trombeta" de 1 Coríntios 15.51-52 e [[1 Tessalonicenses 4.15|1 Tessalonicenses 4.16]] ganha data legal ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]). O toque do *shofar* tem quatro sons: *teki'á* (soberania), *shevarim* (quebrantamento e *teshuvá*), *teru'á* (alarme) e *teki'á guedolá* (vitória do Rei).
 
 **O relógio de 1973 a 2023.** A Guerra do Yom Kippur, em outubro de 1973, caiu no dia exato em que se proclama o jubileu. O ataque de 7 de outubro de 2023 caiu 50 anos depois, em [[Shemini Atzeret]], o oitavo dia, número de novo começo. Para Rav Yosef, é um ciclo jubilar exato que mostra o relógio na fase final ([[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]).
 
@@ -54,7 +54,7 @@ Quem já viu uma reintegração de posse sabe como é: há uma escritura, um pra
 
 ## Relacionados
 
-[[Shemitá]] · [[Levítico 25]] · [[Levítico 25.9]] · [[Shofar]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Goel]] · [[Nachalah]] · [[Gênesis 6.3]] · [[Shabat Milenar]] · [[Seder Olam Rabbah]] · [[Shemini Atzeret]] · [[Hitgalut]] · [[Mashiach ben David]] · [[Livro dos Jubileus]] · [[Moedim]]
+[[Shemitá]] · [[Levítico 25]] · Levítico 25.9 · [[Shofar]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Goel]] · [[Nachalah]] · [[Gênesis 6.3]] · [[Shabat Milenar]] · [[Seder Olam Rabbah]] · [[Shemini Atzeret]] · [[Hitgalut]] · [[Mashiach ben David]] · [[Livro dos Jubileus]] · [[Moedim]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

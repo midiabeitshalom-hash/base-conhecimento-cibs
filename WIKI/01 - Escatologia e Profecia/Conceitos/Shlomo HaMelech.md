@@ -16,7 +16,7 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-D'us promete a Davi sobre o filho: "eu lhe serei por pai, e ele me será por filho" (2 Samuel 7:14). Em Gibeom, Salomão pede um coração entendido para julgar o povo, e D'us lhe dá sabedoria, riqueza e glória (1 Reis 3:5-13). Ele constrói o Templo, e na dedicação a nuvem enche a casa (1 Reis 8:10-11). Na oração, pede pelo estrangeiro que vier orar ali (1 Reis 8:41-43) e termina "para que todos os povos da terra saibam que Adonai é D'us e que não há outro" ([[1 Reis 8.60]]). Isaías retoma a vocação da casa: "a minha casa será chamada casa de oração para todos os povos" ([[Isaías 56.7]]). Na velhice, as mulheres estrangeiras desviam o seu coração para outros deuses (1 Reis 11:4), e D'us anuncia que o reino será rasgado; a divisão acontece com o filho Roboão ([[1 Reis 11]]; [[1 Reis 12]]). A tradição lhe atribui Provérbios, Eclesiastes e Cântico dos Cânticos, e Yeshua diz: "eis aqui quem é maior do que Salomão" (Mateus 12:42).
+D'us promete a Davi sobre o filho: "eu lhe serei por pai, e ele me será por filho" (2 Samuel 7:14). Em Gibeom, Salomão pede um coração entendido para julgar o povo, e D'us lhe dá sabedoria, riqueza e glória (1 Reis 3:5-13). Ele constrói o Templo, e na dedicação a nuvem enche a casa (1 Reis 8:10-11). Na oração, pede pelo estrangeiro que vier orar ali (1 Reis 8:41-43) e termina "para que todos os povos da terra saibam que Adonai é D'us e que não há outro" (1 Reis 8.60). Isaías retoma a vocação da casa: "a minha casa será chamada casa de oração para todos os povos" (Isaías 56.7). Na velhice, as mulheres estrangeiras desviam o seu coração para outros deuses (1 Reis 11:4), e D'us anuncia que o reino será rasgado; a divisão acontece com o filho Roboão (1 Reis 11; 1 Reis 12). A tradição lhe atribui Provérbios, Eclesiastes e Cântico dos Cânticos, e Yeshua diz: "eis aqui quem é maior do que Salomão" (Mateus 12:42).
 
 ## Na tradição judaica
 
@@ -32,7 +32,7 @@ No Templo, ele é o construtor da "casa de oração para todos os povos" ([[kb-a
 
 ## Relacionados
 
-[[David HaMelech]] · [[Rei Saul]] · [[Ben Elohim]] · [[Casa de Judá]] · [[Efraim]] · [[Doze Tribos de Israel]] · [[Shechinah]] · [[Segundo Templo]] · [[Monoteísmo Estrito]] · [[1 Reis 8.60]] · [[1 Reis 11]] · [[1 Reis 12]] · [[Isaías 56.7]] · [[Provérbios 21.3]]
+[[David HaMelech]] · [[Rei Saul]] · [[Ben Elohim]] · [[Casa de Judá]] · [[Efraim]] · [[Doze Tribos de Israel]] · [[Shechinah]] · [[Segundo Templo]] · [[Monoteísmo Estrito]] · 1 Reis 8.60 · 1 Reis 11 · 1 Reis 12 · Isaías 56.7 · Provérbios 21.3
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

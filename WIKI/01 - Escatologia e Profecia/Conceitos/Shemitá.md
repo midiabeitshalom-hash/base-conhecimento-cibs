@@ -23,7 +23,7 @@ A raiz *Sh-M-T* (שׁ־מ־ט) significa soltar, largar, deixar cair. Em Êxodo 
 - **Deuteronômio 15:1-11:** a remissão das dívidas, a *shemitat kesafim*.
 - **Deuteronômio 31:10-13:** no Sucot do ano da *Shemitá* a Torá era lida diante de todo o povo.
 - **Levítico 26:34-35 e 2 Crônicas 36:21:** quando Israel não guardou os anos sabáticos, a terra "pagou os seus Shabatot" durante o exílio, os 70 anos de Jeremias.
-- **[[Levítico 25.8|Levítico 25.8-13]]:** sete vezes sete anos e, no 50º, o jubileu proclamado no [[Yom Kippur]] ([[Levítico 25.9]]).
+- **Levítico 25.8-13:** sete vezes sete anos e, no 50º, o jubileu proclamado no [[Yom Kippur]] (Levítico 25.9).
 
 ## Nas fontes judaicas
 
@@ -45,7 +45,7 @@ A semana tem seis dias de trabalho e um Shabat. A Torá aplica a mesma régua ao
 
 ## Relacionados
 
-[[Yovel]] · [[Shabat]] · [[Shabat Milenar]] · [[Moedim]] · [[Yom Kippur]] · [[Goel]] · [[Nachalah]] · [[Levítico 25]] · [[Levítico 25.8]] · [[Gênesis 6.3]] · [[Reino Messiânico]]
+[[Yovel]] · [[Shabat]] · [[Shabat Milenar]] · [[Moedim]] · [[Yom Kippur]] · [[Goel]] · [[Nachalah]] · [[Levítico 25]] · Levítico 25.8 · [[Gênesis 6.3]] · [[Reino Messiânico]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

@@ -10,7 +10,7 @@ date_captured: 2026-10-05
 
 # Zafenate-Paneia
 
-**Definição:** *Zafenate-Paneia* (צָפְנַת פַּעְנֵחַ, *Tzafnat Pa'neach*) é o nome egípcio que o faraó deu a [[Yosef HaTzaddik]] quando o pôs sobre o Egito ([[Gênesis 41.45]]). Na base, é o tipo da roupagem gentílica imposta a Yeshua pelas nações: o "Jesus" romano, sob o qual os irmãos judeus não reconhecem o próprio irmão.
+**Definição:** *Zafenate-Paneia* (צָפְנַת פַּעְנֵחַ, *Tzafnat Pa'neach*) é o nome egípcio que o faraó deu a [[Yosef HaTzaddik]] quando o pôs sobre o Egito (Gênesis 41.45). Na base, é o tipo da roupagem gentílica imposta a Yeshua pelas nações: o "Jesus" romano, sob o qual os irmãos judeus não reconhecem o próprio irmão.
 
 ## Raiz e significado
 
@@ -18,7 +18,7 @@ Lido em hebraico, o nome soa como duas palavras: *tzafan* (צפן), esconder, gu
 
 ## Na Escritura
 
-"E Faraó chamou a José de Zafenate-Paneia, e deu-lhe por mulher a Asenate, filha de Potífera, sacerdote de Om" ([[Gênesis 41.45]]). Junto com o nome vieram o anel do faraó, as vestes de linho fino, o colar de ouro e a carruagem (41:42-43). O hebreu vendido pelos irmãos ([[Gênesis 37]]) agora tem nome, roupa, língua e esposa egípcios. Quando os irmãos descem ao Egito por causa da fome, falam com ele por intérprete e se prostram sem reconhecê-lo ([[Gênesis 42.6]]). Só na segunda viagem, depois de mandar sair todos os egípcios da sala, José chora e diz na língua materna: "*Ani Yosef*", eu sou José ([[Gênesis 45.1|Gênesis 45.1-3]]).
+"E Faraó chamou a José de Zafenate-Paneia, e deu-lhe por mulher a Asenate, filha de Potífera, sacerdote de Om" (Gênesis 41.45). Junto com o nome vieram o anel do faraó, as vestes de linho fino, o colar de ouro e a carruagem (41:42-43). O hebreu vendido pelos irmãos (Gênesis 37) agora tem nome, roupa, língua e esposa egípcios. Quando os irmãos descem ao Egito por causa da fome, falam com ele por intérprete e se prostram sem reconhecê-lo (Gênesis 42.6). Só na segunda viagem, depois de mandar sair todos os egípcios da sala, José chora e diz na língua materna: "*Ani Yosef*", eu sou José (Gênesis 45.1-3).
 
 ## Na visão da Beit Shalom
 
@@ -36,7 +36,7 @@ Imagine um filho que foi dado como morto e reaparece anos depois em outro país,
 
 ## Relacionados
 
-[[Yosef HaTzaddik]] · [[Gênesis 41.45]] · [[Gênesis 37]] · [[Gênesis 42]] · [[Gênesis 45.1]] · [[Ani Yosef]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Et Tzarah l'Yaakov]] · [[Ya'akov Avinu]] · [[Binyamin]] · [[Yeshua]] · [[Mudar os Tempos e a Lei]]
+[[Yosef HaTzaddik]] · Gênesis 41.45 · Gênesis 37 · Gênesis 42 · Gênesis 45.1 · [[Ani Yosef]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Et Tzarah l'Yaakov]] · [[Ya'akov Avinu]] · [[Binyamin]] · [[Yeshua]] · [[Mudar os Tempos e a Lei]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

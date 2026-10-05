@@ -18,13 +18,13 @@ A vida dele tem 120 anos em três blocos de 40: 40 anos como príncipe no Egito,
 
 ## Na Escritura
 
-- **O mediador do Sinai.** Sobe ao [[Har Sinai]], recebe as tábuas escritas pelo [[Dedo de Deus]] e transmite a [[Torá]] ([[Êxodo 19]]; [[Êxodo 20]]); ratifica a aliança com sangue ([[Êxodo 24]]) e quebra as tábuas diante do bezerro de ouro ([[Êxodo 32]]), quando caem 3.000 homens ([[Êxodo 32.28]]).
+- **O mediador do Sinai.** Sobe ao [[Har Sinai]], recebe as tábuas escritas pelo [[Dedo de Deus]] e transmite a [[Torá]] (Êxodo 19; [[Êxodo 20]]); ratifica a aliança com sangue (Êxodo 24) e quebra as tábuas diante do bezerro de ouro (Êxodo 32), quando caem 3.000 homens (Êxodo 32.28).
 - **O rosto que resplandecia.** Depois de falar com D'us, a pele do seu rosto brilhava e ele usava um véu (Êxodo 34:29-35): a glória refletida da [[Shechinah]].
-- **O espírito repartido.** D'us tira do espírito que estava sobre ele e o põe sobre os [[70 Anciãos]] ([[Números 11.17]]).
+- **O espírito repartido.** D'us tira do espírito que estava sobre ele e o põe sobre os [[70 Anciãos]] (Números 11.17).
 - **A serpente de bronze.** Ergue o *Nechash Nechoshet* na haste, e quem olha vive (Números 21:4-9); séculos depois o objeto vira o ídolo [[Nechushtan]].
 - **O calendário.** Transmite as festas de [[Levítico 23]] e a lei do jubileu de [[Levítico 25]].
 - **A promessa do profeta.** "O Senhor teu D'us te suscitará um profeta do meio de ti, de teus irmãos, como eu" ([[Deuteronômio 18.15|Deuteronômio 18.15-19]]; [[Deuteronômio 18.18]]).
-- **Na Berit Hadashah.** "Se crêsseis em Moisés, creríeis em mim, porque de mim escreveu ele" ([[João 5.46]]); Pedro e Estêvão aplicam Deuteronômio 18 a Yeshua ([[Atos 3.22]]; [[Atos 7.37]]); Moisés aparece com Elias na transfiguração; Hebreus 3:5 o chama de "fiel em toda a casa de D'us, como servo".
+- **Na Berit Hadashah.** "Se crêsseis em Moisés, creríeis em mim, porque de mim escreveu ele" (João 5.46); Pedro e Estêvão aplicam Deuteronômio 18 a Yeshua (Atos 3.22; Atos 7.37); Moisés aparece com Elias na transfiguração; Hebreus 3:5 o chama de "fiel em toda a casa de D'us, como servo".
 
 ## Na tradição judaica
 
@@ -52,7 +52,7 @@ Moisés é o primeiro mediador e o molde do último. Quem quer reconhecer o Mess
 
 ## Relacionados
 
-[[Torá]] · [[Har Sinai]] · [[Aharon HaKohen]] · [[Yehoshua bin Nun]] · [[70 Anciãos]] · [[Nechushtan]] · [[Dedo de Deus]] · [[Kolot]] · [[Shechinah]] · [[Deuteronômio 18.15]] · [[João 5.46]] · [[Atos 3.22]] · [[Berit Hadashah]] · [[Yeshua]] · [[Profeta Elias]]
+[[Torá]] · [[Har Sinai]] · [[Aharon HaKohen]] · [[Yehoshua bin Nun]] · [[70 Anciãos]] · [[Nechushtan]] · [[Dedo de Deus]] · [[Kolot]] · [[Shechinah]] · [[Deuteronômio 18.15]] · João 5.46 · Atos 3.22 · [[Berit Hadashah]] · [[Yeshua]] · [[Profeta Elias]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

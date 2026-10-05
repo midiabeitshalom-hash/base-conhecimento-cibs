@@ -18,23 +18,23 @@ date_captured: 2026-10-05
 
 ## Na Escritura
 
-- **O rebento de Jessé.** "Brotará um rebento do tronco de Jessé... repousará sobre ele o Espírito do Senhor" ([[Isaías 11.1|Isaías 11.1-2]]).
+- **O rebento de Jessé.** "Brotará um rebento do tronco de Jessé... repousará sobre ele o Espírito do Senhor" (Isaías 11.1-2).
 - **O renovo justo.** "Levantarei a Davi um renovo justo, e ele reinará como rei" (Jeremias 23:5).
-- **O pastor único.** "Levantarei sobre elas um só pastor, o meu servo Davi" ([[Ezequiel 34]]); "o meu servo Davi será rei sobre eles... e andarão nos meus juízos e guardarão os meus estatutos" ([[Ezequiel 37.24]]), depois da união das duas varas de Judá e José ([[Ezequiel 37]]).
+- **O pastor único.** "Levantarei sobre elas um só pastor, o meu servo Davi" (Ezequiel 34); "o meu servo Davi será rei sobre eles... e andarão nos meus juízos e guardarão os meus estatutos" (Ezequiel 37.24), depois da união das duas varas de Judá e José ([[Ezequiel 37]]).
 - **O Filho do Homem nas nuvens.** "Foi-lhe dado domínio, glória e reino" ([[Daniel 7.13|Daniel 7.13-14]]).
-- **O dia do Senhor em Jerusalém.** "Naquele dia estarão os seus pés sobre o monte das Oliveiras", e as nações sobem para Sucot ([[Zacarias 14]]).
-- **A condição.** "Não me vereis mais até que digais: *Baruch Haba B'Shem Adonai*" ([[Mateus 23.39]]; [[Salmo 118.26]]).
+- **O dia do Senhor em Jerusalém.** "Naquele dia estarão os seus pés sobre o monte das Oliveiras", e as nações sobem para Sucot (Zacarias 14).
+- **A condição.** "Não me vereis mais até que digais: *Baruch Haba B'Shem Adonai*" (Mateus 23.39; Salmo 118.26).
 - **O reino entregue.** "Os reinos do mundo passaram a ser do nosso Senhor e do seu Messias" (Apocalipse 11:15).
 
 ## Nas fontes judaicas
 
-*Sanhedrin 98a* põe em tensão o rei que vem "com as nuvens do céu" ([[Daniel 7.13]]) e o rei "pobre, montado num jumento" ([[Zacarias 9.9]]); a base lê aí as duas manifestações do Messias ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). *Sukkah 52a* conta que, ao ver *Mashiach ben Yosef* morto, *Mashiach ben David* pede a D'us apenas vida, e recebe, com base no Salmo 2:8. Maimônides (*Leis dos Reis* 11:4) resume o que se espera dele: um rei da casa de Davi, dedicado à Torá, que leva Israel a andar nela, trava as guerras de Hashem e reúne os dispersos de Israel. A frase *David Melech Yisrael chai vekayam*, "Davi, rei de Israel, vive e permanece", aparece já em *Rosh Hashaná 25a* e virou canção de esperança messiânica.
+*Sanhedrin 98a* põe em tensão o rei que vem "com as nuvens do céu" ([[Daniel 7.13]]) e o rei "pobre, montado num jumento" (Zacarias 9.9); a base lê aí as duas manifestações do Messias ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]). *Sukkah 52a* conta que, ao ver *Mashiach ben Yosef* morto, *Mashiach ben David* pede a D'us apenas vida, e recebe, com base no Salmo 2:8. Maimônides (*Leis dos Reis* 11:4) resume o que se espera dele: um rei da casa de Davi, dedicado à Torá, que leva Israel a andar nela, trava as guerras de Hashem e reúne os dispersos de Israel. A frase *David Melech Yisrael chai vekayam*, "Davi, rei de Israel, vive e permanece", aparece já em *Rosh Hashaná 25a* e virou canção de esperança messiânica.
 
 ## Na visão da Beit Shalom
 
 **A segunda face do mesmo Messias.** As profecias mostram um Messias que sofre e um que reina, e a solução é uma só pessoa em duas manifestações: Yeshua cumpriu a primeira e cumprirá a segunda ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]; [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]). Na revelação final, a missão de *Ben Yosef*, o servo que alimentou o mundo com o pão da vida, se funde na regência de *Ben David*, o rei que liberta Israel, derrota os exércitos invasores e estabelece o [[Reino Messiânico]] a partir de Jerusalém ([[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]).
 
-**O calendário do retorno.** As festas de outono pertencem a *Ben David*: [[Yom Teruá]], a convocação; [[Yom Kippur]], a expiação nacional e o toque do jubileu; [[Sucot]], o reinado e a habitação de D'us com os homens ([[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]). O retorno acontece no fim dos 6.000 anos, no 120º jubileu, quando o [[Shofar HaGadol]] soa no Yom Kippur do ano do [[Yovel]] ([[Levítico 25.9]]) ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]).
+**O calendário do retorno.** As festas de outono pertencem a *Ben David*: [[Yom Teruá]], a convocação; [[Yom Kippur]], a expiação nacional e o toque do jubileu; [[Sucot]], o reinado e a habitação de D'us com os homens ([[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]). O retorno acontece no fim dos 6.000 anos, no 120º jubileu, quando o [[Shofar HaGadol]] soa no Yom Kippur do ano do [[Yovel]] (Levítico 25.9) ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]).
 
 **O Goel que executa o despejo.** Na reintegração de posse, só um parente consanguíneo, o [[Goel]], pode resgatar a herança. Por isso o Redentor precisava ser [[Ben Adam]], humano, e *Ben David*, da linhagem real. *Ben Yosef* pagou o preço; *Ben David* abre os selos, toca as trombetas e expulsa o usurpador, até que "os reinos do mundo" passem ao Messias ([[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]).
 
@@ -53,7 +53,7 @@ Davi foi ungido rei ainda menino, mas passou anos fugindo de Saul antes de senta
 
 ## Relacionados
 
-[[Mashiach ben Yosef]] · [[Mashiach]] · [[Yeshua]] · [[David HaMelech]] · [[Reino Messiânico]] · [[Ezequiel 37.24]] · [[Isaías 11.1]] · [[Daniel 7.13]] · [[Zacarias 14]] · [[Mateus 23.39]] · [[Baruch Haba B'Shem Adonai]] · [[Goel]] · [[Yovel]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Sucot]] · [[Pedra Cortada sem Mãos]]
+[[Mashiach ben Yosef]] · [[Mashiach]] · [[Yeshua]] · [[David HaMelech]] · [[Reino Messiânico]] · Ezequiel 37.24 · Isaías 11.1 · [[Daniel 7.13]] · Zacarias 14 · Mateus 23.39 · [[Baruch Haba B'Shem Adonai]] · [[Goel]] · [[Yovel]] · [[Shofar HaGadol]] · [[Yom Kippur]] · [[Sucot]] · [[Pedra Cortada sem Mãos]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

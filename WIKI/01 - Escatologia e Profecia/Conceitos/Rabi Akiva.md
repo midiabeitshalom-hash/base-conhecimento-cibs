@@ -16,7 +16,7 @@ Rabi Akiva ben Yosef (c. 50–135 EC) foi o maior sábio da geração depois da 
 
 ## Na Escritura
 
-O versículo ligado ao seu erro é [[Números 24.17]], a profecia de Bil'am: "uma estrela procederá de Jacó". Rabi Akiva aplicou a "estrela" (*kochav*) a Shimon bar Kosiba, que passou a ser chamado *Bar Kokhba*, "filho da estrela".
+O versículo ligado ao seu erro é Números 24.17, a profecia de Bil'am: "uma estrela procederá de Jacó". Rabi Akiva aplicou a "estrela" (*kochav*) a Shimon bar Kosiba, que passou a ser chamado *Bar Kokhba*, "filho da estrela".
 
 ## Na tradição judaica
 
@@ -32,7 +32,7 @@ Depois do desastre, o rabinato passou a desencorajar os cálculos sobre o tempo 
 
 ## Relacionados
 
-[[Números 24.17]] · [[Daniel 9.24]] · [[Mashiach Nagid]] · [[Mashiach ben David]] · [[Deuteronômio 18.15]] · [[Rav]] · [[Rabi Yehoshua ben Levi]] · [[Nazarenos]] · [[Zelotes]] · [[Shemá Israel]] · [[Talmud Bavli]]
+Números 24.17 · [[Daniel 9.24]] · [[Mashiach Nagid]] · [[Mashiach ben David]] · [[Deuteronômio 18.15]] · [[Rav]] · [[Rabi Yehoshua ben Levi]] · [[Nazarenos]] · [[Zelotes]] · [[Shemá Israel]] · [[Talmud Bavli]]
 
 ## Aparece em
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]

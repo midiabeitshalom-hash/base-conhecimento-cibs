@@ -15,7 +15,7 @@ date_captured: 2026-10-05
 **Original:** *aseret hadibrot*, "as dez palavras". São *devarim* (palavras), não apenas "leis": o texto é a proclamação do contrato.
 
 ## Contexto
-No [[Har Sinai]], diante de todo o povo, D'us fala em voz audível. O capítulo abre com o prólogo histórico (a libertação do Egito), que é o selo de todo tratado antigo: o suserano lembra o que fez antes de impor cláusulas. Em seguida vêm as dez cláusulas, que o povo ratifica em [[Êxodo 24.1|Êxodo 24.1-8]] com sangue e a resposta "faremos e ouviremos".
+No [[Har Sinai]], diante de todo o povo, D'us fala em voz audível. O capítulo abre com o prólogo histórico (a libertação do Egito), que é o selo de todo tratado antigo: o suserano lembra o que fez antes de impor cláusulas. Em seguida vêm as dez cláusulas, que o povo ratifica em Êxodo 24.1-8 com sangue e a resposta "faremos e ouviremos".
 
 ## Leitura da Beit Shalom
 Rav Yosef ensina que Êxodo 20 é a promulgação das cláusulas fundacionais da aliança, e que a [[Berit Hadashah]] de [[Jeremias 31.31|Jeremias 31.31-34]] renova esse mesmo conteúdo, escrito agora no coração. Por isso o checklist da base é um exame à luz dos Dez Mandamentos: idolatria, falsidade, roubo, imoralidade, Shabat. A proibição de imagens (Êx 20.4) está no centro do argumento contra a [[Trindade]] e a veneração de imagens, ligada a 2 Reis 18.4 (a serpente de bronze destruída por Ezequias) e ao [[Avodah Zarah|conceito de idolatria]]. A quebra pelo bezerro de ouro (Êxodo 32) mostra a gravidade da violação.
@@ -23,7 +23,7 @@ Rav Yosef ensina que Êxodo 20 é a promulgação das cláusulas fundacionais da
 O quarto mandamento sustenta o [[Shabat]]: *Zachor e Shamor* ([[Zachor e Shamor]]), "lembra" e "guarda". O texto mostra o Shabat como criação, anterior ao Sinai.
 
 ## Conexões
-[[Êxodo 24.1|Êxodo 24]] · [[Jeremias 31.31|Jeremias 31.31-34]] · [[1 João 3.4]] · [[Deuteronômio 6.4]] · [[Torá Moral]] · [[Mitzvot]] · [[Har Sinai]].
+Êxodo 24 · [[Jeremias 31.31|Jeremias 31.31-34]] · [[1 João 3.4]] · [[Deuteronômio 6.4]] · [[Torá Moral]] · [[Mitzvot]] · [[Har Sinai]].
 
 ## Aparece em
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]

@@ -14,7 +14,7 @@ date_captured: 2026-10-05
 
 ## Raiz e significado
 
-*Kanai* vem de *kin'ah*, zelo, ciúme santo. O modelo do grupo era [[Pinchas]], o sacerdote que, no episódio de Zinri e Cozbi, matou os dois e deteve a praga. D'us diz dele que "foi zeloso com o meu zelo" (*bekan'o et kin'ati*) e lhe dá a aliança de um sacerdócio perpétuo ([[Números 25]], 25:11-13). Elias também diz "tenho sido muito zeloso pelo Senhor" (1 Reis 19:10). Os Zelotes tomaram esse zelo e o transformaram em programa político e militar.
+*Kanai* vem de *kin'ah*, zelo, ciúme santo. O modelo do grupo era [[Pinchas]], o sacerdote que, no episódio de Zinri e Cozbi, matou os dois e deteve a praga. D'us diz dele que "foi zeloso com o meu zelo" (*bekan'o et kin'ati*) e lhe dá a aliança de um sacerdócio perpétuo (Números 25, 25:11-13). Elias também diz "tenho sido muito zeloso pelo Senhor" (1 Reis 19:10). Os Zelotes tomaram esse zelo e o transformaram em programa político e militar.
 
 ## Na Escritura e na história
 
@@ -32,7 +32,7 @@ O zelo é como fogo. No fogão, cozinha o alimento; fora dele, queima a casa. Pi
 
 ## Relacionados
 
-[[Pinchas]] · [[Números 25]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Nazarenos]] · [[Segundo Templo]] · [[Flávio Josefo]] · [[Pedra Cortada sem Mãos]] · [[Profeta Elias]] · [[Yoma 39b]]
+[[Pinchas]] · Números 25 · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Nazarenos]] · [[Segundo Templo]] · [[Flávio Josefo]] · [[Pedra Cortada sem Mãos]] · [[Profeta Elias]] · [[Yoma 39b]]
 
 ## Aparece em
 

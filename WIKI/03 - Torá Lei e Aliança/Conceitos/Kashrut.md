@@ -18,7 +18,7 @@ A raiz *K-Sh-R* (כ־שׁ־ר) quer dizer ser adequado, próprio, estar em ordem
 
 ## Na Escritura
 
-- **Antes do Sinai:** Noé já distingue animais puros (sete casais) e impuros (um casal) em Gênesis 7:2, e oferece dos puros em [[Gênesis 8.20]]. Depois do dilúvio recebe a carne com uma condição: "a carne com a sua vida, isto é, com o seu sangue, não comereis" (*Gênesis* 9:3-4).
+- **Antes do Sinai:** Noé já distingue animais puros (sete casais) e impuros (um casal) em Gênesis 7:2, e oferece dos puros em Gênesis 8.20. Depois do dilúvio recebe a carne com uma condição: "a carne com a sua vida, isto é, com o seu sangue, não comereis" (*Gênesis* 9:3-4).
 - **Os critérios de Levítico 11 e Deuteronômio 14:** quadrúpedes com casco fendido e que ruminam; peixes com escamas e barbatanas; aves que não sejam de rapina ou carniceiras; a maior parte dos insetos proibida. O porco tem o casco fendido, mas não rumina.
 - **O sangue:** proibido a toda carne (*Levítico* 17:10-14) e mantido para os gentios no concílio de Jerusalém (*Atos* 15:20).
 - **O fim dos tempos:** "os que comem carne de porco, e a abominação, e o rato, juntamente serão consumidos" (*Isaías* 66:17), no Dia do Senhor.
@@ -26,7 +26,7 @@ A raiz *K-Sh-R* (כ־שׁ־ר) quer dizer ser adequado, próprio, estar em ordem
 
 ## Na visão da Beit Shalom
 
-Comer é um ato espiritual. A morte entrou no mundo pela boca, no Éden, e a dieta humana passou por três fases: frugívora no Éden, herbívora depois da queda ([[Gênesis 3.18]]) e carnívora restrita depois do dilúvio e na Torá ([[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]). Como a distinção entre puro e impuro já existia com Noé, ela é lei da criação, e não arranjo cerimonial temporário. A *kashrut* segue valendo ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
+Comer é um ato espiritual. A morte entrou no mundo pela boca, no Éden, e a dieta humana passou por três fases: frugívora no Éden, herbívora depois da queda (Gênesis 3.18) e carnívora restrita depois do dilúvio e na Torá ([[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]). Como a distinção entre puro e impuro já existia com Noé, ela é lei da criação, e não arranjo cerimonial temporário. A *kashrut* segue valendo ([[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
 Há também o nível interior. Comer *kasher* e abençoar o alimento eleva a matéria pelo [[Birur]]; os alimentos impuros fortalecem as [[Kelipot]], as cascas que embotam o entendimento espiritual ([[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]). Por isso os checklists dos estudos põem a mesa ao lado do Shabat e das festas ([[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]).
 
@@ -45,7 +45,7 @@ Combustível errado não destrói o carro na hora, mas vai entupindo o motor. A 
 
 ## Relacionados
 
-[[Shechitá]] · [[Tum'ah]] · [[Taharah]] · [[Netilat Yadayim]] · [[Kelipot]] · [[Birur]] · [[Halachá]] · [[Noach]] · [[Atos 10]] · [[Mitzvot]] · [[Torá Moral]] · [[Apocalipse 14.12]]
+[[Shechitá]] · [[Tum'ah]] · [[Taharah]] · [[Netilat Yadayim]] · [[Kelipot]] · [[Birur]] · [[Halachá]] · [[Noach]] · Atos 10 · [[Mitzvot]] · [[Torá Moral]] · [[Apocalipse 14.12]]
 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]

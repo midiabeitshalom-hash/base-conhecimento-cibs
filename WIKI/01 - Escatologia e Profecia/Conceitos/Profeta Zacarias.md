@@ -18,9 +18,9 @@ O nome quer dizer "YHVH se lembrou". Zacarias começou a profetizar no segundo a
 
 ## Na Escritura
 
-Zacarias está por trás de muitas passagens dos Evangelhos. O rei "justo e salvador, pobre, montado sobre um jumento" ([[Zacarias 9.9]]) é a entrada de Yeshua em Jerusalém. As trinta moedas de prata atiradas ao oleiro (Zacarias 11:12-13) voltam em Mateus 27. "Fere o pastor, e as ovelhas se dispersarão" (Zacarias 13:7) é citado por Yeshua na noite em que foi preso.
+Zacarias está por trás de muitas passagens dos Evangelhos. O rei "justo e salvador, pobre, montado sobre um jumento" (Zacarias 9.9) é a entrada de Yeshua em Jerusalém. As trinta moedas de prata atiradas ao oleiro (Zacarias 11:12-13) voltam em Mateus 27. "Fere o pastor, e as ovelhas se dispersarão" (Zacarias 13:7) é citado por Yeshua na noite em que foi preso.
 
-Os capítulos 12 a 14 são o centro do uso escatológico. Jerusalém se torna "cálice de vertigem" e "pedra pesada" para todos os povos, e contra ela "se ajuntarão todas as nações da terra" ([[Zacarias 12.2|Zacarias 12.2-3]]). D'us derrama sobre a casa de Davi o espírito de graça, "e olharão para mim, a quem traspassaram, e o prantearão como quem pranteia por um filho único" ([[Zacarias 12.10]]). Os pés do Senhor pousam sobre o monte das Oliveiras ([[Zacarias 14]]); a carne dos que lutam contra Jerusalém apodrece estando eles em pé ([[Zacarias 14.12]]); "naquele dia um será Adonai, e um o seu nome" (Zacarias 14:9); e as nações sobem todo ano para celebrar [[Sucot]] (Zacarias 14:16-19).
+Os capítulos 12 a 14 são o centro do uso escatológico. Jerusalém se torna "cálice de vertigem" e "pedra pesada" para todos os povos, e contra ela "se ajuntarão todas as nações da terra" (Zacarias 12.2-3). D'us derrama sobre a casa de Davi o espírito de graça, "e olharão para mim, a quem traspassaram, e o prantearão como quem pranteia por um filho único" (Zacarias 12.10). Os pés do Senhor pousam sobre o monte das Oliveiras (Zacarias 14); a carne dos que lutam contra Jerusalém apodrece estando eles em pé ([[Zacarias 14.12]]); "naquele dia um será Adonai, e um o seu nome" (Zacarias 14:9); e as nações sobem todo ano para celebrar [[Sucot]] (Zacarias 14:16-19).
 
 ## Na tradição judaica
 
@@ -32,7 +32,7 @@ Rav Yosef lê Zacarias como o mapa da guerra final. Em 12:3 ele vê o isolamento
 
 ## Relacionados
 
-[[Zacarias 9.9]] · [[Zacarias 12]] · [[Zacarias 12.10]] · [[Zacarias 14]] · [[Zacarias 14.12]] · [[Flash Térmico]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Et Tzarah l'Yaakov]] · [[Casa de Judá]] · [[Sucot]] · [[Segundo Templo]]
+Zacarias 9.9 · Zacarias 12 · Zacarias 12.10 · Zacarias 14 · [[Zacarias 14.12]] · [[Flash Térmico]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Et Tzarah l'Yaakov]] · [[Casa de Judá]] · [[Sucot]] · [[Segundo Templo]]
 
 ## Aparece em
 
