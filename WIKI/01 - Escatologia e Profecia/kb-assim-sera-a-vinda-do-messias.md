@@ -1,19 +1,23 @@
 ---
-title: "ASSIM SERÁ A VINDA DO MESSIAS! #apocalipse #israel"
+title: "Assim será a vinda do Messias: as festas de outono e o cumprimento profético"
+titulo_original: "ASSIM SERÁ A VINDA DO MESSIAS! #apocalipse #israel"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/jEUjD4N2Q0s"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia Bíblica / Escatologia Judaico-Messiânica / Hermenêutica Bíblica"
+topic_category: "Escatologia e Profecia"
 tags: [vinda-do-messias, moadim, festas-biblicas, escatologia-biblica, shemita-e-yovel, apocalipse, teshuva]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# Assim Será a Vinda do Messias: Síntese Exaustiva de Conhecimento e Cronologia Profética
+# Assim será a vinda do Messias: as festas de outono e o cumprimento profético
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A cronologia e a mecânica da redenção cósmica e do retorno de Yeshua HaMashiach (Jesus o Messias) são governadas de forma matemática e inalterável pelo sistema das solenidades e ciclos astronômico-litúrgicos estabelecidos na Torá (*Moadim*, *Shemitá* e *Yovel*). Assim como o Messias cumpriu rigorosamente as quatro primeiras festas bíblicas de primavera/verão (*Pessach*, *Matzot*, *Bikurim* e *Shavuot*) em sua primeira vinda, a sua segunda vinda e o estabelecimento do Reino Milenar se darão exclusivamente no contexto das três festas proféticas de outono do sétimo mês (*Yom Teruá*, *Yom HaKipurim* e *Chag Sukot*), coincidindo com o término do 120º Jubileu (6.000 anos da história humana sob domínio humano).
@@ -27,7 +31,7 @@ A análise descontrói concepções escatológicas ocidentais modernas — como 
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Líderes e Figuras Centrais Mencionadas
 - **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o cumprimento vivo e meticuloso de cada uma das festas divinas, o Rabino que lê e aplica a profecia de Isaías 61 e o legítimo Rei constituído para reger os povos.
@@ -72,7 +76,7 @@ A análise descontrói concepções escatológicas ocidentais modernas — como 
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ### 4.1. As Engrenagens do Tempo e o Calendário de Hashem
 - **Cosmologia Operacional:** O Criador estabeleceu o Sol, a Lua e as Estrelas na abóbada celeste não apenas para iluminar, mas para servir de marcadores litúrgicos e proféticos (*Moedim* / Tempos Determinados).
@@ -136,42 +140,42 @@ Nenhuma festa de outono foi revogada; elas representam o roteiro profético pend
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Padrão Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Conceitos e Entidades Interconectadas
-- `[[Moadim]]`
-- `[[Pessach]]`
-- `[[Chag HaMatzot]]`
-- `[[Bikurim]]`
-- `[[Chag Shavuot]]`
-- `[[Yom Teruá]]`
-- `[[Yom HaKipurim]]`
-- `[[Chag Sukot]]`
-- `[[Shemitá]]`
-- `[[Yovel]]`
-- `[[Yeshua HaMashiach]]`
-- `[[Ruach HaKodesh]]`
-- `[[Teshuvá]]`
-- `[[Tikkun Olam]]`
-- `[[Shofar HaGadol]]`
-- `[[Reino Milenar]]`
+- [[Moedim|Moadim]]
+- [[Pessach]]
+- [[Chag HaMatzot]]
+- [[Bikurim]]
+- [[Shavuot|Chag Shavuot]]
+- [[Yom Teruá]]
+- [[Yom Kippur|Yom HaKipurim]]
+- [[Sucot|Chag Sukot]]
+- [[Shemitá]]
+- [[Yovel]]
+- [[Yeshua|Yeshua HaMashiach]]
+- [[Ruach HaKodesh]]
+- [[Teshuvá]]
+- [[Tikkun Olam]]
+- [[Shofar HaGadol]]
+- [[Reino Messiânico|Reino Milenar]]
 
 ### Mini-Glossário de Termos Especializados
 
 | Termo Hebraico | Significado Literal | Definição no Contexto do Estudo |
 | :--- | :--- | :--- |
-| **[[Moadim]]** (sing. *Moed*) | Tempos Determinados / Encontros Marcados | As datas do calendário bíblico fixadas por Deus como ensaios proféticos da redenção. |
+| **[[Moedim|Moadim]]** (sing. *Moed*) | Tempos Determinados / Encontros Marcados | As datas do calendário bíblico fixadas por Deus como ensaios proféticos da redenção. |
 | **[[Shemitá]]** | Remissão / Renúncia | O 7º ano sabático de descanso da terra e cancelamento de dívidas econômicas. |
 | **[[Yovel]]** | Jubileu / Chifre de Carneiro | O 50º ano sagrado de libertação de escravos e reintegração integral de posses territoriais. |
 | **[[Yom Teruá]]** | Dia do Toque de Alarme / Brado | 1º dia de Tishrei; festa que prenuncia a ressurreição, o alarme militar e o retorno do Messias. |
-| **[[Yom HaKipurim]]** | Dia das Expiações | 10º dia de Tishrei; o dia mais sagrado do ano bíblico, marcado por jejum e expiação de pecados. |
-| **[[Chag Sukot]]** | Festa das Cabanas / Tabernáculos | 15 a 21 de Tishrei; festa alegre que tipifica o Reino Messiânico milenar e a habitação de Deus com os homens. |
+| **[[Yom Kippur|Yom HaKipurim]]** | Dia das Expiações | 10º dia de Tishrei; o dia mais sagrado do ano bíblico, marcado por jejum e expiação de pecados. |
+| **[[Sucot|Chag Sukot]]** | Festa das Cabanas / Tabernáculos | 15 a 21 de Tishrei; festa alegre que tipifica o Reino Messiânico milenar e a habitação de Deus com os homens. |
 | **[[Corban Pessach]]** | Oferta Pascal | O cordeiro sacrificado no dia 14 de Nissan, cumprido perfeitamente no sacrifício de Yeshua. |
 | **[[Teshuvá]]** | Retorno / Arrependimento | O ato de voltar à obediência à Torá e alinhar-se ao relógio divino antes do Dia do Juízo. |
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio do Relógio Soberano:** O Criador não age no tempo humano civil; Seus atos redentores seguem com exatidão milimétrica as engrenagens dos *Moadim* bíblicos.

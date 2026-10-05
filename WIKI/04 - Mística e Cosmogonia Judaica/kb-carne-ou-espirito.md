@@ -1,19 +1,23 @@
 ---
-title: "CARNE OU ESPIRITO?"
+title: "Carne ou espírito: o conflito entre a alma divina e a alma animal"
+titulo_original: "CARNE OU ESPIRITO?"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/INOfPAg9OL4"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia / Mística Judaica / Psicologia Espiritual"
+topic_category: "Mística e Cosmogonia Judaica"
 tags: [conflito-das-almas, nefesh-haelokit, nefesh-habehamit, kelipot, kelipat-nogah, livre-arbitrio, tikkun-olam, mesianologia]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# Carne ou Espírito: O Conflito Interno das Almas e a Retificação do Mundo
+# Carne ou espírito: o conflito entre a alma divina e a alma animal
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A tese central do conteúdo estabelece que o conflito humano entre "carne e espírito", amplamente descrito nos textos da Nova Aliança (*Berit Hadashah*), é a expressão da batalha mística entre a **Alma Divina** (*Nefesh HaElokit*) e a **Alma Animal** (*Nefesh HaBehamit*). O objetivo da criação não é a aniquilação ou a fuga do mundo material e da Alma Animal, mas o seu refinamento e domesticação (*Birur*). Através do livre arbítrio, o ser humano deve utilizar a neutralidade do mundo físico (representada pela *Kelipat Nogah*) para elevar a materialidade, transformando os instintos básicos em veículos para a santidade (*Kedushá*) e promovendo a retificação do mundo (*Tikkun Olam*).
@@ -27,7 +31,7 @@ Este conhecimento é vital para a compreensão da psicologia espiritual do homem
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Líderes e Figuras Centrais Mencionadas
 - **Yeshua HaMashiach (Jesus):** O Mashiach, cuja fé (*Emuná*) e a concessão do *Ruach HaKodesh* (Espírito Santo) fortalecem o livre arbítrio humano, capacitando a Alma Divina a subjugar a Alma Animal.
@@ -57,7 +61,7 @@ Este conhecimento é vital para a compreensão da psicologia espiritual do homem
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ### 4.1. Fundamentação da Natureza Humana Dual
 - **A Alma Divina (*Nefesh HaElokit*):**
@@ -100,21 +104,21 @@ As *Kelipot* (Cascas) são barreiras místicas que ocultam a manifestação dire
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Conceitos e Entidades Interconectadas
-- `[[Nefesh HaElokit]]`
-- `[[Nefesh HaBehamit]]`
-- `[[Kelipot]]`
-- `[[Kelipat Nogah]]`
-- `[[Tikkun Olam]]`
-- `[[Birur]]`
-- `[[Devekut]]`
-- `[[Kedushá]]`
-- `[[Yetzer HaRa e Yetzer HaTov]]`
-- `[[Berit Hadashah]]`
-- `[[Kosher / Kashrut]]`
-- `[[Shabat]]`
+- [[Nefesh HaElokit]]
+- [[Nefesh HaBehamit]]
+- [[Kelipot]]
+- [[Kelipat Nogah]]
+- [[Tikkun Olam]]
+- [[Birur]]
+- [[Devekut]]
+- [[Kedushá]]
+- [[Yetzer HaRá|Yetzer HaRa e Yetzer HaTov]]
+- [[Berit Hadashah]]
+- [[Kashrut|Kosher / Kashrut]]
+- [[Shabat]]
 
 ### Mini-Glossário de Termos Especializados
 
@@ -131,7 +135,7 @@ As *Kelipot* (Cascas) são barreiras místicas que ocultam a manifestação dire
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **O Princípio da Transformação (Não do Isolamento):** A mística judaica e o autêntico ensino apostólico não instruem o crente a odiar seu corpo ou o mundo físico, mas a utilizá-los como plataformas sagradas para revelar Deus.

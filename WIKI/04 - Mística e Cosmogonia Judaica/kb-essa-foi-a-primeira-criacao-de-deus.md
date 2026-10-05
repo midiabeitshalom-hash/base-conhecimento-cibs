@@ -1,19 +1,23 @@
 ---
-title: "ESSA FOI A PRIMEIRA CRIAÇÃO DE D'US"
+title: "A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach"
+titulo_original: "ESSA FOI A PRIMEIRA CRIAÇÃO DE D'US"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/V3HJ-CsCWKs"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia / Cabalá / Mesianologia Messiânica / Mística Judaica"
-tags: [adam-kadmon, messianismo-judaico, yeshua-hamashiach, cabala-e-escrituras, sefirot, tzimtzum, ein-sof, brit-hadasha]
+topic_category: "Mística e Cosmogonia Judaica"
+tags: [adam-kadmon, messianismo-judaico, yeshua, cabala-e-escrituras, sefirot, tzimtzum, ein-sof, berit-hadashah]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# Essa Foi a Primeira Criação de Deus: Adam Kadmon e o Mashiach
+# A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A primeira e primordial criação/emanação do Criador Infinito (*Ein Sof*) é o **Adam Kadmon** (o Homem Primordial), o arquétipo espiritual cósmico e modelo ideal através do qual toda a criação (mundos espirituais e físicos) foi estruturada e sustentada. Sob a hermenêutica judaico-messiânica apresentada, **Yeshua HaMashiach** é identificado como a manifestação histórica e encarnada do Adam Kadmon — o "primogênito de toda a criação" (*Bechor*) e a "imagem do Deus invisível" (*Tzelem Elohim HaNistar*). Consequentemente, o Mashiach atua como o mediador cósmico e o pilar de emanação de luz entre o Criador e a criação, distinguindo-se categoricamente do *Ein Sof*, o que refuta a formulação trinitária tradicional e preserva o monoteísmo estrito bíblico.
@@ -27,7 +31,7 @@ A tese busca resgatar a matriz de pensamento semítico-cabalística dos autores 
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Líderes e Figuras Centrais Mencionadas
 - **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o Rabino e Mashiach, a manifestação do Adam Kadmon, o Grão de Trigo Cósmico e a Escada Cósmica que conecta o céu (*Shamayim*) e a terra (*Malchut*).
@@ -71,7 +75,7 @@ ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ### 4.1. A Criação Primordial e o Mistério de Adam Kadmon
 - **Distinção Essencial:** É imperativo diferenciar **Adam HaRishon** (o primeiro homem biológico/terreno de Gênesis 2, moldado do pó da terra) de **Adam Kadmon** (o Homem Primordial arquetípico, gerado no plano espiritual antes da criação do universo físico).
@@ -125,24 +129,24 @@ ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Conceitos e Entidades Interconectadas
-- `[[Adam Kadmon]]`
-- `[[Adam HaRishon]]`
-- `[[Ein Sof]]`
-- `[[Tzimtzum]]`
-- `[[Sefirot]]`
-- `[[Yeshua HaMashiach]]`
-- `[[Berit Hadashah]]`
-- `[[Zohar]]`
-- `[[Sulam Ya'akov]]`
-- `[[Sha'ar HaShamayim]]`
-- `[[Even HaShetiyah]]`
-- `[[Tikkun Olam]]`
-- `[[Malchut]]`
-- `[[Tiferet]]`
-- `[[Bechor]]`
+- [[Adam Kadmon]]
+- [[Adam HaRishon]]
+- [[Ein Sof]]
+- [[Tzimtzum]]
+- [[Sefirot]]
+- [[Yeshua|Yeshua HaMashiach]]
+- [[Berit Hadashah]]
+- [[Zohar]]
+- [[Sulam Ya'akov]]
+- [[Sha'ar HaShamayim]]
+- [[Even HaShetiyah]]
+- [[Tikkun Olam]]
+- [[Malchut]]
+- [[Tiferet]]
+- [[Bechor]]
 
 ### Mini-Glossário de Termos Especializados
 
@@ -155,12 +159,12 @@ ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
 | **[[Tzelem Elohim HaNistar]]** | Imagem do Deus Oculto/Invisível | Título atribuído ao Mashiach em Colossenses 1:15 como o revelador tangível da glória divina. |
 | **[[Bechor]]** | Primogênito | Título de primazia, autoridade executiva e preexistência do Mashiach sobre toda a criação. |
 | **[[Sha'ar HaShamayim]]** | Portal dos Céus | Ponto geográfico-espiritual de convergência entre as dimensões físicas e espirituais (Monte do Templo). |
-| **[[Sulam]]** | Escada / Eixo de Ligação | Metáfora da escada de Jacó que representa a função conectora mediadora do Mashiach entre céu e terra. |
+| **[[Sulam Ya'akov|Sulam]]** | Escada / Eixo de Ligação | Metáfora da escada de Jacó que representa a função conectora mediadora do Mashiach entre céu e terra. |
 | **[[Tikkun Olam]]** | Retificação do Mundo | O processo de restauração de todas as coisas e reintegração dos mundos à harmonia divina original. |
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio do Molde Primordial:** Toda a criação foi estruturada a partir de um protótipo espiritual (*Adam Kadmon*); nada foi criado ao acaso ou sem propósito.
@@ -177,7 +181,7 @@ ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
   - [ ] Direcionar a adoração e oração suprema ao Criador (*Ein Sof* / *Avinu ShebaShamayim*), reconhecendo a autoridade e mediação de Yeshua HaMashiach.
   - [ ] Rejeitar qualquer forma de idolatria moderna (adoração a intermediários criados, astros ou forças da natureza).
 - [ ] **Integração no Grafo do Segundo Cérebro (Obsidian):**
-  - [ ] Conectar as notas de `[[Adam Kadmon]]`, `[[Yeshua HaMashiach]]`, `[[Zohar]]` e `[[Sefirot]]` no grafo de teologia bíblica.
+  - [ ] Conectar as notas de [[Adam Kadmon]], [[Yeshua|Yeshua HaMashiach]], [[Zohar]] e [[Sefirot]] no grafo de teologia bíblica.
   - [ ] Estabelecer referências cruzadas entre os textos de Gênesis 28, João 1:51 e Daniel 7.
 - [ ] **Aprofundamento em Estudos Hebraicos:**
   - [ ] Desenvolver familiaridade com o vocabulário das *Sefirot* e os termos hebraicos dos textos apostólicos em aramaico/hebraico.

@@ -1,19 +1,23 @@
 ---
-title: "LEI X GRAÇA"
+title: "Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita"
+titulo_original: "LEI X GRAÇA"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/aUba2Fgy-C0"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia / Mesianologia Bíblica / Hermenêutica da Torá / Antropologia e Soteriologia Judaico-Messiânica"
-tags: [lei-e-graca, torah, yeshua-hamashiach, mandamentos, graca, expiacao, judaismo-messianico, shabat, paulo, hebreus-10]
+topic_category: "Torá Lei e Aliança"
+tags: [lei-e-graca, tora, yeshua, mandamentos, graca, expiacao, judaismo-messianico, shabat, paulo, hebreus-10]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# Lei vs. Graça: A Eternidade da Torá, a Função dos Sacrifícios e o Propósito da Graça em Yeshua
+# Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A oposição teológica tradicional entre "Lei e Graça" é um falso dilema formulado pela teologia sistemática helenizada. A **Torá (Instrução Divina)** é eterna, preexistente ao Sinai e opera como a matriz moral cósmica desde o Éden (*Bereshit* 2:16-17; 26:5), enquanto a **Graça (*Chesed*)** não anula os mandamentos (*Mitzvot*), mas constitui o meio expiatório divino e a capacitação espiritual pelo *Ruach HaKodesh* para que o homem viva em obediência. **Yeshua HaMashiach** não veio abolir a Torá (Mateus 5:17-19), mas cumprir (*le'malei* - dar pleno sentido e elevar) o sistema sacrificial e cerimonial transitório, atuando como o antídoto definitivo contra a condenação da morte, sendo a reincidência deliberada no pecado após o conhecimento da verdade passível de severo juízo escatológico (Hebreus 10:26-29).
@@ -30,17 +34,17 @@ O estudo desconstrói o antinomismo cristão ocidental (marcionismo velado) que 
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Figuras Bíblicas e Pensadores Mencionados
-- **[[Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial que recebeu os primeiros mandamentos positivos e proibitivos no Gan Éden, cuja nudez pós-queda foi coberta pelo primeiro sacrifício animal provido por Deus.
-- **[[Caim]] e [[Abel]]:** Primeiros filhos de Adão que demonstraram a vigência pré-mosaica das leis sacrificiais e de primícias da Torá (*Bereshit* 4).
+- **[[Adam HaRishon|Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial que recebeu os primeiros mandamentos positivos e proibitivos no Gan Éden, cuja nudez pós-queda foi coberta pelo primeiro sacrifício animal provido por Deus.
+- **[[Kayin|Caim]] e [[Hevel|Abel]]:** Primeiros filhos de Adão que demonstraram a vigência pré-mosaica das leis sacrificiais e de primícias da Torá (*Bereshit* 4).
 - **[[Avraham Avinu]] (Abraão):** O patriarca que guardou e cumpriu integralmente as leis (*Torot*), mandamentos (*Mitzvot*), estatutos (*Chukim*) e juízos (*Mishpatim*) 400 anos antes do Sinai (*Bereshit* 26:5).
 - **[[Yosef HaTzaddik]] (José do Egito):** O justo que guardou o princípio de Shabat no Egito, atraindo a bênção e prosperidade na administração dos grãos.
 - **[[Moshe Rabenu]] (Moisés):** Mediador da Torá codificada no Sinai para a nação sacerdotal de Israel.
 - **[[David HaMelech]] e os Profetas:** Homens de Deus cuja regra de conduta imutável foi a Torá de Hashem.
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor de Romanos e Gálatas, frequentemente mal interpretado como antinomista, que declarou categoricamente que a Torá é *"santa, justa e boa"* (Romanos 7:12) e que a graça ensina a renunciar à impiedade (Tito 2:11-14).
-- **[[Yeshua HaMashiach]]:** O Messias de Israel que ratificou que nenhum traço da Torá passará até que o céu e a terra passem (Mateus 5:17-20).
+- **[[Yeshua|Yeshua HaMashiach]]:** O Messias de Israel que ratificou que nenhum traço da Torá passará até que o céu e a terra passem (Mateus 5:17-20).
 
 ### Textos Canônicos e Fontes Analisadas
 - **Torá (Pentateuco):**
@@ -64,7 +68,7 @@ O estudo desconstrói o antinomismo cristão ocidental (marcionismo velado) que 
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ```
        LINHA DO TEMPO DA TORÁ: DA CRIAÇÃO À ETERNIDADE
@@ -180,31 +184,31 @@ Para compreender as cartas apostólicas e a epístola aos Hebreus, é imperativo
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Padrão Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Rede de Conexões Bidirecionais
-- `[[Torá]]` (A Instrução e Revelação Divina Eterna)
-- `[[Chesed]]` (A Graça, Misericórdia e Favor Imerecido de Deus)
-- `[[Mitzvot]]` (Os Mandamentos Práticos Positivos e Proibitivos)
-- `[[Kaparrah]]` (Expiação, Cobertura e Reconciliação pelo Sangue)
-- `[[Teshuvá]]` (Arrependimento e Retorno Prático aos Caminhos de Hashem)
-- `[[Shabat]]` (O Sinal Perpétuo da Criação e Aliança)
-- `[[Shechitá]]` (O Abate Ritual Lícito e a Santidade do Sangue)
-- `[[Ruach HaKodesh]]` (O Espírito Santo / Capacitador da Obediência)
-- `[[PaRDeS]]` (O Método Quádruplo de Hermenêutica Bíblica)
-- `[[Olam Haba]]` (O Mundo Vindouro e o Reino Eterno)
+- [[Torá]] (A Instrução e Revelação Divina Eterna)
+- [[Chesed]] (A Graça, Misericórdia e Favor Imerecido de Deus)
+- [[Mitzvot]] (Os Mandamentos Práticos Positivos e Proibitivos)
+- [[Kapará|Kaparrah]] (Expiação, Cobertura e Reconciliação pelo Sangue)
+- [[Teshuvá]] (Arrependimento e Retorno Prático aos Caminhos de Hashem)
+- [[Shabat]] (O Sinal Perpétuo da Criação e Aliança)
+- [[Shechitá]] (O Abate Ritual Lícito e a Santidade do Sangue)
+- [[Ruach HaKodesh]] (O Espírito Santo / Capacitador da Obediência)
+- [[PaRDeS]] (O Método Quádruplo de Hermenêutica Bíblica)
+- [[Olam Haba]] (O Mundo Vindouro e o Reino Eterno)
 
 ### Mini-Glossário Analítico
 1. **[[Torá]] (תּוֹרָה):** Instrução ou ensino divino. Não significa "lei" no sentido romano opressivo, mas o manual de vida e santidade revelado pelo Criador.
 2. **[[Chesed]] (חֶסֶד):** Graça, benevolência e fidelidade da aliança. O favor gracioso de Deus que concede tempo e capacidade de retorno ao pecador.
-3. **[[Mitzvah]] (מִצְוָה - plural *Mitzvot*):** Mandamento divino expresso na Torá, subdividido em 248 ordens positivas (*faça*) e 365 proibições (*não faça*).
-4. **[[Kaparrah]] (כַּפָּרָה):** Cobertura e expiação. O ato sacrificial provido por Deus onde a culpa é transferida e coberta pelo sangue vicário.
-5. **[[Zachor vs. Shamor]] (זָכוֹר / שָׁמוֹר):** As duas faces do mandamento do Shabat no Decálogo: *Lembrar* a instituição criacional primordial (Êxodo 20) e *Guardar* a santidade da aliança libertadora (Deuteronômio 5).
+3. **[[Mitzvot|Mitzvah]] (מִצְוָה - plural *Mitzvot*):** Mandamento divino expresso na Torá, subdividido em 248 ordens positivas (*faça*) e 365 proibições (*não faça*).
+4. **[[Kapará|Kaparrah]] (כַּפָּרָה):** Cobertura e expiação. O ato sacrificial provido por Deus onde a culpa é transferida e coberta pelo sangue vicário.
+5. **[[Zachor e Shamor|Zachor vs. Shamor]] (זָכוֹר / שָׁמוֹר):** As duas faces do mandamento do Shabat no Decálogo: *Lembrar* a instituição criacional primordial (Êxodo 20) e *Guardar* a santidade da aliança libertadora (Deuteronômio 5).
 6. **[[Le'malei]] (לְמַלֵּאת):** Termo hebraico correspondente a "cumprir" em Mateus 5:17, significando preencher com pleno significado, vivificar e demonstrar a correta aplicação prática.
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **A Lei e a Graça São Inseparáveis:** A lei revela o padrão de santidade e expõe a transgressão; a graça perdoa o pecado passado e concede a capacitação espiritual para viver a lei no presente.

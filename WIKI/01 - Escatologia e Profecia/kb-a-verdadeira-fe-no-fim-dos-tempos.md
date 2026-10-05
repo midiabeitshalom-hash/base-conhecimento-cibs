@@ -1,19 +1,23 @@
 ---
-title: "A VERDADEIRA FÉ NO FIM DOS TEMPOS"
+title: "A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel"
+titulo_original: "A VERDADEIRA FÉ NO FIM DOS TEMPOS"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/ks4AjbU7_OM"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia Bíblica / Judaísmo Messiânico / Escatologia"
-tags: [fe-no-fim-dos-tempos, judaismo-messianico, ovelhas-perdidas, brit-hadasha, teshuva, tora-eterna, escatologia-biblica]
+topic_category: "Escatologia e Profecia"
+tags: [fe-no-fim-dos-tempos, judaismo-messianico, ovelhas-perdidas, berit-hadashah, teshuva, tora-eterna, escatologia-biblica]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# A Verdadeira Fé no Fim dos Tempos: Síntese Exaustiva de Conhecimento
+# A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A verdadeira fé (*Emuná*) para o fim dos tempos repousa sobre uma convergência inseparável de dois pilares fundamentais: a **guarda irrevogável dos mandamentos perpétuos da Torá** e a **fé/testemunho em Yeshua como o Mashiach (Messias)**. Sob a ótica profética, a Nova Aliança (*Berit Hadashah*) profetizada em Jeremias e Ezequiel nunca revogou a instrução divina, mas sim a internalizou no coração humano através do Espírito Santo (*Ruach HaKodesh*), restaurando e reunindo as doze tribos dispersas (a Casa de Israel e a Casa de Judá) sob a liderança messiânica.
@@ -27,7 +31,7 @@ A mensagem aborda a crise identitária e teológica histórica decorrente da sep
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Líderes e Figuras Centrais Mencionadas
 - **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o Rabino de Nazaré, judeu observante da Torá, que não veio ab-rogar a lei, mas cumpri-la e ensiná-la em plenitude, enviado primordialmente para resgatar as ovelhas perdidas de Israel.
@@ -71,7 +75,7 @@ ightarrow$ A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ### 4.1. Fundamentação Histórica e a Ruptura das Doze Tribos
 - **Origem e Formação:** As 12 tribos se originam dos 12 filhos de Jacó (*Ya'akov*), multiplicando-se no Egito (*Mitzraim*), redimidas sob Moshe e estabelecidas na Terra de Canaã sob Josué (*Yehoshua Bin-Nun*).
@@ -115,25 +119,25 @@ ightarrow$ A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Conceitos e Entidades Interconectadas
-- `[[Torá]]`
-- `[[Berit Hadashah]]`
-- `[[Yeshua HaMashiach]]`
-- `[[Emuná]]`
-- `[[Teshuvá]]`
-- `[[Ruach HaKodesh]]`
-- `[[Casa de Israel]]`
-- `[[Casa de Judá]]`
-- `[[Doze Tribos de Israel]]`
-- `[[Shabat]]`
-- `[[Sucot]]`
-- `[[Kashrut]]`
-- `[[Tikkun Olam]]`
-- `[[Olam Haba]]`
-- `[[Halachá]]`
-- `[[Circuncisão do Coração]]`
+- [[Torá]]
+- [[Berit Hadashah]]
+- [[Yeshua|Yeshua HaMashiach]]
+- [[Emuná]]
+- [[Teshuvá]]
+- [[Ruach HaKodesh]]
+- [[Casa de Israel]]
+- [[Casa de Judá]]
+- [[Doze Tribos de Israel]]
+- [[Shabat]]
+- [[Sucot]]
+- [[Kashrut]]
+- [[Tikkun Olam]]
+- [[Olam Haba]]
+- [[Halachá]]
+- [[Circuncisão do Coração]]
 
 ### Mini-Glossário de Termos Especializados
 
@@ -143,14 +147,14 @@ ightarrow$ A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
 | **[[Emuná]]** | Fé ativa, fidelidade, firmeza | Fé bíblica que se expressa em lealdade prática, confiança inabalável e obediência aos mandamentos. |
 | **[[Teshuvá]]** | Retorno, arrependimento | O ato deliberado de retornar aos caminhos e instruções da Torá e reconciliar-se com o Criador. |
 | **[[Ruach HaKodesh]]** | Espírito de Santidade / Espírito Santo | O Espírito divino que habita o crente, capacitador interior da obediência à Torá e guia para a verdade. |
-| **[[Kosher / Kashrut]]** | Apropriado, apto, puro | Leis dietéticas e rituais de pureza; usado metaforicamente como a dualidade exigida para a santidade escatológica. |
+| **[[Kashrut|Kosher / Kashrut]]** | Apropriado, apto, puro | Leis dietéticas e rituais de pureza; usado metaforicamente como a dualidade exigida para a santidade escatológica. |
 | **[[Tikkun Olam]]** | Reparação / Restauração do Mundo | A era de redenção plena estabelecida pelo reinado messiânico sobre a Terra. |
 | **[[Avodá]]** | Serviço, adoração, culto | O culto e a liturgia sagrada prestados a Deus nos tempos determinados (*Moedim*) e no Shabat. |
 | **[[Sod]]** | Segredo, mistério | O nível mais profundo e místico de interpretação rabínica das Escrituras (*Pardes*). |
 
 ---
 
-## 6. Síntese de Princípios e Plano de Aplicação Prática
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio da Integridade da Verdade:** Meias verdades não constituem a fé bíblica; a plenitude da fé exige doutrina integral (Torá + Mashiach).

@@ -1,19 +1,23 @@
 ---
-title: "TUDO QUE PRECISA SABER SOBRE O TEMPLO!"
+title: "Os grupos judaicos do tempo de Yeshua e o Segundo Templo"
+titulo_original: "TUDO QUE PRECISA SABER SOBRE O TEMPLO!"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/watch?v=lDmWU32hExU"
+source_type: video
 date_captured: 2026-08-17
-topic_category: "História Bíblica, Arqueologia Judaica & Judaísmo Messiânico"
+topic_category: "História Arqueologia e Identidade Judaica"
 tags: [segundo-templo, historia-do-judaismo, fariseus, saduceus, essenios, zelotes, talmud-yoma-39b, judaismo-messianico, ebionitas, nazarenos]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# TUDO QUE PRECISA SABER SOBRE O TEMPLO!
+# Os grupos judaicos do tempo de Yeshua e o Segundo Templo
 
 ---
 
-## 1. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** O judaísmo do período do Segundo Templo não era um bloco monolítico, mas um ecossistema religioso plural (Fariseus, Saduceus, Essênios, Zelotes e os primeiros discípulos de Yeshua). A fé judaico-messiânica primitiva não nasceu como uma ruptura antinômica contra a [[Torá]], mas como a continuidade natural da esperança profética de Israel, confirmada tanto pela profecia de [[Yeshua]] sobre a ruína do santuário em 70 EC quanto pelo cessamento sobrenatural dos 4 sinais miraculosos do Templo exatamente 40 anos antes de sua destruição (atestado no [[Talmud Bavli]], Tratado *Yoma 39b*).
 - **Contexto & Importância:** O estudo desconstrói o anacronismo histórico que projeta o judaísmo rabínico pós-século II ou o cristianismo gentílico pós-Constantino sobre o contexto do século I. Ele elucida como o modelo sinagogal nasceu no exílio babilônico para preservar a identidade hebraica e como as comunidades messiânicas observantes da Torá ([[Nazarenos]] e [[Ebionitas]]) sobreviveram ao longo dos séculos, mesmo sob perseguições e conversões forçadas ([[Bnei Anussim]]).
@@ -21,17 +25,17 @@ knowledge_depth: exhaustive-academic
 
 ---
 
-## 2. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Pensadores e Figuras Histórico-Bíblicas
-- **[[Arão]] (Aharon HaKohen):** Primeiro Sumo Sacerdote (*Kohen Gadol*), cuja descendência direta (*Kohanim*) recebeu a exclusividade do ministério sacerdotal e sacrificial no Tabernáculo e Templo.
-- **[[Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo de Jerusalém, complexo que integrou o culto sacrificial a câmaras de estudo e ensino da Torá.
+- **[[Aharon HaKohen|Arão]] (Aharon HaKohen):** Primeiro Sumo Sacerdote (*Kohen Gadol*), cuja descendência direta (*Kohanim*) recebeu a exclusividade do ministério sacerdotal e sacrificial no Tabernáculo e Templo.
+- **[[Shlomo HaMelech|Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo de Jerusalém, complexo que integrou o culto sacrificial a câmaras de estudo e ensino da Torá.
 - **[[Esdras]] e [[Neemias]]:** Líderes pós-exílicos que conduziram a reconstrução do Segundo Templo e consolidaram a proliferação das casas de estudo (*Sinagogas*).
-- **[[Fineias]] (Pinchas):** Sacerdote bíblico que atuou com zelo violento contra a idolatria no episódio de Zinri e Cozbi ([[Números 25]]), servindo de modelo doutrinário para os [[Zelotes]] (*Kanaim*).
-- **[[Tsadoque]] (Zadok):** Sumo sacerdote da era davídica e salomônica, de cujo nome deriva a linhagem reivindicada pelos [[Saduceus]] (*Tzadokim*).
+- **[[Pinchas|Fineias]] (Pinchas):** Sacerdote bíblico que atuou com zelo violento contra a idolatria no episódio de Zinri e Cozbi ([[Números 25]]), servindo de modelo doutrinário para os [[Zelotes]] (*Kanaim*).
+- **[[Tzadok|Tsadoque]] (Zadok):** Sumo sacerdote da era davídica e salomônica, de cujo nome deriva a linhagem reivindicada pelos [[Saduceus]] (*Tzadokim*).
 - **[[Flávio Josefo]] (Yosef ben Matityahu):** Historiador do século I EC citado como testemunha documental primária da guerra judaico-romana e da destruição do Segundo Templo em 70 EC.
-- **[[Yeshua de Nazaré]]:** O Messias de Israel, que dialogou com todas as facções religiosas do Segundo Templo, profetizou a destruição do edifício por volta do ano 30 EC e inaugurou o modelo definitivo de expiação.
-- **[[Paulo de Tarso]] (Sha'ul):** Apóstolo dos primeiros séculos, mencionado pelos relatos de perseguição e dispersão em Atos dos Apóstolos.
+- **[[Yeshua|Yeshua de Nazaré]]:** O Messias de Israel, que dialogou com todas as facções religiosas do Segundo Templo, profetizou a destruição do edifício por volta do ano 30 EC e inaugurou o modelo definitivo de expiação.
+- **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul):** Apóstolo dos primeiros séculos, mencionado pelos relatos de perseguição e dispersão em Atos dos Apóstolos.
 
 ### Textos Sagrados, Documentos Históricos e Evidências Arqueológicas
 - **[[Torá]] / Pentateuco:** Os cinco livros de Moisés, base de toda a legislação de Israel e único cânon aceito pelos saduceus.
@@ -48,7 +52,7 @@ knowledge_depth: exhaustive-academic
 
 ---
 
-## 3. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ```
 ====================================================================================================
@@ -102,7 +106,7 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 
 ---
 
-## 4. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Rede de Conexões Bidirecionais
 - [[Segundo Templo]]: Período histórico (516 a.C. a 70 EC) compreendido entre a reconstrução pós-exílio e a destruição romana.
@@ -128,7 +132,7 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 
 ---
 
-## 5. Síntese de Princípios e Aplicação Prática
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio da Pluralidade Histórica:** O judaísmo do século I era diversificado; compreender os ensinos de Yeshua exige situá-lo no diálogo e contraste com Fariseus, Saduceus, Essênios e Zelotes.
@@ -140,7 +144,7 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 
 - [ ] **Estudo Histórico e Textual:**
   - [ ] Ler passagens dos Evangelhos identificando as controvérsias com Saduceus (*Mateus 22:23-33*) e Fariseus (*Marcos 7:1-13*).
-  - [ ] Analisar o texto talmúdico de [[Yoma 39b]] em paralelo com as profecias de Yeshua em [[Mateus 24.1-2]].
+  - [ ] Analisar o texto talmúdico de [[Yoma 39b]] em paralelo com as profecias de Yeshua em [[Mateus 24.1|Mateus 24.1-2]].
 - [ ] **Purificação Conceitual da Fé:**
   - [ ] Superar o anacronismo de enxergar o Novo Testamento como uma religião romana/gentílica separada da Torá.
   - [ ] Reconhecer a linhagem histórica dos [[Nazarenos]] e [[Ebionitas]] como precursores da identidade judaico-messiânica.

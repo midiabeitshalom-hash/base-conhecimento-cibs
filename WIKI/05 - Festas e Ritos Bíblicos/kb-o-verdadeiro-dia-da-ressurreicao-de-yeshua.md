@@ -1,52 +1,57 @@
 ---
-title: "O VERDADEIRO DIA DA RESSURREIÇÃO DE YESHUA | HATESHUVA #10"
+title: "O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites"
+titulo_original: "O VERDADEIRO DIA DA RESSURREIÇÃO DE YESHUA | HATESHUVA #10"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
+programa: "HaTeshuvá #10"
 source_url: "https://youtu.be/FVfe3a95utk"
+source_type: video
 date_captured: 2026-08-18
-topic_category: "Cronologia Bíblica, Exegese dos Evangelhos & Calendário Judaico"
+topic_category: "Festas e Ritos Bíblicos"
 tags: [ressurreicao-de-yeshua, tres-dias-e-tres-noites, sinal-de-jonas, shabat-anual, dia-da-preparacao, pessach, bikurim, primicias, shabat-semanal, judaismo-messianico]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# O VERDADEIRO DIA DA RESSURREIÇÃO DE YESHUA | HATESHUVA #10
+# O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites
 
 ---
 
-## 1. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A tradição eclesiástica histórica de que [[Yeshua]] foi crucificado em uma "Sexta-Feira Santa" e ressuscitou no "Domingo de Páscoa" é matematicamente insustentável e contradiz o único sinal comprobatório de sua messianidade: o sinal do profeta Jonas de permanecer **três dias e três noites completos** (72 horas) no seio da terra ([[Mateus 12.40]]). O equívoco hermenêutico decorre do desconhecimento da distinção entre o **Shabat Semanal** (sábado) e o **Shabat Anual / Cerimonial** (*Yom Tov* / 15 de Abibe - Primeiro dia de *Chag HaMatzot*). Cronologicamente, Yeshua morreu às 15h de uma quarta-feira (14 de Abibe), foi sepultado antes do pôr do sol, permaneceu exatamente 72 horas na sepultura e ressuscitou no final da tarde do Shabat semanal (sábado antes do anoitecer), cumprindo a festa das Primícias ([[Bikurim]]).
-- **Contexto & Importância:** Esta reconstrução cronológica desmonta o principal argumento histórico utilizado pelo Império Romano e pelo cristianismo posterior para transferir a santidade do Shabat bíblico para o domingo (sob o pretexto de ser "o dia da ressurreição"). Ao harmonizar todos os quatro relatos dos Evangelhos sem contradições, o estudo devolve a precisão profética às festas bíblicas de [[Pessach]], [[Matzot]] e [[Bikurim]].
+- **Contexto & Importância:** Esta reconstrução cronológica desmonta o principal argumento histórico utilizado pelo Império Romano e pelo cristianismo posterior para transferir a santidade do Shabat bíblico para o domingo (sob o pretexto de ser "o dia da ressurreição"). Ao harmonizar todos os quatro relatos dos Evangelhos sem contradições, o estudo devolve a precisão profética às festas bíblicas de [[Pessach]], [[Chag HaMatzot|Matzot]] e [[Bikurim]].
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Requer compreensão do calendário bíblico luni-solar (o início dos dias ao pôr do sol, *Erev*), distinção entre festas anuais com status de Shabat (*Shabbaton* / *Yom Tov*) e o Shabat semanal, a contagem horária judaica do dia (hora 6ª = 12h, hora 9ª = 15h) e exegese comparada dos Evangelhos sinóticos e joanino.
 
 ---
 
-## 2. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Figuras Históricas, Patriarcas e Profetas Mencionados
 - **[[Profeta Jonas]] (Yonah HaNavi):** Referenciado pelo próprio Yeshua em [[Mateus 12.40]] como o padrão tipológico estrito de permanência no ventre do grande peixe por três dias e três noites.
-- **[[Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel, o Cordeiro Pascal (*Korban Pessach*) abatido no dia 14 de Abibe e a Primícia dos que dormem (*Bikurim*).
-- **[[Líderes do Sinédrio]] (Caifás, Fariseus e Saduceus):** As autoridades religiosas que, ironicamente, compreenderam com exatidão a profecia matemática dos três dias e exigiram de Pilatos a guarda do sepulcro até o terceiro dia ([[Mateus 27.62-64]]).
+- **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel, o Cordeiro Pascal (*Korban Pessach*) abatido no dia 14 de Abibe e a Primícia dos que dormem (*Bikurim*).
+- **[[Sinédrio|Líderes do Sinédrio]] (Caifás, Fariseus e Saduceus):** As autoridades religiosas que, ironicamente, compreenderam com exatidão a profecia matemática dos três dias e exigiram de Pilatos a guarda do sepulcro até o terceiro dia ([[Mateus 27.62|Mateus 27.62-64]]).
 - **[[Pôncio Pilatos]]:** Governador romano da Judeia que autorizou a entrega do corpo e a selagem da pedra tumular.
 - **[[José de Arimateia]] (Yosef de Arimateia):** Discípulo e membro influente que recolheu o corpo de Yeshua às pressas entre as 15h e 18h da quarta-feira para sepultá-lo antes do início do Shabat anual.
 - **[[Maria Madalena]] (Miriam de Magdala), [[Maria mãe de Tiago]] e [[Salomé]] (Shlomit):** Mulheres que testemunharam o sepultamento, compraram aromas após o Shabat anual e foram ao sepulcro no final do Shabat semanal.
 
 ### Textos Sagrados e Fontes Documentais Referenciadas
 - **[[Torá]] / Pentateuco:**
-  - *[[Levítico 23.5-11]]:* A sequência cronológica de Pessach (14 de Abibe), Chag HaMatzot (15 de Abibe - Shabat anual solene) e Bikurim (Primícias).
+  - *[[Levítico 23.5|Levítico 23.5-11]]:* A sequência cronológica de Pessach (14 de Abibe), Chag HaMatzot (15 de Abibe - Shabat anual solene) e Bikurim (Primícias).
   - *[[Levítico 23.32]]:* A definição legal do ciclo do dia bíblico: *"de uma tarde a outra tarde celebrareis o vosso Shabat"*.
-  - *[[Êxodo 12.1-6]]:* A imolação do cordeiro pascal no crepúsculo do 14º dia de Abibe/Nissã.
+  - *[[Êxodo 12.1|Êxodo 12.1-6]]:* A imolação do cordeiro pascal no crepúsculo do 14º dia de Abibe/Nissã.
 - **[[Tanakh]] (Profetas):**
   - *[[Jonas 1.17]]:* O relato histórico dos três dias e três noites de Jonas.
 - **[[Berit Hadashah]] (Novo Testamento):**
   - *[[Mateus 12.40]]:* O sinal único de Jonas (três dias e três noites no coração da terra).
   - *[[Marcos 8.31]]:* O anúncio de que *"depois de três dias ressuscitaria"*.
-  - *[[Mateus 26.26-57]]:* O jantar pascal antecipado na noite do dia 13 para 14 de Abibe e a prisão na casa de Caifás.
-  - *[[Mateus 27.1, 45-50]]:* O julgamento matutino do dia 14, as trevas da hora 6ª à 9ª (12h às 15h) e a morte de Yeshua.
-  - *[[Mateus 27.62-66]]:* A reunião dos sacerdotes no "dia seguinte à preparação" (quinta-feira, dia 15) pedindo a guarda até o 3º dia e a selagem na sexta-feira.
+  - *[[Mateus 26|Mateus 26.26-57]]:* O jantar pascal antecipado na noite do dia 13 para 14 de Abibe e a prisão na casa de Caifás.
+  - *[[Mateus 27|Mateus 27.1, 45-50]]:* O julgamento matutino do dia 14, as trevas da hora 6ª à 9ª (12h às 15h) e a morte de Yeshua.
+  - *[[Mateus 27.62|Mateus 27.62-66]]:* A reunião dos sacerdotes no "dia seguinte à preparação" (quinta-feira, dia 15) pedindo a guarda até o 3º dia e a selagem na sexta-feira.
   - *[[Marcos 16.1]]:* A compra de especiarias **após o Shabat anual** (ocorrida na sexta-feira, dia 16).
-  - *[[Lucas 23.54-56]]:* O sepultamento na véspera do Shabat anual, o preparo de especiarias e o repouso no **Shabat semanal** conforme o mandamento.
-  - *[[Mateus 28.1-6]]:* A visitação *"no fim do Shabat, quando despontava o primeiro dia da semana"* e a constatação do anjo de que Ele já havia ressuscitado.
+  - *[[Lucas 23.54|Lucas 23.54-56]]:* O sepultamento na véspera do Shabat anual, o preparo de especiarias e o repouso no **Shabat semanal** conforme o mandamento.
+  - *[[Mateus 28.1|Mateus 28.1-6]]:* A visitação *"no fim do Shabat, quando despontava o primeiro dia da semana"* e a constatação do anjo de que Ele já havia ressuscitado.
   - *[[1 Coríntios 15.20]]:* Yeshua como a primícia dos que dormem (*Bikurim*).
 
 ### Modelos Conceituais e Chaves Hermenêuticas
@@ -58,7 +63,7 @@ knowledge_depth: exhaustive-academic
 
 ---
 
-## 3. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ```
 ========================================================================================================================
@@ -80,13 +85,13 @@ knowledge_depth: exhaustive-academic
 ```
 
 ### 1. A Falácia da "Sexta-Feira ao Domingo"
-O palestrante demonstra a impossibilidade matemática e textual da contagem tradicional:
+Rav Yosef demonstra a impossibilidade matemática e textual da contagem tradicional:
 - **A Contagem Tradicional da Igreja:**
   - *Sexta-feira à tarde:* Morte e sepultamento (algumas horas da tarde = "Dia 1").
   - *Sábado:* No túmulo (Noite 1 + Dia 2).
   - *Domingo de madrugada:* Ressurreição antes do amanhecer (algumas horas da madrugada = "Noite 2 + Dia 3").
   - *Total:* 1 dia e meio / 2 noites. **Faltam 1 dia completo e 1 noite inteira** para satisfazer o sinal de Jonas.
-- **O Testemunho dos Opositores ([[Mateus 27.62-64]]):** Os líderes do Sinédrio dirigiram-se a Pilatos exigindo guardas expressamente *"até o terceiro dia"*. Eles entenderam a contagem literal de Yeshua, enquanto a tradição religiosa posterior distorceu o cômputo com sofismas de dias fracionários.
+- **O Testemunho dos Opositores ([[Mateus 27.62|Mateus 27.62-64]]):** Os líderes do Sinédrio dirigiram-se a Pilatos exigindo guardas expressamente *"até o terceiro dia"*. Eles entenderam a contagem literal de Yeshua, enquanto a tradição religiosa posterior distorceu o cômputo com sofismas de dias fracionários.
 
 ### 2. A Duplicidade de Shabatot na Semana da Paixão
 A chave hermenêutica central repousa no entendimento do calendário de [[Levítico 23]]:
@@ -138,15 +143,15 @@ A chave hermenêutica central repousa no entendimento do calendário de [[Levít
 
 ---
 
-## 4. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Rede de Conexões Bidirecionais
 - [[Sinal de Jonas]]: A única evidência profética irrefutável dada por Yeshua à Sua geração: 3 dias e 3 noites completos sepultado ([[Mateus 12.40]]).
 - [[Pessach]]: A Páscoa bíblica, celebrada no dia 14 de Abibe, data exata da morte vicária do Messias.
 - [[Chag HaMatzot]]: A Festa dos Pães Ázimos, cujo primeiro dia (15 de Abibe) é um Shabat anual cerimonial.
 - [[Bikurim]]: A Festa das Primícias, prefiguração profética da ressurreição triunfal de Yeshua como primogênito dentre os mortos.
-- [[Shabat Semanal]]: O sétimo dia bíblico da criação (*Shabat Bereshit*), dia no qual Yeshua ressuscitou antes do crepúsculo.
-- [[Shabat Anual]]: Convocação santa e feriado litúrgico (*Yom Tov*) que ocorre em datas fixas da Torá independentemente do dia da semana.
+- [[Shabat|Shabat Semanal]]: O sétimo dia bíblico da criação (*Shabat Bereshit*), dia no qual Yeshua ressuscitou antes do crepúsculo.
+- [[Shabbaton|Shabat Anual]]: Convocação santa e feriado litúrgico (*Yom Tov*) que ocorre em datas fixas da Torá independentemente do dia da semana.
 - [[Dia da Preparação]]: A véspera de um Shabat anual ou semanal dedicada ao abate pascal e arranjos culinários/domésticos.
 - [[José de Arimateia]]: Discípulo que executou o sepultamento emergencial de Yeshua antes do início do dia 15 de Abibe.
 - [[Havdalá]]: Cerimônia judaica de transição que marca o término do Shabat ao pôr do sol e o início dos dias úteis da semana.
@@ -160,7 +165,7 @@ A chave hermenêutica central repousa no entendimento do calendário de [[Levít
 
 ---
 
-## 5. Síntese de Princípios e Aplicação Prática
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio da Fidelidade Matemática da Profecia:** A palavra do Messias é exata; se Yeshua não permaneceu 72 horas (três dias e três noites) no sepulcro, o sinal de Jonas teria falhado e sua messianidade estaria invalidada.
@@ -174,8 +179,8 @@ A chave hermenêutica central repousa no entendimento do calendário de [[Levít
   - [ ] Estudar o gráfico dos dois Shabatot da semana da crucificação em [[Levítico 23]] e nos Evangelhos.
   - [ ] Abandonar a tese de "Sexta-Feira da Paixão" e "Domingo de Páscoa", compreendendo a cronologia de Quarta a Sábado.
 - [ ] **Alinhamento Exegético Pessoal:**
-  - [ ] Reler em sequência [[Mateus 27.62-66]], [[Marcos 16.1-2]], [[Lucas 23.54-56]] e [[João 20.1-17]], observando a separação entre os dias de preparação, compra de aromas e repouso.
-  - [ ] Memorizar a correlação entre as três festas de primavera ([[Pessach]], [[Matzot]], [[Bikurim]]) e a obra do Messias.
+  - [ ] Reler em sequência [[Mateus 27.62|Mateus 27.62-66]], [[Marcos 16.1|Marcos 16.1-2]], [[Lucas 23.54|Lucas 23.54-56]] e [[João 20|João 20.1-17]], observando a separação entre os dias de preparação, compra de aromas e repouso.
+  - [ ] Memorizar a correlação entre as três festas de primavera ([[Pessach]], [[Chag HaMatzot|Matzot]], [[Bikurim]]) e a obra do Messias.
 - [ ] **Afirmação e Guarda do Shabat:**
   - [ ] Reconhecer o [[Shabat]] bíblico (sétimo dia) como o memorial contínuo da criação e o dia no qual o Senhor do Shabat venceu a morte.
   - [ ] Compartilhar este entendimento cronológico com mansidão e embasamento bíblico para desmistificar tradições humanas.

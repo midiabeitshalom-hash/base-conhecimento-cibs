@@ -1,29 +1,26 @@
 ---
-title: "O Contrato de 6.000 Anos: Qual é a data de expiração da posse de Satanás sobre a Terra?"
+title: "O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus"
+titulo_original: "O Contrato de 6.000 Anos: Qual é a data de expiração da posse de Satanás sobre a Terra?"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
+programa: "HaTeshuvá"
 source_url: "https://www.youtube.com/live/aGZwdMwRs1s"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Escatologia Judaico-Messiânica, Hermenêutica Bíblica e Teologia Legal"
+topic_category: "Escatologia e Profecia"
 tags: [escatologia, judaismo-messianico, apocalipse, jubileus, goel, reintegracao-de-posse, profecias-biblicas]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
+duracao: "1h 14m 24s"
 ---
 
-# Base de Conhecimento Exaustiva: O Contrato de 6.000 Anos e a Reintegração de Posse Escatológica
-
----
-
-## 1. Metadados e Informações Gerais
-
-- **Título Original:** O Contrato de 6.000 Anos: Qual é a data de expiração da posse de Satanás sobre a Terra?
-- **Canal / Palestrante:** Congregação Israelita Beit Shalom (Programa *Ratchuvá*)
-- **Duração do Material:** 1h 14m 24s
-- **URL da Fonte:** [https://www.youtube.com/live/aGZwdMwRs1s](https://www.youtube.com/live/aGZwdMwRs1s)
-- **Área Temática:** Teologia Bíblica, Escatologia Judaico-Messiânica, Hermenêutica Toráica, Jurisprudência e Direito de Posse no Antigo Oriente Próximo.
+# O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A história da redenção cósmica e o livro de Apocalipse (*Hitgalut*) constituem um processo jurídico-formal de reintegração de posse da Terra sob as leis fundiárias da Torá (*Vayicrá* / Levítico 25). A humanidade recebeu uma concessão temporal limitada de 6.000 anos — decodificada como 120 ciclos de Jubileu (*Yovelim*) a partir de Bereshit / Gênesis 6:3 — durante a qual o adversário (*HaSatan*) atuou como posseiro ilegítimo após a queda de Adão. O rompimento dos sete selos, o toque dos sete *shofarot* e o soar da "Última Trombeta" no décimo dia do sétimo mês (*Yom Kippur*) do 120º Jubileu marcam a expulsão compulsória do usurpador e a devolução definitiva da herança cósmica ao legítimo Herdeiro e Parente Redentor (*Goel*), *Yeshua HaMashiach*.
@@ -40,18 +37,18 @@ A tese desmistifica a escatologia apocalíptica ocidental moderna (frequentement
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Figuras Bíblicas e Autoridades Mencionadas
-- **[[Adam]] (Adão / Primeiro Homem):** Administrador fiduciário original da Terra (Gn 2:15); perdeu o domínio legal por rebelião.
+- **[[Adam HaRishon|Adam]] (Adão / Primeiro Homem):** Administrador fiduciário original da Terra (Gn 2:15); perdeu o domínio legal por rebelião.
 - **[[Avraham Avinu]] (Abraão):** Pai da fé monoteísta; chamado profeticamente no ano ~2000 após a criação (40º Jubileu).
 - **[[Moshe Rabenu]] (Moisés):** Protótipo do redentor; viveu 120 anos divididos precisamente em 3 ciclos de 40 anos (Egito, Midiã, Deserto).
-- **[[Eliyahu HaNavi]] (Profeta Elias):** Figura profética associada ao jejum de 40 dias e à restauração escatológica.
+- **[[Profeta Elias|Eliyahu HaNavi]] (Profeta Elias):** Figura profética associada ao jejum de 40 dias e à restauração escatológica.
 - **[[David HaMelech]] e Dinastia Real:** Saul (40 anos), Davi (40 anos) e Salomão (40 anos) como o ápice monárquico unitário.
-- **[[Yirmeyahu]] (Jeremias):** Profeta que executou a compra legal e selamento do campo de Hanamel (Jr 32), modelo direto do rolo de Apocalipse 5.
+- **[[Profeta Jeremias|Yirmeyahu]] (Jeremias):** Profeta que executou a compra legal e selamento do campo de Hanamel (Jr 32), modelo direto do rolo de Apocalipse 5.
 - **[[Iyov]] (Jó):** O sofredor que declara a fé no *Goel* vivo que se levantará sobre a terra (Jó 19:25).
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor de passagens escatológicas chave sobre a "Última Trombeta" e a ressurreição (1Co 15:51-52; 1Ts 4:16).
-- **[[Yeshua HaMashiach]]:** O Redentor definitivo sob dois aspectos proféticos: *Mashiach ben Yosef* (o servo sofredor) e *Mashiach ben David* (o Rei herdeiro e juiz reinante).
+- **[[Yeshua|Yeshua HaMashiach]]:** O Redentor definitivo sob dois aspectos proféticos: *Mashiach ben Yosef* (o servo sofredor) e *Mashiach ben David* (o Rei herdeiro e juiz reinante).
 
 ### Textos Canônicos e Documentos Analisados
 - **Torá (Pentateuco):**
@@ -73,7 +70,7 @@ A tese desmistifica a escatologia apocalíptica ocidental moderna (frequentement
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ```
        LINHA DO TEMPO DOS 6.000 ANOS (120 JUBILEUS)
@@ -182,21 +179,21 @@ A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Termos Fundamentais e WikiLinks
-- `[[Goel]]` (Parente Redentor)
-- `[[Yovel]]` (Ano do Jubileu - Ciclo de 50 anos)
-- `[[Shemitá]]` (Ano Sabático de Repouso da Terra - Ciclo de 7 anos)
-- `[[PaRDeS]]` (Metodologia Quádrupla de Hermenêutica Bíblica)
-- `[[Hitgalut]]` (Livro de Apocalipse / A Revelação)
-- `[[Shofar HaGadol]]` (O Grande Shofar / A Última Trombeta)
-- `[[Mashiach ben Yosef]]` (O Messias Servo Sofredor)
-- `[[Mashiach ben David]]` (O Messias Rei Conquistador)
-- `[[Yom Kippur]]` (Dia da Expiação / Data Legal do Jubileu)
-- `[[Teshuvá]]` (Arrependimento / Retorno à Aliança)
-- `[[Akadosh Baruch Hu]]` (O Santo, Bendito Seja Ele)
-- `[[Nachalah]]` (Herança Territorial Tribal Inalienável)
+- [[Goel]] (Parente Redentor)
+- [[Yovel]] (Ano do Jubileu - Ciclo de 50 anos)
+- [[Shemitá]] (Ano Sabático de Repouso da Terra - Ciclo de 7 anos)
+- [[PaRDeS]] (Metodologia Quádrupla de Hermenêutica Bíblica)
+- [[Hitgalut]] (Livro de Apocalipse / A Revelação)
+- [[Shofar HaGadol]] (O Grande Shofar / A Última Trombeta)
+- [[Mashiach ben Yosef]] (O Messias Servo Sofredor)
+- [[Mashiach ben David]] (O Messias Rei Conquistador)
+- [[Yom Kippur]] (Dia da Expiação / Data Legal do Jubileu)
+- [[Teshuvá]] (Arrependimento / Retorno à Aliança)
+- [[Akadosh Baruch Hu]] (O Santo, Bendito Seja Ele)
+- [[Nachalah]] (Herança Territorial Tribal Inalienável)
 
 ### Mini-Glossário Analítico
 1. **[[Goel]] (גואל):** Parente consanguíneo legalmente capacitado e obrigado pela Torá a pagar o resgate patrimonial de um familiar empobrecido ou vingar o sangue derramado. Tipologia central de *Yeshua* como resgatador da criação.
@@ -208,7 +205,7 @@ A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Invariantes
 1. **A Criação é Propriedade Fiduciária:** Nenhuma autoridade humana ou espiritual possui soberania absoluta e definitiva sobre a Terra; todo domínio temporal é uma concessão fiduciária que deve prestar contas ao Criador.

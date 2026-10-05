@@ -1,19 +1,23 @@
 ---
-title: "PROSTRAR É ADORAR? | AS RELIGIÕES NÃO QUEREM QUE VOCÊ SAIBA DISSO"
+title: "Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico"
+titulo_original: "PROSTRAR É ADORAR? | AS RELIGIÕES NÃO QUEREM QUE VOCÊ SAIBA DISSO"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/0-Lj-oNTFfE"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia / Mesianologia Messiânica / Hermenêutica Bíblica"
-tags: [adoracao, prostrar, monoteismo, yeshua, proskyneo, septuaginta, brit-hadasha]
+topic_category: "Mesianologia e Natureza do Messias"
+tags: [adoracao, prostrar, monoteismo, yeshua, proskyneo, septuaginta, berit-hadashah]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# Prostrar é Adorar? O Significado Original da Adoração e o Monoteísmo Bíblico
+# Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 O ato de prostrar-se (*proskyneo* no grego, *hishtachavah* no hebraico) representa historicamente um gesto de reverência, respeito e submissão a uma autoridade, não sendo sinônimo automático de adoração divina. A tese central defende que traduções bíblicas ocidentais frequentemente distorcem textos da Nova Aliança (*Berit Hadashah*) ao traduzir o ato de reverência a Yeshua HaMashiach como "adoração", ocultando a verdade do monoteísmo estrito judaico, no qual a adoração pertence única e exclusivamente ao Criador Infinito (*Hashem* / o Pai).
@@ -27,7 +31,7 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Pesquisadores e Pensadores Mencionados
 - **Yeshua HaMashiach:** Apresentado não como o recebedor final da adoração divina, mas como o Ungido de Deus (*Mashiach*) que ensina a adoração exclusiva ao Pai, sendo ele próprio um adorador submisso ao seu Deus e Pai.
@@ -46,7 +50,7 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ### 4.1. A Identidade de Yeshua e o Testemunho dos Emissários
 - **A Unção e o Poder (Atos 10:38-43):**
@@ -81,32 +85,32 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Conceitos e Entidades Interconectadas
-- `[[Monoteísmo Judaico]]`
-- `[[Yeshua HaMashiach]]`
-- `[[Proskyneo]]`
-- `[[Hishtachavah]]`
-- `[[Septuaginta]]`
-- `[[Berit Hadashah]]`
-- `[[Tanakh]]`
-- `[[Avodá]]`
-- `[[Dogma Trinitário]]`
+- [[Monoteísmo Estrito|Monoteísmo Judaico]]
+- [[Yeshua|Yeshua HaMashiach]]
+- [[Proskynesis|Proskyneo]]
+- [[Hishtachavah]]
+- [[Septuaginta]]
+- [[Berit Hadashah]]
+- [[Tanakh]]
+- [[Avodá]]
+- [[Trindade|Dogma Trinitário]]
 
 ### Mini-Glossário de Termos Especializados
 
 | Termo Original | Significado Literal | Definição no Contexto |
 | :--- | :--- | :--- |
-| **[[Proskyneo]]** | Beijar a mão de / Inclinar-se (Grego) | Palavra grega usada na Bíblia para reverência, submissão a autoridades, ou adoração, dependendo do contexto. Frequentemente mal traduzida como "adorar" ao invés de "prostrar-se". |
+| **[[Proskynesis|Proskyneo]]** | Beijar a mão de / Inclinar-se (Grego) | Palavra grega usada na Bíblia para reverência, submissão a autoridades, ou adoração, dependendo do contexto. Frequentemente mal traduzida como "adorar" ao invés de "prostrar-se". |
 | **[[Hishtachavah]]** | Prostrar-se / Curvar-se (Hebraico) | Raiz verbal hebraica usada no Tanakh para descrever o ato de colocar o rosto em terra por respeito a figuras de liderança ou a Deus. |
-| **[[Septuaginta (LXX)]]** | A Versão dos Setenta | Antiga tradução do Antigo Testamento hebraico para o grego clássico, servindo de elo lexical para o entendimento dos termos no Novo Testamento. |
+| **[[Septuaginta|Septuaginta (LXX)]]** | A Versão dos Setenta | Antiga tradução do Antigo Testamento hebraico para o grego clássico, servindo de elo lexical para o entendimento dos termos no Novo Testamento. |
 | **[[Mashiach]]** | Ungido (Hebraico) | Indivíduo comissionado, empoderado e autorizado por Deus para cumprir a redenção e ensinar a correta adoração (*Avodá*) ao Criador. |
 | **[[Teofania]]** | Manifestação Divina | Aparições de emissários divinos no Antigo Testamento; o texto esclarece que prostrar-se a eles era reverência ao emissário ou a quem o enviou, não idolatria. |
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **Princípio do Monoteísmo Absoluto:** A adoração espiritual e o serviço sagrado pertencem única e exclusivamente a Hashem (O Pai). Ninguém, nem o Mashiach nem os anjos, compartilha dessa adoração final.
@@ -124,4 +128,4 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
   - [ ] Prestar honra, reverência, respeito e obediência à autoridade do Mashiach Yeshua, compreendendo-o como o Rei ungido e mediador de Deus, mas sem cruzar a linha da adoração monoteísta.
 - [ ] **Atualização do Grafo de Conhecimento (Segundo Cérebro):**
   - [ ] Criar notas para a diferença conceitual entre "Reverência Regial" e "Adoração Divina".
-  - [ ] Linkar a raiz de *Proskyneo* com o uso da `[[Septuaginta]]` no `[[Tanakh]]` (Ex: Gênesis 18:2, 33:3, 42:6).
+  - [ ] Linkar a raiz de *Proskyneo* com o uso da [[Septuaginta]] no [[Tanakh]] (Ex: Gênesis 18:2, 33:3, 42:6).

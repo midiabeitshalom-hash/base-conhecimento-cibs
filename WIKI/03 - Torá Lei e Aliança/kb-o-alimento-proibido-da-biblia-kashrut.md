@@ -1,19 +1,23 @@
 ---
-title: "O ALIMENTO PROIBIDO DA BÍBLIA! 'ERAM USADOS EM IDOLATRIA'"
+title: "O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares"
+titulo_original: "O ALIMENTO PROIBIDO DA BÍBLIA! 'ERAM USADOS EM IDOLATRIA'"
+origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
+autor_do_estudo: "Rav Yosef"
 source_url: "https://www.youtube.com/live/_nukqYdnUBM"
+source_type: live
 date_captured: 2026-08-18
-topic_category: "Teologia / Mesianologia Bíblica / Kashrut & Leis Dietéticas da Torá / Escatologia Judaica"
-tags: [kashrut, alimentacao-biblica, porco, torah, yeshua, leis-dieteticas, judaismo-messianico, atos-10, levitico-11, isaias-66]
+topic_category: "Torá Lei e Aliança"
+tags: [kashrut, alimentacao-biblica, porco, tora, yeshua, leis-dieteticas, judaismo-messianico, atos-10, levitico-11, isaias-66]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---
 
-# O Alimento Proibido da Bíblia: Kashrut, Espiritualidade da Nutrição e o Juízo Escatológico
+# O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares
 
 ---
 
-## 2. Síntese Executiva e Tese Central
+## Síntese Executiva e Tese Central
 
 ### Tese Central / Premissa Maior
 A alimentação nas Escrituras não é uma questão meramente biológica ou de saúde secular, mas um **ato de impacto ontológico e espiritual que abre portais para a vida ou para a morte**. Desde a queda no Éden (*Bereshit* 3) até o juízo final em Isaías 66 e Apocalipse 2, a transgressão dietética voluntária contra os mandamentos da Torá (*Vayicrá* / Levítico 11) contamina diretamente a alma (*Néfesh*) com impureza espiritual (*Tum'ah*), tornando o ser humano espiritualmente abominável e atraindo o juízo escatológico. A tese demonstra que nem **Yeshua HaMashiach** (Mateus 5:17-19; Mateus 15) nem os apóstolos (a visão alegórica do lençol de Pedro em Atos 10 e o decreto de Atos 15) jamais aboliram ou purificaram carnes imundas (como porco, sangue, animais sufocados e frutos do mar), sendo a sua liberação um desvio doutrinário e sincretista imposto posteriormente pelo cristianismo helenizado.
@@ -30,16 +34,16 @@ A análise desmascara sofismas teológicos ocidentais que distorcem passagens do
 
 ---
 
-## 3. Mapeamento de Entidades, Fontes e Referências Citadas
+## Mapeamento de Entidades, Fontes e Referências Citadas
 
 ### Autores, Figuras Bíblicas e Pensadores Citados
-- **[[Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial cuja queda e introdução da morte no cosmos decorreu diretamente de uma transgressão dietética de mandamento proibitivo (*Bereshit* 2–3).
+- **[[Adam HaRishon|Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial cuja queda e introdução da morte no cosmos decorreu diretamente de uma transgressão dietética de mandamento proibitivo (*Bereshit* 2–3).
 - **[[Noach]] (Noé):** Patriarca que recebeu a distinção pré-mosaica entre animais puros (7 casais) e impuros (1 casal) e a autorização de consumo de carne com proibição estrita de sangue (*Bereshit* 7:2; 9:3-4).
 - **[[Moshe Rabenu]] (Moisés):** Mediador da Torá que codificou os critérios biológicos e espirituais dos animais permitidos e proibidos (*Levítico 11*; *Deuteronômio 14*).
-- **[[Yeshayahu HaNavi]] (Profeta Isaías):** Profeta que registrou a condenação escatológica com fogo e espada contra aqueles que comem carne de porco, rato e caldo de abominações (Isaías 65:2-5; 66:15-17).
-- **[[Yeshua HaMashiach]]:** O Messias de Israel que ratificou a validade eterna de cada letra da Torá (Mateus 5:17-20) e desmascarou o farisaísmo da tradição de lavagem de mãos (Mateus 15).
-- **[[Kefa]] (Apóstolo Pedro):** Apóstolo que teve a visão do lençol (Atos 10), cuja interpretação dada pelo próprio apóstolo é que a visão se referia ao acolhimento de gentios, e não à purificação de animais imundos.
-- **[[Cornelius]] (Cornélio):** O centurião gentio temente a Deus cujas orações e esmolas subiram perante o Criador, sendo recebido na comunidade messiânica.
+- **[[Profeta Isaías|Yeshayahu HaNavi]] (Profeta Isaías):** Profeta que registrou a condenação escatológica com fogo e espada contra aqueles que comem carne de porco, rato e caldo de abominações (Isaías 65:2-5; 66:15-17).
+- **[[Yeshua|Yeshua HaMashiach]]:** O Messias de Israel que ratificou a validade eterna de cada letra da Torá (Mateus 5:17-20) e desmascarou o farisaísmo da tradição de lavagem de mãos (Mateus 15).
+- **[[Shimon Kefa|Kefa]] (Apóstolo Pedro):** Apóstolo que teve a visão do lençol (Atos 10), cuja interpretação dada pelo próprio apóstolo é que a visão se referia ao acolhimento de gentios, e não à purificação de animais imundos.
+- **[[Cornélio|Cornelius]] (Cornélio):** O centurião gentio temente a Deus cujas orações e esmolas subiram perante o Criador, sendo recebido na comunidade messiânica.
 - **[[Bil'am]] (Balaão) e [[Izevel]] (Jezabel):** Arquétipos bíblicos da sedução para o pecado alimentar idolátrico e prostituição espiritual (Números 25; Apocalipse 2:14, 20).
 
 ### Textos Canônicos e Fontes Analisadas
@@ -63,7 +67,7 @@ A análise desmascara sofismas teológicos ocidentais que distorcem passagens do
 
 ---
 
-## 4. Decomposição Analítica Exaustiva e Cronológica
+## Decomposição Analítica Exaustiva
 
 ```
        A EVOLUÇÃO DA DIETA HUMANA NAS ESCRITURAS
@@ -175,23 +179,23 @@ O argumento cristão de que o Antigo Testamento caducou e que o consumo de carne
 
 ---
 
-## 5. Glossário e Rede de Conexões Bidirecionais (Padrão Obsidian / WikiLinks)
+## Glossário e Rede de Conexões
 
 ### Rede de Conexões Bidirecionais
-- `[[Kashrut]]` (As Leis Dietéticas e de Aptidão da Torá)
-- `[[Kosher]]` (Alimento Puro, Apto e Lícito)
-- `[[Shechitá]]` (O Método Bíblico de Abate por Degola)
-- `[[Tum'ah]]` (Impureza Espiritual / Bloqueio da Luz Divina)
-- `[[Taharah]]` (Pureza e Santidade Ritual)
-- `[[PaRDeS]]` (Metodologia Quádrupla de Hermenêutica Bíblica)
-- `[[Netilat Yadayim]]` (Tradição Rabínica da Lavagem Ritual das Mãos)
-- `[[Bnei Noach]]` (A Doutrina das Leis Noéticas e suas Limitações)
-- `[[Teshuvá]]` (Retorno e Arrependimento Prático aos Mandamentos)
-- `[[Hitgalut]]` (Livro de Apocalipse / Revelação Escatológica)
+- [[Kashrut]] (As Leis Dietéticas e de Aptidão da Torá)
+- [[Kashrut|Kosher]] (Alimento Puro, Apto e Lícito)
+- [[Shechitá]] (O Método Bíblico de Abate por Degola)
+- [[Tum'ah]] (Impureza Espiritual / Bloqueio da Luz Divina)
+- [[Taharah]] (Pureza e Santidade Ritual)
+- [[PaRDeS]] (Metodologia Quádrupla de Hermenêutica Bíblica)
+- [[Netilat Yadayim]] (Tradição Rabínica da Lavagem Ritual das Mãos)
+- [[Bnei Noach]] (A Doutrina das Leis Noéticas e suas Limitações)
+- [[Teshuvá]] (Retorno e Arrependimento Prático aos Mandamentos)
+- [[Hitgalut]] (Livro de Apocalipse / Revelação Escatológica)
 
 ### Mini-Glossário Analítico
 1. **[[Kashrut]] (כַּשְׁרוּת):** Sistema legal da Torá que regulamenta os alimentos permitidos e proibidos, bem como os métodos de preparo, separação e consumo adequados para o povo da aliança.
-2. **[[Kosher]] (כָּשֵׁר):** Literalmente "apto" ou "adequado". Designa qualquer produto, carne ou bebida que atenda integralmente às exigências da lei bíblica e da fiscalização haláchica.
+2. **[[Kashrut|Kosher]] (כָּשֵׁר):** Literalmente "apto" ou "adequado". Designa qualquer produto, carne ou bebida que atenda integralmente às exigências da lei bíblica e da fiscalização haláchica.
 3. **[[Shechitá]] (שְׁחִיטָה):** O método tradicional e indolor de abate de animais puros mediante um corte rápido e preciso na traqueia e no esôfago, garantindo o escoamento total do sangue.
 4. **[[Tum'ah]] (טוּמְאָה):** Estado de impureza espiritual e metafísica que afeta a alma e o corpo após contato com a morte, alimentos proibidos ou transgressões morais.
 5. **[[Taharah]] (טָהֳרָה):** Estado de pureza, limpidez espiritual e alinhamento com a presença divina (*Shechinah*).
@@ -199,7 +203,7 @@ O argumento cristão de que o Antigo Testamento caducou e que o consumo de carne
 
 ---
 
-## 6. Síntese de Princípios e Aplicação Prática (Framework / Checklist)
+## Síntese de Princípios e Aplicação Prática
 
 ### Princípios Fundamentais Extraídos
 1. **A Nutrição é um Ato de Culto:** Não existe divisão entre espiritualidade e biologia; o que o crente ingere edifica seu templo corpóreo para a habitação do Espírito ou o profana com abominação.
