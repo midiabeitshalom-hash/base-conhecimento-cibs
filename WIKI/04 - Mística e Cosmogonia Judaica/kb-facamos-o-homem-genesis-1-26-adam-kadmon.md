@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A expressão plural *"Na'assê Adam"* ("Façamos o homem à nossa imagem e semelhança" — [[Gênesis 1.26]]) não indica uma Trindade ontológica de pessoas divinas co-iguais, mas o diálogo do Criador ([[Akadosh Baruch Hu]]) com o arquétipo espiritual cósmico da criação: o [[Adam Kadmon]] (o Homem Primordial), que é o próprio molde e ideia espiritual do [[Mashiach]] pré-existente no plano divino. O universo emanou a partir do processo de autocontração divina ([[Tzimtzum]]) e estruturou-se em quatro mundos (*Atzilut*, *Beriá*, *Yetzirá*, *Assiá*); [[Yeshua]] é a manifestação histórica em carne desse protótipo divino, atuando como o vaso/lâmpada supremo (*Kli*) capaz de suportar a Luz Oculta primordial ([[Or HaGanuz]]) e mediar a restauração do homem caído ao estado adâmico original.
-- **Contexto & Importância:** O estudo soluciona uma das mais antigas controvérsias exegéticas entre o judaísmo rabínico e a teologia cristã. Ao harmonizar a Cabala cosmológica clássica (Isaac Luria, Zohar) com os textos da [[Berit Hadashah]] (as epístolas paulinas e o Apocalipse), a aula oferece uma compreensão do Messias que preserva o monoteísmo estrito da [[Torá]], refuta a deificação romana/trinitária e elucida a mecânica espiritual da redenção.
+- **Contexto & Importância:** O estudo soluciona uma das mais antigas controvérsias exegéticas entre o judaísmo rabínico e a teologia cristã. Ao harmonizar a Cabala cosmológica clássica (Isaac Luria, Zohar) com os textos da [[Berit Hadashah]] (as epístolas paulinas e o Apocalipse), o estudo oferece uma compreensão do Messias que preserva o monoteísmo estrito da [[Torá]], refuta a deificação romana/trinitária e elucida a mecânica espiritual da redenção.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Requer compreensão da cosmogonia cabalística (*Ein Sof*, *Tzimtzum*, as 4 dimensões dos mundos, *Or HaGanuz*), distinção entre *Adam HaRishon* (o Adão terreno decaído) e *Adam Kadmon* (o arquétipo cósmico espiritual), além do conceito haláchico-místico de expiação pela morte do justo (*Kaparot*).
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Bíblicas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Adam HaRishon]] (O Primeiro Adão):** Criado à semelhança do molde de Adam Kadmon; ao transgredir o limite no Éden, perdeu o domínio teocrático e passou a gerar descendência à sua imagem decaída ([[Gênesis 5.3]]).
 - **[[Avraham Avinu|Abraão]] (Avraham Avinu):** Pai da fé que, no sacrifício de Isaque no Monte Moriá ([[Gênesis 22]]), visualizou a tipologia profética do Cordeiro que Deus proveria (*"Viu o meu dia e alegrou-se"* — [[João 8.56]]).
 - **[[Yitzchak Avinu|Isaque]] (Yitzchak):** O filho da promessa cuja amarração (*Akedá*) prefigurou a entrega voluntária do justo no madeiro.
@@ -36,16 +38,18 @@ knowledge_depth: exhaustive-academic
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que utilizou categorias da mística judaica de Adam Kadmon para formular a relação entre o primeiro Adão (alma vivente) e o último Adão (espírito vivificante) em Romanos 5 e 1 Coríntios 15.
 - **[[Profeta Daniel]]:** Citado pela profecia do encerramento e selamento das visões até o tempo do fim, quando o conhecimento místico e profético seria destrancado ([[Daniel 12|Daniel 12.4, 9-10]]).
 
-### Textos Sagrados, Literatura Mística e Fontes Documentais
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Gênesis 1.26]]:* *"Na'assê Adam be-tsalmênu kidmutênu"* ("Façamos o homem à nossa imagem, conforme a nossa semelhança").
   - *[[Gênesis 2.16|Gênesis 2.16-17]]:* O mandamento edênico e o estabelecimento do arbítrio com consequências de causa e efeito.
   - *[[Gênesis 3.15]]:* O *Protoevangelho* — a promessa da semente da mulher que esmagaria a cabeça da serpente.
   - *[[Gênesis 5.3]]:* O registro de que Adão decaído gerou um filho à sua própria imagem e semelhança corruptível.
   - *[[Gênesis 22|Gênesis 22.1-14]]:* O episódio da *Akedá* (a amarração de Isaque) e a provisão do carneiro no arbusto.
-- **[[Tanakh]] (Profetas e Escritos):**
+- *Nevi'im:*
+  - Sem referência específica citada.
+- *Ketuvim:* (parte do [[Tanakh]])
   - *[[Daniel 12|Daniel 12.4, 9-10]]:* A revelação do conhecimento oculto e a purificação dos justos nos tempos finais.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[João 1|João 1.1-14]]:* O Verbo/Palavra primordial que se faz carne.
   - *[[João 8.56|João 8.56-58]]:* *"Antes que Abraão existisse, Eu Sou"* e a visão de Abraão sobre o dia do Messias.
   - *[[João 14.8|João 14.8-9]]:* O diálogo com Filipe (*"Quem me vê a mim, vê o Pai"* — o Messias como a lâmpada que projeta a Luz invisível).
@@ -54,12 +58,26 @@ knowledge_depth: exhaustive-academic
   - *[[Colossenses 2.9]]:* A plenitude corporal da presença divina (*Elohut*) habitando no Messias.
   - *[[1 Timóteo 2.5]]:* A distinção categórica: *"Um só Deus, e um só Mediador entre Deus e os homens, Yeshua o Messias, homem"*.
   - *[[Apocalipse 21.23]]:* A Cidade Santa que *"não necessita de sol nem de lua... porque a glória de Deus a ilumina, e o Messias é a sua lâmpada"*.
+
+**Literatura rabínica e judaica**
+- *Moed Katan 28a* ([[Talmud Bavli]]): fonte talmúdica do princípio de que a morte do justo expia pela geração ([[Mitat Tzaddikim Mechaperet]]), base da leitura da morte de Yeshua no madeiro.
+- [[Zohar]] e a Cabala cosmológica de Isaac Luria ([[Arizal]]): o quadro do *Tzimtzum*, do *Adam Kadmon* e dos quatro mundos que o estudo harmoniza com a *Berit Hadashah*.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Cosmologia do *Big Bang*: citada como paralelo físico do *Tzimtzum*, o "botão de start" a partir do qual a criação se desdobra em níveis (ver Decomposição, seção 1).
+
+**Ferramentas e modelos conceituais**
 - **Conceitos da Cosmogonia e Mística Cabalística:**
   - *[[Tzimtzum]]:* A doutrina da autocontração e retração do infinito (*Ein Sof*) para criar o espaço primordial (*Chalal Panui*).
   - *[[Arba'ah Olamot|Quatro Mundos da Criação]]:* *Atzilut* (Emanação), *Beriá* (Criação), *Yetzirá* (Formação) e *Assiá* (Ação/Mundo Físico).
   - *[[Or Ein Sof]] & [[Or HaGanuz]]:* A Luz Infinita incriada e a Luz Primordial Oculta filtrada através das esferas.
   - *[[Adam Kadmon]]:* O Homem Primordial arquetípico, o primeiro estágio de manifestação da luz após o Tzimtzum.
   - *[[Mitat Tzaddikim Mechaperet|Kaparot / Morte do Justo]]:* Princípio talmúdico (*Moed Katan 28a*) segundo o qual a morte de um Tzadik opera expiação vicária pela geração.
+- **A Luz e a Lâmpada:** Deus como a Luz Infinita (*Or Ein Sof*) e o Messias como a lâmpada (*Kli*) que a torna visível sem destruir a criação (Apocalipse 21.23; João 14.9).
+- **Arbítrio com consequências × livre-arbítrio irrestrito:** a liberdade dada no Éden é real, mas cada escolha vem ligada à consequência que Deus estabeleceu (Gênesis 2.16-17).
 
 ---
 
@@ -146,6 +164,19 @@ O estudo culmina na definição rigorosa da natureza do Messias:
 - [[Kapará|Kaparot]]: O sistema e princípio jurídico-espiritual de expiação e cobertura de pecados, consumado na morte do justo Yeshua.
 - [[Torá]]: A instrução e matriz dos mandamentos divinos presente desde o Éden.
 - [[Apocalipse 21.23]]: Texto profético que define Deus como a Luz e o Messias como a Lâmpada da Nova Jerusalém.
+
+**Notas relacionadas na base:**
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — descreve o Adam Kadmon como primeira emanação e o liga às *Sefirot* e à escada de Jacó.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — desenvolve a luz oculta e a imagem do Messias como lâmpada, usadas aqui para ler João 14.9.
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — refuta a leitura trinitária do plural de Gênesis 1.26 pelo mesmo caminho do Adam Kadmon.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — sustenta o "Messias, homem" de 1 Timóteo 2.5 que fecha esta nota.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — conta a história da deificação romana que esta nota refuta pela exegese.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — aprofunda a expiação pela morte do justo e a semente que esmaga a serpente de Gênesis 3.15.
+- [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — detalha os quatro mundos pelos quais a luz é filtrada depois do *Tzimtzum*.
+- [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]] — mostra a hibridização da marca como ataque à imagem divina (*Tzelem Elohim*) de Gênesis 1:26 tratada aqui.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — desfaz outro argumento usado para divinizar Yeshua: a prostração lida como adoração.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — mostra a imagem decaída de Gênesis 5.3 e a restauração do homem ao molde do Adam Kadmon descrito aqui.
+- [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — lê o homem de Gênesis 1:26-27 como imagem e microcosmo dos quatro mundos.
 
 ### Mini-Glossário Técnico-Místico
 1. **[[Tzimtzum]] (Autocontração):** Conceito formulado na mística luriânica que descreve a retração voluntária da Luz Infinita de Deus para gerar um espaço vazio conceitual onde a criação finita e o livre-arbítrio pudessem coexistir.

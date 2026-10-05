@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** As visões apocalípticas de [[Daniel 7]] (os Quatro Animais) e [[Daniel 2]] (a Estátua dos Quatro Metais de Nabucodonosor) traçam um mapa geopolítico e espiritual contínuo da história humana, onde o Quarto Império (Romano-Otomano / Ocidente Católico-Protestante e Oriente Islâmico) teve uma sobrevida secular que perseguiu os santos, mudou os tempos sagrados e a Lei ([[Torá]]). O tempo presente marca o clímax escatológico em que a "Pedra cortada sem mãos" (o Reino Messiânico de [[Yeshua]]) atinge os pés de ferro e barro, convocando o remanescente semítico assimilado a romper com a Babilônia religiosa sincrética ([[Apocalipse 18.4]]) em autêntica [[Teshuvá]].
-- **Contexto & Importância:** O conteúdo resgata a hermenêutica judaica clássica ([[PaRDeS]]) para decodificar profecias que fluem do mundo espiritual (*Sod*) para o mundo material (*Peshat*), superando interpretações literalistas rasas. Demonstra que as grandes estruturas religiosas ocidentais (catolicismo e protestantismo histórico/evangélico) e orientais (islã) compartilham a mesma matriz do Quarto Império de supressão da Torá e do Shabat.
+- **Contexto & Importância:** O estudo resgata a hermenêutica judaica clássica ([[PaRDeS]]) para decodificar profecias que fluem do mundo espiritual (*Sod*) para o mundo material (*Peshat*), superando interpretações literalistas rasas. Demonstra que as grandes estruturas religiosas ocidentais (catolicismo e protestantismo histórico/evangélico) e orientais (islã) compartilham a mesma matriz do Quarto Império de supressão da Torá e do Shabat.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Requer compreensão sobre a antropologia mística hebraica (a dupla natureza do homem: pó/alma animal vs. fôlego divino), metodologia de interpretação rabínica das quatro camadas (*PaRDeS*), correspondências históricas dos impérios da Antiguidade e escatologia comparada entre Daniel e Apocalipse.
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Profeta Daniel|Daniel]] (Daniyel):** Profeta e estadista hebreu na corte babilônica e persa, receptor das visões dos quatro ventos, dos quatro animais e das 70 semanas.
 - **[[Nabucodonosor II]] (Nevukhadnetzar):** Imperador babilônico cuja experiência de loucura animal e posterior conversão monoteísta personifica o Leão alado que se coloca em pé e recebe coração de homem ([[Daniel 4]] e [[Daniel 7.4]]).
 - **[[Ya'akov Avinu|Jacó]] (Yaakov) e [[Yosef HaTzaddik|José]] (Yosef):** Patriarcas de Israel que estabeleceram a tradição profética de decodificação de sonhos revelatórios e tipologias espirituais.
@@ -35,30 +37,41 @@ knowledge_depth: exhaustive-academic
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O "Filho do Homem" que vem nas nuvens perante o Ancião de Dias ([[Daniel 7.13|Daniel 7.13-14]]), nascido sob o domínio do Quarto Império (Roma), que retorna para destruir os reinos humanos e instaurar o Reino Eterno.
 - **[[Yochanan HaShaliach|João, o Apóstolo]] (Yochanan):** Autor do Livro do Apocalipse, citado pelas revelações complementares sobre a queda da Grande Babilônia ([[Apocalipse 18]]).
 
-### Textos Sagrados, Literatura Rabínica e Fontes Documentais
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Gênesis 2.7]]:* A criação do homem do pó da terra (*Nefesh Chayah*) e o sopro divino nas narinas.
   - *[[Gênesis 49]]:* As bênçãos patriarcais associando as tribos de Israel a naturezas e animais específicos (Judá como Leão, Naftali como Gazela, Issacar como Jumento forte).
-- **[[Tanakh]] (Profetas e Escritos):**
+  - *[[Levítico 23]]:* As festas bíblicas ordenadas pelo Eterno, memoriais e ensaios proféticos que o Quarto Império tentou substituir.
+- *Nevi'im:*
+  - Sem referência específica citada.
+- *Ketuvim:* (do [[Tanakh]]; o livro de Daniel está entre os Escritos)
   - *[[Daniel 2|Daniel 2.31-45]]:* A visão da Grande Estátua (Ouro, Prata, Bronze, Ferro e Barro) e a Pedra que se torna uma grande montanha.
+  - *[[Daniel 4]]:* Os sete tempos de Nabucodonosor vivendo como animal no campo e o reconhecimento da soberania do Deus de Israel.
   - *[[Daniel 7|Daniel 7.1-8, 13-14, 23-27]]:* A visão dos Quatro Animais subindo do Mar Grande, o tribunal celestial e o chifre que muda os tempos e a lei.
+  - *[[Daniel 7.25]]:* O chifre pequeno que faz guerra aos santos e cuida em mudar os tempos e a Lei.
   - *[[Daniel 9.24|Daniel 9.24-27]]:* A profecia das 70 semanas e a linha do tempo messiânica.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Berit Hadashah:* ([[Berit Hadashah]] — Novo Testamento)
   - *[[Mateus 5.17|Mateus 5.17-19]]:* A validade permanente e imutável da Torá contra as alterações introduzidas pelo Quarto Império.
   - *[[Apocalipse 18|Apocalipse 18.2, 4]]:* O brado angelical da queda de Babilônia: *"Sai dela, povo meu, para que não sejas participante dos seus pecados"*.
 
-### Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Antropologia da Alma Animal (*Nefesh HaBehamit*) vs. Alma Divina (*Neshamá*):** O ser humano criado do pó compartilha instintos de espécies animais específicas conforme a região de origem, mas só atinge a dignidade humana plena através do conhecimento consciente do Deus único.
 - **O Vetor Invertido de Hermenêutica no Livro de Daniel:**
-  $$	ext{Textos Bíblicos Convencionais: } 	ext{Peshat (Literal)} \longrightarrow 	ext{Remez} \longrightarrow 	ext{Derash} \longrightarrow 	ext{Sod (Místico)}$$
-  $$	ext{Visões de Daniel: } 	ext{Sod (Visão Mística Celeste)} \longrightarrow 	ext{Decodificação Simbólica} \longrightarrow 	ext{Peshat (História Geopolítica)}$$
+  - Textos Bíblicos Convencionais: Peshat (Literal) ⟶ Remez ⟶ Derash ⟶ Sod (Místico)
+  - Visões de Daniel: Sod (Visão Mística Celeste) ⟶ Decodificação Simbólica ⟶ Peshat (História Geopolítica)
 - **A Simbologia dos Quatro Ventos e do Mar Grande:** Os "quatro ventos" representam os principados/anjos regentes (*Sarim*) no tabuleiro espiritual; o "Mar Grande" simboliza o fluxo caótico das nações gentílicas (*Goyim*).
 - **A Teoria da Continuidade Bipétrea do Império Romano:** A fragmentação das duas pernas de ferro em:
-  1. *Perna Ocidental:* Império Romano Católico $
-ightarrow$ Reforma Protestante $
-ightarrow$ Denominações Evangélicas (mantendo a anulação do Shabat, abolição da Torá e dogma trinitário).
-  2. *Perna Oriental:* Império Bizantino/Otomano $
-ightarrow$ Hegemonia Político-Religiosa Islâmica.
+  1. *Perna Ocidental:* Império Romano Católico → Reforma Protestante → Denominações Evangélicas (mantendo a anulação do Shabat, abolição da Torá e dogma trinitário).
+  2. *Perna Oriental:* Império Bizantino/Otomano → Hegemonia Político-Religiosa Islâmica.
 
 ---
 
@@ -143,6 +156,21 @@ Rav Yosef estabelece a continuidade da Estátua de [[Daniel 2]] no cenário mode
 - [[Yeshua]]: O Messias de Israel, a Pedra cortada sem mãos que inaugura o Reino Eterno sobre a Terra.
 - [[Teshuvá]]: O retorno ativo e prático a Deus, aos Seus mandamentos e à herança da aliança bíblica.
 - [[Apocalipse 18]]: Capítulo que profetiza a ruína da Grande Babilônia e a ordem expressa de saída para os servos de Deus.
+
+**Notas relacionadas na base:**
+- [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] — mostra o prazo de 6.000 anos em que os impérios humanos dominam, até a Pedra devolver a Terra ao Messias.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — lê os conflitos atuais do Oriente Médio como o tempo dos pés de ferro e barro e do relógio profético dos jubileus.
+- [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] — faz a cronologia que situa a geração presente no clímax escatológico que este estudo descreve.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — trata do remanescente de Efraim assimilado entre as nações, o mesmo povo chamado a sair da Babilônia (Apocalipse 18.4).
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — desenvolve as 70 semanas de Daniel 9.24-27, a linha do tempo messiânica citada aqui.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — detalha o furto identitário de Yeshua pelo Quarto Império e o dogma trinitário herdado pela perna ocidental.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — aprofunda a antropologia da alma animal (*Nefesh HaBehamit*) que explica por que os impérios aparecem como feras.
+- [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] — lê os pés de ferro e barro de Daniel 2.43 como a fusão homem-máquina do tempo do fim.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — mostra o engano que cai sobre quem rejeita a Torá e chama a sair da Babilônia espiritual descrita aqui.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — cita Daniel 7.25 contra Niceia e Laodiceia e mostra o remanescente que guarda a Torá diante do poder que mudou os tempos e a Lei.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — mostra o Yeshua hebreu disfarçado de "Jesus" romano, a figura de que o Quarto Império se apropriou.
+- [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] — põe a última semana de Daniel e a abominação desoladora antes da ressurreição e do ajuntamento dos fiéis.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — desmonta a troca do Shabat pelo domingo, um caso concreto de como o Quarto Império "mudou os tempos".
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[PaRDeS]] (Pomar):** Acrônimo hebraico para *Peshat* (sentido literal), *Remez* (alusão/dica), *Derash* (busca comparativa) e *Sod* (segredo místico).

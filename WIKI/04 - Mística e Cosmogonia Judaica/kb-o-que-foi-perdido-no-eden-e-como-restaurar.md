@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A [[Torá]] não se originou no Monte Sinai como um código legalista restrito a rituais de sacrifício, mas constitui a própria **matriz e linguagem de programação primordial** (*Davar*) pela qual [[Akadosh Baruch Hu]] estruturou e sustenta toda a realidade visível e invisível ([[Salmo 19.7]]; [[Hebreus 1.3]]). A transgressão no Éden introduziu uma corrupção ("vírus") que desregulou a harmonia moral e física humana, tornando necessária a introdução temporal das leis sacrificiais/cerimoniais (*Corbanot*) como expediente pedagógico ("antivírus"). A missão de [[Yeshua]] — o arquétipo do [[Adam Kadmon]] encarnado — não foi abolir o código original, mas extrair o vírus do pecado, cumprir o sistema cerimonial e restabelecer a Torá Moral inscrita diretamente no coração humano ([[Jeremias 31.31|Jeremias 31.31-34]]), operando o autêntico *Tikkun* (retificação e restauração da alma).
-- **Contexto & Importância:** O conteúdo desconstrói o equívoco secular de que a Torá é sinônimo exclusivo de sacrifícios de animais ou que teria sido "anulada" no Novo Testamento. Utilizando metáforas tecnológicas contemporâneas (código de programação, sistema operacional, hardware/software, vírus/antivírus e avatares), a aula esclarece a transição entre a Torá Estrutural da Criação, a Torá Pedagógica Ritual e a Torá Internalizada Messiânica.
+- **Contexto & Importância:** O estudo desconstrói o equívoco secular de que a Torá é sinônimo exclusivo de sacrifícios de animais ou que teria sido "anulada" no Novo Testamento. Utilizando metáforas tecnológicas contemporâneas (código de programação, sistema operacional, hardware/software, vírus/antivírus e avatares), Rav Yosef esclarece a transição entre a Torá Estrutural da Criação, a Torá Pedagógica Ritual e a Torá Internalizada Messiânica.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Requer compreensão sobre etimologia hebraica (*Torá*, *Davar*, *Bereshit*, *Alef-Tav*), noções de cosmogonia cabalística dos Quatro Mundos (*Atzilut*, *Beriá*, *Yetzirá*, *Assiá*), antropologia do *Adam Kadmon* vs. *Adam HaRishon*, e as subdivisões funcionais da Lei Mosaica (Moral, Cerimonial, Sacerdotal, Civil).
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Adam HaRishon]] (O Primeiro Homem):** Criado no Éden com a Torá moral integrada em sua mente e alma; ao sucumbir à transgressão, corrompeu a programação original, passando a gerar descendência à sua imagem decaída.
 - **[[Hevel|Abel]] (Hevel), [[Noach|Noé]] (Noach) e [[Avraham Avinu|Abraão]] (Avraham):** Patriarcas que mantiveram altares e ofertas (*Corbanot*) como instrumentos didáticos de aproximação com o Criador ([[Gênesis 8.20]]; [[Gênesis 12.7|Gênesis 12.7-8]]).
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mediador da Aliança no Sinai, através do qual a Torá primordial foi formalizada nacionalmente para Israel em quatro funções complementares.
@@ -37,29 +39,33 @@ knowledge_depth: exhaustive-academic
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel, o *Davar* corporificado, o Profeta semelhante a Moisés ([[Deuteronômio 18.18]]), mediador humano entre Deus e a humanidade ([[1 Timóteo 2.5]]), que removeu o vírus da iniquidade e restaurou o ser humano ao molde de *Adam Kadmon*.
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo citado por correlacionar a sujeição final do Messias ao Pai ([[1 Coríntios 15.24|1 Coríntios 15.24-28]]) e a necessidade de sermos restaurados à imagem do Filho.
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
-  - *[[Gênesis 1.1]]:* *"Bereshit Bará Elohim Et HaShamayim Ve'et Ha'Aretz"* — A presença do *Alef-Tav* ($leph$-$eth$) como a matriz alfabética/linguística completa da criação.
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
+  - *[[Gênesis 1.1]]:* *"Bereshit Bará Elohim Et HaShamayim Ve'et Ha'Aretz"* — A presença do *Alef-Tav* (א-ת) como a matriz alfabética/linguística completa da criação.
   - *[[Gênesis 1.2|Gênesis 1.2-3]]:* O Ruach de Deus pairando sobre as águas e o primeiro pronunciamento criador (*"Haja Luz"*).
+  - *[[Gênesis 3.21]]:* As vestes de pele, primeiro sinal da expiação substitutiva depois da queda.
   - *[[Gênesis 8.20]]:* O holocausto pós-diluviano de Noé.
+  - *[[Gênesis 12.7|Gênesis 12.7-8]]:* Os altares de Abraão.
   - *[[Êxodo 19.20]] & [[Êxodo 20]]:* A descida divina no Sinai e a promulgação do Decálogo (Torá Moral).
   - *[[Levítico 1|Levítico 1 a 7]]:* As instruções e regulamentos das ofertas sacrificiais (*Corbanot* — Torá Cerimonial).
   - *[[Levítico 21|Levítico 21 e 22]]:* As normas de santidade para os sacerdotes (*Kohanim* — Torá Sacerdotal).
   - *[[Êxodo 21|Êxodo 21 e 22]] / [[Deuteronômio]]:* As leis sociais e judiciais para a nação (Torá Civil).
   - *[[Deuteronômio 6.6]]:* O imperativo de que as palavras da Torá estejam gravadas no coração.
   - *[[Deuteronômio 18.18]]:* A profecia do Profeta semelhante a Moisés com a palavra de Deus em sua boca.
-- **[[Tanakh]] (Profetas e Escritos):**
+- *Nevi'im:*
+  - *[[1 Samuel 15.22]]:* Obedecer é melhor do que sacrificar, a primazia da Palavra sobre o sangue de animais.
+  - *[[Isaías 11.1|Isaías 11.1-5]]:* O renovo de Jessé ungido com os sete espíritos de sabedoria e justiça.
+  - *[[Isaías 24.5]]:* A terra contaminada sob seus moradores por transgredirem as leis e mudarem os estatutos.
+  - *[[Isaías 42.1|Isaías 42.1-4]]:* O servo escolhido que estabelece o direito e a verdade na Terra.
+  - *[[Jeremias 31.31|Jeremias 31.31-34]]:* A Nova Aliança e a interiorização da Lei.
+- *Ketuvim:* (parte do [[Tanakh]])
   - *[[Salmo 19.7]]:* *"Torat Adonai temimah, meshivat nafesh"* ("A Torá do Eterno é perfeita e restaura a alma").
   - *[[Salmo 33.6]]:* *"Pela palavra do Senhor foram feitos os céus..."*
   - *[[Salmo 40.6]]:* *"Sacrifício e oferta não quiseste; abriste os meus ouvidos..."*
   - *[[Salmo 51.16|Salmo 51.16-17]]:* O verdadeiro sacrifício como um coração contrito e transformado.
   - *[[Salmo 119.105]]:* *"Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho."*
   - *[[Provérbios 21.3]]:* Fazer justiça e juízo é mais aceitável a Deus do que sacrifícios.
-  - *[[Isaías 11.1|Isaías 11.1-5]]:* O renovo de Jessé ungido com os sete espíritos de sabedoria e justiça.
-  - *[[Isaías 24.5]]:* A terra contaminada sob seus moradores por transgredirem as leis e mudarem os estatutos.
-  - *[[Isaías 42.1|Isaías 42.1-4]]:* O servo escolhido que estabelece o direito e a verdade na Terra.
-  - *[[Jeremias 31.31|Jeremias 31.31-34]]:* A Nova Aliança e a interiorização da Lei.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[João 1|João 1.1-3, 14]]:* O *Logos / Davar* divino que estava com Deus, fez todas as coisas e se fez carne.
   - *[[Mateus 5.17|Mateus 5.17-20]]:* Yeshua ratifica que não veio abolir, mas completar/cumprir a Torá e os Profetas.
   - *[[1 Coríntios 15.24|1 Coríntios 15.24-28]]:* O reinado messiânico e a posterior sujeição do Messias ao Pai para que Deus seja tudo em todos.
@@ -67,11 +73,21 @@ knowledge_depth: exhaustive-academic
   - *[[Hebreus 1.3]]:* Sustentando todas as coisas pela palavra do Seu poder.
   - *[[Hebreus 10.4]]:* A impossibilidade intrínseca do sangue de touros e bodes remover pecados definitivamente.
 
-### Modelos Conceituais e Frameworks Místicos
+**Literatura rabínica e judaica**
+- O costume do *Kaparot* de [[Yom Kippur]] (rodar galinhas), citado como prática rabínica tardia de substituição que atesta a impossibilidade do modelo levítico sem o Templo.
+- *Moed Katan 28a* ([[Talmud Bavli]]): fonte do princípio de que a morte do justo expia pela coletividade ([[Mitat Tzaddikim Mechaperet]]), o axioma listado no mini-glossário.
+
+**Literatura do Segundo Templo e historiadores**
+- A destruição do [[Segundo Templo]] em 70 EC, usada como prova de que o modelo levítico não pode mais operar; o relato histórico está em [[Flávio Josefo]], *Guerra dos Judeus*, livro 6.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **A Metáfora da Arquitetura Computacional:**
   - *Criador:* O Programador Supremo.
   - *Torá / Davar:* O Código-Fonte e Sistema Operacional do Cosmos.
-  - *Alef-Tav ($leph$-$eth$):* Os blocos de código universais da linguagem de criação.
+  - *Alef-Tav (א-ת):* Os blocos de código universais da linguagem de criação.
   - *Hardware vs. Software:* A matéria física (corpo/natureza) e a dimensão espiritual (alma/mente).
   - *Pecado:* Vírus de corrupção que desestabiliza tanto o software (alma) quanto o hardware (corpo/natureza).
   - *Corbanot (Sacrifícios):* Mecanismos pedagógicos temporários ("antivírus preliminar") de contenção de danos.
@@ -82,6 +98,8 @@ knowledge_depth: exhaustive-academic
   3. *Torá Sacerdotal:* Regras de pureza e mediação exclusiva para os Kohanim (técnicos espirituais).
   4. *Torá Civil/Judicial:* Ordenamento jurídico e social para a administração da terra de Israel.
 - **A Mística dos Quatro Mundos:** *Atzilut* (Emanação), *Beriá* (Criação), *Yetzirá* (Formação) e *Assiá* (Ação/Mundo Material).
+- **As três fases da Torá na história:** Torá Estrutural da Criação (o *Davar*, interiorizada em Adão) → Torá Pedagógica e Ritual do Sinai (os *Corbanot* depois do "vírus") → Torá Internalizada e Messiânica (gravada no coração, Jeremias 31).
+- **"Cumprir" como completar:** a leitura de Mateus 5.17 em que cumprir é preencher plenamente e levar à forma original, e não anular.
 
 ---
 
@@ -117,7 +135,7 @@ knowledge_depth: exhaustive-academic
 ### 1. A Torá como Código-Fonte da Realidade e a Linguagem Alef-Tav
 Rav Yosef redefine a etimologia e o escopo ontológico da Torá:
 - **Etimologia Real:** *Torá* não significa "lei" no sentido estrito de coerção judicial, mas provém do radical hebraico que significa **"instrução, orientação, guia"**.
-- **O Código Alef-Tav ($leph$-$eth$) em [[Gênesis 1.1]]:** No texto hebraico original, entre a palavra *Elohim* e *HaShamayim*, encontra-se a partícula intraduzível **ET** ($lepheth$ — a primeira e a última letra do alfabeto hebraico). Representa o conjunto total das 22 letras hebraicas como a linguagem cósmica de programação pela qual Deus decretou a existência de tudo.
+- **O Código Alef-Tav (א-ת) em [[Gênesis 1.1]]:** No texto hebraico original, entre a palavra *Elohim* e *HaShamayim*, encontra-se a partícula intraduzível **ET** (את — a primeira e a última letra do alfabeto hebraico). Representa o conjunto total das 22 letras hebraicas como a linguagem cósmica de programação pela qual Deus decretou a existência de tudo.
 - **A Programação Invariante da Criação:** As leis da física, da química, os ciclos das estações e o código genético das sementes biológicas (como a macieira que produz frutos com sementes de sua espécie há milhares de anos) operam em obediência contínua à programação do *Davar* divino ([[Salmo 33.6]]; [[Hebreus 1.3]]).
 
 ### 2. A Invasão do "Vírus" e a Ruptura no Éden
@@ -162,9 +180,25 @@ Rav Yosef redefine a etimologia e o escopo ontológico da Torá:
 - [[Teshuvá]]: O retorno voluntário da mente e das ações aos mandamentos da Torá.
 - [[Jeremias 31]]: A profecia máxima da Nova Aliança que grava a Torá no coração humano.
 
+**Notas relacionadas na base:**
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — a mesma Torá preexistente ao Sinai e os sacrifícios como expediente pedagógico depois da queda.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — também separa a Torá Moral eterna das leis cerimoniais introduzidas por causa do pecado.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — desenvolve Jeremias 31.31-34, a terceira fase da Torá descrita aqui.
+- [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — parte da mesma Torá moral interiorizada em Adão e dos *Corbanot* como pedagogia, agora pelo texto de Romanos.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — explica o Adam Kadmon e a imagem decaída de Gênesis 5.3, o molde ao qual Yeshua restaura o homem.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — apresenta o Adam Kadmon como a primeira emanação e o molde da criação.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — aprofunda a expiação pela morte do justo (*Mitat Tzaddikim Mechaperet*) que esta nota aplica a Yeshua.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — trata o *Tikkun* do caráter pelo lado da alma, como refinamento da Alma Animal.
+- [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]] — mostra a marca da besta como adulteração do DNA, a assinatura de D'us no código da criação descrito aqui.
+- [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] — mostra o código binário da besta, imitação do código verdadeiro que esta nota identifica na Torá.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — lê a queda no Éden como transgressão alimentar e aplica às leis alimentares a Torá como ordem da criação.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — lê o mesmo início de Gênesis pela luz oculta (*Or HaGanuz*), com a Torá como luz (Salmo 119.105).
+- [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — liga as *Mitzvot* ao *Tikkun* que ancora a presença de Deus em *Assiá*, o mesmo reparo da criação proposto aqui.
+- [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — propõe sete pilares de reparo, o mesmo *Tikkun* pela Torá que esta nota liga à Árvore da Vida perdida no Éden.
+
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Meshivat Nafesh]] (Restaura a Alma):** Expressão em hebraico do Salmo 19:7 que indica o poder intrínseco da Torá de realinhar a estrutura espiritual decaída do ser humano ao seu estado de pureza primordial.
-2. **[[Alef-Tav]] ($leph$-$eth$):** As letras inicial e final do alfabeto hebraico, denotando a totalidade do código semântico e divino utilizado por Deus no ato criativo de *Bereshit*.
+2. **[[Alef-Tav]] (א-ת):** As letras inicial e final do alfabeto hebraico, denotando a totalidade do código semântico e divino utilizado por Deus no ato criativo de *Bereshit*.
 3. **[[Torá Moral]] vs. [[Torá Cerimonial]]:** Distinção teológica entre os preceitos éticos eternos inerentes ao caráter divino e as ordenanças rituais e sacrificiais temporárias de expiação.
 4. **[[Mitat Tzaddikim Mechaperet|Mitat Tzadikim Mechaperet]]:** Axioma do judaísmo bíblico e rabínico que reconhece a eficácia da morte voluntária de um justo na remissão dos pecados da coletividade.
 5. **[[Elohut]]:** O atributo e plenitude da presença da santidade divina que habitou perfeitamente no corpo do Messias Yeshua.

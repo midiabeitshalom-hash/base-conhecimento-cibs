@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** O evento de [[Shavuot|Pentecostes]] narrado em [[Atos 2]] não constitui a inauguração de uma nova religião ou de uma experiência mística restrita a línguas extáticas, mas é a consumação profética e renovação da aliança da festa bíblica de [[Shavuot]] ([[Levítico 23]]). O mesmo "dedo de Deus" ([[Ruach HaKodesh]] / Espírito Santo) que desceu com "vozes de fogo" no [[Har Sinai|Monte Sinai]] para gravar a [[Torá]] em tábuas de pedra ([[Êxodo 19]] e [[Êxodo 20]]), desceu em [[Atos 2]] com línguas repartidas como de fogo para inscrever a Torá no coração de carne dos discípulos ([[Jeremias 31.33]] e [[Ezequiel 36.26|Ezequiel 36.26-27]]), capacitando-os a proclamar a instrução divina a todas as nações e restaurando o propósito original da aliança.
-- **Contexto & Importância:** O conteúdo desconstrói a visão fragmentada do cristianismo pentecostal tradicional, que frequentemente desassocia a experiência do Espírito Santo da observância da Lei mosaica. O estudo demonstra a continuidade orgânica entre o Antigo e o Novo Testamento, apresentando uma chave hermenêutica baseada na tradição exegética hebraica ([[PaRDeS]]) para compreender o verdadeiro propósito dos dons espirituais: a capacitação para uma vida de santidade e obediência aos mandamentos.
+- **Contexto & Importância:** Rav Yosef desconstrói a visão fragmentada do cristianismo pentecostal tradicional, que frequentemente desassocia a experiência do Espírito Santo da observância da Lei mosaica. O estudo demonstra a continuidade orgânica entre o Antigo e o Novo Testamento, apresentando uma chave hermenêutica baseada na tradição exegética hebraica ([[PaRDeS]]) para compreender o verdadeiro propósito dos dons espirituais: a capacitação para uma vida de santidade e obediência aos mandamentos.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário. Exige familiaridade com as sete festas bíblicas de [[Levítico 23]], a narrativa do Êxodo e do Monte Sinai, o evento de Atos 2, terminologia hebraica fundamental ([[Torá]], [[Ruach HaKodesh]], [[Shavuot]], [[Pessach]], [[Teshuvá]]) e métodos de exegese bíblica.
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mediador da Antiga Aliança que subiu ao Sinai para receber as tábuas da Lei gravadas pelo dedo de Deus e que liderou o julgamento dos 3.000 idólatras após o episódio do bezerro de ouro.
 - **[[Yeshua|Yeshua de Nazaré]]:** O Messias de Israel, que ratificou a vigência perpétua da Torá ([[Mateus 5.17|Mateus 5.17-19]]), revelou o significado messiânico do pão e do vinho na Páscoa ([[Mateus 26]]) e instruiu os discípulos a aguardarem o revestimento de poder em Jerusalém.
 - **[[Shimon Kefa|Pedro]] (Shimon Kefa):** Apóstolo que discursou em Atos 2, proclamando as grandezas de Deus e a Torá aos peregrinos de várias nacionalidades reunidos em Jerusalém.
@@ -35,26 +37,49 @@ knowledge_depth: exhaustive-academic
 - **[[Profeta Jeremias]]:** Autor da profecia da Nova Aliança em [[Jeremias 31.31|Jeremias 31.31-34]], que previu a Lei escrita no interior e no coração do povo.
 - **[[Profeta Ezequiel]]:** Autor da profecia de [[Ezequiel 36.26|Ezequiel 36.26-27]], sobre a substituição do coração de pedra por um coração de carne para andar nos estatutos de Deus.
 - **[[Profeta Joel]]:** Citado a respeito do derramamento escatológico do Espírito sobre toda a carne antes do "grande e terrível Dia de Adonai" ([[Joel 2.28|Joel 2.28-32]]).
+- **Os peregrinos das nações em Jerusalém:** Os judeus e prosélitos de várias terras que ouviram os discípulos falando nas suas línguas nativas em Atos 2, eco das 70 nações do Sinai.
 
-### Estudos, Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] e [[Tanakh]]:**
+**Escrituras**
+- *[[Torá]]:*
   - *[[Levítico 23]]:* Ordenação cronológica das 7 festas anuais solenes de Israel (*Moedim*).
   - *[[Êxodo 12]]:* Instituição literal perpétua de Pessach (Páscoa judaica).
   - *[[Êxodo 19]] e [[Êxodo 20]]:* Teofania no Sinai, outorga dos Dez Mandamentos com "vozes de fogo" (*Kolot*).
   - *[[Êxodo 32.28]]:* O julgamento levítico e a morte de **3.000 homens** no pecado do bezerro de ouro.
   - *[[Gênesis 10]] e [[Gênesis 11]]:* A Tabela das 70 Nações e a dispersão dos idiomas na Torre de Babel.
+  - *Êxodo 20:18:* *"Todo o povo via as vozes"* (*vechol ha'am ro'im et hakolot*), base do conceito de *Kolot*.
+  - *Êxodo 12:38:* A "mistura de povos" (*Erev Rav*) que saiu do Egito com Israel.
+  - *Levítico 11:* As prescrições de *Kashrut* lembradas no checklist.
+- *[[Nevi'im]] ([[Tanakh]]):*
   - *[[Jeremias 31.31|Jeremias 31.31-34]] e [[Ezequiel 36.26|Ezequiel 36.26-27]]:* A interiorização da Torá no coração humano.
   - *[[Joel 2.28|Joel 2.28-32]]:* Profecia do derramamento do Ruach HaKodesh nos últimos dias.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *[[Berit Hadashah]]:*
   - *[[Mateus 5.17|Mateus 5.17-19]]:* Validade inviolável da Torá até a consumação dos céus e da terra.
   - *[[Mateus 26.26|Mateus 26.26-29]]:* A ceia pascal messiânica e a promessa de renovação futura no Reino.
   - *[[Lucas 11.20]] / [[Mateus 12.28]]:* Paralelo exegético onde "Dedo de Deus" equivale a "Espírito de Deus".
   - *[[Atos 1.4|Atos 1.4-8]] e [[Atos 2|Atos 2.1-41]]:* Cumprimento de Shavuot, línguas de fogo, pregação nas línguas das nações e a conversão/salvação de **3.000 almas**.
   - *[[1 Coríntios 12]] e [[1 Coríntios 14]]:* Classificação dos dons de variedade de línguas, interpretação e edificação pessoal.
   - *[[Apocalipse 22.11]]:* Advertência sobre santificação e purificação nos tempos finais.
-- **Literatura Rabínica e Mística Judaica:**
-  - *[[Midrash]]:* Narrativas tradicionais registrando que no Sinai os Dez Mandamentos foram emitidos em **70 vozes/idiomas simultâneos**, sendo ouvidos por representantes das 70 nações que saíram na "mistura de povos" (*Erev Rav*) do Egito.
-  - *Metodologia [[PaRDeS]]:* Quatro níveis hermenêuticos de interpretação bíblica (*Peshat*, *Remez*, *Derash*, *Sod*).
+
+**Literatura rabínica e judaica**
+- *[[Midrash]]:* Narrativas tradicionais registrando que no Sinai os Dez Mandamentos foram emitidos em **70 vozes/idiomas simultâneos**, sendo ouvidos por representantes das 70 nações que saíram na "mistura de povos" (*Erev Rav*) do Egito.
+- **[[Talmud Bavli]], *Shabat* 88b:** O ensino de que cada palavra que saiu da boca de Deus no Sinai se dividiu em 70 línguas, a mesma tradição das 70 vozes usada no estudo. Entra aqui como conexão.
+- **[[Midrash Rabbah]], *Shemot Rabá* 5:9:** A voz do Sinai que se dividiu em 70 vozes e 70 línguas para que todas as nações ouvissem. Entra aqui como conexão.
+- **[[Talmud Bavli]], *Shabat* 86b:** A discussão sobre a data da entrega da Torá no 6 ou 7 de Sivan, o que fixa *Shavuot* como o aniversário do Sinai. Entra aqui como conexão.
+
+**Literatura do Segundo Templo e historiadores**
+- **[[Livro dos Jubileus]] 6:17-21:** Apresenta *Shavuot* como a festa da renovação da aliança, celebrada desde [[Noach]], a mesma leitura de *Shavuot* como renovação da aliança que o estudo faz em Atos 2. Entra aqui como conexão.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- *Metodologia [[PaRDeS]]:* Quatro níveis hermenêuticos de interpretação bíblica (*Peshat*, *Remez*, *Derash*, *Sod*).
+- **A regra da não revogação do *Peshat*:** Nenhum nível superior (*Remez*, *Derash*, *Sod*) anula o mandamento literal, como no exemplo de *Pessach* em Mateus 26.
+- **Tipologia Sinai × Cenáculo:** Dia 50, fogo, instrumento de escrita, suporte da inscrição, idiomas e resultado numérico em paralelo.
+- **A equivalência Dedo de Deus = Espírito de Deus:** Leitura conjunta de Lucas 11:20 e Mateus 12:28.
+- **As três naturezas das línguas:** *Xenoglossia*, *Glossolalia* e o dom de interpretação e profecia.
+- **A restauração numérica:** 3.000 mortos no Sinai, 3.000 salvos em Atos 2.
 
 ---
 
@@ -129,6 +154,16 @@ O estudo distingue claramente as três naturezas das manifestações linguístic
 - [[Shabat]]: O sétimo dia bíblico, sinal perpétuo da aliança de Deus com Seu povo.
 - [[Kashrut]]: As leis dietéticas bíblicas ordenadas na Torá sobre o que é próprio (*Kasher*) para alimentação.
 - [[Yeshua]]: O Messias prometido a Israel, cuja missão ratificou a Torá e inaugurou a Nova Aliança nos corações.
+
+**Notas relacionadas na base:**
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — leva a cadeia do Jordão até *Shavuot* e mostra os 120 que perseveraram no Cenáculo.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — fixa *Bikurim*, o dia do qual parte a contagem dos 50 dias até *Shavuot*.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — desenvolve Jeremias 31:31-34, a Torá escrita no coração que o *Ruach* grava em Atos 2.
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — mostra a graça como capacitação para obedecer, a mesma função que esta nota dá ao Espírito.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — une Torá e testemunho de Yeshua, o mesmo avivamento do fim dos tempos descrito aqui.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — trata da *anomia* que o pentecostalismo antinômico mantém, mesmo falando em línguas.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — põe *Shavuot* como a quarta festa cumprida na primeira vinda, no calendário que reserva as festas de outono para o retorno.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — põe *Shavuot* no braço central da Menorá das sete festas, chave do relógio profético dos jubileus.
 
 ### Mini-Glossário de Conceitos Fundamentais
 1. **[[Shavuot]] (Festa das Semanas):** Do hebraico *Shavuot* (plural de *Shavua*, semana). Celebração ordenada em Levítico 23 após a contagem de 7 semanas completas (49 dias) a partir do dia seguinte ao Shabat das primícias.

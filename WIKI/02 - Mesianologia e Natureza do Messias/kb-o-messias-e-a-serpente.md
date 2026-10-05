@@ -36,36 +36,56 @@ O estudo responde tanto à polêmica judaica ortodoxa tradicional (que refuta a 
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Autoridades Rabínicas Mencionadas
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Moshe Rabenu]] (Moisés):** Mediador que ergueu a serpente de bronze (*Nechash Nechoshet*) sobre a haste de madeira no deserto por ordem divina (*Bamidbar* / Números 21).
 - **[[Chizkiyahu HaMelech]] (Rei Ezequias):** Monarca reformador de Judá que despedaçou a serpente de bronze secularizada e cultuada como ídolo sob o nome depreciativo de *Nechushtan* (*2 Reis 18:4*).
 - **[[Yeshua|Yeshua HaMashiach]]:** O Messias de Israel que se comparou expressamente à serpente erguida no madeiro em João 3:14.
-- **[[Rashi]] (Rabino Shlomo Yitzchaki):** Comentarista clássico da Torá que associou a morte de Miriã e a Novilha Vermelha ao princípio de que *"assim como os sacrifícios expiam, a morte dos justos expia"* (*Bamidbar 20:1*).
-- **[[Ramban]] (Nachmânides):** Comentarista que formulou a base psicológica e ontológica do sacrifício de substituição em Levítico 1:9.
-- **[[Flávio Josefo]]:** Historiador judaico do 1º século citado como testemunha historiográfica incontestável da existência física e histórica de Yeshua.
+- **Miriã, Nadabe e Abiú:** Justos cuja morte o Talmud e Rashi comparam aos sacrifícios do altar, base do princípio *Mitat Tzaddikim Mechaperet*.
+- **Isaque (*Akedat Yitzchak*):** O filho amarrado sobre o altar em Gênesis 22, cujo mérito vicário o Targum aplica às gerações futuras.
 
-### Textos Canônicos, Manuscritos e Literatura Rabínica
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá:*
   - *Bereshit* / Gênesis 3:1-15 (A serpente astuta no Éden, a contaminação da árvore e o veneno da morte).
   - *Bereshit* / Gênesis 22:14 (A amarração de Isaque - *Akedat Yitzchak* - como mérito substitutivo).
   - *Shemot* / Êxodo 15:25 (A madeira que adocica as águas amargas de Mará).
+  - *Vayikra* / Levítico 1:9 (O sacrifício de substituição, comentado por Ramban).
   - *Bamidbar* / Números 20:1 (A morte de Miriã); 21:4-9 (As serpentes abrasadoras - *Seraphim* - e a serpente de bronze).
-- **Nevi'im e Ketuvim (Profetas e Escritos):**
+- *Nevi'im:*
   - *2 Reis* 18:4 (A quebra do *Nechushtan* e a destruição dos postes de Aserá).
   - *Yeshayahu* / Isaías 53 (O Servo Sofredor ferido pelas nossas transgressões).
-- **Tradição Talmúdica e Midráshica:**
-  - *Mekhilta de-Rabbi Ishmael* sobre Êxodo 15:25: *"Com o mesmo elemento que vem o juízo, vem a cura"*.
-  - *Talmud Bavli, Tratado Moed Katan 28a (verso 4)*: *"Mitat Tzaddikim Mechaperet"* (A morte dos justos traz expiação/cobertura).
-  - *Talmud Bavli, Tratado Yoma 42b*: Expiação sobre Israel através da morte dos justos (*Kaparrah al Yisrael be-mot Tzaddikim*).
-  - *Midrash Vayikra Rabbah 20:12*: Declaração de R. Chiyya bar Abba de que a morte dos justos expia a geração.
-  - *Midrash Tanchuma, Parashat Acharei Mot (Siman 4)*: Hashem prepara expiação para todo o Israel através da morte dos justos.
-  - *Targum Yonatan sobre Gênesis 22:14*: O mérito vicário de Isaque (*Akedá*) socorrendo as gerações futuras.
-  - *Zohar*, Parashat Acharei Mot (III, 56b): O reparo cósmico (*Tikkun*) gerado unicamente quando um justo morre injustamente.
-- **Berit Hadashah (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *Berit Hadashah:*
   - *Yochanan* / João 3:14-15 (*"Assim como Moisés levantou a serpente no deserto..."*).
   - *Yochanan* / João 14:13-14; 16:23 (A oração direcionada ao Pai em nome do Messias como Mediador).
   - *Mattityahu* / Mateus 7:21-23 (*"Nunca vos conheci, apartai-vos de mim vós que praticais a iniquidade/anarquia contra a Torá"*).
   - *1 Coríntios* 15:55-56 (*"Onde está, ó morte, a tua vitória? O aguilhão da morte é o pecado"*).
+  - *2 Coríntios* 5:21 (O Justo feito oferta pelo pecado sem conhecer pecado, ecoado na leitura da guematria 358).
+
+**Literatura rabínica e judaica**
+- **[[Rashi]] (Rabino Shlomo Yitzchaki):** Comentarista clássico da Torá que associou a morte de Miriã e a Novilha Vermelha ao princípio de que *"assim como os sacrifícios expiam, a morte dos justos expia"* (*Bamidbar 20:1*).
+- **[[Ramban]] (Nachmânides):** Comentarista que formulou a base psicológica e ontológica do sacrifício de substituição em Levítico 1:9.
+- *Mekhilta de-Rabbi Ishmael* sobre Êxodo 15:25 ([[Midrash]]): *"Com o mesmo elemento que vem o juízo, vem a cura"*.
+- *[[Talmud Bavli]], Tratado Moed Katan 28a (verso 4)*: *"Mitat Tzaddikim Mechaperet"* (A morte dos justos traz expiação/cobertura).
+- *[[Talmud Bavli]], Tratado Yoma 42b*: Expiação sobre Israel através da morte dos justos (*Kaparrah al Yisrael be-mot Tzaddikim*).
+- *Midrash Vayikra Rabbah 20:12* ([[Midrash Rabbah]]): Declaração de R. Chiyya bar Abba de que a morte dos justos expia a geração.
+- *Midrash Tanchuma, Parashat Acharei Mot (Siman 4)* ([[Midrash]]): Hashem prepara expiação para todo o Israel através da morte dos justos.
+- *[[Targum]] Yonatan sobre Gênesis 22:14*: O mérito vicário de Isaque (*Akedá*) socorrendo as gerações futuras.
+- *[[Zohar]]*, Parashat Acharei Mot (III, 56b): O reparo cósmico (*Tikkun*) gerado unicamente quando um justo morre injustamente.
+
+**Literatura do Segundo Templo e historiadores**
+- **[[Flávio Josefo]]:** Historiador judaico do 1º século citado como testemunha historiográfica incontestável da existência física e histórica de Yeshua.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[Guematria]] 358:** A equivalência numérica entre *Nachash* (נחש — serpente) e *Mashiach* (משיח — Messias), lida no nível *Sod* como a identidade funcional entre o problema e a solução.
+- **[[PaRDeS]]:** O sistema exegético de quatro níveis (*Peshat*, *Remez*, *Derash*, *Sod*) que sustenta a leitura da serpente de bronze como tipo do Messias.
+- **Princípio do antídoto extraído do veneno:** A regra da *Mekhilta* ("com o mesmo elemento que vem o juízo, vem a cura"), ilustrada pela analogia do soro antiofídico, produzido a partir do próprio veneno inoculado em equinos ou ovinos.
+- **Tipologia Éden → deserto → madeiro → Nechushtan:** A jornada do antídoto em quatro etapas, do veneno injetado no Éden à reforma contra a idolatria do instrumento da cura.
+- **[[Mitat Tzaddikim Mechaperet]]:** O princípio rabínico da expiação pela morte injusta do justo, usado como chave para a expiação vicária de Yeshua.
 
 ---
 
@@ -181,6 +201,19 @@ Rav Yosef refuta de forma exaustiva o argumento de polemistas antirreligiosos qu
 - [[PaRDeS]] (O Método Quádruplo de Hermenêutica Bíblica)
 - [[Shechitá]] (O Abate Ritual Lícito e a Santidade do Sangue)
 - [[Kohen Gadol]] (O Sumo Sacerdote e a Função Mediadora)
+
+**Notas relacionadas na base:**
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — desenvolve a tese de que o Mediador não é objeto de adoração, a mesma lição que Ezequias ensina ao despedaçar o Nechushtan.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — mostra historicamente como o instrumento da salvação foi divinizado, o paralelo cristão da idolatria do Nechushtan.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — separa reverência ao Messias de adoração ao Pai, o que corresponde a não queimar incenso ao canal da cura.
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — trata da idolatria trinitária que esta nota compara ao culto prestado à serpente de bronze.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — apresenta o Messias sofredor que morre pelo povo, a mesma figura do justo cuja morte expia.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — explica a expiação no sangue de Yeshua, o antídoto que aqui é lido pela guematria 358.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — descreve a corrupção introduzida no Éden, o veneno da serpente que o Messias vem neutralizar.
+- [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] — usa a serpente levantada no deserto e João 3:14 como exemplo do nível *Remez*.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — lê Isaías 53 e o Zohar sobre o Messias que carrega o castigo de Israel, a mesma expiação pelo justo desenvolvida aqui.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — apoia o sacrifício de Yeshua nas fontes rabínicas da morte do justo que expia, reunidas aqui.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — liga a semente que esmaga a serpente de Gênesis 3.15 à expiação pela morte do justo tratada aqui.
 
 ### Mini-Glossário Analítico
 1. **[[Nachash]] (נָחָשׁ):** Serpente. No Éden, representa o engano primordial e a introdução da autonomia moral pecaminosa. Possui valor guemátrico de **358**.

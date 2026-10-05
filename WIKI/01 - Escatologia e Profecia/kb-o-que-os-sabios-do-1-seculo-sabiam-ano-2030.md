@@ -36,31 +36,51 @@ O tema desfaz distorções da escatologia ocidental moderna (como o sensacionali
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Rabinos e Figuras Históricas Referenciadas
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Avraham Avinu]] (Abraão):** Marco cronológico do fim do primeiro ciclo de 2.000 anos (Jubileu 40), introduzindo o monoteísmo na humanidade.
 - **[[Moshe Rabenu]] (Moisés):** Autor humano do livro de Gênesis e levantador da serpente no deserto (símbolo tipológico do Messias).
 - **[[Yeshua|Yeshua HaMashiach]]:** O próprio Messias encarnado, que iniciou Seu ministério lendo a porção profética sobre o "ano aceitável de Adonai" (Jubileu) e que encerra os três ciclos temporais.
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor epistolar que decodifica mandamentos literais (como o "não atarás a boca do boi") em princípios morais para o ministério (*Derash*).
-- **Rabinos Históricos (Correção Cronológica):** Rabino Abraham Bar Hiyya e estudiosos modernos (ex.: Aryeh Kaplan), que atestam a omissão intencional ou acidental de séculos na cronologia rabínica tradicional (Seder Olam Rabbah) referente ao período do Segundo Templo.
 
-### Textos Canônicos e Fontes Analisadas
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá (Pentateuco):*
   - *Bereshit* / Gênesis 1:1 (Análise do nível *Peshat* da Criação).
   - *Bereshit* / Gênesis 6:3 ("O meu Espírito não agirá para sempre no homem... seus dias serão 120 anos").
   - *Vayicrá* / Levítico 25 (Estatutos fundiários: ano sabático de repouso da terra e Jubileu da liberdade aos 50 anos).
   - *Devarim* / Deuteronômio 25:4 (A lei do boi que debulha - usada no nível *Derash*).
-- **Profetas, Escritos e Literatura Judaica:**
-  - *Yeshayahu* / Isaías 53; *Zacarias* 12; *Tehilim* / Salmo 22 (A base profética do *Mashiach ben Yosef*).
+- *Nevi'im (Profetas):*
+  - *Yeshayahu* / Isaías 53; *Zacarias* 12 (A base profética do *Mashiach ben Yosef*, junto com o Salmo 22).
+- *Ketuvim (Escritos):*
+  - *Tehilim* / Salmo 22 (A base profética do *Mashiach ben Yosef*, junto com Isaías 53 e Zacarias 12).
   - *Tehilim* / Salmo 102:16-18 (A geração final que contemplará a reconstrução de Sião).
   - *Daniel* 12 (A ocultação dos mistérios proféticos até a abertura do conhecimento no tempo do fim).
-  - *Talmud Sanhedrin 97a*: Estabelece dogmaticamente que "O mundo existirá 6.000 anos: 2.000 de caos, 2.000 de Torá e 2.000 dos dias do Mashiach".
-  - *Pirkei de Rabbi Eliezer*, Cap. 28 (Cada milênio tem um propósito, sendo o 7º milênio o "Shabat para Hashem").
-- **Berit Hadashah (Novo Testamento):**
+- *Berit Hadashah (Novo Testamento):*
   - *João* 3:14-15 (A alegoria da serpente elevada no deserto interpretada no nível *Remez*).
   - *Hebreus* 5:12-14 (A incapacidade dos imaturos de suportar alimento sólido/segredos profundos).
   - *Mateus* 5:28; 18:9 (O ensino sobre o adultério visual e o "arrancar o olho" interpretado metaforicamente).
   - *2 Pedro* 3:8 ("Para o Senhor, um dia é como mil anos...").
   - *Apocalipse* 7; 11; 19; 20 (A marcação dos santos, os 144.000, o retorno montado no cavalo branco e o Milênio sabático).
+
+**Literatura rabínica e judaica**
+- *Talmud Sanhedrin 97a* ([[Talmud Bavli]]): Estabelece dogmaticamente que "O mundo existirá 6.000 anos: 2.000 de caos, 2.000 de Torá e 2.000 dos dias do Mashiach".
+- *Pirkei de Rabbi Eliezer*, Cap. 28 (Cada milênio tem um propósito, sendo o 7º milênio o "Shabat para Hashem").
+- [[Seder Olam Rabbah]]: crônica atribuída ao rabi Yosi ben Halafta (séc. II), base da contagem oficial do calendário hebraico (ano 5785). O estudo mostra que ela comprime o período persa e helenista (ver o item 4.4 e o mini-glossário).
+- **Rabinos Históricos (Correção Cronológica):** Rabino Abraham Bar Hiyya e estudiosos modernos (ex.: Aryeh Kaplan), que atestam a omissão intencional ou acidental de séculos na cronologia rabínica tradicional (Seder Olam Rabbah) referente ao período do Segundo Templo.
+
+**Literatura do Segundo Templo e historiadores**
+- **Registros persas seculares:** citados no item 4.4, ao lado de Aryeh Kaplan, como prova de que o domínio persa durou mais do que a cronologia do *Seder Olam Rabbah* registra.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[PaRDeS]]:** os quatro níveis aplicados no estudo — *Peshat* (Gênesis 1:1), *Remez* (a serpente de bronze e João 3), *Derash* (Mateus 5:28 e o boi de Deuteronômio 25:4) e *Sod* (os 120 anos de Gênesis 6:3 como 120 Jubileus).
+- **A régua dos 120 Jubileus:** 120 × 50 anos = 6.000 anos de história humana antes do 7º milênio.
+- **Os blocos ternários (2.000 + 2.000 + 2.000):** caos, Torá e dias do Mashiach, cada bloco com 40 Jubileus.
+- **A correção do calendário:** 5785 + c. 215 anos de defasagem = ano 6000; no calendário gregoriano, o ano 30 d.C. (início do ministério de Yeshua) + 2.000 anos = 2030.
+- **A virada do milênio:** assim como 2001 abre o terceiro milênio, o ano 6001 AM abre o sétimo, o Grande Shabat.
 
 ---
 
@@ -69,7 +89,7 @@ O tema desfaz distorções da escatologia ocidental moderna (como o sensacionali
 ### 4.1. A Mecânica da Restituição e o Relógio Agrário Divino
 - A Torá estabelece um sistema de engrenagens cósmicas para medir a história e o direito de posse do planeta. Em Israel, a lei agrícola de **Levítico 25** rege essa contagem:
   - **Shemitá (Ano Sabático):** 6 anos de plantio seguidos de 1 ano de repouso da terra para purificação.
-  - **Ciclo Sabático Integral:** A repetição desse padrão 7 vezes ($7 	imes 7 = 49 	ext{ anos}$).
+  - **Ciclo Sabático Integral:** A repetição desse padrão 7 vezes ($7 \times 7 = 49 \text{ anos}$).
   - **Yovel (Jubileu):** O 50º ano. Nele soa o *Shofar*, todas as dívidas são anistiadas, os escravos libertos e a terra volta inexoravelmente aos donos originais e legítimos. Este modelo micro-histórico é a maquete profética da redenção global da Criação.
 
 ---
@@ -79,12 +99,12 @@ Para transicionar de Gênesis 6:3 ("120 anos") para a cronologia do Apocalipse, 
 1. **[[Peshat]]:** Nível literal. Significado histórico simples (ex.: Gênesis 1:1, "Deus criou os céus e a terra"). Em Gn 6:3, referia-se à contagem regressiva biológica para a chegada iminente do dilúvio global.
 2. **[[Remez]]:** Nível alusivo. Dicas, alegorias e interconexões (ex.: Yeshua associando a serpente de bronze em Números à Sua própria crucificação futura em João 3).
 3. **[[Derash]]:** Nível moral/homilético. A extração de princípios práticos (ex.: Yeshua redefinindo o adultério a partir da intenção visual no Sermão do Monte).
-4. **[[Sod]]:** Nível do mistério insondável, revelado misticamente. É no nível *Sod* que o texto *"os seus dias serão 120 anos"* (Gn 6:3) se traduz profeticamente em **120 ciclos de Yovel (Jubileus)**: $120 	imes 50 	ext{ anos} = 6.000 	ext{ anos}$ para o término da história secular e a intervenção celestial (*Mashiach ben David*).
+4. **[[Sod]]:** Nível do mistério insondável, revelado misticamente. É no nível *Sod* que o texto *"os seus dias serão 120 anos"* (Gn 6:3) se traduz profeticamente em **120 ciclos de Yovel (Jubileus)**: $120 \times 50 \text{ anos} = 6.000 \text{ anos}$ para o término da história secular e a intervenção celestial (*Mashiach ben David*).
 
 ---
 
 ### 4.3. A Cronologia dos 6.000 Anos em Blocos Ternários
-A tradição histórica (confirmada pelo *Talmud Sanhedrin 97a*) divide a jornada da humanidade em três eras demarcatórias exatas de 40 Jubileus ($40 	imes 50 = 2.000 	ext{ anos}$):
+A tradição histórica (confirmada pelo *Talmud Sanhedrin 97a*) divide a jornada da humanidade em três eras demarcatórias exatas de 40 Jubileus ($40 \times 50 = 2.000 \text{ anos}$):
 
 ```
        A MATEMÁTICA DOS MILÊNIOS (2000 + 2000 + 2000 = 6000)
@@ -113,7 +133,7 @@ A tradição histórica (confirmada pelo *Talmud Sanhedrin 97a*) divide a jornad
 
 ---
 
-### 4.5. Nuances, Riscos, Erros Críticos e "Fuga para as Montanhas"
+### 4.5. Equívocos que o estudo corrige: o sensacionalismo, a "fuga para as montanhas" e o Shabat lunar
 1. **O Erro do Sensacionalismo Apocalíptico:**
    - Muitos líderes capitalizam vendendo pânico ("Fuja para as montanhas", estocagem paranoica, bunkers isolados).
    - Rav Yosef rebate apontando que o apocalipse moderno é **tecnológico**. Não há esconderijo físico efetivo contra drones, satélites de biometria e rastreamento quântico.
@@ -137,6 +157,14 @@ A tradição histórica (confirmada pelo *Talmud Sanhedrin 97a*) divide a jornad
 - [[Mashiach ben Yosef]] (Tipologia do Messias Redentor e Sofredor)
 - [[Mashiach ben David]] (Tipologia do Messias Conquistador e Rei Soberano)
 - [[Seder Olam Rabbah]] (Tratado Cronológico Judaico Clássico)
+
+**Notas relacionadas na base:**
+- [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] — usa a mesma leitura *Sod* de Gênesis 6:3 e os mesmos 120 Jubileus, lidos como prazo de uma concessão que termina em reintegração de posse.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — aplica o relógio dos Jubileus às guerras de 1973 e 2023, dentro da janela que esta nota fecha em 2030.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — chega ao mesmo fim de era pelos impérios de Daniel e pela Babilônia espiritual que esta nota liga à Agenda 2030.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — mostra o que acontece com os dispersos de Israel na mesma reta final dos 6.000 anos.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — liga *Shemitá*, *Yovel* e as festas de outono ao retorno de Yeshua no fim do 120º Jubileu.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — desenvolve a serpente levantada no deserto e João 3:14, que esta nota usa como exemplo do nível *Remez*.
 
 ### Mini-Glossário Analítico
 1. **[[Yovel]] (יוֹבֵל):** Jubileu. Período sagrado celebrado a cada 50 anos em Israel, caracterizado pelo toque de libertação do Shofar, anulação de todas as servidões financeiras e restauração de posses.

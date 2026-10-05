@@ -28,22 +28,27 @@ knowledge_depth: exhaustive-academic
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Profeta Jonas]] (Yonah HaNavi):** Referenciado pelo próprio Yeshua em [[Mateus 12.40]] como o padrão tipológico estrito de permanência no ventre do grande peixe por três dias e três noites.
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel, o Cordeiro Pascal (*Korban Pessach*) abatido no dia 14 de Abibe e a Primícia dos que dormem (*Bikurim*).
 - **[[Sinédrio|Líderes do Sinédrio]] (Caifás, Fariseus e Saduceus):** As autoridades religiosas que, ironicamente, compreenderam com exatidão a profecia matemática dos três dias e exigiram de Pilatos a guarda do sepulcro até o terceiro dia ([[Mateus 27.62|Mateus 27.62-64]]).
 - **[[Pôncio Pilatos]]:** Governador romano da Judeia que autorizou a entrega do corpo e a selagem da pedra tumular.
 - **[[José de Arimateia]] (Yosef de Arimateia):** Discípulo e membro influente que recolheu o corpo de Yeshua às pressas entre as 15h e 18h da quarta-feira para sepultá-lo antes do início do Shabat anual.
 - **[[Maria Madalena]] (Miriam de Magdala), [[Maria mãe de Tiago]] e [[Salomé]] (Shlomit):** Mulheres que testemunharam o sepultamento, compraram aromas após o Shabat anual e foram ao sepulcro no final do Shabat semanal.
+- **Caifás (Kayafa):** O Sumo Sacerdote em cuja casa Yeshua foi levado depois da prisão no Getsêmani, na noite que abre o dia 14 de Abibe.
+- **Judas Iscariotes:** O discípulo cuja traição precede a agonia no Getsêmani e a prisão.
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *[[Torá]]:*
   - *[[Levítico 23.5|Levítico 23.5-11]]:* A sequência cronológica de Pessach (14 de Abibe), Chag HaMatzot (15 de Abibe - Shabat anual solene) e Bikurim (Primícias).
   - *[[Levítico 23.32]]:* A definição legal do ciclo do dia bíblico: *"de uma tarde a outra tarde celebrareis o vosso Shabat"*.
   - *[[Êxodo 12.1|Êxodo 12.1-6]]:* A imolação do cordeiro pascal no crepúsculo do 14º dia de Abibe/Nissã.
-- **[[Tanakh]] (Profetas):**
+- *[[Nevi'im]] ([[Tanakh]]):*
   - *[[Jonas 1.17]]:* O relato histórico dos três dias e três noites de Jonas.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *[[Berit Hadashah]]:*
   - *[[Mateus 12.40]]:* O sinal único de Jonas (três dias e três noites no coração da terra).
   - *[[Marcos 8.31]]:* O anúncio de que *"depois de três dias ressuscitaria"*.
   - *[[Mateus 26|Mateus 26.26-57]]:* O jantar pascal antecipado na noite do dia 13 para 14 de Abibe e a prisão na casa de Caifás.
@@ -53,13 +58,26 @@ knowledge_depth: exhaustive-academic
   - *[[Lucas 23.54|Lucas 23.54-56]]:* O sepultamento na véspera do Shabat anual, o preparo de especiarias e o repouso no **Shabat semanal** conforme o mandamento.
   - *[[Mateus 28.1|Mateus 28.1-6]]:* A visitação *"no fim do Shabat, quando despontava o primeiro dia da semana"* e a constatação do anjo de que Ele já havia ressuscitado.
   - *[[1 Coríntios 15.20]]:* Yeshua como a primícia dos que dormem (*Bikurim*).
+  - *[[João 20.17]]:* *"Não me detenhas, porque ainda não subi para meu Pai"* — Yeshua a caminho de se apresentar como o molho das primícias.
 
-### Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- **Mishná, *Pesachim* 5:1:** Descreve a ordem dos sacrifícios na tarde de 14 de Nissã: o sacrifício vespertino é antecipado e, logo depois dele, os cordeiros de *Pessach* são imolados, o que situa a morte do Cordeiro no meio da tarde, perto da hora nona. Entra aqui como conexão.
+- **Talmud Yerushalmi, *Shabat* 9:3:** A regra de que "parte de um período (*onah*) conta como o todo", base do cômputo inclusivo que o estudo refuta com as 72 horas literais do sinal de Jonas. Entra aqui como conexão.
+
+**Literatura do Segundo Templo e historiadores**
+- **[[Flávio Josefo]], *Guerra dos Judeus* 6.9.3:** Registra que os cordeiros de *Pessach* eram imolados "da hora nona até a undécima", o mesmo intervalo em que Yeshua expira na hora nona (15h). Entra aqui como conexão.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **A Distinção Linguística e Calendárica do Shabat:**
   - *Shabat Semanal (*Shabat Bereshit*):* O sétimo dia fixo da semana (sexta ao pôr do sol até sábado ao pôr do sol).
   - *Shabat Anual / Cerimonial (*Shabbaton* / *Yom Tov*):* Dias de descanso solene fixados em datas específicas do calendário lunar (ex: 15 de Abibe - 1º dia de Pães Ázimos; 10 de Tishrei - Yom Kippur), que podem cair em qualquer dia da semana.
 - **O Conceito de "Dia da Preparação" (*Erev*):** O dia que antecede um dia sagrado; na semana da crucificação, a quarta-feira (14 de Abibe) foi o dia de preparação para o Shabat anual dos Pães Ázimos (15 de Abibe), e não para o sábado semanal.
 - **A Matemática Estrita dos Três Dias e Três Noites:** Refutação da teoria do "cômputo inclusivo" (onde frações de horas contariam como dias inteiros). Três dias e três noites somam exatamente 72 horas de morte e sepultamento.
+- **A tipologia das três festas de primavera:** *Pessach* (morte do Cordeiro), *Matzot* (sepultamento sem corrupção) e *Bikurim* (ressurreição e apresentação diante de Deus).
+- **A contagem horária hebraica:** O dia começa ao pôr do sol (*Erev*), e as horas de luz contam a partir das 6h (hora sexta = 12h, hora nona = 15h).
 
 ---
 
@@ -155,6 +173,14 @@ A chave hermenêutica central repousa no entendimento do calendário de [[Levít
 - [[Dia da Preparação]]: A véspera de um Shabat anual ou semanal dedicada ao abate pascal e arranjos culinários/domésticos.
 - [[José de Arimateia]]: Discípulo que executou o sepultamento emergencial de Yeshua antes do início do dia 15 de Abibe.
 - [[Havdalá]]: Cerimônia judaica de transição que marca o término do Shabat ao pôr do sol e o início dos dias úteis da semana.
+
+**Notas relacionadas na base:**
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — a contagem de *Shavuot* começa em *Bikurim*, a festa que Yeshua cumpre na ressurreição.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — parte do cumprimento das festas de primavera, detalhado aqui, para projetar o das festas de outono.
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — estudo da mesma categoria sobre o início do ministério que termina na semana da crucificação.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — mostra como o Quarto Império "mudou os tempos" e trocou o Shabat pelo domingo, a mudança que esta cronologia desmonta.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — trata da mesma Roma que institucionalizou o "Domingo de Páscoa" e afastou a fé das raízes hebraicas.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — reúne outros sinais que comprovam a messianidade de Yeshua, ao lado do sinal de Jonas.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Shabbaton]] / [[Yom Tov]]:** Termo hebraico para os feriados sagrados e descansos anuais instituídos em Levítico 23, distintos do Shabat semanal do sétimo dia.

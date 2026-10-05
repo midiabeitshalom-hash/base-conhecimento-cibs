@@ -33,20 +33,56 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Pesquisadores e Pensadores Mencionados
-- **Yeshua HaMashiach:** Apresentado não como o recebedor final da adoração divina, mas como o Ungido de Deus (*Mashiach*) que ensina a adoração exclusiva ao Pai, sendo ele próprio um adorador submisso ao seu Deus e Pai.
-- **Shaul HaShaliach (Apóstolo Paulo):** Autor de Coríntios, utilizado para demonstrar a clara distinção entre Deus (o Pai) e o Senhor Yeshua (o Mashiach).
-- **Shimon Kefa (Apóstolo Pedro):** Cita-se seu discurso em Atos 10, onde ele declara que Yeshua operava milagres porque "Deus era com ele", e não porque Yeshua era a própria divindade absoluta. Também rejeita a prostração de Cornélio.
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
+- **[[Yeshua|Yeshua HaMashiach]]:** Apresentado não como o recebedor final da adoração divina, mas como o Ungido de Deus (*Mashiach*) que ensina a adoração exclusiva ao Pai, sendo ele próprio um adorador submisso ao seu Deus e Pai.
+- **[[Sha'ul HaShaliach|Shaul HaShaliach]] (Apóstolo Paulo):** Autor de Coríntios, utilizado para demonstrar a clara distinção entre Deus (o Pai) e o Senhor Yeshua (o Mashiach).
+- **[[Shimon Kefa]] (Apóstolo Pedro):** Cita-se seu discurso em Atos 10, onde ele declara que Yeshua operava milagres porque "Deus era com ele", e não porque Yeshua era a própria divindade absoluta. Também rejeita a prostração de Cornélio.
+- **[[Cornélio]]:** O centurião romano que se prostra diante de Pedro em Atos 10 e é levantado por ele.
 - **Patriarcas e Figuras Bíblicas (Avraham, Ya'akov, Yosef, Moshe, Rut, Boaz, Esav, Yitro):** Exemplos práticos no Tanakh de indivíduos que prostraram ou receberam prostração por reverência, não por idolatria ou adoração.
+- **[[A Mulher Samaritana]]:** Interlocutora de Yeshua em João 4, a quem ele declara "Nós adoramos o que sabemos".
+- **Satanás:** O tentador que, em Mateus 4:8-10, oferece os reinos do mundo em troca de prostração e adoração.
+- **O leproso, a mulher siro-fenícia e o cego curado:** Os que se prostram diante de Yeshua em Mateus 8:2, Mateus 15:25 e João 9:38, cujo gesto as traduções verteram como "adorou".
 
-### Estudos, Artigos, Livros ou Documentos Referenciados
-- **A Septuaginta (LXX):** A antiga tradução do *Tanakh* (Antigo Testamento hebraico) para o grego por 70 (ou 72) sábios judeus, crucial para provar que a palavra grega *proskyneo* foi usada para traduzir o hebraico *hishtachavah* (prostrar-se) em contextos não divinos.
-- **Evangelho de João (Yochanan) 4 e 17:** Textos fundamentais sobre a definição da adoração "em espírito e em verdade" e sobre a Vida Eterna (conhecer o Pai como o Único Deus Verdadeiro).
-- **Traduções Bíblicas Modernas (ex: João Ferreira de Almeida vs. King James):** Citadas para demonstrar inconsistências teológicas de tradutores que optam por "prostrou-se" no Antigo Testamento, mas alteram para "adorou" no Novo Testamento.
+**Escrituras**
+- *Torá:*
+  - Gênesis 18:2: Avraham (Abraão) prostra-se diante dos três homens (mensageiros).
+  - Gênesis 33:3: Ya'akov (Jacó) prostra-se sete vezes diante do seu irmão Esav (Esaú).
+  - Gênesis 42:6: Os irmãos de Yosef (José) prostram-se diante dele por ser autoridade no Egito.
+  - Êxodo 18:7: Moshe (Moisés) prostra-se e beija seu sogro Yitro (Jetro).
+  - Deuteronômio 6:13: "Ao Senhor teu Deus adorarás, e somente a Ele servirás", o texto que Yeshua usa como escudo contra Satanás.
+- *Nevi'im:* Sem referência específica citada.
+- *Ketuvim:*
+  - Rute 2:10: Rute prostra-se diante de Boaz.
+- *Berit Hadashah:*
+  - **Evangelho de João (Yochanan) 4 e 17:** Textos fundamentais sobre a definição da adoração "em espírito e em verdade" e sobre a Vida Eterna (conhecer o Pai como o Único Deus Verdadeiro).
+  - João 4:21-26: o diálogo com a samaritana e o "nós" dos adoradores.
+  - João 9:38: o cego curado que se prostra diante de Yeshua.
+  - João 20:17: "Subo para meu Pai e vosso Pai, meu Deus e vosso Deus".
+  - Mateus 4:8-10: a tentação e a resposta pela Torá.
+  - Mateus 6:9: o Pai Nosso, a oração dirigida ao Pai.
+  - Mateus 8:2 e 15:25: o leproso e a mulher siro-fenícia que se prostram.
+  - Atos 10:25-26: Pedro rejeita a prostração de Cornélio.
+  - Atos 10:38-43: Yeshua ungido, "porque Deus era com ele", e constituído juiz.
+  - 2 Coríntios 1:2-3 e 11:31: "Bendito seja o Deus e Pai de nosso Senhor Yeshua HaMashiach".
+- *Traduções modernas:*
+  - **Traduções Bíblicas Modernas (ex: João Ferreira de Almeida vs. King James):** Citadas para demonstrar inconsistências teológicas de tradutores que optam por "prostrou-se" no Antigo Testamento, mas alteram para "adorou" no Novo Testamento.
 
-### Ferramentas, Frameworks ou Modelos Conceituais
-- **Análise Semântica (Hebráico para Grego):** O modelo linguístico que mapeia a palavra hebraica (raiz *Shachah* / *Vaishatachu*) para a palavra grega correspondente (*Proskyneo*).
+**Literatura rabínica e judaica**
+Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+- **A [[Septuaginta]] (LXX):** A antiga tradução do *Tanakh* (Antigo Testamento hebraico) para o grego por 70 (ou 72) sábios judeus, crucial para provar que a palavra grega *proskyneo* foi usada para traduzir o hebraico *hishtachavah* (prostrar-se) em contextos não divinos.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **Análise Semântica (Hebraico para Grego):** O modelo linguístico que mapeia a palavra hebraica (raiz *Shachah* / *Vaishatachu*) para a palavra grega correspondente (*Proskyneo*).
 - **Monoteísmo Estrito:** A doutrina teológica central judaica que reconhece um único Criador Supremo, não partilhado em divindades plurais ou pessoas.
+- **Contextualismo lexical:** O significado do ato de prostrar-se é determinado por quem o recebe (Deus ou autoridade humana/Mashiach), e não pela palavra isolada.
+- **Teste lógico da tentação:** Se Yeshua fosse ontologicamente o próprio Deus, a proposta de Satanás seria ilógica e a resposta seria outra ("Eu sou Deus, adore a mim").
 
 ---
 
@@ -97,6 +133,14 @@ A compreensão deste tema é fundamental para a desconstrução de dogmas religi
 - [[Tanakh]]
 - [[Avodá]]
 - [[Trindade|Dogma Trinitário]]
+
+**Notas relacionadas na base:**
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — discute o dogma trinitário que o viés de tradução de *proskyneo* ajudou a sustentar.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — reúne as declarações de Yeshua e dos apóstolos sobre o Deus único que esta nota lê a partir do gesto de prostração.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — mostra como a mentalidade greco-romana converteu a reverência ao Messias em adoração divina.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — ensina, pela serpente de bronze, que o instrumento de Deus não pode receber o culto devido ao Pai.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — trata de outro texto usado para pluralizar Deus, lido aqui sem Trindade.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — separa pela mística o Mashiach do Criador, base da diferença entre honrar o Messias e adorar o Pai tratada aqui.
 
 ### Mini-Glossário de Termos Especializados
 

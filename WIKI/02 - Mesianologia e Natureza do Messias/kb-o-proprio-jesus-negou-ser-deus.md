@@ -27,7 +27,9 @@ knowledge_depth: exhaustive-academic
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Bíblicas, Patriarcas e Autores Citados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Avraham Avinu|Abraão]] (Avraham Avinu):** O pai do monoteísmo, que rompeu com o politeísmo astrológico e cúltico de Ur dos Caldeus para responder ao chamado do Deus único.
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mediador da Antiga Aliança que registrou a profecia primordial do Profeta semelhante a ele ([[Deuteronômio 18.18|Deuteronômio 18.18-19]]) e a declaração fundacional do monoteísmo ([[Deuteronômio 6.4]]).
 - **[[David HaMelech|Rei Davi]] e [[Shlomo HaMelech|Salomão]]:** Figuras régias tipológicas de Israel onde a filiação divina (*Ben Elohim*) é aplicada em sentido de representatividade e governo teocrático, nunca em sentido biológico ou ontológico híbrido.
@@ -35,16 +37,18 @@ knowledge_depth: exhaustive-academic
 - **[[Yeshua|Yeshua de Nazaré]]:** O Messias judeu, que reafirmou o *Shemá* como o primeiro de todos os mandamentos ([[Marcos 12.29]]), definiu a vida eterna no conhecimento do Pai como o único Deus verdadeiro ([[João 17.3]]) e agiu como o profeta prometido da Torá.
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que reafirma de forma inequívoca em suas epístolas que *"há um só Deus, o Pai... e um só Senhor, Yeshua"* ([[1 Coríntios 8.6]]) e *"um só Deus e um só mediador entre Deus e os homens, Yeshua o Messias, homem"* ([[1 Timóteo 2.5]]).
 - **[[Ya'akov HaTzaddik|Tiago]] (Yaakov) e [[Yehudah, irmão de Yeshua|Judas]] (Yehudah):** Líderes apostólicos que ratificam a unicidade de Deus ([[Tiago 2.19]]; [[Judas 1.25]]).
+- **O escriba de Marcos 12:** Mestre da Torá que concorda com Yeshua na recitação do *Shemá* (*"com verdade disseste que Ele é um e não há outro além Dele"*) e recebe o elogio do Messias.
+- **[[Concílio de Niceia]] e Concílio de Calcedônia:** As formulações conciliares posteriores ao século IV que introduziram a Trindade e a "união hipostática", refutadas no estudo à luz do monoteísmo bíblico.
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Deuteronômio 4|Deuteronômio 4.35, 39]]:* *"Saberás hoje e considerarás no teu coração que Adonai é Deus... e não há outro."*
   - *[[Deuteronômio 6.4]]:* O *Shemá Israel* (*"Ouve, Israel: Adonai nosso Deus, Adonai é Um"*).
   - *[[Deuteronômio 18.18|Deuteronômio 18.18-19]]:* A profecia do Profeta escatológico ("porei as minhas palavras na sua boca").
   - *[[Deuteronômio 32.39]]:* *"Vede agora que Eu, Eu sou Ele, e não há outro Deus comigo."*
-- **[[Tanakh]] (Profetas e Escritos Históricos):**
+- *Nevi'im:* (os Profetas e Escritos Históricos do [[Tanakh]])
+  - *2 Samuel 7:14:* *"Eu lhe serei por Pai, e ele me será por filho"* — a filiação régia por eleição, autoridade e representatividade legal.
   - *[[1 Reis 8.60]] & [[2 Reis 19.15]]:* Confissões monoteístas da monarquia israelita.
-  - *[[Salmo 40.8]]:* *"Em fazer a tua vontade, ó Deus meu, eu me deleito; a tua Torá está no íntimo do meu ser."*
   - *[[Isaías 11.1|Isaías 11.1-2]]:* O repouso do Espírito de *Hashem* sobre o renovo de Jessé.
   - *[[Isaías 42.1]]:* O servo escolhido em quem a alma de Deus se compraz e sobre quem é colocado o Espírito.
   - *[[Isaías 43.10]]:* Israel e o Servo como testemunhas de que antes de *Hashem* nenhum Deus se formou nem haverá depois Dele.
@@ -52,22 +56,36 @@ knowledge_depth: exhaustive-academic
   - *[[Isaías 53.10]]:* O sofrimento e oferta de reparação do Servo ([[Mashiach ben Yosef]]).
   - *[[Ezequiel 37.24]]:* O Servo Davi como rei e único pastor conduzindo Israel nos estatutos da Torá.
   - *[[Zacarias 9.9]]:* A entrada humilde do Rei Messias montado sobre um jumentinho.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Ketuvim:*
+  - *[[Salmo 40.8]]:* *"Em fazer a tua vontade, ó Deus meu, eu me deleito; a tua Torá está no íntimo do meu ser."*
+  - *[[Daniel 7]]:* O Messias glorioso que vem nas nuvens, a face de *Mashiach ben David*.
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Marcos 12.28|Marcos 12.28-34]]:* O diálogo de Yeshua com o escriba confirmando o monoteísmo estrito como o maior mandamento.
   - *[[João 5.44]]:* A repreensão aos que buscam a glória dos homens e não a do "único Deus".
   - *[[João 17.3]]:* A definição da vida eterna: conhecer o Pai como o "único Deus verdadeiro" e a Yeshua como o "enviado".
   - *[[Romanos 3.30]] & [[Romanos 16.27]]:* A salvação justificada pelo Deus único por meio do Messias.
   - *[[1 Coríntios 8.4|1 Coríntios 8.4-6]]:* Não há outro Deus senão um: o Pai; e um só Senhor: Yeshua.
   - *[[Efésios 4.6]]:* Um só Deus e Pai de todos.
+  - *[[Colossenses 2.9]]:* A plenitude da divindade (*Elohut*) que habitou corporalmente em Yeshua, como a *Shechinah* no Tabernáculo.
   - *[[1 Timóteo 2.5]]:* Um só Deus, um só mediador: Yeshua o Messias, homem.
   - *[[Tiago 2.19]]:* A fé na unicidade divina (*Adonai Echad*) compartilhada até pelos demônios.
   - *[[Judas 1.25]]:* Glória ao único Deus, nosso Salvador, por meio de Yeshua o Messias.
 
-### Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- **A máxima da agência (*Shelucho shel adam kemoto*):** "O enviado de um homem é como o próprio homem", registrada na Mishná (*Berachot 5:5*) e no [[Talmud Bavli]] (*Kiddushin 41b*), base do princípio de *Shaliah* aplicado a Yeshua.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Distinção Ontológica vs. Funcional:** O Messias tem centralidade funcional absoluta (eleito, ungido, porta-voz, rei e mediador), mas não ontológica (não compartilha a substância atemporal incriada de Deus).
 - **Princípio da Agência Semítica (*Shaliah*):** Máxima rabínica e bíblica segundo a qual *"o enviado de um homem é como o próprio homem"* (*Shelucho shel adam kemoto*). O agente age com a plena autoridade e poder do emissor sem se tornar a pessoa física do emissor.
 - **Etimologia de Mashiach / Metáfora do Azeite:** O termo *Mashiach* ("Ungido") provém da prensa das azeitonas; assim como o azeite puro brota do fruto esmagado, a unção divina repousa sobre o servo que padece e executa a vontade do Criador.
 - **A Dupla Manifestação Messiânica:** A reconciliação entre o Messias humilde (*Mashiach ben Yosef* - Zacarias 9:9 / Isaías 53) e o Messias glorioso nas nuvens (*Mashiach ben David* - Daniel 7 / Ezequiel 37).
+- **O Messias como Tabernáculo e Altar:** A analogia de que a *Shechinah* habitar no Santo dos Santos não fazia do Tabernáculo Deus, e de que Yeshua é o altar e o veículo definitivo da expiação estabelecido por Deus.
 
 ---
 
@@ -147,6 +165,17 @@ O estudo elucida as falhas das formulações conciliares posteriores:
 - [[Shaliah]]: Princípio jurídico hebraico da agência ("o enviado de um homem é como o próprio homem"), base para compreender a autoridade de Yeshua.
 - [[Elohut]]: A santidade, presença e glória da divindade que repousou na sua plenitude no Messias.
 - [[Kapará|Kaparot]]: O sistema e processo de expiação e cobertura de transgressões ordenado na aliança bíblica.
+
+**Notas relacionadas na base:**
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — examina o dogma trinitário de Niceia que esta nota confronta com o *Shemá* e com as palavras do próprio Yeshua.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — narra o processo histórico greco-romano que transformou o Messias homem aqui descrito em deidade.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — mostra que a prostração diante de Yeshua é reverência ao agente de Deus, coerente com o princípio do *Shaliah*.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — aprofunda o Profeta semelhante a Moisés de Deuteronômio 18, peça central do perfil messiânico desta nota.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — desenvolve a dupla manifestação messiânica (ben Yosef e ben David) usada aqui como chave hermenêutica.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — responde ao plural de Gênesis 1.26 sem Trindade, reforçando o monoteísmo estrito.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — mostra o risco de transformar o Mediador em objeto de culto, como Israel fez com a serpente de bronze.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — faz pela mística a mesma distinção entre o Criador e o Mashiach que esta nota faz pelas palavras de Yeshua.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — lê a luz oculta e o Mashiach como lâmpada sem apagar a distinção de João 17.3 entre o único Deus verdadeiro e o enviado.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Adonai Echad]] (Deus é Um):** Expressão em *Deuteronômio 6:4* que atesta a unicidade cardinal, indivisibilidade e soberania exclusiva do Criador.

@@ -36,32 +36,52 @@ A tese desconstrói pressupostos dogmáticos ocidentais consolidados há século
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Históricas e Pensadores Citados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **Imperador Constantino (séc. IV):** Promotor político do Concílio de Niceia (325 d.C.), visando pacificar disputas teológicas e estruturar uma religião imperial universal unificada (*católica*).
-- **Ário (Bispo de Alexandria):** Defensor da subordinação ontológica do Messias ao Criador, sustentando que o Filho é gerado/criado e sujeito ao Pai.
+- **Ário (Presbítero de Alexandria):** Defensor da subordinação ontológica do Messias ao Criador, sustentando que o Filho é gerado/criado e sujeito ao Pai.
 - **Atanásio de Alexandria:** Teólogo que formulou a defesa da co-igualdade, co-eternidade e consubstancialidade (*homoousios*) entre o Pai e o Filho, cuja tese prevaleceu politicamente no concílio.
 - **Platão e Neoplatonismo:** Corrente filosófica que introduziu conceitos de emanações intermediárias e o *Logos* especulativo, assimilado pelos teólogos helenistas para justificar a divindade plural.
 - **[[Moshe Rabenu]] (Moisés):** Legislador da Torá e promulgador da proibição estrita de imagens e deuses alheios (*Êxodo 20*; *Deuteronômio 6*).
 - **[[Shimon Kefa|Kefa]] (Apóstolo Pedro):** Testemunha ocular de Yeshua que, em Atos 10:38, sintetizou a mesianologia apostólica: Yeshua foi um homem ungido por Deus com poder e Espírito para fazer o bem, *"porque Deus era com Ele"*.
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Escritor apostólico que recorreu às categorias do Homem Primordial em Colossenses 1:15 e Filipenses 2:6-7.
-- **Autores do Zohar (Literatura Cabalística):** Fonte mística que sistematizou a doutrina de *Adam Kadmon* e a associação do Messias com a *Sefirá* *Yessod* (Fundamento/Conexão).
 
-### Textos Canônicos e Fontes Analisadas
-- **Tanakh (Bíblia Hebraica):**
+**Escrituras** (Tanakh — Bíblia Hebraica — e Berit Hadashah)
+- *Torá:*
   - *Shemot* / Êxodo 20:3-5 (Primeiro e Segundo Mandamentos: proibição de deuses alheios e culto a imagens).
   - *Devarim* / Deuteronômio 6:4 (*Shemá Israel*: *"Hashem nosso Deus, Hashem é Um"*).
-  - *Yeshayahu* / Isaías 44:6; 45:5-6 (*"Eu sou o Eterno, e não há outro; além de mim não há Deus"*).
   - *Bereshit* / Gênesis 1:26-27 (*"Façamos o homem à nossa imagem..."* — analisado no nível místico de Adam Kadmon).
+  - *Shemot* / Êxodo 3:14 (O Nome revelado a Moisés, que o estudo distingue do *Egō eimi* de João 4:26; ver o item 4.3).
+- *Nevi'im:*
+  - *Yeshayahu* / Isaías 44:6; 45:5-6 (*"Eu sou o Eterno, e não há outro; além de mim não há Deus"*).
   - *Yirmeyahu* / Jeremias 10:1-5 (Denúncia do costume pagão de cortar e ornar árvores com prata e ouro).
-- **Berit Hadashah (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *Berit Hadashah (Novo Testamento):*
   - *Yochanan* / João 4:21-24 (Diálogo com a samaritana: os verdadeiros adoradores adoram exclusivamente ao Pai).
   - *Yochanan* / João 17:3 (*"A vida eterna é esta: que te conheçam a ti, o único Deus verdadeiro, e a Yeshua HaMashiach, a quem enviaste"*).
   - *Atos dos Apóstolos* 10:38-43 (Discurso de Pedro em Cesaréia: Yeshua como o ungido e constituído juiz por Deus).
   - *Colossenses* 1:15-17 (*"Ele é a imagem do Deus invisível, o primogênito de toda a criação..."*).
   - *Filipenses* 2:5-7 (*"Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus..."*).
   - *Hebreus* 1:1-3; 11:3 (*"O resplendor da glória e a expressa imagem do Seu ser... os mundos foram criados"*).
-- **Tradição Rabínica e Mística:**
-  - *Zohar* I, 22a; *Zohar* III (*Adam Kadmon* como primeiro pensamento/molde espiritual cósmico).
+
+**Literatura rabínica e judaica**
+- *[[Zohar]]* I, 22a; *Zohar* III (*Adam Kadmon* como primeiro pensamento/molde espiritual cósmico).
+- **Autores do Zohar (Literatura Cabalística):** Fonte mística que sistematizou a doutrina de *Adam Kadmon* e a associação do Messias com a *Sefirá* *Yessod* (Fundamento/Conexão).
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **Categorias semíticas × categorias gregas:** a chave do estudo — o pensamento hebraico é concreto, relacional e estritamente monoteísta, e o greco-romano trouxe o *Logos* neoplatônico e o *homoousios* (ver o item 4.1).
+- **[[PaRDeS]]:** os níveis *Remez* e *Derash* para ler a "mão direita de Deus" como autoridade delegada, e o nível místico para ler Gênesis 1:26 pelo Adam Kadmon.
+- **A arquitetura Ein Sof → Adam Kadmon → Yeshua:** o diagrama do item 4.4, com o *Tzimtzum* entre o Infinito e o Homem Primordial.
+- **A analogia front-end × back-end:** o universo visível como interface e o Mashiach/Adam Kadmon como código-fonte da criação.
+- **A analogia do espelho:** a imagem que reflete o objeto com exatidão sem ser o objeto, para explicar Colossenses 1:15.
+- **A definição jurídico-teológica de idolatria:** atribuir divindade, soberania suprema e culto a qualquer ser criado, emanado ou subordinado.
 
 ---
 
@@ -171,6 +191,16 @@ A leitura direta dos textos apostólicos desautoriza a divindade composta:
 - [[Teshuvá]] (Retorno e Arrependimento aos Caminhos da Torá)
 - [[Concílio de Niceia]] (Marco Histórico da Formulação Trinitária em 325 d.C.)
 - [[Sefirot]] (As Dez Emanações da Árvore da Vida)
+
+**Notas relacionadas na base:**
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — reúne os textos em que Yeshua se apresenta como enviado do único Deus, a mesma linha de João 17:3 e Atos 10:38 desta nota.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — aprofunda o processo histórico de Constantino e Niceia que esta nota resume no item 4.1.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — separa reverência de adoração, o que completa o princípio de que todo culto pertence só ao Pai.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — explica o plural de Gênesis 1:26 pelo diálogo com o Adam Kadmon, a leitura que esta nota usa contra a Trindade.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — desenvolve o Adam Kadmon como primeira emanação e as sefirot, base do item 4.4.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — apresenta Yeshua como o profeta semelhante a Moisés, e não um "segundo Deus", dentro do mesmo monoteísmo estrito.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — liga *kashrut* e idolatria, os dois temas do item 4.5 sobre a acusação de "judaizar".
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — mostra pela serpente de bronze, despedaçada por Ezequias, como o instrumento de Deus vira ídolo, paralelo da idolatria trinitária examinada aqui.
 
 ### Mini-Glossário Analítico
 1. **[[Adam Kadmon]] (אָדָם קַדְמוֹן):** O "Homem Primordial". A emanação primária e arquétipo espiritual cósmico gerado por Deus antes da formação dos quatro mundos, servindo de molde para toda a criação.

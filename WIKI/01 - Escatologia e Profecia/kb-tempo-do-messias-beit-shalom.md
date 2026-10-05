@@ -20,50 +20,68 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** O reconhecimento de [[Yeshua]] como o [[Mashiach]] (Messias) prometido a Israel fundamenta-se estritamente na convergência entre o modelo profético da [[Torá]] ([[Deuteronômio 18.15|Deuteronômio 18.15-19]] — o profeta semelhante a Moisés), o cumprimento cronológico exato das 70 semanas de [[Daniel 9.24|Daniel 9.24-26]], a doutrina judaica clássica das duas fases messiânicas ([[Mashiach ben Yosef]] e [[Mashiach ben David]]) e a substituição da expiação sacrificial cerimonial após a destruição do Segundo Templo no ano 70 EC. Rav Yosef argumenta que a rejeição tradicional judaica e a distorção cristã histórica decorrem, respectivamente, do abandono do cálculo cronológico pré-destruição do Templo e da imposição de dogmas helenísticos/romanos antinômicos (divinização trinitária e anulação da Lei de Moisés).
-- **Contexto & Importância:** O conteúdo aborda uma das maiores fraturas teológicas da história ocidental: a cisão entre o judaísmo rabínico tradicional e a fé messiânica. Ele estabelece uma ponte hermenêutica desprovida de roupagem ocidentalizada, resgatando as fontes originais hebraicas ([[Tanakh]], [[Talmud Bavli]], [[Targum]] e [[Zohar]]) para fundamentar a validade da fé em Yeshua sem a necessidade de abandonar a observância e perpetuidade da Torá.
+- **Contexto & Importância:** O estudo aborda uma das maiores fraturas teológicas da história ocidental: a cisão entre o judaísmo rabínico tradicional e a fé messiânica. Ele estabelece uma ponte hermenêutica desprovida de roupagem ocidentalizada, resgatando as fontes originais hebraicas ([[Tanakh]], [[Talmud Bavli]], [[Targum]] e [[Zohar]]) para fundamentar a validade da fé em Yeshua sem a necessidade de abandonar a observância e perpetuidade da Torá.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Requer noções de hermenêutica bíblica, profecias do Antigo Testamento, terminologia hebraica ([[Torá]], [[Tanakh]], [[Berit Hadashah]], [[Teshuvá]], [[Mashiach]]), cronologia bíblica e noções fundamentais das correntes de interpretação rabínica e messiânica.
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Pesquisadores e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Mestre primordial de Israel, profeta que falava com Deus face a face e estabeleceu o padrão de autoridade e transmissão da palavra divina em [[Deuteronômio 18.15|Deuteronômio 18.15-19]].
 - **[[João, o Imersor]] (Yochanan HaMatbil):** Figura profética de transição que questionou Yeshua no cárcere se ele era "aquele que havia de vir ou se deveriam esperar outro".
 - **[[Yeshua|Yeshua de Nazaré]]:** Apresentado como o Profeta escatológico, cumprimento do arquétipo de [[Adam Kadmon]] / [[Tzelem Elohim]], que atuou em conformidade total com a Torá e se manifestou no tempo profetizado por Daniel.
 - **[[Shimon Kefa|Pedro]] (Shimon Kefa) e [[Estêvão]]:** Apóstolos dos primeiros séculos que, em [[Atos 3.22|Atos 3.22-23]] e [[Atos 7.37]], utilizaram explicitamente Deuteronômio 18 como prova irrefutável do messianismo de Yeshua.
-- **[[James Ussher]] (Arcebispo Ussher):** Cronologista do século XVII referenciado pela estruturação da cronologia bíblica desde a criação do homem até os períodos persa e do Segundo Templo.
 - **[[Artaxerxes I]]:** Monarca persa que emitiu o decreto de restauração e reconstrução dos muros de Jerusalém (conforme Neemias 2), marco inicial da contagem das 70 semanas.
-- **[[Rabi Yehoshua ben Levi]]:** Sábio talmúdico citado no tratado *Sanhedrin 98a* ao contrastar as duas profecias messiânicas aparentemente divergentes (Daniel 7 vs. Zacarias 9).
-- **[[Rav]] (século III EC):** Autoridade amoraica babilônica citada em *Sanhedrin 97b* a respeito da imprecação contra aqueles que calculam os tempos do fim messiânico.
 - **[[Rabi Akiva]]:** Principal erudito do século II que identificou erroneamente Simão Bar Kokhba como o Messias político-militar, levando Israel à catástrofe da Segunda Revolta Judaica.
-- **[[Rashi]] (Rabbi Shlomo Yitzchaki):** Comentarista medieval mencionado criticamente em contraste com o Targum antigo por interpretar o "Servo Sofredor" de Isaías 53 de forma corporativa (a nação de Israel) em vez de individual (o Messias).
+- **Tito:** General romano cujas legiões destruíram a cidade e o santuário no ano 70 EC, cumprindo Daniel 9:26 (ver o item 3).
 
-### Estudos, Artigos, Livros e Textos Sagrados Referenciados
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *[[Torá]] / Pentateuco:*
   - *Devarim (Deuteronômio) 18:15-19:* A profecia do "Profeta semelhante a Moisés".
   - Critério de distinção de profetas verdadeiros e falsos (Deuteronômio 18:20-22).
   - Proibição de acréscimo ou subtração dos mandamentos (Deuteronômio 4:2, 12:32).
-- **[[Tanakh]] (Profetas e Escritos):**
-  - *Daniel 9:24-26:* Profecia das 70 semanas de anos, o corte/morte do Messias e a subsequente destruição da cidade e do santuário.
-  - *Daniel 7:13:* O Messias vindo nas nuvens do céu como o "Filho do Homem" ([[Mashiach ben David]]).
+- *Nevi'im* (Profetas do [[Tanakh]]):
   - *Zacarias 9:9:* O Messias humilde, pobre e montado em um jumentinho ([[Mashiach ben Yosef]]).
   - *Isaías 52:13 - 53:12:* O Servo Sofredor que carrega as enfermidades e dores de Israel e realiza expiação vicária.
-  - *Salmos 16:10; 22:* Profecias sobre o Messias transpassado e cuja alma não veria a corrupção na sepultura ([[Sheol]]).
+  - *Isaías 2:3:* "De Sião sairá a Torá" — a universalização da Torá no Reino Messiânico (ver o item 5).
+- *Ketuvim* (Escritos do Tanakh):
+  - *Daniel 9:24-26:* Profecia das 70 semanas de anos, o corte/morte do Messias e a subsequente destruição da cidade e do santuário.
+  - *Daniel 7:13:* O Messias vindo nas nuvens do céu como o "Filho do Homem" ([[Mashiach ben David]]).
+  - *Salmo 16:10; 22:* Profecias sobre o Messias transpassado e cuja alma não veria a corrupção na sepultura ([[Sheol]]).
   - *Neemias 2:1:* O marco do decreto régio de reconstrução de Jerusalém.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *[[Berit Hadashah]] (Novo Testamento):*
   - *Yochanan (João) 1:21-25; 6:14; 7:40:* O clamor e expectativa popular em torno de "O Profeta".
   - *Mateus 5:17-19:* A ratificação irrevogável da validade e perpetuidade de cada *yod* e *kots* da Torá.
   - *Mateus 7:21-23:* A condenação dos que praticam a iniquidade (anomia / transgressão da Torá).
   - *Atos 3:22-23 & Atos 7:37:* A defesa apostólica de Yeshua via Deuteronômio 18.
   - *Epístola aos Hebreus:* Tratado exegético sobre a transição do sacerdócio levítico e sacrifícios temporais para a expiação definitiva e perene do Messias.
   - *Apocalipse 21-22:* O Milênio, o governo terrestre dos justos, a Nova Jerusalém e o estado eterno ([[Olam Haba]]).
-- **Literatura Rabínica e Mística Judaica:**
-  - *Talmud Bavli, Tratado Sanhedrin 98a:* Resolução da contradição entre Daniel 7:13 e Zacarias 9:9 através da teoria das duas manifestações.
-  - *Talmud Bavli, Tratado Sanhedrin 97b:* Pronunciamento sobre o cálculo expirado do tempo da vinda messiânica.
-  - *Targum Yonatan em Isaías 52:13:* Atribuição direta da figura do servo ao Mashiach ("Eis que meu servo, o Messias, prosperará").
-  - *Zohar (Parashat Vayakhel):* O "Palácio dos Filhos Doentes" no Jardim do Éden, onde o Messias atrai sobre si os sofrimentos e penalidades devidas a Israel para aliviar o fardo da Torá.
-- **Modelos Probabilísticos:** Estudo estatístico e analogia probabilística (o exemplo do Estado do Texas coberto de moedas a 70 cm de profundidade) para ilustrar a improbabilidade matemática de um indivíduo cumprir cumulativamente mais de 300 profecias messiânicas do Antigo Testamento por acaso ou farsa intencional.
+
+**Literatura rabínica e judaica**
+- *[[Talmud Bavli]], Tratado Sanhedrin 98a:* Resolução da contradição entre Daniel 7:13 e Zacarias 9:9 através da teoria das duas manifestações.
+- *[[Talmud Bavli]], Tratado Sanhedrin 97b:* Pronunciamento sobre o cálculo expirado do tempo da vinda messiânica.
+- *[[Targum]] Yonatan em Isaías 52:13:* Atribuição direta da figura do servo ao Mashiach ("Eis que meu servo, o Messias, prosperará").
+- *[[Zohar]] (Parashat Vayakhel):* O "Palácio dos Filhos Doentes" no Jardim do Éden, onde o Messias atrai sobre si os sofrimentos e penalidades devidas a Israel para aliviar o fardo da Torá.
+- **[[Rabi Yehoshua ben Levi]]:** Sábio talmúdico citado no tratado *Sanhedrin 98a* ao contrastar as duas profecias messiânicas aparentemente divergentes (Daniel 7 vs. Zacarias 9).
+- **[[Rav]] (século III EC):** Autoridade amoraica babilônica citada em *Sanhedrin 97b* a respeito da imprecação contra aqueles que calculam os tempos do fim messiânico.
+- **[[Rashi]] (Rabbi Shlomo Yitzchaki):** Comentarista medieval mencionado criticamente em contraste com o Targum antigo por interpretar o "Servo Sofredor" de Isaías 53 de forma corporativa (a nação de Israel) em vez de individual (o Messias).
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- **[[James Ussher]] (Arcebispo Ussher):** Cronologista do século XVII referenciado pela estruturação da cronologia bíblica desde a criação do homem até os períodos persa e do Segundo Templo.
+- **Modelos Probabilísticos:** Estudo estatístico e analogia probabilística (o exemplo do Estado do Texas coberto de moedas a 70 cm de profundidade) para ilustrar a improbabilidade matemática de um indivíduo cumprir cumulativamente mais de 300 profecias messiânicas do Antigo Testamento por acaso ou farsa intencional. A analogia das moedas sobre o Texas vem do matemático Peter Stoner, no livro *Science Speaks*, onde ele a aplica ao cumprimento de apenas 8 profecias.
+
+**Ferramentas e modelos conceituais**
+- **Os quatro requisitos do profeta messiânico:** origem israelita, natureza profética, paralelismo com Moisés e fidelidade total à Torá, tirados de Deuteronômio 18 (ver o item 1).
+- **O cálculo das 70 semanas:** 70 semanas de anos (490 anos), com 7 + 62 semanas (483 anos) contadas a partir do decreto de Artaxerxes até o *Mashiach Nagid* e o Messias cortado antes da destruição do Templo em 70 EC.
+- **O modelo das duas manifestações:** [[Mashiach ben Yosef]], o servo sofredor, e [[Mashiach ben David]], o rei triunfante, como solução rabínica para Zacarias 9:9 e Daniel 7:13.
+- **O tabernáculo como analogia:** o Messias abriga a presença divina ([[Shechinah]]) como o Tabernáculo e o Templo a abrigavam, sem se tornar a divindade criadora (Colossenses 2:9).
+- **O filtro da Torá:** nenhuma reivindicação messiânica vale se anular os mandamentos, pelo princípio de não acrescentar nem subtrair (Deuteronômio 4:2).
 
 ---
 
@@ -131,6 +149,19 @@ A demonstração histórica e matemática do advento do Messias repousa sobre a 
 - [[Olam Haba]]: O mundo vindouro, estado eterno de harmonia e perfeição após o Reino Milenar.
 - [[Talmud Bavli]]: Compilação da tradição oral judaica e discussões rabínicas dos séculos II a VI EC.
 - [[Zohar]]: Obra central da Cabala e mística judaica que preserva reflexões profundas sobre o sacrifício do Messias.
+
+**Notas relacionadas na base:**
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — aprofunda as duas manifestações do Messias de *Sanhedrin 98a* pela tipologia de José do Egito.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — mostra como o Messias que veio no tempo de Daniel cumpre as festas de primavera e vai cumprir as de outono no retorno.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — continua a profecia de Daniel 9 até a última semana, depois das 69 semanas que esta nota usa para datar o Messias.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — desenvolve o Messias como profeta e homem, não um "segundo Deus", que é o segundo requisito de Deuteronômio 18.
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — trata da rejeição do dogma trinitário e da leitura do Messias como Adam Kadmon, as duas linhas do item 2 desta nota.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — explica o Adam Kadmon e o *Tzelem Elohim* que esta nota aplica a Yeshua.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — aprofunda a expiação pelo justo, a mesma ideia do Messias que carrega o castigo de Israel em Isaías 53 e no Zohar.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — usa Deuteronômio 18 e João 5.46, desenvolvidos aqui, contra o judaísmo que guarda Moisés e rejeita o Messias.
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — mostra o profeta semelhante a Moisés recebendo o Espírito em plenitude, e não em porção, na imersão do Jordão.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — examina o sinal de Jonas, mais um sinal da messianidade de Yeshua ao lado dos reunidos aqui.
+- [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — confirma por *Yoma 39b* a destruição do Segundo Templo, antes da qual as 70 semanas desta nota fazem vir o Messias.
 
 ### Mini-Glossário Técnico
 1. **[[Mashiach Nagid]] (Messias, o Príncipe):** Designação profética em Daniel 9 para a manifestação do líder ungido de Israel antes do corte das 69 semanas.

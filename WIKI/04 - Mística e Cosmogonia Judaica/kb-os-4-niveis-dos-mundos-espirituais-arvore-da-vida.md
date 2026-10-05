@@ -36,7 +36,9 @@ A tese supera visões dualistas simplistas sobre "céu e inferno" ao explicar o 
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Ya'akov Avinu]] (Patriarca Jacó):** Protagonista da visão da Escada Cósmica (Gn 28:12), interpretada como o canal de trânsito espiritual entre *Assiá* (terra) e *Atzilut* (céus), e da luta no vau de Jaboque para alteração do seu *Mazal* (destino/nome).
 - **[[Yosef HaTzaddik]] (José do Egito):** Mestre na decodificação de metáforas oníricas nos mundos espirituais (sonhos do copeiro, padeiro e Faraó).
 - **[[Moshe Rabenu]] (Moisés):** Legislador da Torá que comparou o ser humano à árvore do campo em *Devarim* / Deuteronômio 20:19.
@@ -44,22 +46,43 @@ A tese supera visões dualistas simplistas sobre "céu e inferno" ao explicar o 
 - **[[João, o Imersor|Yochanan HaMatbil]] (João Batista):** Profeta que proclamou o machado posto à raiz das árvores infrutíferas (Mateus 3:10).
 - **[[Yeshua|Yeshua HaMashiach]]:** O Mestre da Galiléia que curou o cego de Betsaida em dois estágios (visão espiritual dos homens como árvores e restauração física nítida em Marcos 8) e ensinou a máxima dos frutos e da árvore em Mateus 7.
 - **[[Shlomo HaMelech]] (Rei Salomão):** Exemplo de abertura do fluxo divino de sabedoria e consequente abundância material para a construção do Templo (*Beit HaMikdash*).
+- **O cego de Betsaida:** O homem curado em duas etapas (Marcos 8:22-26), cuja frase *"vejo os homens como árvores que andam"* é lida no estudo como visão da anatomia espiritual humana.
+- **Israel nos dias de Midiã:** O povo empobrecido pela opressão midianita depois da desobediência (Juízes 6:1-6), exemplo de escassez que nasce da quebra da aliança.
 
-### Textos Canônicos e Manuscritos Analisados
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá:*
   - *Bereshit* / Gênesis 1:26-27 (Criação do homem à imagem - *Tzelem* - espiritual de Elohim).
   - *Bereshit* / Gênesis 28:12 (A Escada de Jacó e os anjos subindo e descendo).
   - *Bereshit* / Gênesis 32:24-30 (A luta com o anjo em Peniel).
   - *Vayicrá* / Levítico 15 e 18 (Leis de pureza familiar - *Niddah* - e santidade conjugal).
   - *Devarim* / Deuteronômio 20:19 (*"Pois o homem é como a árvore do campo"* - *Ki HaAdam Etz HaSadeh*).
-- **Nevi'im e Ketuvim (Profetas e Escritos):**
+- *Nevi'im:*
   - *Shoftim* / Juízes 6:1-6 (A desobediência de Israel e a consequente opressão de Midiã gerando empobrecimento severo).
-  - *Tehilim* / Salmos 1:1-3 (O justo como árvore frutífera junto a ribeiros de águas); Salmo 92:12-14 (*"O justo florescerá como a palmeira"*).
   - *1 Reis* 3:5-13 (O pedido de Salomão e a liberação de sabedoria e riquezas).
-- **Berit Hadashah (Novo Testamento):**
+- *Ketuvim:*
+  - *Tehilim* / Salmos 1:1-3 (O justo como árvore frutífera junto a ribeiros de águas); Salmo 92:12-14 (*"O justo florescerá como a palmeira"*).
+- *Berit Hadashah:*
   - *Hebreus* 11:3 (*"Pela fé entendemos que os mundos [no plural] foram criados de modo que o visível veio do invisível"*).
   - *Marcos* 8:22-26 (A cura do cego de Betsaida: *"Vejo os homens como árvores que andam"*).
   - *Mattityahu* / Mateus 3:10 (O machado na raiz das árvores); 7:15-20 (A árvore boa e a árvore má); 5:14-16 (A candeia no velador).
+
+**Literatura rabínica e judaica**
+- **[[Zohar]]:** A expressão aramaica *Sitra Achra* ("o outro lado"), que o estudo usa para a Árvore da Morte, e a imagem das cascas impuras (*Klipot*) vêm da linguagem do Zohar. Entra aqui como conexão.
+- **Cabala luriânica ([[Arizal]]):** A ordem dos quatro mundos (ABY"A), a correspondência de cada mundo com uma letra do Tetragrama (*Yud*, *Hei*, *Vav*, *Hei*) e com um nível da alma (*Chaiá/Yechidá*, *Neshamá*, *Ruach*, *Néfesh*) seguem o sistema ensinado pelo Arizal e registrado por Rabi Chaim Vital no *Etz Chaim*. Entra aqui como conexão.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[PaRDeS]]:** Os quatro níveis de leitura (*Peshat*, *Remez*, *Derash*, *Sod*), usados para ler a Escada de Jacó no nível *Sod*.
+- **Mapa dos quatro mundos (ABY"A):** Cada mundo ligado a uma letra do Tetragrama, a uma *Sefirá* (ou grupo de *Sefirot*) e a um nível da alma.
+- **Correspondência anatômica das Dez *Sefirot*:** O corpo humano como mapa da Árvore da Vida (*Etz Chaim*), em três pilares (Misericórdia, Rigor e Equilíbrio).
+- **Analogia do arquiteto:** *Atzilut* é a vontade do arquiteto, *Beriá* a planta, *Yetzirá* o canteiro de obras e *Assiá* o edifício pronto.
+- **Equilíbrio entre *Chesed* e *Gevurá*:** O excesso de um ou de outro como chave para diagnosticar desordem no lar e na alma.
+- **Os 7 pilares do alinhamento existencial:** Espiritual, intelectual, emocional, físico, familiar, profissional e financeiro, como diagnóstico do fluxo da luz divina.
 
 ---
 
@@ -209,6 +232,15 @@ A espiritualidade autêntica da Torá não tolera a fragmentação da existênci
 - [[Niddah]] (Estatuto Toráico de Pureza e Resguardo Conjugal)
 - [[Tzedaká]] (Justiça Social Distributiva e Oferta Sagrada)
 - [[Emuná]] (Fé Ativa, Lealdade e Firmeza na Aliança)
+
+**Notas relacionadas na base:**
+- [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — estudo irmão sobre os mesmos quatro mundos, que os lê em Gênesis 1:1 e mostra Yeshua como a Escada Viva.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — explica as *Sefirot* e o *Adam Kadmon*, o molde da Árvore da Vida que o ser humano reflete.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — aprofunda os níveis da alma e a luta interior que decide se o fluxo divino corre ou é bloqueado.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — trata da Árvore da Vida perdida no Éden e do *Tikkun* pela Torá, o mesmo reparo proposto nos sete pilares.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — descreve a luz do *Ein Sof* que desce pelos mundos, a mesma luz que aqui é obstruída ou liberada.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — desenvolve a alimentação limpa, um dos pilares físicos do cuidado com o templo corpóreo.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — explica o *Tzimtzum* e o Adam Kadmon de Gênesis 1.26, o começo do caminho da luz pelos quatro mundos descritos aqui.
 
 ### Mini-Glossário Analítico
 1. **[[Atzilut]] (אֲצִילוּת):** O nível supremo da criação emanada, caracterizado pela unidade perfeita com o Criador, ausência de separação e manifestação da pura sabedoria divina (*Chochmá*).

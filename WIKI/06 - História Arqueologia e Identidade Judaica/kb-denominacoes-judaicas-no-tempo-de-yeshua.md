@@ -27,28 +27,56 @@ knowledge_depth: exhaustive-academic
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Pensadores e Figuras Histórico-Bíblicas
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Aharon HaKohen|Arão]] (Aharon HaKohen):** Primeiro Sumo Sacerdote (*Kohen Gadol*), cuja descendência direta (*Kohanim*) recebeu a exclusividade do ministério sacerdotal e sacrificial no Tabernáculo e Templo.
 - **[[Shlomo HaMelech|Salomão]] (Shlomo HaMelech):** Construtor do Primeiro Templo de Jerusalém, complexo que integrou o culto sacrificial a câmaras de estudo e ensino da Torá.
 - **[[Esdras]] e [[Neemias]]:** Líderes pós-exílicos que conduziram a reconstrução do Segundo Templo e consolidaram a proliferação das casas de estudo (*Sinagogas*).
 - **[[Pinchas|Fineias]] (Pinchas):** Sacerdote bíblico que atuou com zelo violento contra a idolatria no episódio de Zinri e Cozbi ([[Números 25]]), servindo de modelo doutrinário para os [[Zelotes]] (*Kanaim*).
 - **[[Tzadok|Tsadoque]] (Zadok):** Sumo sacerdote da era davídica e salomônica, de cujo nome deriva a linhagem reivindicada pelos [[Saduceus]] (*Tzadokim*).
-- **[[Flávio Josefo]] (Yosef ben Matityahu):** Historiador do século I EC citado como testemunha documental primária da guerra judaico-romana e da destruição do Segundo Templo em 70 EC.
 - **[[Yeshua|Yeshua de Nazaré]]:** O Messias de Israel, que dialogou com todas as facções religiosas do Segundo Templo, profetizou a destruição do edifício por volta do ano 30 EC e inaugurou o modelo definitivo de expiação.
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul):** Apóstolo dos primeiros séculos, mencionado pelos relatos de perseguição e dispersão em Atos dos Apóstolos.
+- **[[Nabucodonosor II|Nabucodonosor]]:** O rei babilônico que invadiu Jerusalém e incendiou o Primeiro Templo em 586 a.C., abrindo o exílio em que nasce a sinagoga.
+- **Tito:** O general romano que destruiu o Segundo Templo em 70 EC.
+- **Rabi Yochanan ben Zakkai:** O sábio que interpretou a abertura espontânea das portas do santuário como sinal de que o Templo seria invadido e destruído (*Yoma 39b*).
 
-### Textos Sagrados, Documentos Históricos e Evidências Arqueológicas
-- **[[Torá]] / Pentateuco:** Os cinco livros de Moisés, base de toda a legislação de Israel e único cânon aceito pelos saduceus.
-- **[[Tanakh]] (Profetas e Escritos):** Cânon ampliado aceito por fariseus, essênios e messiânicos, contendo profecias sobre ressurreição, anjos e o Messias.
-- **[[Yoma 39b]]:** Registro rabínico clássico que documenta os 4 sinais sobrenaturais que cessaram no Templo 40 anos antes de 70 EC.
+**Escrituras**
+- *Torá:*
+  - **[[Torá]] / Pentateuco:** Os cinco livros de Moisés, base de toda a legislação de Israel e único cânon aceito pelos saduceus.
+  - *[[Números 25]]:* O zelo de Fineias no episódio de Zinri e Cozbi, modelo dos Zelotes.
+- *Nevi'im:*
+  - **[[Tanakh]] (Profetas e Escritos):** Cânon ampliado aceito por fariseus, essênios e messiânicos, contendo profecias sobre ressurreição, anjos e o Messias.
+  - *Isaías 1:18:* *"Ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve"*, o versículo ligado ao milagre da fita escarlate.
+- *Ketuvim:*
+  - *Esdras e Neemias:* Os livros que narram o retorno sob os persas e a reconstrução do Segundo Templo, base da seção sobre Esdras e Neemias.
+- *Berit Hadashah:*
+  - **[[Berit Hadashah]] (Novo Testamento):** Atos dos Apóstolos (dispersão e controvérsias) e o Livro de Apocalipse (cartas às 7 comunidades da Ásia Menor).
+  - *[[Mateus 24.1|Mateus 24.1-2]]:* A profecia de Yeshua sobre a ruína do Templo.
+  - *[[Mateus 15.24]]:* Yeshua enviado às "ovelhas perdidas da casa de Israel".
+  - *Mateus 22:23-33* e *Marcos 7:1-13:* As controvérsias com os Saduceus (ressurreição) e com os Fariseus (tradição), indicadas no checklist.
+
+**Literatura rabínica e judaica**
+- **[[Yoma 39b]]:** Registro rabínico clássico que documenta os 4 sinais sobrenaturais que cessaram no Templo 40 anos antes de 70 EC. A passagem está no [[Talmud Bavli]].
+- **Talmud Yerushalmi, *Yoma* 6:3:** Texto paralelo que também registra os sinais do Templo nos 40 anos antes da destruição. Entra aqui como conexão.
+- **Mishná, *Yoma* 4:1 e 6:8:** Descreve o sorteio dos dois bodes de *Yom Kippur* e a fita escarlate que embranquecia, os rituais por trás dos sinais de *Yoma 39b*. Entra aqui como conexão.
+
+**Literatura do Segundo Templo e historiadores**
+- **[[Flávio Josefo]] (Yosef ben Matityahu):** Historiador do século I EC citado como testemunha documental primária da guerra judaico-romana e da destruição do Segundo Templo em 70 EC.
+- **[[Flávio Josefo]], *Antiguidades Judaicas* 18.1.2-6:** Descreve as três "filosofias" judaicas (Fariseus, Saduceus e Essênios) e a "quarta filosofia" dos revolucionários, a mesma taxonomia quádrupla usada no estudo. Entra aqui como conexão.
+- **[[Flávio Josefo]], *Guerra dos Judeus* 6.5.3:** Entre os presságios da destruição, relata que a porta oriental do santuário se abriu sozinha à noite, em paralelo com o quarto sinal de *Yoma 39b*. Entra aqui como conexão.
 - **[[Manuscritos do Mar Morto]] (Qumran):** Descoberta arqueológica de centenas de pergaminhos preservando a teologia, calendário e disciplina da comunidade dos [[Essênios]].
-- **[[Berit Hadashah]] (Novo Testamento):** Atos dos Apóstolos (dispersão e controvérsias) e o Livro de Apocalipse (cartas às 7 comunidades da Ásia Menor).
 - **Escritos Patrísticos dos Séculos III e IV:** Relatos da Igreja Primitiva documentando a continuidade de comunidades judaico-messiânicas observantes da Torá ([[Nazarenos]] e [[Ebionitas]]).
+- **Epifânio de Salamina, *Panarion* 29 e 30, e Eusébio de Cesareia, *História Eclesiástica* 3.5.3 e 3.27:** Descrevem os Nazarenos e os Ebionitas e a fuga da comunidade de Jerusalém para Pela antes de 70 EC. Entram aqui como conexão.
 
-### Ferramentas, Frameworks e Modelos Conceituais
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Distinção Religião Mosaica vs. Modelo Sinagogal:** A religião mosaica exigia o Templo físico e sacrifícios levíticos exclusivos; o modelo sinagogal (*Beit Knesset* / Casa de Estudos) descentralizou o ensino comunitário a partir do cativeiro babilônico.
 - **Taxonomia Quadrilateral do Judaísmo do Segundo Templo:** Modelo comparativo das 4 matrizes teológicas (Fariseus, Saduceus, Essênios, Zelotes) e suas respectivas lentes de expectativa messiânica.
 - **Bnei Anussim em Dupla Matriz:** Conceito expandido de descendentes de conversão forçada, englobando tanto os forçados pelo catolicismo na Península Ibérica quanto os forçados sob o império islâmico no Oriente Médio e Norte da África.
+- **Os 4 sinais de *Yoma 39b* como testemunho independente:** O registro talmúdico, vindo de fora da fé messiânica, como confirmação externa do fim da eficácia do culto levítico depois do ministério de Yeshua.
 
 ---
 
@@ -122,6 +150,14 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 - [[Ebionitas]]: Comunidade judaico-messiânica primitiva conhecida pelo voto de desapego material e fidelidade mosaica.
 - [[Bnei Anussim]]: Filhos dos convertidos à força durante perseguições religiosas promovidas pela Igreja e pelo Islã.
 - [[Teshuvá]]: O retorno espiritual e prático aos mandamentos da Torá e ao Deus de Israel.
+
+**Notas relacionadas na base:**
+- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — aprofunda os *Bnei Anussim* ibéricos e a sua presença no Brasil, ponto final da dispersão descrita aqui.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — trata do retorno profético das ovelhas perdidas e dos *Bnei Anussim*, o mesmo movimento de *Teshuvá* com que esta nota termina.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — mostra pelas 70 semanas de Daniel que o Messias viria antes da destruição do Segundo Templo, que *Yoma 39b* confirma.
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — explica a função provisória dos sacrifícios, cuja eficácia os sinais do Templo mostram ter cessado.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — narra o cristianismo gentílico pós-Constantino que eclipsou os Nazarenos e os Ebionitas.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — mantém a mesma união entre fé em Yeshua e guarda da Torá que os primeiros messiânicos viviam.
 
 ### Mini-Glossário de Conceitos Fundamentais
 1. **[[Yoma 39b]]:** Passagem talmúdica crucial que documenta os quatro presságios miraculosos negativos iniciados c. 30 EC no Templo de Jerusalém.

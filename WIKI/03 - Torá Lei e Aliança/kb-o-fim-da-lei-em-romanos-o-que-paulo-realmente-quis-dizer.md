@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A epístola de [[Sha'ul HaShaliach|Paulo de Tarso]] aos Romanos não ensina a abolição da [[Torá]], mas estabelece a sua confirmação irrevogável ([[Romanos 3.31]]) e o seu papel pedagógico-moral permanente. O apóstolo demonstra que a salvação sempre foi pela graça mediante a fé (desde Adão, Noé e Abraão até Davi), enquanto o sistema sacrificial de obras da lei operava como expediente didático e temporário de expiação; sob a mediação de [[Yeshua]], a graça não outorga licença para a [[Anomia]] (transgressão da lei), mas restaura no crente a capacidade espiritual de viver em conformidade com a Torá moral inscrita na consciência e no coração ([[Romanos 2.13|Romanos 2.13-15]]; [[Romanos 8.7|Romanos 8.7-8]]).
-- **Contexto & Importância:** O conteúdo desconstrói a hermenêutica cristã tradicional ocidental antinômica, que descontextualiza versículos isolados (como *Romanos 10:4* e *10:9*) para defender a tese da revogação da Lei mosaica e a Teologia da Substituição. Demonstra a coerência contínua do pensamento judaico de Paulo ao longo de toda a epístola, reafirmando a eleição irrevogável de Israel e a necessidade de obediência prática aos mandamentos.
+- **Contexto & Importância:** O estudo desconstrói a hermenêutica cristã tradicional ocidental antinômica, que descontextualiza versículos isolados (como *Romanos 10:4* e *10:9*) para defender a tese da revogação da Lei mosaica e a Teologia da Substituição. Demonstra a coerência contínua do pensamento judaico de Paulo ao longo de toda a epístola, reafirmando a eleição irrevogável de Israel e a necessidade de obediência prática aos mandamentos.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Exige familiaridade com o debate sobre a *Nova Perspectiva sobre Paulo*, distinção exegética entre *Torá Moral* e *Torá Cerimonial/Sacrificial*, a metáfora da Oliveira de [[Romanos 11]], noções de antropologia bíblica hebraica (*Yetzer HaRá* / inclinação carnal vs. *Yetzer Tov* / inclinação espiritual) e exegese de Romanos capítulos 2 a 11.
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo dos gentios, judeu benjamita e fariseu, autor da epístola aos Romanos, cujo argumento teológico é resgatado contra as leituras antinômicas.
 - **[[Adam HaRishon|Adão]] (Adam HaRishon):** Primeiro homem criado no Éden, receptor da Torá moral interiorizada, cuja desobediência no mandamento da árvore do conhecimento do bem e do mal introduziu a inclinação desenfreada ao pecado (*Yetzer HaRá*) e a morte a toda a humanidade ([[Romanos 5.12]]).
 - **[[Kayin|Caim]] e [[Hevel|Abel]]:** Citados no contexto das primeiras ofertas sacrificiais em Gênesis 4, demonstrando a introdução didática da substituição vicária pós-queda.
@@ -38,15 +40,19 @@ knowledge_depth: exhaustive-academic
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O Messias de Israel que ratificou a imutabilidade da Torá ([[Mateus 5.17|Mateus 5.17-19]]), o segundo Adão cuja obediência gera justificação e vida ([[Romanos 5.17|Romanos 5.17-19]]), e o libertador que remove a condenação do corpo do pecado ([[Romanos 7.24|Romanos 7.24-25]]).
 - **[[Yochanan HaShaliach|Apóstolo João]] (Yochanan):** Citado pela definição jurídica e ontológica de pecado em [[1 João 3.4]] (*"o pecado é a transgressão da Torá"*).
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Gênesis 2.16|Gênesis 2.16-17]] & [[Gênesis 3]]:* O mandato edênico, o livre-arbítrio, a tentação e a queda.
   - *[[Gênesis 4]]:* As ofertas de Caim e Abel como matriz dos sacrifícios didáticos de expiação.
   - *[[Êxodo 20]] / [[Deuteronômio 5]]:* O Decálogo e a proibição da cobiça citada por Paulo em Romanos 7:7.
-- **[[Tanakh]] (Profetas e Escritos Históricos):**
+- *Nevi'im:* (parte do [[Tanakh]])
   - *[[1 Samuel 15.22]]:* A primazia da obediência sobre os sacrifícios de animais.
   - *[[Isaías 59.20]] / [[Romanos 11.26]]:* A profecia do Redentor que virá de Sião para afastar as impiedades de Jacó.
-- **[[Berit Hadashah]] (Novo Testamento):**
+  - *1 Reis 19.10-18:* O remanescente de 7.000 que não dobraram os joelhos a Baal, episódio de Elias citado por Paulo em [[Romanos 11.2|Romanos 11.2-4]].
+  - *2 Samuel 11–12:* O adultério de Davi com Bate-Seba e o perdão recebido, usado no estudo como prova da salvação pela graça antes da Nova Aliança.
+- *Ketuvim:*
+  - Sem referência específica citada.
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Mateus 5.17|Mateus 5.17-19]]:* O Sermão da Montanha e a proibição categórica de anular o menor dos mandamentos.
   - *[[Romanos 2.13]]:* *"Porque os que ouvem a lei não são justificados diante de Deus, mas os que praticam a lei hão de ser justificados."*
   - *[[Romanos 2.14|Romanos 2.14-15]]:* Os gentios que, sem a Torá escrita no Sinai, têm a obra da Torá gravada na consciência.
@@ -61,7 +67,16 @@ knowledge_depth: exhaustive-academic
   - *[[Romanos 11|Romanos 11.1-2, 15-26]]:* A não-rejeição de Israel, a alegoria do enxerto da Oliveira e o aviso contra a soberba dos ramos bravios (gentios).
   - *[[1 João 3.4]]:* A equação bíblica: Pecado = Quebra da Torá (*Anomia*).
 
-### Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- *Nova Perspectiva sobre Paulo:* o debate acadêmico que relê Paulo dentro do judaísmo do Segundo Templo, pressuposto do estudo e indicado entre os pré-requisitos.
+
+**Ferramentas e modelos conceituais**
 - **A Gênese Bipartida da Torá:**
   1. *Torá Moral Primordial (Intrínseca):* Princípios éticos universais presentes desde o Éden (não matar, não roubar, não adulterar, não cobiçar), gravados na consciência da humanidade.
   2. *Torá Cerimonial/Sacrificial (Extrínseca):* Legislação de penas substitutivas (*Corbanot*, sacerdócio levítico, ritos de sangue) introduzida pós-queda com caráter pedagógico para gerenciar a conduta do pecador até a redenção definitiva do Messias.
@@ -72,6 +87,8 @@ knowledge_depth: exhaustive-academic
   - *Ramos Naturais Quebrados:* Judeus que tropeçaram temporariamente pela incredulidade no Messias.
   - *Zambujeiro / Ramos Bravios:* Gentios enxertados na seiva da aliança israelita mediante a fé.
   - *Advertência de Descepamento:* Se o ramo bravo se ensoberbecer contra a raiz, será cortado; os ramos naturais têm facilidade ontológica de reenxerto na sua própria Oliveira.
+- **[[Telos Nomou]] como alvo, e não extinção:** a chave de leitura de Romanos 10:4, em que *Telos* é o objetivo e a consumação para a qual a Torá aponta.
+- **Leitura contínua contra o "versículo de Reels":** Romanos lido do capítulo 1 ao 16 como um tratado único, e não em recortes isolados como Romanos 10:9.
 
 ---
 
@@ -150,6 +167,16 @@ Rav Yosef desafia a leitura tradicional de Romanos, expondo os textos diretos de
 - [[Corbanot]]: O sistema de sacrifícios e aproximações rituais levíticas de caráter didático e expiatório temporário.
 - [[Oliveira de Romanos 11]]: A alegoria profética que ilustra a estrutura da aliança de Israel e o enxerto dos gentios crentes.
 - [[Teologia da Substituição]]: Dogma eclesiástico histórico falso que afirma que a Igreja substituiu Israel nas promessas divinas, expressamente refutado em Romanos 11.
+
+**Notas relacionadas na base:**
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — a mesma tese da Torá desde o Éden, dos sacrifícios como pedagogia e da graça que capacita a obedecer, aqui demonstrada pelo texto de Romanos.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — desmonta a antítese Lei × Graça que as leituras antinômicas de Romanos sustentam.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — a Torá gravada no coração de Jeremias 31 é o que Paulo descreve em Romanos 2.14-15 e 8.7-8.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aplica a mesma recusa aos recortes isolados a Mateus 15 e Atos 10, os textos usados contra as leis alimentares.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — também parte da Torá moral interiorizada em Adão e dos *Corbanot* como resposta pedagógica à queda.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — aprofunda pela mística judaica o conflito entre carne e espírito de Romanos 7 e 8.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — a *Anomia* de 1 João 3.4 e a rejeição do amor da verdade (a Torá) são o fundo das duas notas.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — o enxerto na Oliveira e o "todo o Israel será salvo" de Romanos 11 ganham ali o seu desdobramento profético.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Telos Nomou]] (Fim / Alvo da Lei):** Expressão grega em Romanos 10:4 que traduz a ideia de consumação, objetivo supremo e propósito final (o Messias como a corporificação viva da Torá), e não extinção jurídica.

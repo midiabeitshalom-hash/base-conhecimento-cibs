@@ -23,7 +23,7 @@ knowledge_depth: exhaustive-academic
 A cronologia e a mecânica da redenção cósmica e do retorno de Yeshua HaMashiach (Jesus o Messias) são governadas de forma matemática e inalterável pelo sistema das solenidades e ciclos astronômico-litúrgicos estabelecidos na Torá (*Moadim*, *Shemitá* e *Yovel*). Assim como o Messias cumpriu rigorosamente as quatro primeiras festas bíblicas de primavera/verão (*Pessach*, *Matzot*, *Bikurim* e *Shavuot*) em sua primeira vinda, a sua segunda vinda e o estabelecimento do Reino Milenar se darão exclusivamente no contexto das três festas proféticas de outono do sétimo mês (*Yom Teruá*, *Yom HaKipurim* e *Chag Sukot*), coincidindo com o término do 120º Jubileu (6.000 anos da história humana sob domínio humano).
 
 ### Contexto & Importância
-A análise descontrói concepções escatológicas ocidentais modernas — como a crença num arrebatamento secreto pré-tribulacional e tentativas especulativas de marcar datas no calendário gregoriano/civil. Demonstra que a Bíblia é um documento judaico estruturado sobre as "engrenagens do relógio de Hashem". Compreender esses tempos determinados protege a comunidade de fé contra o erro doutrinário ("som incerto da trombeta"), desmistifica o medo da Grande Tribulação e direciona a vida prática e litúrgica para o retorno ordenado (*Teshuvá*) às raízes bíblicas.
+O estudo desconstrói concepções escatológicas ocidentais modernas — como a crença num arrebatamento secreto pré-tribulacional e tentativas especulativas de marcar datas no calendário gregoriano/civil. Demonstra que a Bíblia é um documento judaico estruturado sobre as "engrenagens do relógio de Hashem". Compreender esses tempos determinados protege a comunidade de fé contra o erro doutrinário ("som incerto da trombeta"), desmistifica o medo da Grande Tribulação e direciona a vida prática e litúrgica para o retorno ordenado (*Teshuvá*) às raízes bíblicas.
 
 ### Nível de Complexidade & Pré-requisitos Conceituais
 - **Complexidade:** Intermediária a Avançada (hermenêutica hebraica, correlação tipológica entre Antigo e Novo Testamento, aritmética de ciclos sabáticos e jubilares, escatologia apocalíptica).
@@ -33,38 +33,57 @@ A análise descontrói concepções escatológicas ocidentais modernas — como 
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Líderes e Figuras Centrais Mencionadas
-- **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o cumprimento vivo e meticuloso de cada uma das festas divinas, o Rabino que lê e aplica a profecia de Isaías 61 e o legítimo Rei constituído para reger os povos.
-- **Moshe Rabenu (Moisés):** Mediador da Torá no Monte Sinai e transmissor do calendário das solenidades em *Vayikrá* (Levítico).
-- **Yochanan HaMatbil (João Batista):** Profeta que identifica Yeshua como o *Corban Pessach* ("Eis o Cordeiro de Deus que tira o pecado do mundo").
-- **Yochanan (Apóstolo João):** Autor do Evangelho e do livro de Apocalipse, cujas visões no céu espelham as festas do sétimo mês e a descida da *Suká* celestial.
-- **Shaul HaShaliach (Apóstolo Paulo):** Teólogo e emissário apostólico citado em Romanos, 1 Coríntios e 1 Tessalonicenses sobre o gemido da criação, a trombeta de som incerto, as primícias da ressurreição e a parousia messiânica.
-- **Shimon Kefa (Apóstolo Pedro):** Cita Joel 2 no Pentecostes e sugere construir três cabanas (*Sukot*) no Monte da Transfiguração ao identificar a glória do Reino.
-- **David HaMelech (Rei Davi):** Autor do Salmo 78 que qualifica o Maná como o "trigo dos céus" e "pão dos anjos".
-- **Profetas Clássicos:** *Yeshayahu* (Isaías), *Yoel* (Joel), *Tzefanyahu* (Sofonias), *Zecharyahu* (Zacarias), *Yechezkel* (Ezequiel), *Hoshea* (Oséias) e *Daniel*.
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
 
-### Estudos, Textos e Escrituras Referenciadas
-1. **Levítico (Vayikrá) 23:** O catálogo mestre dos *Moadim* (Shabat semanal + 7 festas anuais).
-2. **Levítico (Vayikrá) 25:1-22:** Leis agrárias e espirituais da *Shemitá* (ano sabático) e do *Yovel* (Jubileu de 50 anos / bênção de sustentação trienal no 6º ano).
-3. **Gênesis (Bereshit) 6:3:** *"Os seus dias serão cento e vinte anos"* — interpretado como o código dos 120 Jubileus ($120 	imes 50 = 6.000$ anos).
-4. **Isaías (Yeshayahu) 61:1-2 vs. Lucas 4:16-21:** Yeshua lê na sinagoga de Nazaré a proclamação do Jubileu espiritual ("o ano aceitável do Senhor"), mas interrompe a leitura antes de "e o dia da vingança do nosso Deus" (destinado à 2ª vinda).
-5. **Lucas 6:1:** Os discípulos colhem e comem espigas no "segundo sábado após o primeiro" (*Deuteroprōto*), contextualizado como a licença alimentar irrestrita dos anos sabáticos/jubilares.
-6. **João 1:29, 36 & Mateus 26:19-29:** Yeshua como Cordeiro Pascal (*Corban Pessach*) instituindo a Aliança Renovada (*Berit Hadashah*).
-7. **João 6:32-58 & Salmo 78:23-25:** Yeshua como a verdadeira *Matzá* (Pão sem Fermento da Vida) e o Maná descido do céu.
-8. **João 12:24 & 1 Coríntios 15:20-23:** Yeshua como o grão de trigo sacrificado e as Primícias (*Bikurim*) da ressurreição dos mortos.
-9. **Atos 2:1-4 & Joel 2:28-29:** O cumprimento de *Shavuot* (Pentecostes) — descida do *Ruach HaKodesh* com línguas de fogo e escrita da Torá nos corações.
-10. **Sofonias 1:14-16:** O Dia do Senhor como dia de *Shofar* e *Teruá*, tribulação e angústia.
-11. **1 Coríntios 14:8:** Advertência sobre o "sonido incerto da trombeta" gerando despreparo militar e espiritual.
-12. **Joel 2:15-16:** Convocação solene de jejum e toque de trombeta (*Yom HaKipurim*).
-13. **1 Tessalonicenses 4:16 & Mateus 24:31:** A ressurreição dos mortos e a reunião dos eleitos ao som da Grande Trombeta (*Shofar HaGadol*).
-14. **Isaías 18:3:** O sinal nos montes e o toque da trombeta para toda a terra.
-15. **Apocalipse 11:15-18:** O toque da sétima trombeta, reintegração dos reinos do mundo a Hashem e ao Seu Ungido.
-16. **Apocalipse 15:5 & 21:3:** Abertura do Tabernáculo no céu e o Tabernáculo de Deus descendo para habitar com os homens.
-17. **Zacarias 14:16-19:** A subida universal de todas as nações a Jerusalém para a celebração obrigatória da Festa dos Tabernáculos (*Sukot*).
-18. **Ezequiel 37:26-28 & Oséias 12:9:** A aliança perpétua de paz, o Santuário eterno em Israel e o habitar em tendas.
-19. **Mateus 17:1-4:** A Transfiguração como vislumbre escatológico da Festa de *Sukot* e do Reino Messiânico.
+**Figuras bíblicas e históricas**
+- **[[Yeshua|Yeshua HaMashiach]] (Jesus o Messias):** Apresentado como o cumprimento vivo e meticuloso de cada uma das festas divinas, o Rabino que lê e aplica a profecia de Isaías 61 e o legítimo Rei constituído para reger os povos.
+- **[[Moshe Rabenu]] (Moisés):** Mediador da Torá no Monte Sinai e transmissor do calendário das solenidades em *Vayikrá* (Levítico).
+- **Yochanan HaMatbil ([[João, o Imersor|João Batista]]):** Profeta que identifica Yeshua como o *Corban Pessach* ("Eis o Cordeiro de Deus que tira o pecado do mundo").
+- **Yochanan ([[Yochanan HaShaliach|Apóstolo João]]):** Autor do Evangelho e do livro de Apocalipse, cujas visões no céu espelham as festas do sétimo mês e a descida da *Suká* celestial.
+- **[[Sha'ul HaShaliach|Shaul HaShaliach]] (Apóstolo Paulo):** Teólogo e emissário apostólico citado em Romanos, 1 Coríntios e 1 Tessalonicenses sobre o gemido da criação, a trombeta de som incerto, as primícias da ressurreição e a parousia messiânica.
+- **[[Shimon Kefa]] (Apóstolo Pedro):** Cita Joel 2 no Pentecostes e sugere construir três cabanas (*Sukot*) no Monte da Transfiguração ao identificar a glória do Reino.
+- **[[David HaMelech]] (Rei Davi):** Autor do Salmo 78 que qualifica o Maná como o "trigo dos céus" e "pão dos anjos".
+- **Profetas Clássicos:** *Yeshayahu* ([[Profeta Isaías|Isaías]]), *Yoel* ([[Profeta Joel|Joel]]), *Tzefanyahu* (Sofonias), *Zecharyahu* ([[Profeta Zacarias|Zacarias]]), *Yechezkel* ([[Profeta Ezequiel|Ezequiel]]), *Hoshea* ([[Profeta Oseias|Oseias]]) e *[[Profeta Daniel|Daniel]]*.
 
-### Frameworks e Modelos Conceituais
+**Escrituras**
+- *Torá:*
+  - **Levítico (Vayikrá) 23:** O catálogo mestre dos *Moadim* (Shabat semanal + 7 festas anuais).
+  - **Levítico (Vayikrá) 25:1-22:** Leis agrárias e espirituais da *Shemitá* (ano sabático) e do *Yovel* (Jubileu de 50 anos / bênção de sustentação trienal no 6º ano).
+  - **Gênesis (Bereshit) 6:3:** *"Os seus dias serão cento e vinte anos"* — interpretado como o código dos 120 Jubileus (120 × 50 = 6.000 anos).
+- *Nevi'im:*
+  - **Isaías (Yeshayahu) 61:1-2 vs. Lucas 4:16-21:** Yeshua lê na sinagoga de Nazaré a proclamação do Jubileu espiritual ("o ano aceitável do Senhor"), mas interrompe a leitura antes de "e o dia da vingança do nosso Deus" (destinado à 2ª vinda).
+  - **Sofonias 1:14-16:** O Dia do Senhor como dia de *Shofar* e *Teruá*, tribulação e angústia.
+  - **Joel 2:15-16:** Convocação solene de jejum e toque de trombeta (*Yom HaKipurim*).
+  - **Isaías 18:3:** O sinal nos montes e o toque da trombeta para toda a terra.
+  - **Zacarias 14:16-19:** A subida universal de todas as nações a Jerusalém para a celebração obrigatória da Festa dos Tabernáculos (*Sukot*).
+  - **Ezequiel 37:26-28 & Oseias 12:9:** A aliança perpétua de paz, o Santuário eterno em Israel e o habitar em tendas.
+  - **Joel 2:28-29:** O derramar do *Ruach* sobre toda a carne, cumprido em *Shavuot* (Atos 2:1-4).
+- *Ketuvim:*
+  - **Salmo 78:23-25:** O Maná como "trigo dos céus" e "pão dos anjos", tipo de Yeshua como o Pão da Vida (João 6:32-58).
+  - **Daniel:** Citado entre os profetas clássicos que estruturam a escatologia do estudo.
+- *Berit Hadashah:*
+  - **Lucas 4:16-21:** A leitura de Isaías 61 na sinagoga de Nazaré e o corte antes de "o dia da vingança do nosso Deus".
+  - **Lucas 6:1:** Os discípulos colhem e comem espigas no "segundo sábado após o primeiro" (*Deuteroprōto*), contextualizado como a licença alimentar irrestrita dos anos sabáticos/jubilares.
+  - **João 1:29, 36 & Mateus 26:19-29:** Yeshua como Cordeiro Pascal (*Corban Pessach*) instituindo a Aliança Renovada (*Berit Hadashah*).
+  - **João 6:32-58 & Salmo 78:23-25:** Yeshua como a verdadeira *Matzá* (Pão sem Fermento da Vida) e o Maná descido do céu.
+  - **João 12:24 & 1 Coríntios 15:20-23:** Yeshua como o grão de trigo sacrificado e as Primícias (*Bikurim*) da ressurreição dos mortos.
+  - **Atos 2:1-4 & Joel 2:28-29:** O cumprimento de *Shavuot* (Pentecostes) — descida do *Ruach HaKodesh* com línguas de fogo e escrita da Torá nos corações.
+  - **1 Coríntios 14:8:** Advertência sobre o "sonido incerto da trombeta" gerando despreparo militar e espiritual.
+  - **1 Tessalonicenses 4:16 & Mateus 24:31:** A ressurreição dos mortos e a reunião dos eleitos ao som da Grande Trombeta (*Shofar HaGadol*).
+  - **Apocalipse 11:15-18:** O toque da sétima trombeta, reintegração dos reinos do mundo a Hashem e ao Seu Ungido.
+  - **Apocalipse 15:5 & 21:3:** Abertura do Tabernáculo no céu e o Tabernáculo de Deus descendo para habitar com os homens.
+  - **Mateus 17:1-4:** A Transfiguração como vislumbre escatológico da Festa de *Sukot* e do Reino Messiânico.
+
+**Literatura rabínica e judaica**
+Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **O Relógio Astronômico-Profético de Hashem:** Estruturado em três engrenagens concêntricas:
   1. *Semanal:* 6 dias de trabalho + 7º dia de Shabat (repouso sagrado).
   2. *Mensal (Lunar):* Ciclos de 29,5 dias determinando as luas novas (*Rosh Chodesh*).
@@ -73,6 +92,7 @@ A análise descontrói concepções escatológicas ocidentais modernas — como 
   - 6.000 anos (120 Jubileus) sob o domínio do homem e pecado.
   - 1.000 anos (7º Milênio / Grande Shabat / Reino Messiânico) de restauração cósmica (*Tikkun Olam*).
 - **O Princípio dos Cumprimentos em Duas Etapas:** Toda profecia messiânica de redenção possui duas fases estruturadas pelas estações agrícolas da Terra de Israel (Primavera = Sofrimento/Propiciação; Outono = Julgamento/Reinado).
+- **O Calendário dos Dois Blocos Agrícolas (Levítico 23):** Primavera/verão (*Pessach*, *Chag HaMatzot*, *Bikurim* e *Shavuot*, cumpridas na primeira vinda) e outono do 7º mês (*Yom Teruá*, *Yom HaKipurim* e *Chag Sukot*, que aguardam a segunda vinda), separados pelo intervalo profético de Tamuz, Av e Elul.
 
 ---
 
@@ -103,10 +123,10 @@ A análise descontrói concepções escatológicas ocidentais modernas — como 
 
 ### 4.2. Os Ciclos de Shemitá e Yovel: A Matemática dos 6.000 Anos
 - **Mecânica da Shemitá:** A cada 7 anos, cessa todo o labor agrícola na terra de Israel. O solo descansa, as dívidas financeiras civis são canceladas e os escravos hebreus adquirem liberdade.
-- **Mecânica do Yovel (Jubileu):** Após a contagem de 7 ciclos sabáticos ($7 	imes 7 = 49$ anos), o 50º ano é proclamado como Jubileu pelo toque do Shofar em *Yom Kipur*. Nele ocorre a **reintegração de posse universal**: terras hipotecadas ou perdidas retornam compulsoriamente às famílias dos proprietários originais por herança tribal.
+- **Mecânica do Yovel (Jubileu):** Após a contagem de 7 ciclos sabáticos (7 × 7 = 49 anos), o 50º ano é proclamado como Jubileu pelo toque do Shofar em *Yom Kipur*. Nele ocorre a **reintegração de posse universal**: terras hipotecadas ou perdidas retornam compulsoriamente às famílias dos proprietários originais por herança tribal.
 - **A Provisão Trienal Milagrosa:** Em Levítico 25:20-21, Hashem garante que no 6º ano a terra produziria alimento suficiente para 3 anos agrícolas consecutivos (sustentando o 6º, o ano sabático/jubileu e o ano de plantio subsequente).
 - **A Linha do Tempo Messiânica (Gênesis 6:3):** A sentença divina de que os dias do homem seriam "120 anos" decodifica-se como **120 Jubileus**:
-  $$	ext{Duração da História Humana} = 120 	imes 50 	ext{ anos} = 6.000 	ext{ anos}$$
+  Duração da História Humana = 120 × 50 anos = 6.000 anos
   Ao término dos 6.000 anos (120º Jubileu), ocorre a **reintegração de posse cósmica**: a soberania de toda a Terra é retirada das potestades caídas e devolvida ao seu Criador, que a entrega ao governo do Messias Yeshua e de Seus santos (Apocalipse 11:15).
 
 ### 4.3. Primeira Vinda de Yeshua: Cumprimento Meticuloso da Primavera
@@ -159,6 +179,17 @@ Nenhuma festa de outono foi revogada; elas representam o roteiro profético pend
 - [[Tikkun Olam]]
 - [[Shofar HaGadol]]
 - [[Reino Messiânico|Reino Milenar]]
+
+**Notas relacionadas na base:**
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — explica as duas manifestações do Messias, o sofredor e o rei, que correspondem às festas de primavera e de outono.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — fixa a cronologia da primeira vinda pelas 70 semanas de Daniel e pelas duas fases messiânicas.
+- [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] — desenvolve os 120 jubileus de Gênesis 6:3 e a reintegração de posse da Terra que este estudo liga ao fim dos 6.000 anos.
+- [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] — faz o cálculo cronológico dos 6.000 anos e dos jubileus que marcam o retorno no ciclo de Tishrei.
+- [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] — aprofunda a crítica ao arrebatamento secreto pré-tribulacional e põe a ressurreição no toque da última trombeta.
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — detalha o cumprimento de *Shavuot* em Atos 2, a quarta festa cumprida na primeira vinda.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — examina a cronologia de *Pessach*, *Matzot* e *Bikurim* na morte e ressurreição de Yeshua.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — lê as guerras de 1973 e 2023 pelas festas de outono e pelo jubileu, o mesmo relógio que aqui aponta o retorno de Yeshua.
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — também lê os *Moedim* como calendário profético e como portais espirituais, a chave usada aqui.
 
 ### Mini-Glossário de Termos Especializados
 

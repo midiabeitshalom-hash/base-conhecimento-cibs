@@ -36,7 +36,9 @@ A análise desmascara sofismas teológicos ocidentais que distorcem passagens do
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Pensadores Citados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Adam HaRishon|Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial cuja queda e introdução da morte no cosmos decorreu diretamente de uma transgressão dietética de mandamento proibitivo (*Bereshit* 2–3).
 - **[[Noach]] (Noé):** Patriarca que recebeu a distinção pré-mosaica entre animais puros (7 casais) e impuros (1 casal) e a autorização de consumo de carne com proibição estrita de sangue (*Bereshit* 7:2; 9:3-4).
 - **[[Moshe Rabenu]] (Moisés):** Mediador da Torá que codificou os critérios biológicos e espirituais dos animais permitidos e proibidos (*Levítico 11*; *Deuteronômio 14*).
@@ -46,24 +48,42 @@ A análise desmascara sofismas teológicos ocidentais que distorcem passagens do
 - **[[Cornélio|Cornelius]] (Cornélio):** O centurião gentio temente a Deus cujas orações e esmolas subiram perante o Criador, sendo recebido na comunidade messiânica.
 - **[[Bil'am]] (Balaão) e [[Izevel]] (Jezabel):** Arquétipos bíblicos da sedução para o pecado alimentar idolátrico e prostituição espiritual (Números 25; Apocalipse 2:14, 20).
 
-### Textos Canônicos e Fontes Analisadas
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá:*
   - *Bereshit* / Gênesis 1:29; 2:16-17; 3:1-19 (Dieta edênica frugívora e o mandamento da árvore proibida).
   - *Bereshit* / Gênesis 7:2; 8:20 (Animais limpos e não limpos na Arca de Noé).
   - *Bereshit* / Gênesis 9:3-4 (Autorização pós-diluviana de carne e proibição absoluta do sangue).
   - *Vayicrá* / Levítico 11:1-47 (Estatuto completo do *Kashrut*: quadrúpedes, aves, peixes e insetos).
   - *Vayicrá* / Levítico 20:25-26 (*"E as vossas almas não fareis abomináveis por causa dos animais..."*).
-- **Nevi'im e Ketuvim (Profetas e Escritos):**
+- *Nevi'im:*
   - *Yeshayahu* / Isaías 65:2-5 (O povo rebelde que come carne de porco e caldo de abominações em altares pagãos).
   - *Yeshayahu* / Isaías 66:15-17 (O juízo com fogo e espada sobre os que comem porco, abominação e rato).
+- *Ketuvim:*
   - *Daniel* 1:8 (A recusa de Daniel em contaminar-se com as iguarias do rei da Babilônia).
-- **Berit Hadashah (Novo Testamento):**
+  - *Daniel* 7 (Os impérios gentílicos representados como animais, chave da leitura parabólica da visão do lençol em Atos 10).
+  - *Tehilim* / Salmo 80 (Nações representadas figurativamente por animais, citado ao lado de Daniel 7 na leitura parabólica de Atos 10).
+- *Berit Hadashah:*
   - *Mattityahu* / Mateus 5:17-20 (*"Não penseis que vim abolir a Torá ou os Profetas..."*).
   - *Mattityahu* / Mateus 15:1-20 / *Marcos* 7:1-23 (A polêmica da tradição da lavagem das mãos - *Netilat Yadayim* - vs. contaminação moral).
   - *Marcos* 11:12-14 (A maldição profética da figueira infrutífera).
   - *Atos dos Apóstolos* 10:9-28 (A visão do lençol e sua decodificação em Atos 10:28 sobre os seres humanos).
   - *Atos dos Apóstolos* 15:19-21 (O Concílio de Jerusalém: abstenção de contaminações de ídolos, imoralidade, carne sufocada e sangue).
   - *Hitgalut* / Apocalipse 2:14, 20 (Condenação da doutrina de Balaão e de Jezabel de comer coisas sacrificadas a ídolos).
+
+**Literatura rabínica e judaica**
+- *Tradição dos anciãos* (*Takkanah*) da [[Netilat Yadayim]]: a ablução ritual das mãos antes de comer pão, norma rabínica e não mandamento da Torá Escrita, que é o objeto real do debate de Mateus 15.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[PaRDeS]]:** a visão do lençol (Atos 10) é lida no nível alegórico (*Derash*/*Sod*), e a maldição da figueira (Marcos 11) como ato profético de nível *Sod*.
+- **As três fases da dieta humana nas Escrituras:** Éden frugívoro → pós-queda herbívoro (ervas do campo e pão) → pós-dilúvio e Torá, carnívoro restrito (*Kashrut*, *Shechitá* e proibição do sangue).
+- **Animais como linguagem parabólica das nações:** impérios e povos gentílicos representados por animais (Daniel 7; Salmo 80), chave para ler Atos 10 como acolhimento de gentios.
+- **Distinção entre mandamento da Torá Escrita (*Mitzvot*) e tradição oral (*Halachá* / *Takkanot*):** separa a lavagem das mãos de Mateus 15 das leis alimentares de Levítico 11.
 
 ---
 
@@ -192,6 +212,18 @@ O argumento cristão de que o Antigo Testamento caducou e que o consumo de carne
 - [[Bnei Noach]] (A Doutrina das Leis Noéticas e suas Limitações)
 - [[Teshuvá]] (Retorno e Arrependimento Prático aos Mandamentos)
 - [[Hitgalut]] (Livro de Apocalipse / Revelação Escatológica)
+
+**Notas relacionadas na base:**
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — a distinção entre puros e impuros já em Noé é um caso concreto da Torá que existe antes do Sinai, tese central daquele estudo.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — a liberação das carnes imundas é um dos frutos práticos da falsa oposição entre Lei e Graça que aquela nota desmonta.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — mostra que a Nova Aliança preserva os mandamentos, inclusive os alimentares, em vez de revogá-los.
+- [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — faz com Romanos o mesmo trabalho que esta nota faz com Mateus 15 e Atos 10: desfazer leituras de versículos isolados contra a Torá.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — liga a guarda dos mandamentos ao juízo do fim dos tempos, o mesmo horizonte de Isaías 66 usado aqui.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — explica pela *Kelipat Nogah* por que o alimento *Kosher* abençoado eleva e o impuro fortalece as *Kelipot*.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — parte da mesma queda no Éden, aqui lida como transgressão alimentar, e da Torá como ordem da criação.
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — liga *kashrut* e idolatria no item 4.5, ao responder à acusação de "judaizar".
+- [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — põe a alimentação limpa entre os pilares físicos do cuidado com o templo corpóreo.
+- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — mostra os cristãos-novos que guardavam o *Kashrut* em segredo, recusando porco e sangue.
 
 ### Mini-Glossário Analítico
 1. **[[Kashrut]] (כַּשְׁרוּת):** Sistema legal da Torá que regulamenta os alimentos permitidos e proibidos, bem como os métodos de preparo, separação e consumo adequados para o povo da aliança.

@@ -39,7 +39,9 @@ A tese desmistifica a escatologia apocalíptica ocidental moderna (frequentement
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Autoridades Mencionadas
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Adam HaRishon|Adam]] (Adão / Primeiro Homem):** Administrador fiduciário original da Terra (Gn 2:15); perdeu o domínio legal por rebelião.
 - **[[Avraham Avinu]] (Abraão):** Pai da fé monoteísta; chamado profeticamente no ano ~2000 após a criação (40º Jubileu).
 - **[[Moshe Rabenu]] (Moisés):** Protótipo do redentor; viveu 120 anos divididos precisamente em 3 ciclos de 40 anos (Egito, Midiã, Deserto).
@@ -50,23 +52,42 @@ A tese desmistifica a escatologia apocalíptica ocidental moderna (frequentement
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor de passagens escatológicas chave sobre a "Última Trombeta" e a ressurreição (1Co 15:51-52; 1Ts 4:16).
 - **[[Yeshua|Yeshua HaMashiach]]:** O Redentor definitivo sob dois aspectos proféticos: *Mashiach ben Yosef* (o servo sofredor) e *Mashiach ben David* (o Rei herdeiro e juiz reinante).
 
-### Textos Canônicos e Documentos Analisados
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá (Pentateuco):*
   - *Bereshit* / Gênesis 2:15; 6:3 (Os 120 anos / ciclos de jubileus).
   - *Vayicrá* / Levítico 25:8-10, 23-28 (Estatuto da Terra, *Shemitá*, *Yovel* e Leis do *Goel*).
   - *Bamidbar* / Números 10:9; 26 (Toque de trombetas e partilha da terra).
   - *Shemot* / Êxodo 19:16 (O *Shofar* no Monte Sinai).
-- **Nevi'im (Profetas) e Ketuvim (Escritos):**
+- *Nevi'im (Profetas):*
   - *Yirmeyahu* / Jeremias 23:5; 32:6-15 (A escritura da compra selada em vaso de barro).
   - *Yeshayahu* / Isaías 27:13 (O toque do Grande Shofar para reunir os dispersos).
+- *Ketuvim (Escritos):*
   - *Daniel* 7:14 (O domínio perpétuo entregue ao Filho do Homem).
-  - *Tehilim* / Salmos 115:16 ("Os céus são de Adonai, mas a terra deu-a aos filhos dos homens").
+  - *Tehilim* / Salmo 115:16 ("Os céus são de Adonai, mas a terra deu-a aos filhos dos homens").
   - *Megilat Rut* (Livro de Rute: O resgate da terra e da viúva pelo parente remidor).
-- **Berit Hadashah (Novo Testamento):**
+  - *Iyov* / Jó 19:25 (A confissão de fé no *Goel* vivo que se levantará sobre a terra).
+- *Berit Hadashah (Novo Testamento):*
   - *Mattityahu* / Mateus 21:33-41 (Parábola dos Lavradores Maus / Posseiros Rebeldes).
   - *Lucas* 4:5-6 (Tentação no deserto: a entrega temporária do domínio do mundo a *HaSatan*).
   - *1 Coríntios* 15:51-52; *1 Tessalonicenses* 4:16; *2 Tessalonicenses* 2:11.
   - *Hitgalut* / Apocalipse 5:1-10; 6:1-17; 8:1-2; 11:15 (Abertura dos 7 Selos e 7 Trombetas).
+
+**Literatura rabínica e judaica**
+- *Sanhedrin 97a* ([[Talmud Bavli]]) — conexão com o padrão ternário do item 4.3: a tradição da escola de Eliyahu ensina que o mundo dura 6.000 anos, divididos em 2.000 anos de caos (*tohu*), 2.000 anos de Torá e 2.000 anos dos dias do Mashiach. É a mesma divisão em três eras de 40 Jubileus que o estudo apresenta.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[PaRDeS]] no nível *Sod*:** chave que lê os "120 anos" de Gênesis 6:3 como 120 ciclos de Jubileu, enquanto o nível *Peshat* fica com o prazo até o dilúvio e o limite da longevidade.
+- **A régua dos 120 Jubileus:** 120 × 50 anos = 6.000 anos de administração humana, seguidos do 7º Milênio, o Grande *Shabat*.
+- **O padrão ternário dos ciclos de 40:** três eras de 40 Jubileus (2.000 anos cada), confirmadas pelas tipologias da vida de Moisés, dos três reis da monarquia unida e dos jejuns de 40 dias.
+- **A doutrina legal do [[Goel]] e a reintegração de posse:** modelo jurídico que lê Apocalipse 5 a 8 como um processo de despejo do usurpador, a partir de Levítico 25 e da escritura selada de Jeremias 32.
+- **A linguagem dos toques do *Shofar*:** *Teki'á*, *Shevarim*, *Teru'á* e *Teki'á Guedolá* como chave para entender as 7 trombetas.
+- **As festas bíblicas como calendário profético:** as festas de primavera apontam para a 1ª vinda de Yeshua e as de outono para a 2ª, com o toque do Jubileu no *Yom Kippur*.
 
 ---
 
@@ -97,12 +118,12 @@ Adão                Abraão              Yeshua (1ª Vinda)    Retorno de Yeshu
   - No nível *Sod* (segredo místico-profético), "120 anos" refere-se a **120 ciclos de Jubileu (*Yovelim*)**.
 - **O Ciclo Agrícola e Sacerdotal do Tempo:**
   - 6 anos de plantio e colheita + 1 ano de repouso sabático da terra = 1 ciclo de *Shemitá* (7 anos).
-  - 7 ciclos de *Shemitá* ($7 	imes 7 = 49 	ext{ anos}$).
+  - 7 ciclos de *Shemitá* ($7 \times 7 = 49 \text{ anos}$).
   - O 50º ano é consagrado como o **Jubileu (*Yovel*)**: cancelamento de todas as dívidas, libertação dos escravos e restituição compulsória de todas as propriedades agrícolas aos seus herdeiros originais.
-  - Cálculo Geral: $120 	imes 50 	ext{ anos} = \mathbf{6.000 	ext{ anos}}$ concedidos à administração humana sob a provação terrena, culminando no descanso milenar (o 7º Milênio / Grande *Shabat*).
+  - Cálculo Geral: $120 \times 50 \text{ anos} = \mathbf{6.000 \text{ anos}}$ concedidos à administração humana sob a provação terrena, culminando no descanso milenar (o 7º Milênio / Grande *Shabat*).
 
 ### 4.3. Padrão Ternário dos Ciclos de 40 (O Padrão Divino de Julgamento e Transição)
-A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40 	imes 50 = 2.000 	ext{ anos}$):
+A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40 \times 50 = 2.000 \text{ anos}$):
 1. **Era do Caos / Primórdios (0 a 2.000 anos / Jubileus 1 a 40):** De Adão até a chamada de Abraão (nascido no ano 1948 pós-Adão e chamado aos 75 anos, c. ano 2000).
 2. **Era da Torá / Aliança (2.000 a 4.000 anos / Jubileus 41 a 80):** De Abraão até a primeira vinda de *Yeshua HaMashiach* (*Mashiach ben Yosef*), no ano ~4000 pós-Adão.
 3. **Era Messiânica / Graça e Ocultamento (4.000 a 6.000 anos / Jubileus 81 a 120):** Da primeira manifestação de *Yeshua* até o seu retorno em glória (*Mashiach ben David*) no 120º Jubileu.
@@ -195,9 +216,17 @@ A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40
 - [[Akadosh Baruch Hu]] (O Santo, Bendito Seja Ele)
 - [[Nachalah]] (Herança Territorial Tribal Inalienável)
 
+**Notas relacionadas na base:**
+- [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] — parte da mesma régua dos 120 Jubileus e corrige o calendário hebraico para situar o fim do 6º milênio por volta de 2030.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — aplica a lei do Jubileu e o toque do *Shofar* no *Yom Kippur* às guerras de 1973 e 2023.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — mostra o mesmo fim de era pela sequência dos impérios de Daniel, enquanto esta nota o lê pelo direito de posse da Terra.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — trata do retorno dos dispersos que o Grande Shofar de Isaías 27:13 convoca no fim do 120º Jubileu.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — desenvolve as festas de outono como calendário da 2ª vinda, que aqui marcam a data legal da Última Trombeta.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — aprofunda as duas manifestações do Messias que esta nota liga ao pagamento do resgate e ao despejo final.
+
 ### Mini-Glossário Analítico
 1. **[[Goel]] (גואל):** Parente consanguíneo legalmente capacitado e obrigado pela Torá a pagar o resgate patrimonial de um familiar empobrecido ou vingar o sangue derramado. Tipologia central de *Yeshua* como resgatador da criação.
-2. **[[Yovel]] (יובל):** O 50º ano sagrado celebrado após sete ciclos sabáticos ($7 	imes 7 = 49$). Período de desapropriação dos posseiros, libertação incondicional de servos e restauração do mapa fundiário original dado por Deus.
+2. **[[Yovel]] (יובל):** O 50º ano sagrado celebrado após sete ciclos sabáticos ($7 \times 7 = 49$). Período de desapropriação dos posseiros, libertação incondicional de servos e restauração do mapa fundiário original dado por Deus.
 3. **[[Shemitá]] (שמיטה):** O sétimo ano sabático da terra em Israel. Paralisação de todas as atividades agrícolas comerciais, remissão de dívidas civis e teste de fé na providência de *Akadosh Baruch Hu*.
 4. **[[PaRDeS]] (פרד״ס):** Acrônimo dos 4 níveis de exegese bíblica judaica: *Peshat* (literal/simples), *Remez* (alegórico/dica), *Derash* (homilético/comparativo) e *Sod* (místico/segredo profundo).
 5. **[[Shofar HaGadol]] (שופר הגדול):** O toque prolongado e final de trombeta feito com chifre de carneiro no encerramento solene de Yom Kippur no ano do Jubileu, anunciando anistia universal e o retorno dos exilados.

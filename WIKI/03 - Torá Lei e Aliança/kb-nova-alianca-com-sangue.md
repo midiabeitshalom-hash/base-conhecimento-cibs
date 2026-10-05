@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A [[Berit Hadashah|Nova Aliança]] (*Berit Hadashah*) não é a revogação da Lei mosaica nem a substituição de um livro canônico ("Antigo Testamento") por outro ("Novo Testamento"), mas a **renovação contratual** predita em [[Jeremias 31.31|Jeremias 31.31-34]] e ratificada pelo sangue expiatório de [[Yeshua]]. Essa renovação preserva integralmente as cláusulas contratuais originárias (os Dez Mandamentos / [[Torá]]), operando exclusivamente duas transformações estruturais essenciais: a **substituição do mediador** (de [[Moshe Rabenu|Moisés]], que morreu, para Yeshua ressurreto e vivo para sempre como sumo sacerdote) e a **mudança do suporte de inscrição** (das tábuas externas de pedra perecíveis para a tábua de carne do coração humano capacitado pelo [[Ruach HaKodesh]]).
-- **Contexto & Importância:** O conteúdo desmonta a falsa dicotomia teológica ocidental entre "Graça vs. Lei". Esclarece que o perdão imerecido conquistado pelo sacrifício vicário do Messias é a porta de entrada para a redenção, tornando ilógico e contraditório que o remido continue vivendo na prática da [[Anomia]] (transgressão deliberada da Torá) sob o pretexto de liberdade espiritual.
+- **Contexto & Importância:** O estudo desmonta a falsa dicotomia teológica ocidental entre "Graça vs. Lei". Esclarece que o perdão imerecido conquistado pelo sacrifício vicário do Messias é a porta de entrada para a redenção, tornando ilógico e contraditório que o remido continue vivendo na prática da [[Anomia]] (transgressão deliberada da Torá) sob o pretexto de liberdade espiritual.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Requer compreensão da estrutura jurídica de alianças e pactos no Antigo Oriente Próximo, distinção exegética entre *ab-rogação* e *renovação*, e familiaridade com os textos contratuais do Sinai ([[Êxodo 20]] e [[Êxodo 24]]), proféticos ([[Jeremias 31]], [[Ezequiel 36]]) e apostólicos ([[Mateus 5]], [[1 João 3]], [[Apocalipse 22]]).
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Profetas Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Moshe Rabenu|Moisés]] (Moshe Rabbeinu):** Primeiro mediador da Aliança Sinaítica, que subiu ao monte por 40 dias, quebrou as primeiras tábuas diante da idolatria do bezerro de ouro e cuja morte impossibilitou a mediação sacerdotal perpétua.
 - **[[Yeshua|Yeshua de Nazaré]] (Yeshua HaMashiach):** O mediador superior e definitivo da Nova Aliança ([[1 Timóteo 2.5]]), ressurreto e eterno intercessor, que selou a renovação da aliança com seu próprio sangue pascal.
 - **[[Profeta Jeremias]] (Yirmeyahu):** Autor do texto profético basilar de [[Jeremias 31.31|Jeremias 31.31-34]], prevendo a feitura da Nova Aliança com a Casa de Israel e com a Casa de Judá mediante a inscrição interior dos mandamentos.
@@ -35,33 +37,52 @@ knowledge_depth: exhaustive-academic
 - **[[Adam HaRishon|Adão]] (Adam HaRishon):** Citado pela quebra do mandamento no Éden, cuja consequência cósmica foi a produção de espinhos e abrolhos ([[Gênesis 3.17|Gênesis 3.17-18]]), símbolo da esterilidade e pecado.
 - **[[Yochanan HaShaliach|Apóstolo João]] (Yochanan):** Autor da definição formal de pecado em [[1 João 3.4]] e da visão escatológica dos guardadores da Torá em [[Apocalipse 22.14]].
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Citado pela definição mesianológica de Yeshua como o único mediador homem entre Deus e os homens em [[1 Timóteo 2.5]].
+- **[[Casa de Israel]] e [[Casa de Judá]]:** As Duas Casas (Efraim e Judá) com quem Deus promete renovar a aliança em Jeremias 31.
+- **Os discípulos em Jerusalém (Shavuot):** Os que receberam o *Ruach HaKodesh* em Atos 2 e falaram das "grandezas de Deus" em todas as línguas.
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Gênesis 3.17|Gênesis 3.17-18]]:* A maldição da terra e a gênese de espinhos e abrolhos pelo pecado original.
   - *[[Êxodo 20]]:* A promulgação audível dos Dez Mandamentos como cláusulas fundacionais da aliança.
+  - *Êxodo 20:4:* A cláusula expressa que proíbe imagens esculpidas, violada no bezerro de ouro.
   - *[[Êxodo 24.1|Êxodo 24.1-8]]:* A ratificação solene do pacto com holocausto, aspersão de sangue sobre o povo e aceitação voluntária (*"Tudo o que o Senhor falou faremos e ouviremos"*).
   - *[[Êxodo 32]]:* A quebra idólatra do contrato através da confecção do bezerro de ouro.
-- **[[Tanakh]] (Profetas e Escritos):**
+  - *Deuteronômio 34:* A morte de Moisés no Monte Nebo, que encerrou sua mediação.
+- *Nevi'im:* (Profetas do [[Tanakh]])
   - *[[Jeremias 31.31|Jeremias 31.31-34]]:* O oráculo da Nova Aliança (*Berit Hadashah*) inscrita no coração.
   - *[[Ezequiel 36.26|Ezequiel 36.26-27]]:* A circuncisão do coração pelo Espírito para o cumprimento das leis e estatutos.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Mateus 5.17|Mateus 5.17-19]]:* A declaração de Yeshua sobre a validade irrevogável de cada traço e letra da Torá.
   - *[[Mateus 7.15|Mateus 7.15-20]]:* O discernimento pelos frutos e a impossibilidade de colher uvas (fruto da redenção) de espinheiros (natureza de pecado).
   - *[[Mateus 26.27|Mateus 26.27-28]]:* A instituição do cálice da Nova Aliança no Sêder de Pessach para expiação de pecados.
   - *[[Atos 2.1|Atos 2.1-4]]:* O cumprimento de Pentecostes/Shavuot com a descida do Ruach HaKodesh para capacitar a igreja no testemunho e na verdade.
   - *[[1 Timóteo 2.5]]:* *"Pois há um só Deus e um só mediador entre Deus e os homens, Yeshua o Messias, homem."*
+  - *[[Hebreus 8]]:* A citação de Jeremias 31 na carta aos Hebreus, lida em conjunto com Mateus 5 no plano de aplicação.
   - *[[1 João 3.4]]:* A definição jurídica: *"O pecado é a transgressão da Torá"* (*Anomia*).
   - *[[Apocalipse 22.14]]:* *"Bem-aventurados aqueles que guardam os seus mandamentos, para que tenham direito à árvore da vida e possam entrar na cidade pelas portas."*
 
-### Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- **Shavuot como aniversário da entrega da Torá:** A tradição que o estudo usa para ler Atos 2 está no [[Talmud Bavli]] (*Shabat 86b*), que situa o Sinai nos dias 6 e 7 de Sivan, a data de [[Shavuot]].
+- ***Na'asseh ve-nishma*** **("faremos e ouviremos"):** O [[Talmud Bavli]] (*Shabat 88a*) exalta a resposta do povo em Êxodo 24:7, a aceitação voluntária que ratifica o pacto.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Estrutura Jurídica Tripartite do Pacto Bíblico:**
-  $$	ext{Aliança} = 	ext{Deus (Autor/Soberano)} + 	ext{Mediador (Representante)} + 	ext{Povo (Contratante)}$$
+  **Aliança = Deus (Autor/Soberano) + Mediador (Representante) + Povo (Contratante)**
 - **O Princípio da Conservação das Cláusulas:** A troca de mediador e de suporte não altera a substância moral do contrato. Os Dez Mandamentos dados no Sinai permanecem como a lei do Reino.
 - **A Alegoria Tipológica da Videira vs. Espinheiro:**
   - *Uva / Vinho:* Produto da videira e símbolo bíblico máximo da redenção, restauração e alegria do cálice pascal.
   - *Espinho / Abrolho:* Subproduto ausente na criação primordial, originado pela desobediência edênica; tipifica o viver em transgressão contínua da Torá.
 - **A Metáfora do Resgate Matrimonial e o Goel (Redentor):** Um benfeitor resgata uma mulher da prostituição pagando sua dívida e casando-se com ela; a redenção obtida não lhe concede licença moral para retornar à promiscuidade pretérita.
+- **Aliança não é livro:** O pacto (*Brit*) não se confunde com a divisão bibliográfica "Antigo Testamento" e "Novo Testamento", que não existia em forma encadernada quando as alianças foram feitas.
+- ***Ab-rogação*** **× *renovação*:** A Nova Aliança muda o mediador (de Moisés, que morreu, para Yeshua, vivo para sempre) e o suporte (da pedra para o coração), sem revogar as cláusulas.
+- **A sinceridade não anula a quebra do contrato:** No bezerro de ouro o povo quis cultuar o próprio *YHWH* ("Amanhã será festa a Hashem") por um meio idolátrico, e a boa intenção subjetiva não desfez a violação objetiva.
 
 ---
 
@@ -135,6 +156,18 @@ O estudo rebate frontalmente a doutrina de que a graça anula a responsabilidade
 - [[Teshuvá]]: O retorno ativo e sincero ao Criador e à prática dos mandamentos da aliança.
 - [[Goel]]: O parente remidor que resgata o indivíduo da escravidão e miséria, tipologia cumprida por Yeshua.
 - [[Apocalipse 22.14]]: O veredito escatológico que conecta a guarda dos mandamentos ao acesso à Árvore da Vida.
+
+**Notas relacionadas na base:**
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — desfaz o mesmo falso dilema entre Lei e Graça e alerta, como aqui, contra o pecado deliberado depois da redenção.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — mostra a Torá moral eterna e a transição do sistema sacrificial para o sacrifício de Yeshua, que esta nota lê como renovação do contrato.
+- [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — confirma em Romanos que a fé não anula a Torá, a mesma conservação das cláusulas defendida aqui.
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — aprofunda Atos 2 como renovação da aliança em Shavuot, a interiorização da Torá pelo Ruach.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — explica pelas fontes rabínicas como a morte do Justo expia, o fundamento do sangue que ratifica esta aliança.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — trata das Duas Casas de Israel (Judá e Efraim), as mesmas com quem Jeremias 31 promete renovar a aliança.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — descreve a perda do Éden que esta nota vê restaurada no acesso à Árvore da Vida de Apocalipse 22.14.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — parte de Jeremias 31 para mostrar a Torá passando da pedra ao coração sem ser revogada, como aqui.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aplica às leis alimentares a mesma conservação dos mandamentos que esta nota defende na Nova Aliança.
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — mostra Yeshua consagrado Sumo Sacerdote na imersão do Jordão, o mediador da aliança descrita aqui.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Berit Hadashah]] (Nova Aliança):** Do hebraico *Brit* (aliança/pacto) e *Hadashah* (renovada/nova). Conceito jurídico-espiritual de restauração e elevação do pacto do Sinai.

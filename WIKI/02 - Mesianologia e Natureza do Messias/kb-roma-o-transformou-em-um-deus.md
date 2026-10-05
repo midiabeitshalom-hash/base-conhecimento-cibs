@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** A divinização ontológica de [[Yeshua]] e a formulação dogmática da [[Trindade]] constituem constructos filosóficos tardios de matriz greco-romana e pagã, alheios ao monoteísmo bíblico estrito das Escrituras Hebraicas. O texto bíblico canônico (tanto o [[Tanakh]] quanto a [[Berit Hadashah]]) apresenta Yeshua não como "Deus, a segunda pessoa de uma divindade triúna", mas como o **[[Mashiach]] (Messias) humano**, singularmente ungido pelo Espírito de Deus, tabernáculo corporal da plenitude da presença divina ([[Elohut]]), o arquétipo espiritual primordial ([[Adam Kadmon]]) e o único mediador humano entre o único Deus verdadeiro ([[Akadosh Baruch Hu]]) e a humanidade ([[1 Timóteo 2.5]]; [[João 17.3]]).
-- **Contexto & Importância:** O conteúdo aborda a raiz da ruptura teológica entre o monoteísmo hebraico e o cristianismo ocidental pós-Nicéia. Ele oferece a desconstrução sistemática da helenização da fé, permitindo que judeus e gentios compreendam a messianidade de Yeshua sem violar o mandamento fundacional do *Shemá Israel* (*"Ouve, Israel, o Senhor nosso Deus é o único Senhor"*).
+- **Contexto & Importância:** O estudo aborda a raiz da ruptura teológica entre o monoteísmo hebraico e o cristianismo ocidental pós-Nicéia. Ele oferece a desconstrução sistemática da helenização da fé, permitindo que judeus e gentios compreendam a messianidade de Yeshua sem violar o mandamento fundacional do *Shemá Israel* (*"Ouve, Israel, o Senhor nosso Deus é o único Senhor"*).
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Avançado. Exige familiaridade com o debate mesianológico patrístico vs. judaico-messiânico, terminologia hebraica de mística e teologia (*Elohut*, *Or HaGanuz*, *Adam Kadmon*, *Ruach HaKodesh*), distinção entre veneração/prostração de honra (*Proskynesis* / *Hishtachavah*) e adoração cúltica exclusiva a Deus (*Latria* / *Avodah*).
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Apóstolos Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Shimon Kefa|Pedro]] (Shimon Kefa):** Coluna da congregação primitiva, citado pelo sermão de [[Atos 10.38]], onde descreve Yeshua como homem ungido por Deus com o Espírito Santo e poder, e pela recusa da prostração de Cornélio ([[Atos 10.25|Atos 10.25-26]]).
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo das nações, cujas epístolas estabelecem expressamente a distinção entre "o Deus e Pai" e o "Messias Yeshua, homem" ([[2 Coríntios 1.2|2 Coríntios 1.2-3]]; [[2 Coríntios 11.31]]; [[1 Timóteo 2.5]]; [[Filipenses 2.9|Filipenses 2.9-11]]).
 - **[[Yochanan HaShaliach|João]] (Yochanan):** Apóstolo e autor do Quarto Evangelho e do Apocalipse, citado na oração sacerdotal de Yeshua ([[João 17.3]]), no encontro com a samaritana ([[João 4]]), no relato da ressurreição ([[João 20.17]]) e na sua repreensão ao tentar adorar um anjo ([[Apocalipse 22.8|Apocalipse 22.8-9]]).
@@ -36,14 +38,27 @@ knowledge_depth: exhaustive-academic
 - **[[Nabucodonosor II]]:** Rei babilônico pagão que exemplifica a tendência gentílica/idólatra de prostrar-se e oferecer oblações sacrificiais a homens iluminados por Deus, como fez com o profeta Daniel ([[Daniel 2.46]]).
 - **[[Sadraque, Mesaque e Abede-Nego]]:** Os três jovens judeus fiéis que recusaram a adoração à estátua de ouro na Babilônia para preservar o monoteísmo estrito, sendo preservados na fornalha ([[Daniel 3]]).
 - **[[A Mulher Samaritana]]:** Interlocutora de Yeshua no poço de Jacó, a quem o Messias explicou que a verdadeira adoração é direcionada exclusivamente ao Pai ([[João 4.21|João 4.21-26]]).
+- **[[Profeta Daniel]]:** O profeta diante de quem Nabucodonosor se prostrou e a quem quis oferecer oblações e incenso.
+- **[[Cornélio]]:** O centurião que se prostrou diante de Pedro e foi levantado por ele, exemplo da psicologia gentílica da divinização.
+- **Barnabé:** Companheiro de Paulo em Listra, onde a multidão quis sacrificar aos dois como se fossem Hermes e Zeus ([[Atos 14.11|Atos 14.11-15]]).
+- **[[Maria Madalena]]:** A quem Yeshua ressuscitado declara: *"Subo para o meu Pai e vosso Pai, para o meu Deus e vosso Deus"*.
+- **Jacó, Esaú, Mefibosete e os irmãos de José:** Personagens dos paralelos de prostração diante de homens sem adoração ([[Gênesis 33.3]]; [[2 Samuel 9.6]]; [[Gênesis 42.6]]).
+- **Satanás:** O tentador que propõe a Yeshua prostrar-se em troca dos reinos do mundo ([[Mateus 4.8|Mateus 4.8-10]]).
+- **[[Concílio de Niceia]]:** O marco pós-Nicéia da Trindade e do termo *Homoousios*, a ruptura que o estudo desconstrói.
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *Torá:* ([[Torá]] / Pentateuco)
   - *[[Deuteronômio 6.13]] e [[Deuteronômio 10.20]]:* Preceito categórico de temer, servir e adorar unicamente a *Hashem*, citado por Yeshua contra a tentação de Satanás.
-- **[[Tanakh]] (Profetas e Escritos):**
+  - *[[Deuteronômio 6.4]]:* O *Shemá Israel*, base do monoteísmo estrito.
+  - *[[Números 11.17|Números 11.17-25]]:* A partilha do espírito de Moisés com os 70 anciãos.
+  - *[[Gênesis 33.3]] e [[Gênesis 42.6]]:* Jacó diante de Esaú e os irmãos diante de José, prostrações sem adoração.
+- *Nevi'im:* (Profetas do [[Tanakh]])
+  - *[[2 Samuel 9.6]]:* Mefibosete prostra-se com o rosto em terra diante de Davi.
+- *Ketuvim:* (Escritos do [[Tanakh]])
   - *[[Daniel 2.46]] e [[Daniel 3]]:* Episódios históricos demonstrando o abismo entre o monoteísmo hebraico e a idolatria pagã gentílica de divinização humana.
   - *[[Salmo 22.1]] / [[Mateus 27.46]]:* O clamor messiânico de desamparo (*"Eli, Eli, lamá sabactâni"*).
-- **[[Berit Hadashah]] (Novo Testamento):**
+  - *[[Salmo 51.11]]:* Davi pede que o Espírito Santo não lhe seja retirado.
+- *Berit Hadashah:* ([[Berit Hadashah]] / Novo Testamento)
   - *[[Atos 10.38]]:* A fórmula mesianológica original dos apóstolos ("Deus ungiu a Yeshua de Nazaré com o Espírito Santo e poder... porque Deus era com ele").
   - *[[João 4.21|João 4.21-24]]:* *"Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade."*
   - *[[João 17.3]]:* *"A vida eterna é esta: que te conheçam a ti, o único Deus verdadeiro, e a Yeshua, o Messias, a quem enviaste."*
@@ -53,10 +68,32 @@ knowledge_depth: exhaustive-academic
   - *[[João 20.17]]:* Yeshua pós-ressurreição: *"Subo para o meu Pai e vosso Pai, para o meu Deus e vosso Deus."*
   - *[[Apocalipse 14.6|Apocalipse 14.6-7]]:* O "Evangelho Eterno" restaurado, ordenando a adoração exclusiva Àquele que criou os céus, a terra e o mar.
   - *[[Apocalipse 22.8|Apocalipse 22.8-9]]:* A repreensão do anjo glorioso contra a adoração indevida da criatura (*"Adora a Deus"*).
+  - *[[João 10.30]] e [[João 17.21|João 17.21-22]]:* "Eu e o Pai somos um" lido como unidade de propósito e vontade, a mesma unidade pedida para os discípulos.
+  - *[[Atos 10.25|Atos 10.25-26]] e [[Atos 14.11|Atos 14.11-15]]:* Cornélio diante de Pedro e a multidão de Listra diante de Paulo e Barnabé.
+  - *[[Mateus 8.2]]; [[Mateus 9.18]]; [[Mateus 15.25]]; [[Marcos 5.6]]; [[João 9.38]]:* As prostrações diante de Yeshua como homenagem semítica à autoridade.
+  - *[[Mateus 27.46]]:* O clamor na cruz, prova de que Yeshua tinha um Deus a quem orava.
+  - *[[Colossenses 2.9]]:* A plenitude da presença divina que habitou corporalmente em Yeshua.
+  - *[[2 Coríntios 1.2|2 Coríntios 1.2-3]] e [[2 Coríntios 11.31]]:* "O Deus e Pai do nosso Senhor Yeshua".
+
+**Literatura rabínica e judaica**
+Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Literatura Mística e Conceitual Hebraica:**
   - *[[Adam Kadmon]]:* O homem primordial e molde espiritual arquetípico da criação.
   - *[[Or HaGanuz]]:* A Luz Oculta primordial emanada no princípio da criação, corporificada na missão messiânica.
   - *[[Elohut]]:* A essência da santidade e presença divina que preenche o Messias sem transferir-lhe divindade ontológica autônoma.
+- **Constituição funcional, não ontológica:** Yeshua foi ungido e *constituído* por Deus como juiz dos vivos e dos mortos; sua autoridade é delegada.
+- **[[Apoteose]]:** A psicologia pagã greco-romana de deificar reis, benfeitores e heróis, raiz histórica da divinização de Yeshua.
+- **Unidade de propósito × *Homoousios*:** A unidade entre o Pai e o Filho como alinhamento de vontade, em oposição à substância única imposta nos concílios do século IV.
+- **Pneumatologia hebraica (*Ruach* como sopro):** O Espírito Santo como emanação e presença ativa de Deus, e não terceira pessoa autônoma.
+- **Distinção entre prostração de honra e adoração cúltica:** *Hishtachavah* / *Proskynesis* régia diante de autoridades × *Latria* / *Avodah* devida só a Deus.
 
 ---
 
@@ -131,6 +168,20 @@ O estudo elucida a raiz histórica e linguística da distorção romana:
 - [[Berit Hadashah]]: A Nova Aliança (Novo Testamento), cujos textos corroboram a mesianologia do Messias homem e subordinado a Deus.
 - [[1 Timóteo 2.5]]: Texto-chave apostólico que define a existência de um só Deus e de um só mediador humano (Yeshua).
 - [[João 17.3]]: A oração de Yeshua que define a vida eterna no conhecimento do Pai como o único Deus verdadeiro.
+
+**Notas relacionadas na base:**
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — aprofunda Niceia e o sincretismo neoplatônico que esta nota descreve como divinização romana de Yeshua.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — reúne as declarações de Yeshua e dos apóstolos sobre o Messias homem que Roma transformou em deus.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — detalha a distorção lexical de *proskyneo* que esta nota aponta como um dos caminhos da divinização.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — mostra Yeshua entregue às nações e revestido de roupagem romana, como José no Egito.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — situa Roma como o quarto império que mudou os tempos e a Lei, pano de fundo profético da romanização da fé.
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — desenvolve o Adam Kadmon, chave usada aqui para explicar a plenitude no Messias sem divindade ontológica.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — explica a Luz Oculta que esta nota vê corporificada na missão messiânica.
+- [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — mostra pela serpente de bronze, cultuada até Ezequias a despedaçar, o mesmo desvio de transformar o instrumento da salvação em deus.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — refuta pela exegese de Gênesis 1.26 a deificação cuja história esta nota conta.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — desmonta o "Domingo de Páscoa", outra herança da mesma Roma que afastou a fé das raízes hebraicas.
+- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — propõe aos *Bnei Anussim* um Yeshua despido da roupagem helenística e dos concílios romanos descritos aqui.
+- [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra Nazarenos e Ebionitas, guardadores da Torá eclipsados pelo cristianismo gentílico pós-Constantino que esta nota narra.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Hishtachavah]] / [[Proskynesis]]:** Ato de prostração física com o rosto em terra para expressar profunda reverência, sujeição civil e respeito a reis, profetas ou superiores, distinto da adoração sacrificial devotada unicamente a Deus.

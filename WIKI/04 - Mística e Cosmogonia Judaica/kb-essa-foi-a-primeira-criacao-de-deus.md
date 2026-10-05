@@ -33,7 +33,9 @@ A tese busca resgatar a matriz de pensamento semítico-cabalística dos autores 
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Líderes e Figuras Centrais Mencionadas
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o Rabino e Mashiach, a manifestação do Adam Kadmon, o Grão de Trigo Cósmico e a Escada Cósmica que conecta o céu (*Shamayim*) e a terra (*Malchut*).
 - **Shaul HaShaliach (Apóstolo Paulo):** Autor das epístolas aos Colossenses e Coríntios, interpretado como um judeu instruído na mística que subiu ao "terceiro céu" e utilizou o framework do Adam Kadmon para descrever a primazia do Mashiach.
 - **Yochanan (Apóstolo João):** Autor do Quarto Evangelho e do Apocalipse, que registra a declaração de Yeshua sobre a Escada de Jacó e os anjos subindo e descendo sobre o Filho do Homem (*Ben Adam*).
@@ -43,23 +45,38 @@ A tese busca resgatar a matriz de pensamento semítico-cabalística dos autores 
 - **David HaMelech (Rei Davi):** Salmista citado no Salmo 78 a respeito do maná como "pão dos anjos".
 - **Daniel HaNavi (Profeta Daniel):** Autor da visão profética do "Filho do Homem" (*Bar Enash*) vindo sobre as nuvens em Daniel 7.
 
-### Estudos, Textos e Escrituras Referenciadas
-1. **Gênesis (Bereshit) 1:26:** *"Façamos o homem à nossa imagem (Betzalmeinu) e conforme a nossa semelhança (Kidmuteinu)"* — base léxica do protótipo *Kadmon*.
-2. **Gênesis (Bereshit) 28:12-17:** O sonho da Escada (*Sulam*), os anjos subindo e descendo, *Beit-El* como a casa de Deus e o *Sha'ar HaShamayim* (Portal dos Céus).
-3. **Colossenses 1:15-18:** Tradução aramaica/hebraica: *"Ele é Tzelem Elohim HaNistar (a imagem do Deus invisível) e Bechor (primogênito) de toda a criação..."*
-4. **Colossenses 2:9:** *"Pois nele habita corporalmente toda a plenitude da divindade."*
-5. **João (Yochanan) 1:51:** *"Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem."*
-6. **Hebreus 1:3:** O Mashiach como o resplendor da glória e a expressão exata do Seu ser.
-7. **1 Timóteo 3:16:** O mistério da piedade manifestado na carne e elevado na glória.
-8. **Mateus 24:30 & Daniel 7:13:** O sinal do Filho do Homem vindo nas nuvens do céu com poder e glória.
-9. **Atos 1:11:** A ascensão e promessa de retorno visível do Mashiach.
-10. **2 Coríntios 12:2-4:** O relato da ascensão de Paulo ao terceiro céu (*Mundus Superior*).
-11. **Zohar (Sefer HaZohar):**
-    - *Zohar Vayikrá 29b:* A criação de um novo mundo, renovação do povo e envio do Mashiach para salvar os que preparam a redenção.
-    - *Zohar Bereshit 51a / 53a:* *"O Mashiach será elevado ao reino da glória e descerá para salvar a humanidade; ele será o pilar do mundo."*
-    - *Zohar (Sefer HaBahir / Ra'aya Meheimna):* Definição de Adam Kadmon como o homem da glória divina, raiz de todas as almas.
+**Escrituras**
+- *Torá:*
+  - **Gênesis (Bereshit) 1:26:** *"Façamos o homem à nossa imagem (Betzalmeinu) e conforme a nossa semelhança (Kidmuteinu)"* — base léxica do protótipo *Kadmon*.
+  - **Gênesis (Bereshit) 28:12-17:** O sonho da Escada (*Sulam*), os anjos subindo e descendo, *Beit-El* como a casa de Deus e o *Sha'ar HaShamayim* (Portal dos Céus).
+- *Nevi'im:*
+  - Sem referência específica citada.
+- *Ketuvim:*
+  - **Daniel 7:13:** A visão do Filho do Homem (*Bar Enash*) vindo com as nuvens do céu e recebendo domínio eterno, lida em par com Mateus 24:30.
+  - **Salmo 78:** O maná chamado de "pão dos anjos", citado a partir de Davi.
+- *Berit Hadashah:*
+  - **Colossenses 1:15-18:** Tradução aramaica/hebraica: *"Ele é Tzelem Elohim HaNistar (a imagem do Deus invisível) e Bechor (primogênito) de toda a criação..."*
+  - **Colossenses 2:9:** *"Pois nele habita corporalmente toda a plenitude da divindade."*
+  - **João (Yochanan) 1:51:** *"Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem."*
+  - **Hebreus 1:3:** O Mashiach como o resplendor da glória e a expressão exata do Seu ser.
+  - **1 Timóteo 3:16:** O mistério da piedade manifestado na carne e elevado na glória.
+  - **Mateus 24:30 & Daniel 7:13:** O sinal do Filho do Homem vindo nas nuvens do céu com poder e glória.
+  - **Atos 1:11:** A ascensão e promessa de retorno visível do Mashiach.
+  - **2 Coríntios 12:2-4:** O relato da ascensão de Paulo ao terceiro céu (*Mundus Superior*).
 
-### Frameworks e Modelos Conceituais
+**Literatura rabínica e judaica**
+- **[[Zohar]] (Sefer HaZohar):**
+  - *Zohar Vayikrá 29b:* A criação de um novo mundo, renovação do povo e envio do Mashiach para salvar os que preparam a redenção.
+  - *Zohar Bereshit 51a / 53a:* *"O Mashiach será elevado ao reino da glória e descerá para salvar a humanidade; ele será o pilar do mundo."*
+  - *Zohar (Sefer HaBahir / Ra'aya Meheimna):* Definição de Adam Kadmon como o homem da glória divina, raiz de todas as almas.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **O Processo do Tzimtzum (Auto-contração Divina):** A retirada da luz infinita do *Ein Sof* para criar um espaço/vácuo (*Chalal*) onde a criação finita pudesse subsistir sem ser aniquilada pela plenitude absoluta de Deus.
 - **O Conceito de Adam Kadmon (Homem Primordial):** O primeiro raio de luz ordenada (*Kav*) que ingressa no espaço primordial, servindo como blueprint/matriz de todas as *Sefirot*, dos 4 mundos e da humanidade terrena (*Adam HaRishon*).
 - **A Árvore Cósmica e as 10 Sefirot:**
@@ -67,11 +84,9 @@ A tese busca resgatar a matriz de pensamento semítico-cabalística dos autores 
   - *Malchut* (Reino / Dimensão Física) na base;
   - O Mashiach como o eixo central (*Tiferet* / Pilar Central) que alinha e canaliza o fluxo da luz divina (*Shefa*).
 - **A Geografia Sagrada do Portal Celestial (*Sha'ar HaShamayim*):**
-  $$	ext{Mundo Físico} 
-ightarrow 	ext{Terra de Israel} 
-ightarrow 	ext{Jerusalém} 
-ightarrow 	ext{Monte do Templo} 
-ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
+  Mundo Físico → Terra de Israel → Jerusalém → Monte do Templo → Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)
+- **Criador (*Borei*) × primeira emanação:** a chave que separa o *Ein Sof*, fonte incriada, do Mashiach como *Bechor* gerado; a honra vai ao Mashiach e o culto (*Avodá*) só ao Criador.
+- **[[Adam HaRishon]] × [[Adam Kadmon]]:** o primeiro homem terreno de Gênesis 2 e o Homem Primordial arquetípico, que nunca se confundem.
 
 ---
 
@@ -148,9 +163,22 @@ ightarrow 	ext{Kodesh HaKodashim (Pedra Fundamental / Even HaShetiyah)}$$
 - [[Tiferet]]
 - [[Bechor]]
 
+**Notas relacionadas na base:**
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — mostra o Adam Kadmon como o interlocutor do "Façamos o homem", a mesma primeira emanação descrita aqui.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — completa a cosmogonia pelo lado da luz: *Ein Sof*, *Tzimtzum* e o Mashiach como lâmpada da luz oculta.
+- [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — usa o mesmo Adam Kadmon para refutar a Trindade e definir a idolatria como culto às emanações.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — sustenta a distinção entre o Criador e o Mashiach que esta nota faz pela mística.
+- [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — explica a diferença entre a honra devida ao Mashiach e a adoração reservada ao Criador.
+- [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — desenvolve a escada de Jacó e os quatro mundos, o eixo cósmico (*Sulam*) apresentado aqui.
+- [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — aprofunda a Árvore da Vida e as dez *Sefirot* do corpo místico do Mashiach.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — aplica a Yeshua o Adam Kadmon e o *Tzelem Elohim* explicados aqui, dentro do perfil do profeta semelhante a Moisés.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — usa o Adam Kadmon descrito aqui para explicar a plenitude no Messias sem divindade ontológica.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — vê em Yeshua, o Justo sem pecado, o Adam Kadmon encarnado que esta nota descreve.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — lê a Torá como código da criação e mostra a imagem perdida no Éden, que Yeshua restaura ao molde do Adam Kadmon.
+
 ### Mini-Glossário de Termos Especializados
 
-| Termo Hebraico / Aramaico | Significado Literal | Definição Teológica no Conteúdo |
+| Termo Hebraico / Aramaico | Significado Literal | Definição Teológica no Estudo |
 | :--- | :--- | :--- |
 | **[[Adam Kadmon]]** | Homem Primordial / Arquetípico | A primeira emanação cósmica e molde de toda a criação; arquétipo espiritual encarnado em Yeshua. |
 | **[[Ein Sof]]** | Sem Fim / O Infinito | O Criador Supremo em Sua essência absoluta, incognoscível e não manifestada. |

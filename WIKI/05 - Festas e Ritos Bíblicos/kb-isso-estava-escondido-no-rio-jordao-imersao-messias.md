@@ -27,7 +27,9 @@ knowledge_depth: exhaustive-academic
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Históricas, Patriarcas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Yeshua|Yeshua de Nazaré]]:** O Messias de Israel, imerso no Jordão por volta dos 30 anos por João, ungido publicamente como Filho amado e investido da plenitude corporal do Espírito de Deus.
 - **[[João, o Imersor]] (Yochanan HaMatbil):** Profeta de transição que realizava a *Tevilá* de arrependimento (*Teshuvá*) e apontava para Aquele que viria após ele para imergir com o Espírito Santo e com fogo.
 - **[[Yehoshua bin Nun|Josué]] (Yehoshua bin Nun):** Sucessor de Moisés que conduziu a travessia em seco do Jordão com a Arca da Aliança e erigiu o memorial das 12 pedras nas margens e no leito do rio ([[Josué 4]]).
@@ -37,24 +39,47 @@ knowledge_depth: exhaustive-academic
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo que em Éfeso ([[Atos 19]]) re-imergiu discípulos em Nome de Yeshua para que recebessem o Espírito Santo com imposição de mãos.
 - **[[Cornélio]]:** Centurião romano cujas primícias gentílicas receberam o Espírito Santo antes da imersão em águas ([[Atos 10]]), demonstrando a simbiose dos dois atos.
 - **[[Moshe Rabenu|Moisés]] e os [[70 Anciãos]]:** Paradoxo da distribuição fracionada do Espírito no deserto ([[Números 11.17|Números 11.17-25]]) em contraste com a plenitude indivisível concedida ao Messias.
+- **[[Rei Saul]] e [[David HaMelech|Davi]]:** Reis que receberam medidas limitadas do Espírito para os seus ofícios, em contraste com a plenitude que repousou sobre Yeshua.
+- **Os 120 discípulos do Cenáculo:** Os que perseveraram em oração até o dia de *Shavuot* (Atos 1–2), em contraste com as mais de 500 testemunhas da ressurreição (1 Coríntios 15:6).
 
-### Textos Sagrados, Literatura Rabínica e Fontes Documentais
-- **[[Torá]] / Pentateuco:**
+**Escrituras**
+- *[[Torá]]:*
   - *[[Gênesis 1.1|Gênesis 1.1-2]]:* O Espírito de Deus pairando sobre as águas primordiais não descritas como criadas no tempo.
   - *[[Números 11.17|Números 11.17-25]]:* A retirada de parte do Espírito que estava em Moisés para repartir entre os 70 anciãos.
   - *[[Deuteronômio 16.16]]:* O mandamento das três festas anuais de peregrinação (*Pessach*, *Shavuot*, *Sucot*) sem comparecer perante o Eterno de mãos vazias.
-- **[[Tanakh]] (Profetas e Escritos):**
+  - *Êxodo 29:4 e Levítico 8:6:* A lavagem dos sacerdotes em água antes da unção, base da *Tevilá* como consagração sacerdotal. Entra aqui como conexão.
+  - *Números 4:3:* Os 30 anos como idade de entrada no serviço do Tabernáculo, a idade em que Yeshua é imerso. Entra aqui como conexão.
+- *[[Nevi'im]] ([[Tanakh]]):*
   - *[[Josué 3]]–[[Josué 4]]:* A abertura sobrenatural do Jordão diante da Arca da Aliança e os monumentos de pedras.
   - *[[2 Reis 5|2 Reis 5.1-14]]:* A cura de Naamã e a restauração da pele como "a carne de um menino pequeno".
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *Ketuvim:* Sem referência específica citada.
+- *[[Berit Hadashah]]:*
   - *[[Mateus 3.13|Mateus 3.13-17]] / [[Lucas 3.21|Lucas 3.21-23]]:* A imersão de Yeshua aos 30 anos, a abertura dos céus e a descida do Ruach HaKodesh em forma corpórea de pomba.
   - *[[João 3.3|João 3.3-5]]:* O imperativo de nascer da água e do Espírito para ver e entrar no Reino de Deus.
   - *[[Atos 2.1|Atos 2.1-4]]:* O derramamento do Ruach HaKodesh em Shavuot sobre os 120 discípulos reunidos no Cenáculo.
   - *[[Atos 10.44|Atos 10.44-48]]:* O derramamento sobre a casa de Cornélio e a ordem imediata da *Tevilá*.
   - *[[Atos 19.1|Atos 19.1-7]]:* A re-imersão dos discípulos de Éfeso em Nome de Yeshua e a recepção dos dons do Espírito.
   - *[[Apocalipse 22.1|Apocalipse 22.1-2]]:* O rio límpido da água da vida procedente do Trono de Deus e do Cordeiro na Nova Jerusalém.
-- **Literatura Midráshica e Mística Judaica:**
-  - *[[Midrash Rabbah]]:* A tradição mística de que as águas cósmicas precederam a organização física da Terra e procedem diretamente do *Kisse HaKavod* (Trono da Glória).
+  - *Colossenses 2:9:* A plenitude da divindade que habita corporalmente no Messias.
+  - *1 Coríntios 15:6:* As mais de 500 testemunhas que viram Yeshua ressurreto.
+
+**Literatura rabínica e judaica**
+- *[[Midrash Rabbah]]:* A tradição mística de que as águas cósmicas precederam a organização física da Terra e procedem diretamente do *Kisse HaKavod* (Trono da Glória).
+- **Tratado *Mikvaot* (Mishná):** O tratado que regula a *Tevilá*, as águas vivas (*Maim Chaim*) e a exigência de imersão sem barreira (*chatzitzá*) descritas no mini-glossário. Entra aqui como conexão.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **Cadeia tipológica do Jordão:** Hermon (origem celestial) → Josué 4 (altar submerso) → 2 Reis 5 (Naamã renasce) → Mateus 3 (imersão de Yeshua) → Atos 2 (*Shavuot*).
+- **Geografia sagrada e tipológica:** Os atos de Deus voltam ao mesmo lugar para ativar a memória espiritual dos eventos anteriores.
+- **A função tripla da *Tevilá*:** Purificação e arrependimento, consagração sacerdotal e consagração messiânica.
+- **O binômio Água-Espírito:** A imersão em águas e a recepção do *Ruach HaKodesh* como duas faces do Novo Nascimento.
+- ***Moedim* como portais espirituais:** As festas do calendário bíblico como tempos marcados de liberação de poder e renovação.
+- **A matemática da fidelidade:** Mais de 500 testemunhas, 120 no Cenáculo, cerca de 380 ausentes no derramamento inicial.
 
 ---
 
@@ -139,6 +164,14 @@ O local escolhido por João Batista para ministrar as imersões não foi casual;
 - [[Novo Nascimento]]: Regeneração ontológica do ser humano por meio da água e do Espírito Santo ([[João 3.5]]).
 - [[Josué 4]]: Capítulo bíblico que descreve o milagre da travessia do Jordão e o estabelecimento dos memoriais de 12 pedras.
 - [[Emuná]]: Termo hebraico para fé viva, fidelidade ativa e confiança inabalável em Deus e no Seu Messias.
+
+**Notas relacionadas na base:**
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — aprofunda *Shavuot* e Atos 2, o ponto de chegada da cadeia que começa no Jordão.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — trata os *Moedim* como calendário profético, a mesma chave dos portais espirituais usada aqui.
+- [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — mostra Yeshua como o profeta semelhante a Moisés, que aqui recebe o Espírito em plenitude e não em porção.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — explica a Nova Aliança da qual Yeshua é consagrado Sumo Sacerdote na sua imersão.
+- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — estudo da mesma categoria sobre o fim do ministério que começa no Jordão, ligado ao calendário das festas.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — desenvolve a restauração da casa de Israel que Yeshua sinaliza ao imergir sobre o memorial das 12 tribos.
 
 ### Mini-Glossário Técnico-Místico
 1. **[[Tevilá]] (Imersão):** Do radical hebraico *T-V-L* (mergulhar por completo). Ritual que exige imersão total sem qualquer barreira (*chatzitzá*) entre a água e o corpo.

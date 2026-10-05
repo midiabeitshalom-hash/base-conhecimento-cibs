@@ -36,8 +36,9 @@ A análise resgata a demonologia semítica e a literatura do Segundo Templo (com
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Pesquisadores e Figuras Histórico-Bíblicas
-- **Dr. Yitzhak Hayut-Man e Pesquisadores Médicos Judeus:** Investigadores da correlação entre a estrutura de pontes de hidrogênio e arranjos atômicos/moleculares do DNA com a guematria do Tetragrama Sagrado.
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Chanoch|Enoque]] (Chanoch):** Sétimo patriarca pré-diluviano e figura central dos manuscritos de *1 Enoque*, fonte primária da tradição semítica sobre a queda dos Vigilantes no Monte Hermon.
 - **[[Noach|Noé]] (Noach):** O homem íntegro em suas gerações (*Tamim BeDorotav* — pureza moral e integridade genética) preservado no dilúvio.
 - **[[Mastema]]:** Líder dos espíritos demoníacos no *Livro dos Jubileus*, que solicitou a retenção de 10% dos espíritos dos Nefilim para testar e corromper a humanidade.
@@ -45,26 +46,40 @@ A análise resgata a demonologia semítica e a literatura do Segundo Templo (com
 - **[[Yochanan HaShaliach]] (Apóstolo João):** Autor de *Hitgalut* (Apocalipse), registrando as visões do sistema global da besta, das taças da ira e do número 666.
 - **[[Yehudah, irmão de Yeshua|Yehudah]] (Judas) e [[Shimon Kefa|Kefa]] (Pedro):** Autores apostólicos que citam diretamente as prisões perpétuas dos anjos caídos no abismo/escuridão profunda (Judas 1:6; 2 Pedro 2:4).
 
-### Textos Canônicos, Manuscritos e Fontes Intertestamentárias
-- **Torá e Tanakh:**
+**Escrituras**
+- *Torá:*
   - *Bereshit* / Gênesis 1:26-27; 6:1-14 (A união ilícita dos *Bnei Elohim* com as filhas dos homens, os *Nefilim* e a corrupção de *Kol Bassar* - toda a carne).
   - *Bamidbar* / Números 13:32-33 (O relatório dos espias e a visão dos filhos de Anaque descendentes dos Nefilim).
   - *Devarim* / Deuteronômio 2:10-11, 20-21; 32:17 (Refaim, Emim, Zanzumim e o sacrifício aos *Shedim*).
-  - *2 Samuel* 21:15-22; *1 Crônicas* 20:4-8 (As guerras de Davi contra os gigantes remanescentes de Gate).
-  - *Tehilim* / Salmos 139:14 (*"De modo assombroso e maravilhoso fui feito"*).
+- *Nevi'im:*
+  - *2 Samuel* 21:15-22 (As guerras de Davi contra os gigantes remanescentes de Gate).
   - *Yeshayahu* / Isaías 14:9 (A agitação no *Sheol* para despertar os *Refaim*).
+- *Ketuvim:*
+  - *1 Crônicas* 20:4-8 (As guerras de Davi contra os gigantes remanescentes de Gate, em paralelo com 2 Samuel 21:15-22).
+  - *Tehilim* / Salmo 139:14 (*"De modo assombroso e maravilhoso fui feito"*).
   - *Iyov* / Jó 1:6; 2:1; 38:7 (*Bnei Elohim* no Tribunal Celestial).
-- **Escritos Intertestamentários e Tradição Judaica:**
-  - *1 Enoque* (Etiópico) Capítulos 6, 7, 10 e 15 (Pacto dos Vigilantes, geração dos gigantes e origem dos espíritos imundos).
-  - *Livro dos Jubileus* Capítulo 10 (Petição dos filhos de Noé e o domínio de Mastema sobre os demônios).
-  - *Midrash Bereshit Rabá* (Corrupção e hibridização do reino animal antes do dilúvio).
-- **Berit Hadashah (Novo Testamento na Versão Peshitta Aramaica):**
+- *Berit Hadashah:* (Novo Testamento na Versão Peshitta Aramaica)
   - *Mattityahu* / Mateus 24:37-39 (*"Assim como foi nos dias de Noé..."*).
   - *Lucas* 8:26-33 (O exorcismo de Gadara: a Legião que suplica para não ser lançada no *Tehom* / Abismo).
   - *Lucas* 11:24 (O espírito imundo que vagueia por lugares áridos buscando repouso).
   - *Judas* 1:6-7 (Anjos que abandonaram sua morada e o paralelo com a fornicação por "outra carne" em Sodoma).
   - *2 Pedro* 2:4 (Os anjos aprisionados em trevas/abismo aguardando julgamento).
   - *Hitgalut* / Apocalipse 9:1-15 (Abertura do Poço do Abismo e a soltura dos 4 anjos acorrentados no Rio Eufrates); 13:14-18; 14:9-11; 16:2.
+
+**Literatura rabínica e judaica**
+- *Midrash* [[Bereshit Rabá]] (Corrupção e hibridização do reino animal antes do dilúvio).
+
+**Literatura do Segundo Templo e historiadores**
+- [[1 Enoque]] (Etiópico) Capítulos 6, 7, 10 e 15 (Pacto dos Vigilantes, geração dos gigantes e origem dos espíritos imundos).
+- [[Livro dos Jubileus]] Capítulo 10 (Petição dos filhos de Noé e o domínio de Mastema sobre os demônios).
+
+**Estudos acadêmicos e científicos**
+- **Dr. Yitzhak Hayut-Man e Pesquisadores Médicos Judeus:** Investigadores da correlação entre a estrutura de pontes de hidrogênio e arranjos atômicos/moleculares do DNA com a guematria do Tetragrama Sagrado.
+
+**Ferramentas e modelos conceituais**
+- **[[Guematria]]:** Correspondência bio-guemátrica do [[Tetragrama]] (*Yud-Hei-Vav-Hei* = 10-5-6-5, soma 26) aplicada à unidade estrutural do DNA (grupo fosfato, desoxirribose e base nitrogenada).
+- **Ciclo histórico da corrupção genética:** Modelo em três eras (antediluviana, pós-dilúvio e tempo do fim) que liga a hibridização dos *Nefilim* à marca da besta, a partir de *"como nos dias de Noé"* (Mateus 24:37).
+- **Distinção Malachim × Shedim:** Chave de leitura semítica que separa os anjos caídos encarcerados no abismo dos demônios, espíritos desencarnados dos *Nefilim*.
 
 ---
 
@@ -186,6 +201,14 @@ A pesquisa biofísica e a tradição mística hebraica convergem na identificaç
 - [[Tzelem Elohim]] (A Imagem e Semelhança Divina Inscrita no Ser Humano)
 - [[Teshuvá]] (Arrependimento, Conversão e Retorno à Aliança)
 - [[Marca da Besta]] (O Sistema de Hibridização e Controle Global Escatológico)
+
+**Notas relacionadas na base:**
+- [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] — mostra que a Igreja passa pela tribulação e enfrenta a mesma marca cujo mecanismo genético e espiritual este estudo descreve.
+- [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] — continua o paralelo "como nos dias de Noé", agora pela inteligência artificial que dá fôlego à imagem da besta.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — trata do engano que leva multidões a aceitar a marca: quem rejeita o amor da verdade fica sem defesa diante dele.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — a Torá como código da criação e a corrupção que entrou no Éden ajudam a entender o DNA como assinatura de D'us que a marca adultera.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — aprofunda Gênesis 1:26, a imagem divina (*Tzelem Elohim*) que a hibridização tenta apagar.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — descreve os que guardam os mandamentos e o testemunho de Yeshua, o selo que blinda contra a marca.
 
 ### Mini-Glossário Analítico
 1. **[[Bnei Elohim]] (בְּנֵי הָאֱלֹהִים):** Expressão hebraica para designar os seres angélicos da corte celestial. Em Gênesis 6 e Jó 1:6, denota as potestades espirituais que abandonaram sua ordem funcional original.

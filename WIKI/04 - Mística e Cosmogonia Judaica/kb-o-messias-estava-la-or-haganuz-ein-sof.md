@@ -36,29 +36,29 @@ O estudo reconstrói a ponte conceitual entre a mística hebraica antiga e os te
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Pensadores e Fontes Místicas Citadas
-- **[[Arizal]] (Rabino Isaac Luria):** Místico formulador da doutrina do **[[Tzimtzum]]** (a autocontração de Deus para abertura de espaço à realidade criada e ao livre-arbítrio).
-- **[[Bereshit Rabá|Midrash Bereshit Rabá]] (11:2):** Fonte clássica rabínica que documenta o ato divino de ocultar a luz primordial do primeiro dia, reservando-a aos justos para a era messiânica.
-- **[[Zohar]] (Livro do Esplendor):** Obra mística citada que associa a revelação final do *Or HaGanuz* ao advento e ministério de *Mashiach*.
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Yochanan HaShaliach]] (Apóstolo João):** O mais místico dos apóstolos, que estruturou seu Evangelho e o Apocalipse em torno dos conceitos de Luz Primordial (*Or*) e Vida (*Chaim*).
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor de passagens sobre o mistério cósmico que esteve oculto desde todos os séculos e que foi manifestado aos santos (Colossenses 1:26-27).
-- **[[Shimon HaTzaddik]] (Simeão no Templo):** Figura de Lucas 2 que reconhece o Messias como "Luz para revelação aos gentios e glória de Israel", citando a profecia de Isaías.
+- **Simeão no Templo (Shimon):** Figura de Lucas 2 que reconhece o Messias como "Luz para revelação aos gentios e glória de Israel", citando a profecia de Isaías.
 - **[[Moshe Rabenu]] (Moisés):** Mediador da primeira aliança cujo rosto resplandecia a glória refletida da presença divina (*Shechinah*).
 
-### Textos Canônicos Referenciados e Analisados
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá:*
   - *Bereshit* / Gênesis 1:1-3 (*"Bereshit bara Elohim... Va'yomer Elohim: Yehi Or, va-yehi Or"*).
   - *Bereshit* / Gênesis 1:14-19 (Criação do sol, lua e estrelas no quarto dia).
   - *Shemot* / Êxodo 34:29-35 (O resplendor radiante na face de Moisés).
-- **Nevi'im e Ketuvim (Profetas e Escritos):**
+- *Nevi'im:*
   - *Yeshayahu* / Isaías 42:6 (*"Eu, o Eterno, te chamei em justiça... e te dei por aliança do povo e por luz das nações"*).
   - *Yeshayahu* / Isaías 49:6 (*"Também te dei como luz para os gentios, para seres a minha salvação até os confins da terra"*).
   - *Yeshayahu* / Isaías 60:19-20 (*"O sol não será mais a tua luz de dia... o Eterno será a tua luz perpétua"*).
-  - *Tehilim* / Salmos 36:9-10 (*"Porque contigo está o manancial da vida; na tua luz veremos a luz"* — texto recitado ao colocar o *Talit*).
-  - *Tehilim* / Salmos 119:105 (*"Lâmpada para os meus pés é a tua palavra e luz para o meu caminho"*).
+- *Ketuvim:*
+  - *Tehilim* / Salmo 36:9-10 (*"Porque contigo está o manancial da vida; na tua luz veremos a luz"* — texto recitado ao colocar o *Talit*).
+  - *Tehilim* / Salmo 119:105 (*"Lâmpada para os meus pés é a tua palavra e luz para o meu caminho"*).
   - *Mishlei* / Provérbios 6:23 (*"Porque o mandamento é uma lâmpada, e a Torá é luz"*).
   - *Daniel* 12:3-4 (O selamento do livro até o tempo do fim e os sábios que resplandecerão como as estrelas).
-- **Berit Hadashah (Novo Testamento):**
+- *Berit Hadashah:*
   - *Yochanan* / João 1:1-9 (*"Nele estava a vida e a vida era a luz dos homens; a luz resplandece nas trevas..."*).
   - *Yochanan* / João 8:12; 9:5 (*"Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida"*).
   - *Yochanan* / João 14:9 (*"Quem vê a mim, vê o Pai"*).
@@ -67,6 +67,23 @@ O estudo reconstrói a ponte conceitual entre a mística hebraica antiga e os te
   - *Hebreus* 11:3 (*"Pela fé entendemos que os mundos [no plural] foram criados..."*).
   - *Colossenses* 1:26-27; *2 Coríntios* 4:6; *1 Pedro* 2:9.
   - *Hitgalut* / Apocalipse 1:14-16; 21:23; 22:5 (*"A cidade não precisa de sol nem de lua... a glória de Deus a iluminou, e o Cordeiro é a sua lâmpada"*).
+
+**Literatura rabínica e judaica**
+- **[[Arizal]] (Rabino Isaac Luria):** Místico formulador da doutrina do **[[Tzimtzum]]** (a autocontração de Deus para abertura de espaço à realidade criada e ao livre-arbítrio).
+- **[[Bereshit Rabá|Midrash Bereshit Rabá]] (11:2):** Fonte clássica rabínica que documenta o ato divino de ocultar a luz primordial do primeiro dia, reservando-a aos justos para a era messiânica.
+- **[[Zohar]] (Livro do Esplendor):** Obra mística citada que associa a revelação final do *Or HaGanuz* ao advento e ministério de *Mashiach*.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **[[PaRDeS]]:** os quatro níveis de leitura (*Peshat*, *Remez*, *Derash*, *Sod*) usados para ler a luz do primeiro dia no nível *Sod* sem desprezar o *Peshat*.
+- **A tríade cosmogônica *Ein Sof* → *Tzimtzum* → *Or HaGanuz*:** a fonte infinita, a contração que abre espaço à criação e ao livre-arbítrio, e a luz primordial ocultada para os justos.
+- **Fonte × emissor (a analogia da Menorá):** o *Ein Sof* é a fonte da luz; Yeshua é a lâmpada que a conduz e a torna visível aos homens.
+- **A analogia do farolete no quarto escuro:** a luz forte demais faz fechar os olhos, e por isso a revelação pede *Teshuvá* gradual.
 
 ---
 
@@ -144,6 +161,17 @@ O estudo reconstrói a ponte conceitual entre a mística hebraica antiga e os te
 - [[Teshuvá]] (O Retorno e Arrependimento à Aliança)
 - [[Berit Hadashah]] (Nova Aliança / Textos Apostólicos Nazarenos)
 - [[Shechinah]] (A Presença Divina Manifesta)
+
+**Notas relacionadas na base:**
+- [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — parte do mesmo *Ein Sof* e do mesmo *Tzimtzum*, mas pelo lado do Adam Kadmon e das *Sefirot*.
+- [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — usa a mesma imagem da Luz e da Lâmpada (Apocalipse 21.23) para ler João 14.9 sem Trindade.
+- [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — desenvolve os quatro mundos e o plural de Hebreus 11.3 citados aqui.
+- [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]] — apoia a distinção de João 17.3 entre o único Deus verdadeiro e o Messias enviado.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — mostra as *Kelipot* que ocultam a luz do Criador, o lado humano do ocultamento descrito aqui.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — lê o mesmo início de Gênesis e a Torá como luz (Salmo 119.105) pela chave do código da criação.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — a abertura do conhecimento aos remanescentes no fim, via *Teshuvá*, é o horizonte das duas notas.
+- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — vê a Luz Oculta descrita aqui corporificada na missão do Messias, sem divindade ontológica.
+- [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — mostra como a luz do *Ein Sof* desce pelos quatro mundos e é obstruída ou liberada no ser humano.
 
 ### Mini-Glossário Analítico
 1. **[[Or HaGanuz]] (אוֹר הַגָּנוּז):** A luz primordial criada no primeiro dia de *Bereshit*, dotada de natureza espiritual e sabedoria cósmica, que foi ocultada pelo Criador para ser desvelada pelo Messias na era vindoura.

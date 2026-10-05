@@ -20,14 +20,16 @@ knowledge_depth: exhaustive-academic
 ## Síntese Executiva e Tese Central
 
 - **Tese Central / Premissa Maior:** O cenário profético contemporâneo (com ênfase no marco de 2026 e nos tempos finais) constitui o despertar e o ajuntamento escatológico das "ovelhas perdidas da casa de Israel" — os descendentes das dez tribos do Reino do Norte ([[Efraim]]) assimilados entre as nações, juntamente com os criptojudeus ([[Bnei Anussim]]). Esse fenômeno de retorno ([[Teshuvá]]) cumpre a unificação profética das "duas casas" ([[Casa de Judá|Judá]] e [[Efraim]]) profetizada em [[Ezequiel 37]], revelando o significado profundo das parábolas de [[Yeshua]] (o Filho Pródigo, o Bom Pastor, a Pesca Maravilhosa no lado direito) e a superação da cegueira histórica entre o judaísmo normativo e os dispersos da aliança.
-- **Contexto & Importância:** A mensagem decodifica o sentimento de atração identitária e espiritual de milhões de pessoas no Ocidente (especialmente no Brasil, via descendência sefardita/inquisitorial) em direção às raízes da [[Torá]], do [[Shabat]] e das festas bíblicas. Demonstra que a dispersão histórica não foi um acidente, mas um desígnio profético para espalhar a semente de Israel e possibilitar a reconciliação final mediada pelo Messias Yeshua.
+- **Contexto & Importância:** O estudo decodifica o sentimento de atração identitária e espiritual de milhões de pessoas no Ocidente (especialmente no Brasil, via descendência sefardita/inquisitorial) em direção às raízes da [[Torá]], do [[Shabat]] e das festas bíblicas. Demonstra que a dispersão histórica não foi um acidente, mas um desígnio profético para espalhar a semente de Israel e possibilitar a reconciliação final mediada pelo Messias Yeshua.
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Exige compreensão da cisão monárquica de Israel após Salomão, a distinção geopolítica entre o Reino do Norte (Israel/Efraim) e o Reino do Sul (Judá), as dinâmicas dos cativeiros assírio e babilônico, e tipologias exegéticas no Pentateuco e nos Evangelhos (*Bessorá*).
 
 ---
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Figuras Bíblicas, Patriarcas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Avraham Avinu|Abraão]] (Avraham):** Receptor da promessa inicial de que em sua semente seriam benditas todas as famílias da Terra ([[Gênesis 12.3]]). Pai de 8 filhos (Ismael com Hagar, Isaque com Sara e 6 com Queturá).
 - **[[Yitzchak Avinu|Isaque]] (Yitzchak) e [[Ya'akov Avinu|Jacó]] (Yaakov / Israel):** Herdeiros da linhagem patriarcal da promessa. Jacó recebe a primogenitura de Esaú e tem seu nome mudado para Israel após lutar no vau de Jaboque.
 - **[[Yosef HaTzaddik|José]] (Yosef) e seus filhos [[Efraim]] e [[Menashe|Manassés]] (Menashe):** Protagonistas da bênção patriarcal de [[Gênesis 48]], na qual Jacó cruza as mãos para conferir a bênção da mão direita ao mais novo (Efraim).
@@ -37,9 +39,11 @@ knowledge_depth: exhaustive-academic
 - **[[Profeta Ezequiel]]:** Autor das visões proféticas do Vale de Ossos Secos e da união das duas varas ([[Ezequiel 37]]).
 - **[[Profeta Zacarias]]:** Profeta do Tanakh referenciado pelo pranto escatológico da Casa de Davi sobre Aquele a quem traspassaram ([[Zacarias 12.10]]).
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Tanakh]] (Torá, Profetas e Escritos):**
+**Escrituras** (o [[Tanakh]] — Torá, Profetas e Escritos — e a Berit Hadashah)
+- *Torá:*
+  - *[[Gênesis 12.3]]:* A promessa a Abraão de que em sua semente seriam benditas todas as famílias da Terra.
   - *[[Gênesis 48.14|Gênesis 48.14-20]]:* O cruzamento das mãos de Jacó e a profecia de que Efraim se multiplicaria como peixes (*ve-yidgu la-rov*) no meio da terra.
+- *Nevi'im:*
   - *[[1 Reis 11]]–[[1 Reis 12]]:* A divisão monárquica entre Jeroboão (Reino do Norte/Efraim - 10 tribos, capital Samaria) e Roboão (Reino do Sul/Judá - 2 tribos, capital Jerusalém).
   - *[[2 Reis 17]]:* A invasão assíria (722 a.C.) e a dispersão/assimilação definitiva das dez tribos do Norte.
   - *[[2 Reis 25]]:* A invasão babilônica (586 a.C.) e o exílio temporário de Judá.
@@ -47,13 +51,24 @@ knowledge_depth: exhaustive-academic
   - *[[Ezequiel 37|Ezequiel 37.1-14]]:* A ressurreição nacional e espiritual do Vale de Ossos Secos.
   - *[[Ezequiel 37|Ezequiel 37.15-28]]:* O oráculo das duas varas (Judá e Efraim) que se tornam uma só na mão do Messias.
   - *[[Zacarias 12.10]]:* O arrependimento da Casa de Judá ao contemplar o Messias traspassado.
-- **[[Berit Hadashah]] (Evangelhos e Epístolas):**
+- *Ketuvim:* Sem referência específica citada.
+- *[[Berit Hadashah]] (Evangelhos e Epístolas):*
   - *[[Mateus 15.24]]:* *"Não fui enviado senão às ovelhas perdidas da casa de Israel."*
   - *[[Lucas 15|Lucas 15.11-32]]:* A Parábola do Filho Pródigo reinterpretada como a trajetória histórica de Judá (irmão mais velho) e Efraim (irmão mais novo).
   - *[[João 10.11|João 10.11-16]]:* O Bom Pastor que congrega "outras ovelhas que não são deste aprisco" para formar um só rebanho.
   - *[[João 21|João 21.1-11]] / [[Lucas 5]]:* A Pesca Maravilhosa lançada especificamente ao **lado direito** do barco.
 
-### Ferramentas, Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- [[Adams et al. 2008]] — conexão com os [[Bnei Anussim]] do item 4: o estudo genético de linhagens paternas (cromossomo Y) na Península Ibérica, publicado no *American Journal of Human Genetics*, encontrou ascendência sefardita em cerca de 20% dos homens ibéricos, rastro da conversão forçada dos judeus. A base desenvolve esse estudo na nota sobre o DNA de Abraão e os brasileiros descendentes de cristãos-novos.
+- [[Anita Novinsky]] — conexão: historiadora da Inquisição e dos cristãos-novos no Brasil colônia, referência para a presença sefardita que o estudo descreve a partir de 1500.
+
+**Ferramentas e modelos conceituais**
 - **Teologia das Duas Casas (Two-House Theology):** Framework de interpretação bíblica que distingue a Casa de Judá (judeus históricos que mantiveram a Torá) da Casa de Israel/Efraim (as dez tribos dispersas entre os gentios).
 - **Tipologia dos Pescadores de Homens e o Símbolo do Peixe:** Conexão linguística e teológica entre a bênção de Jacó sobre Efraim em Gênesis 48:16 (*yidgu* = peixes) e o chamado de Yeshua aos discípulos pescadores no Mar da Galileia.
 - **A Dinâmica Psicossocial do Irmão Mais Velho:** Mecanismo de resistência e ciúme religioso por parte da ortodoxia tradicional ao presenciar o retorno de multidões de gentios/dispersos abraçando a Torá e o Messias sem conversão institucional rabínica.
@@ -136,6 +151,18 @@ Rav Yosef estabelece uma correspondência alegórico-profética direta:
 - [[Shabat]]: O sétimo dia bíblico, sinal memorial e distintivo da aliança do Eterno com Seu povo.
 - [[Ruach HaKodesh]]: O Espírito Santo de Deus que guia profetas e regenera o coração dos dispersos.
 - [[Tanakh]]: O conjunto das Escrituras Hebraicas (Torá, Profetas e Escritos).
+
+**Notas relacionadas na base:**
+- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — dá a base histórica e genética dos Bnei Anussim no Brasil, que esta nota lê como parte do retorno de Efraim.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — trata das mesmas ovelhas perdidas da casa de Israel e do retorno pela Torá e pela fé em Yeshua.
+- [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — desenvolve a tipologia de José, pai de Efraim, aplicada ao Messias entregue às nações.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — situa no fim dos impérios de Daniel o mesmo tempo do fim em que esta nota coloca o despertar dos dispersos.
+- [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] — liga o Grande Shofar que reúne os dispersos ao fim do 120º Jubileu.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — lê os conflitos atuais em torno de Israel no relógio do Jubileu, o pano de fundo do marco de 2026.
+- [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] — fecha a cronologia dos 6.000 anos na década de 2030, a janela profética em que esta nota situa o ajuntamento das duas casas.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — mostra a Nova Aliança de Jeremias 31 feita com as mesmas Duas Casas, Judá e Efraim, tratadas aqui.
+- [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — lê o enxerto na Oliveira e o "todo o Israel será salvo" de Romanos 11, que esta nota desdobra em profecia.
+- [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — termina no mesmo movimento de *Teshuvá* dos *Bnei Anussim* e das ovelhas perdidas que esta nota lê como retorno profético.
 
 ### Mini-Glossário de Termos Hebraicos e Conceitos Teológicos
 1. **[[Akadosh Baruch Hu]] (O Santo, Bendito Seja Ele):** Designação reverente tradicional em hebraico para Deus, o Criador.

@@ -36,18 +36,22 @@ O estudo desconstrói o antinomismo cristão ocidental (marcionismo velado) que 
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Adam HaRishon|Adam]] e [[Chavah]] (Adão e Eva):** O casal primordial que recebeu os primeiros mandamentos positivos e proibitivos no Gan Éden, cuja nudez pós-queda foi coberta pelo primeiro sacrifício animal provido por Deus.
 - **[[Kayin|Caim]] e [[Hevel|Abel]]:** Primeiros filhos de Adão que demonstraram a vigência pré-mosaica das leis sacrificiais e de primícias da Torá (*Bereshit* 4).
 - **[[Avraham Avinu]] (Abraão):** O patriarca que guardou e cumpriu integralmente as leis (*Torot*), mandamentos (*Mitzvot*), estatutos (*Chukim*) e juízos (*Mishpatim*) 400 anos antes do Sinai (*Bereshit* 26:5).
+- **[[Yitzchak Avinu]] (Isaque):** A quem Hashem declara que Abraão obedeceu à Sua voz e guardou Torotai, Mitzvotai, Chukotai e Mishpatai.
 - **[[Yosef HaTzaddik]] (José do Egito):** O justo que guardou o princípio de Shabat no Egito, atraindo a bênção e prosperidade na administração dos grãos.
 - **[[Moshe Rabenu]] (Moisés):** Mediador da Torá codificada no Sinai para a nação sacerdotal de Israel.
 - **[[David HaMelech]] e os Profetas:** Homens de Deus cuja regra de conduta imutável foi a Torá de Hashem.
 - **[[Sha'ul HaShaliach]] (Apóstolo Paulo):** Autor de Romanos e Gálatas, frequentemente mal interpretado como antinomista, que declarou categoricamente que a Torá é *"santa, justa e boa"* (Romanos 7:12) e que a graça ensina a renunciar à impiedade (Tito 2:11-14).
 - **[[Yeshua|Yeshua HaMashiach]]:** O Messias de Israel que ratificou que nenhum traço da Torá passará até que o céu e a terra passem (Mateus 5:17-20).
+- **Escribas e [[Fariseus]]:** A justiça que, segundo Yeshua em Mateus 5:20, a dos discípulos deve exceder.
 
-### Textos Canônicos e Fontes Analisadas
-- **Torá (Pentateuco):**
+**Escrituras**
+- *Torá:* (Pentateuco)
   - *Bereshit* / Gênesis 2:16-17 (Mandamentos edênicos: comer livremente vs. proibição da árvore do conhecimento).
   - *Bereshit* / Gênesis 3:21 (As túnicas de pele feitas por Hashem — primeiro sacrifício vicário).
   - *Bereshit* / Gênesis 4:3-7 (Ofertas de primícias de Caim e Abel e a advertência sobre o pecado à porta).
@@ -56,15 +60,38 @@ O estudo desconstrói o antinomismo cristão ocidental (marcionismo velado) que 
   - *Shemot* / Êxodo 21–23 (Códigos civis e penais adaptáveis).
   - *Vayicrá* / Levítico 1–7 (Instruções detalhadas dos sacrifícios: *Olá*, *Minchá*, *Shelamim*).
   - *Devarim* / Deuteronômio 5:12 (*Guardar* - *Shamor* - o Shabat); 17:8-13 (Autoridade judicial para julgamento de causas civis).
-- **Nevi'im e Ketuvim (Profetas e Escritos):**
+- *Nevi'im:* (Profetas)
   - *Yeshayahu* / Isaías 42:21 (*"Hashem se agradou... em tornar gloriosa a Torá"*).
-  - *Tehilim* / Salmos 19 e 119 (A perfeição e eternidade da Torá).
-- **Berit Hadashah (Novo Testamento):**
-  - *Mattityahu* / Mateus 5:17-20 (Yeshua e a validade eterna da Torá; o maior e o menor no Reino); 5:21-48 (Aprofundamento da intenção moral dos mandamentos).
+- *Ketuvim:* (Escritos)
+  - *Tehilim* / Salmo 19 e 119 (A perfeição e eternidade da Torá).
+- *Berit Hadashah:* (Novo Testamento)
+  - *Mattityahu* / Mateus 5:17-20 (Yeshua e a validade eterna da Torá; o maior e o menor no Reino); 5:21-48 (Aprofundamento da intenção moral dos mandamentos, com a ira em 5:22 e a cobiça no coração em 5:28).
   - *Romanos* 3:20, 31 (*"Anulamos a lei pela fé? De maneira nenhuma, antes confirmamos a lei"*); 5:12-14; 6:14-15; 7:12.
+  - *Romanos* 5:13 (Onde não há lei, o pecado não é imputado — a advertência a Caim prova a lei moral antes do Sinai).
   - *Tito* 2:11-14 (A graça como poder educativo para a renúncia da impiedade e justiça prática).
   - *Hebreus* 9:9-10; 10:1-14 (Os sacrifícios de animais como sombra incapazes de aperfeiçoar a consciência vs. o sacrifício perfeito de Yeshua); 10:26-29 (A impossibilidade de sacrifício para o pecado deliberado pós-iluminação).
   - *Yochanan* / João 17:3 (A vida eterna ligada ao conhecimento do único Deus verdadeiro e de Yeshua).
+  - *Gálatas* e *Efésios* (Cartas paulinas a reler sob a perspectiva da Torá viva).
+
+**Literatura rabínica e judaica**
+- **As 613 mitzvot (248 positivas e 365 proibições):** A contagem usada no mini-glossário vem do ensino de Rabi Simlai no [[Talmud Bavli]] (*Makot 23b*).
+- **Zachor e Shamor ditos "numa só palavra":** O [[Talmud Bavli]] (*Rosh Hashaná 27a*; *Shevuot 20b*) ensina que as duas formas do mandamento do Shabat em Êxodo 20 e Deuteronômio 5 foram pronunciadas juntas.
+- **Kotnot Or:** [[Bereshit Rabá]] (20:12) registra a leitura de Rabi Meir das "túnicas de pele" (*or* com *ayin*) como "túnicas de luz" (*or* com *alef*).
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
+- **A Quádrupla Classificação da Torá:** Leis morais (eternas), cerimoniais (sombras aperfeiçoadas em Yeshua), sacerdotais (transferidas para a ordem de Melquisedeque) e civis/penais (adaptadas sob lideranças e juízes).
+- **A Estrutura Bipolar dos Mandamentos no Éden:** *Mitzvat Aseh* (mandamento positivo) e *Mitzvat Lo Ta'aseh* (mandamento proibitivo), já presentes antes do Sinai.
+- **A Analogia da Serra Elétrica:** A placa de advertência é a Torá, a mão decepada é a transgressão, o cirurgião que reimplanta a mão é Yeshua, e recolocar a mão na serra é o pecado deliberado depois da graça.
+- **A Torá como espelho e sinalização viária:** A lei define os limites e adverte contra o abismo moral, sem ser culpada pela queda de quem a desobedece.
+- **O idioma "cumprir" × "abolir" (*Le'malei*):** No hebraico do 1º século, abolir era interpretar a Torá de forma frouxa; cumprir era interpretá-la com fidelidade e vivê-la em sua máxima exigência.
+- **Graça primordial:** A concessão de tempo e de uma cobertura substitutiva para que o homem caído pudesse fazer [[Teshuvá]].
+- **[[PaRDeS]]:** A hermenêutica de quatro níveis indicada como pré-requisito do estudo.
 
 ---
 
@@ -197,6 +224,17 @@ Para compreender as cartas apostólicas e a epístola aos Hebreus, é imperativo
 - [[Ruach HaKodesh]] (O Espírito Santo / Capacitador da Obediência)
 - [[PaRDeS]] (O Método Quádruplo de Hermenêutica Bíblica)
 - [[Olam Haba]] (O Mundo Vindouro e o Reino Eterno)
+
+**Notas relacionadas na base:**
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — trata do mesmo falso dilema, com a taxonomia da Torá e a genealogia sacerdotal de Adão a Yeshua.
+- [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — lê Romanos 3.31 e 7.12, citados aqui, como confirmação da Torá e não como sua abolição.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — mostra a Nova Aliança como a mesma Torá escrita no coração, a graça que capacita descrita nesta nota.
+- [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — desenvolve a Torá como matriz da criação, a mesma Torá preexistente ao Sinai e já presente no Éden.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aplica a validade dos estatutos (*Chukim*), como as leis alimentares, que esta nota classifica entre as leis cerimoniais.
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — liga o Sinai ao derramar do Ruach, o Espírito que aqui capacita para a obediência à Torá.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — une guarda dos mandamentos e fé em Yeshua, o mesmo par que esta nota defende contra o antinomismo.
+- [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — mostra a Alma Divina domando a Alma Animal, a graça que capacita vista pelo lado da alma.
+- [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra pelos sinais do Templo em *Yoma 39b* que os sacrifícios perderam eficácia, o que confirma a função provisória dada a eles aqui.
 
 ### Mini-Glossário Analítico
 1. **[[Torá]] (תּוֹרָה):** Instrução ou ensino divino. Não significa "lei" no sentido romano opressivo, mas o manual de vida e santidade revelado pelo Criador.

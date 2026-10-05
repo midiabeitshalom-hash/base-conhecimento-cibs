@@ -23,7 +23,7 @@ knowledge_depth: exhaustive-academic
 A verdadeira fé (*Emuná*) para o fim dos tempos repousa sobre uma convergência inseparável de dois pilares fundamentais: a **guarda irrevogável dos mandamentos perpétuos da Torá** e a **fé/testemunho em Yeshua como o Mashiach (Messias)**. Sob a ótica profética, a Nova Aliança (*Berit Hadashah*) profetizada em Jeremias e Ezequiel nunca revogou a instrução divina, mas sim a internalizou no coração humano através do Espírito Santo (*Ruach HaKodesh*), restaurando e reunindo as doze tribos dispersas (a Casa de Israel e a Casa de Judá) sob a liderança messiânica.
 
 ### Contexto & Importância
-A mensagem aborda a crise identitária e teológica histórica decorrente da separação entre o tronco hebraico original e os sistemas eclesiásticos pós-imperiais romanos. Estabelece a urgência escatológica de um arrependimento/retorno (*Teshuvá*) das "ovelhas perdidas da Casa de Israel" espalhadas entre as nações, desmistificando o antinomismo (ideia de que a lei mosaica foi abolida) e reconectando os crentes ao estilo de vida, calendário sagrado e mandamentos vividos pelo próprio Yeshua e pela comunidade apostólica primitiva.
+O estudo aborda a crise identitária e teológica histórica decorrente da separação entre o tronco hebraico original e os sistemas eclesiásticos pós-imperiais romanos. Estabelece a urgência escatológica de um arrependimento/retorno (*Teshuvá*) das "ovelhas perdidas da Casa de Israel" espalhadas entre as nações, desmistificando o antinomismo (ideia de que a lei mosaica foi abolida) e reconectando os crentes ao estilo de vida, calendário sagrado e mandamentos vividos pelo próprio Yeshua e pela comunidade apostólica primitiva.
 
 ### Nível de Complexidade & Pré-requisitos Conceituais
 - **Complexidade:** Intermediária a Avançada (hermenêutica bíblica contextual, exegese textual comparativa de profetas do Antigo Testamento com o Novo Testamento e terminologia hebraica).
@@ -33,45 +33,61 @@ A mensagem aborda a crise identitária e teológica histórica decorrente da sep
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Líderes e Figuras Centrais Mencionadas
-- **Yeshua HaMashiach (Jesus o Messias):** Apresentado como o Rabino de Nazaré, judeu observante da Torá, que não veio ab-rogar a lei, mas cumpri-la e ensiná-la em plenitude, enviado primordialmente para resgatar as ovelhas perdidas de Israel.
-- **Moshe Rabenu (Moisés nosso Mestre):** O libertador do Êxodo e mediador inicial da Torá no Sinai.
-- **Yehoshua Bin-Nun (Josué):** Sucessor de Moisés que conduziu a partilha da Terra Prometida entre as 12 tribos.
-- **Shmuel HaNavi (Profeta Samuel):** O último juiz de Israel e transição para o período monárquico.
-- **Shaul HaMelech (Rei Saul), David HaMelech (Rei Davi), Shlomo HaMelech (Rei Salomão):** Monarcas do reino unificado, cada um reinando por 40 anos.
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
+- **[[Yeshua|Yeshua HaMashiach]] (Jesus o Messias):** Apresentado como o Rabino de Nazaré, judeu observante da Torá, que não veio ab-rogar a lei, mas cumpri-la e ensiná-la em plenitude, enviado primordialmente para resgatar as ovelhas perdidas de Israel.
+- **[[Moshe Rabenu]] (Moisés nosso Mestre):** O libertador do Êxodo e mediador inicial da Torá no Sinai.
+- **[[Yehoshua bin Nun|Yehoshua Bin-Nun]] (Josué):** Sucessor de Moisés que conduziu a partilha da Terra Prometida entre as 12 tribos.
+- **Shmuel HaNavi ([[Profeta Samuel]]):** O último juiz de Israel e transição para o período monárquico.
+- **Shaul HaMelech ([[Rei Saul]]), [[David HaMelech]] (Rei Davi), [[Shlomo HaMelech]] (Rei Salomão):** Monarcas do reino unificado, cada um reinando por 40 anos.
 - **Rehav’am (Roboão) e Yarov’am (Jeroboão):** Protagonistas da cisão monárquica de Israel em Reino do Sul (Judá) e Reino do Norte (Israel/Efraim).
-- **Yossef HaTzaddik (José o Justo):** Seus sonhos proféticos (Sol, Lua e 12 estrelas) servem de chave hermenêutica para decodificar Apocalipse 12.
-- **Profetas Clássicos:** *Yirmeyahu* (Jeremias), *Yechezkel* (Ezequiel), *Yeshayahu* (Isaías), *Zecharyahu* (Zacarias), *Daniel*.
-- **Emissários/Apóstolos (*Shelichim*):** *Shaul* (Paulo), *Ya'akov* (Tiago, líder de Jerusalém), *Yochanan* (João, autor do Quarto Evangelho e Apocalipse), *Matityahu* (Mateus), *Lucas*.
+- **Yossef HaTzaddik ([[Yosef HaTzaddik|José o Justo]]):** Seus sonhos proféticos (Sol, Lua e 12 estrelas) servem de chave hermenêutica para decodificar Apocalipse 12.
+- **Profetas Clássicos:** *Yirmeyahu* ([[Profeta Jeremias|Jeremias]]), *Yechezkel* ([[Profeta Ezequiel|Ezequiel]]), *Yeshayahu* ([[Profeta Isaías|Isaías]]), *Zecharyahu* ([[Profeta Zacarias|Zacarias]]), *[[Profeta Daniel|Daniel]]*.
+- **Emissários/Apóstolos (*Shelichim*):** *Shaul* ([[Sha'ul HaShaliach|Paulo]]), *Ya'akov* ([[Ya'akov HaTzaddik|Tiago]], líder de Jerusalém), *Yochanan* ([[Yochanan HaShaliach|João]], autor do Quarto Evangelho e Apocalipse), *Matityahu* (Mateus), *Lucas*.
+- **Concílios pós-apostólicos (Nicéia e Laodiceia):** Citados como o ambiente em que as ordenanças da Torá foram substituídas por dogmas institucionalizados, com os judeus deliberadamente excluídos.
 
-### Estudos, Textos e Escrituras Referenciadas
-1. **Mateus 15:24 & Mateus 10:6:** *“Não fui enviado senão às ovelhas perdidas da Casa de Israel.”*
-2. **Jeremias 31:31-34:** A promessa da *Berit Hadashah* (Nova Aliança) feita explicitamente com a **Casa de Israel** e com a **Casa de Judá**, consistindo em colocar a Torá no interior/coração.
-3. **Ezequiel 36:26-27 & Ezequiel 44:** O coração de carne e o dom do *Ruach* para capacitar a obediência aos estatutos e juízos divinos.
-4. **Mateus 5:17-20:** Advertência enfática de que nenhum *yud* ou traço da Torá passará até que o céu e a terra passem, e a exigência de uma justiça superior à dos escribas e fariseus.
-5. **João 14:15, 21 & João 15:10:** A prova do amor a Yeshua expressa na guarda ativa dos seus mandamentos, a exemplo de como ele guardou os mandamentos do Pai.
-6. **João 10:14-16:** O Bom Pastor e a promessa de congregar as "outras ovelhas que não são deste aprisco" para formar um só rebanho.
-7. **Tiago (Ya'akov) 1:1:** Endereçamento apostólico direto *“às doze tribos que andam dispersas”*.
-8. **Apocalipse 12:1-17:** A mulher vestida de sol (Israel), a perseguição do dragão vermelho (Império Romano) e a guerra contra o remanescente que *“guarda os mandamentos de Deus e tem o testemunho de Yeshua”*.
-9. **Apocalipse 14:12:** Definição canônica dos santos no tempo do fim: perseverança, guarda dos mandamentos e *Emuná* em Yeshua.
-10. **Apocalipse 22:14:** Bem-aventurança e direito à Árvore da Vida aos que guardam os mandamentos.
-11. **Lucas 4:16:** O costume regular de Yeshua de frequentar a sinagoga no dia de *Shabat* e fazer a leitura dos Profetas.
-12. **Isaías 66:22-23:** Na Nova Terra e Novos Céus, *“desde uma lua nova até a outra e de um Shabat até o outro virá toda a carne a adorar perante mim”*.
-13. **Zacarias 14:16-19:** A obrigatoriedade universal de todas as nações gentílicas subirem a Jerusalém no Reino Messiânico para celebrar a Festa de *Sucot* (Tabernáculos).
-14. **Romanos 2:13, 26-29 & Romanos 3:1-2:** Os praticantes da lei serão justificados; circuncisão interior do coração; a grande vantagem do judeu como guardião dos oráculos sagrados.
-15. **Deuteronômio 10:16 & 30:6:** O mandamento primário de circuncidar o prepúcio do coração.
-16. **Daniel 7:24-25:** A profecia do poder imperial/religioso que proferiria palavras contra o Altíssimo e cuidaria em *“mudar os tempos e a lei”*.
-17. **1 João 3:4:** Definição bíblica de pecado como *“a transgressão da lei”* (*Anomia*).
+**Escrituras**
+- *Torá:*
+  - **Deuteronômio 10:16 & 30:6:** O mandamento primário de circuncidar o prepúcio do coração.
+  - **Levítico 11 e Deuteronômio 14:** As distinções alimentares e os critérios bíblicos de pureza (*Kashrut*).
+- *Nevi'im:*
+  - **Jeremias 31:31-34:** A promessa da *Berit Hadashah* (Nova Aliança) feita explicitamente com a **Casa de Israel** e com a **Casa de Judá**, consistindo em colocar a Torá no interior/coração.
+  - **Ezequiel 36:26-27 & Ezequiel 44:** O coração de carne e o dom do *Ruach* para capacitar a obediência aos estatutos e juízos divinos.
+  - **Isaías 66:22-23:** Na Nova Terra e Novos Céus, *“desde uma lua nova até a outra e de um Shabat até o outro virá toda a carne a adorar perante mim”*.
+  - **Zacarias 14:16-19:** A obrigatoriedade universal de todas as nações gentílicas subirem a Jerusalém no Reino Messiânico para celebrar a Festa de *Sucot* (Tabernáculos).
+- *Ketuvim:*
+  - **Daniel 7:24-25:** A profecia do poder imperial/religioso que proferiria palavras contra o Altíssimo e cuidaria em *“mudar os tempos e a lei”*.
+- *Berit Hadashah:*
+  - **Mateus 15:24 & Mateus 10:6:** *“Não fui enviado senão às ovelhas perdidas da Casa de Israel.”*
+  - **Mateus 5:17-20:** Advertência enfática de que nenhum *yud* ou traço da Torá passará até que o céu e a terra passem, e a exigência de uma justiça superior à dos escribas e fariseus.
+  - **João 14:15, 21 & João 15:10:** A prova do amor a Yeshua expressa na guarda ativa dos seus mandamentos, a exemplo de como ele guardou os mandamentos do Pai.
+  - **João 10:14-16:** O Bom Pastor e a promessa de congregar as "outras ovelhas que não são deste aprisco" para formar um só rebanho.
+  - **Lucas 4:16:** O costume regular de Yeshua de frequentar a sinagoga no dia de *Shabat* e fazer a leitura dos Profetas.
+  - **Romanos 2:13, 26-29 & Romanos 3:1-2:** Os praticantes da lei serão justificados; circuncisão interior do coração; a grande vantagem do judeu como guardião dos oráculos sagrados.
+  - **Tiago (Ya'akov) 1:1:** Endereçamento apostólico direto *“às doze tribos que andam dispersas”*.
+  - **1 João 3:4:** Definição bíblica de pecado como *“a transgressão da lei”* (*Anomia*).
+  - **Apocalipse 12:1-17:** A mulher vestida de sol (Israel), a perseguição do dragão vermelho (Império Romano) e a guerra contra o remanescente que *“guarda os mandamentos de Deus e tem o testemunho de Yeshua”*.
+  - **Apocalipse 14:12:** Definição canônica dos santos no tempo do fim: perseverança, guarda dos mandamentos e *Emuná* em Yeshua.
+  - **Apocalipse 22:14:** Bem-aventurança e direito à Árvore da Vida aos que guardam os mandamentos.
 
-### Frameworks e Modelos Conceituais
+**Literatura rabínica e judaica**
+Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Metáfora Hermenêutica dos Animais *Kasher* (Sod / Nível Profundo):** Para ser puro (*Kasher*), um animal quadrúpede precisa ter o **casco fendido** e ser **ruminante**. Da mesma forma, o remanescente santo do fim dos tempos precisa exibir as duas marcas essenciais simultaneamente:
-  1. *Casco fendido* $
-ightarrow$ A prática dos mandamentos da Torá.
-  2. *Ruminação* $
-ightarrow$ A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
+  1. *Casco fendido* → A prática dos mandamentos da Torá.
+  2. *Ruminação* → A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
   *(A falta de qualquer um dos dois elementos desqualifica a pureza integral do modelo espiritual).*
 - **A Hermenêutica das Duas Casas:** Distinção exegética e histórica entre a *Casa de Judá* (Reino do Sul: Judá e Benjamim, que mantiveram a identidade e os oráculos) e a *Casa de Israel / Efraim* (Reino do Norte: 10 tribos dispersas e assimiladas entre os gentios, agora convocadas à reconciliação).
 - **Restauração Cósmica (*Tikkun Olam*):** O estabelecimento do milênio messiânico como um Grande Shabat governado pela Torá em Jerusalém.
+- **Identidade binária do remanescente:** A leitura de Apocalipse 12 a partir dos sonhos de José (Sol, Lua e 12 estrelas), que define os santos por duas marcas: guardam os mandamentos de Deus e têm o testemunho de Yeshua.
 
 ---
 
@@ -138,6 +154,23 @@ ightarrow$ A fé viva (*Emuná*) e testemunho em Yeshua HaMashiach.
 - [[Olam Haba]]
 - [[Halachá]]
 - [[Circuncisão do Coração]]
+
+**Notas relacionadas na base:**
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — parte do mesmo Apocalipse 14.12 e mostra o outro lado: o engano que recai sobre quem rejeita a Torá como verdade.
+- [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — desenvolve a hermenêutica das duas casas e o despertar das ovelhas perdidas de Efraim entre as nações.
+- [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] — aprofunda Jeremias 31: a Nova Aliança muda o suporte da Torá, da pedra para o coração, sem revogá-la.
+- [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — trata das leis de Levítico 11 que este estudo usa como metáfora do povo *kasher* (casco fendido e ruminação).
+- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — mostra um caso concreto de descendentes de Israel dispersos e assimilados que agora voltam às raízes.
+- [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — sustenta a perpetuidade da Torá e a graça que capacita a obedecer, contra o antinomismo que este estudo combate.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — explica Daniel 7.25 e o poder que tentou mudar os tempos e a Lei, citado aqui contra Niceia e Laodiceia.
+- [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]] — mostra a marca como adulteração da imagem divina, contra a qual a guarda dos mandamentos e o testemunho de Yeshua servem de selo.
+- [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] — descreve o sistema da imagem da besta, diante do qual a guarda dos mandamentos e a *Emuná* em Yeshua (Apocalipse 12:17; 14:12) são a blindagem.
+- [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] — põe a ressurreição depois da tribulação e define o remanescente pelas mesmas duas marcas lidas aqui: guarda da Torá e testemunho de Yeshua.
+- [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — desfaz a falsa oposição entre Lei e Graça e une guarda dos mandamentos e fé em Yeshua, as duas marcas do remanescente descritas aqui.
+- [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — trata da luz oculta que se abre aos remanescentes no fim, pela mesma *Teshuvá* que esta nota prega.
+- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — lê a imersão de Yeshua sobre o memorial das 12 tribos como sinal da restauração da casa de Israel, as ovelhas perdidas desta nota.
+- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — liga o Sinai ao derramar do Ruach, o avivamento que une Torá e testemunho de Yeshua no fim dos tempos.
+- [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra os primeiros messiânicos, Nazarenos e Ebionitas, que já viviam a união entre fé em Yeshua e guarda da Torá defendida aqui.
 
 ### Mini-Glossário de Termos Especializados
 

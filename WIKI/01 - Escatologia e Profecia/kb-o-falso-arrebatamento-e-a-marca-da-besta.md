@@ -19,7 +19,7 @@ knowledge_depth: exhaustive-academic
 
 ## Síntese Executiva e Tese Central
 
-- **Tese Central / Premissa Maior:** A doutrina do arrebatamento pré-tribulacional e secreto é uma formulação teológica recente (menos de 200 anos de existência) que desvia a Igreja da preparação necessária para os tempos do fim. O texto bíblico canônico afirma categorized e textualmente que a **Primeira Ressurreição** ([[Apocalipse 20.4|Apocalipse 20.4-5]]) dos crentes martirizados pelo Anticristo ocorre após a Grande Tribulação; portanto, o ajuntamento e a trasladação dos vivos ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]] e [[1 Coríntios 15.51|1 Coríntios 15.51-52]]) só podem ocorrer **após** esse evento escatológico, no retorno público e glorioso de [[Yeshua]] para estabelecer o Reino Messiânico na Terra a partir de Jerusalém.
+- **Tese Central / Premissa Maior:** A doutrina do arrebatamento pré-tribulacional e secreto é uma formulação teológica recente (menos de 200 anos de existência) que desvia a Igreja da preparação necessária para os tempos do fim. O texto bíblico canônico afirma categórica e textualmente que a **Primeira Ressurreição** ([[Apocalipse 20.4|Apocalipse 20.4-5]]) dos crentes martirizados pelo Anticristo ocorre após a Grande Tribulação; portanto, o ajuntamento e a trasladação dos vivos ([[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]] e [[1 Coríntios 15.51|1 Coríntios 15.51-52]]) só podem ocorrer **após** esse evento escatológico, no retorno público e glorioso de [[Yeshua]] para estabelecer o Reino Messiânico na Terra a partir de Jerusalém.
 - **Contexto & Importância:** O erro doutrinário do pré-tribulacionismo induz uma falsa sensação de imunidade e triunfalismo. Se os fiéis acreditam que serão poupados da presença do Anticristo e da imposição da Marca da Besta, correm o risco crítico de serem ludibriados no tempo presente, aceitando enganos sistêmicos por suporem que "a tribulação ainda não começou".
 - **Nível de Complexidade & Pré-requisitos Conceituais:** Intermediário a Avançado. Requer noções de escatologia comparada (Pré-Tribulacionismo vs. Pós-Tribulacionismo), hermenêutica bíblica (literal vs. alegórica), escatologia profética do Discurso do Monte ([[Mateus 24]]), cartas paulinas e literatura apocalíptica joanina.
 
@@ -27,16 +27,21 @@ knowledge_depth: exhaustive-academic
 
 ## Mapeamento de Entidades, Fontes e Referências Citadas
 
-### Autores, Figuras Bíblicas e Pensadores Mencionados
+**Autor do estudo:** Rav Yosef — Congregação Israelita Beit Shalom.
+
+**Figuras bíblicas e históricas**
 - **[[Yeshua|Yeshua de Nazaré]] (Jesus / Yeshua HaMashiach):** O Messias de Israel, cujos ensinos no Sermão Profético do Monte das Oliveiras ([[Mateus 24]]) fixam o ajuntamento dos eleitos "logo após a tribulação daqueles dias".
 - **[[Sha'ul HaShaliach|Paulo de Tarso]] (Sha'ul HaShaliach):** Apóstolo responsável por detalhar a ordem cronológica da ressurreição e do arrebatamento em [[1 Tessalonicenses 4]] e [[1 Coríntios 15]].
 - **[[Yochanan HaShaliach|João, o Teólogo]] (Yochanan):** Autor do Livro do Apocalipse, que registra a visão do Milênio e a identidade dos participantes da "Primeira Ressurreição" ([[Apocalipse 20.4|Apocalipse 20.4-6]]).
 - **[[Profeta Daniel]]:** Profeta do Tanakh citado no Discurso do Monte a respeito da "Abominação da Desolação" assentada no Lugar Santo ([[Daniel 9.27]] / [[Daniel 11.31]] / [[Daniel 12.11]]).
+- **John Nelson Darby e C. I. Scofield:** Nomes ligados ao dispensacionalismo do século XIX, sistema que popularizou o arrebatamento pré-tribulacional secreto que o estudo refuta (ver as Ferramentas abaixo).
 
-### Textos Sagrados e Fontes Documentais Referenciadas
-- **[[Tanakh]] (Escrituras Hebraicas):**
+**Escrituras**
+- *Torá:* Sem referência específica citada.
+- *Nevi'im:* Sem referência específica citada.
+- *Ketuvim* (do [[Tanakh]], as Escrituras Hebraicas):
   - *[[Daniel 9.27]]; [[Daniel 12|Daniel 12.1-11]]:* A abominação desoladora e o tempo de angústia sem precedentes na história.
-- **[[Berit Hadashah]] (Novo Testamento):**
+- *[[Berit Hadashah]] (Novo Testamento):*
   - *[[Apocalipse 20.4|Apocalipse 20.4-6]]:* A Primeira Ressurreição — os decapitados por não adorarem a Besta, sua imagem ou receberem sua marca, que revivem para reinar por 1.000 anos.
   - *[[1 Tessalonicenses 4.15|1 Tessalonicenses 4.15-17]]:* A ordem cronológica: a descida do Messias com alarido, voz de arcanjo e trombeta de Deus; a ressurreição prioritária dos mortos no Messias; o arrebatamento conjunto dos vivos nas nuvens.
   - *[[1 Coríntios 15.51|1 Coríntios 15.51-52]]:* O mistério da transformação dos vivos "ao soar da última trombeta".
@@ -44,12 +49,21 @@ knowledge_depth: exhaustive-academic
   - *[[Mateus 24.15|Mateus 24.15-22]]:* A grande aflição, a abominação desoladora e a abreviação dos dias por amor dos eleitos.
   - *[[Mateus 24.29|Mateus 24.29-31]]:* O retorno cósmico visível do Filho do Homem e o envio dos anjos com som de shofar para reunir os escolhidos dos quatro ventos *logo após a tribulação*.
 
-### Ferramentas, Modelos Conceituais e Chaves Hermenêuticas
+**Literatura rabínica e judaica**
+- Sem referência específica citada.
+
+**Literatura do Segundo Templo e historiadores**
+- Sem referência específica citada.
+
+**Estudos acadêmicos e científicos**
+- Sem referência específica citada.
+
+**Ferramentas e modelos conceituais**
 - **Hermenêutica Literal-Gramatical vs. Dogmatismo Dispensacionalista:** Princípio de que o sentido direto e cronológico do texto bíblico não pode ser anulado por teorias teológicas posteriores desenvolvidas nos últimos 200 anos (como o dispensacionalismo de John Nelson Darby / Scofield).
 - **A Relação Lógica de Causa e Precedência (Modus Ponens Escatológico):**
-  $$	ext{Premissa 1: Não há arrebatamento antes da ressurreição dos mortos (1 Ts 4:15-16).}$$
-  $$	ext{Premissa 2: A 'Primeira Ressurreição' inclui os santos martirizados pelo Anticristo na Tribulação (Ap 20:4-5).}$$
-  $$	ext{Conclusão: O arrebatamento é estritamente pós-tribulacional.}$$
+  $$\text{Premissa 1: Não há arrebatamento antes da ressurreição dos mortos (1 Ts 4:15-16).}$$
+  $$\text{Premissa 2: A 'Primeira Ressurreição' inclui os santos martirizados pelo Anticristo na Tribulação (Ap 20:4-5).}$$
+  $$\text{Conclusão: O arrebatamento é estritamente pós-tribulacional.}$$
 - **Geopolítica Escatológica e Sinais Contemporâneos:** O cruzamento das profecias bíblicas de Mateus 24 com eventos do cenário global recente (escalada bélica pós-2023 no Oriente Médio, instabilidades financeiras, vulnerabilidades climáticas e armamentistas).
 
 ---
@@ -132,6 +146,15 @@ As próprias palavras de Yeshua no Monte das Oliveiras consolidam essa cronologi
 - [[Reino Messiânico]]: O reinado teocrático de 1.000 anos de Yeshua estabelecido fisicamente sobre a Terra a partir de Jerusalém.
 - [[Shofar]]: Trombeta sagrada hebraica, cujo toque solene convoca a reunião escatológica dos escolhidos.
 - [[Torá]]: A instrução e os mandamentos divinos cuja perseverança define a identidade dos remanescentes fiéis nos tempos do fim.
+
+**Notas relacionadas na base:**
+- [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]] — explica o que é a marca que os mártires da Primeira Ressurreição recusaram, lida como hibridização genética e espiritual.
+- [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] — trata da imagem da besta que recebe espírito, o sistema que esta nota diz que os fiéis vão enfrentar na terra.
+- [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — desenvolve a semana de Daniel e a abominação desoladora que marcam a Grande Tribulação antes do arrebatamento.
+- [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — descreve o engano do fim dos tempos ao qual fica exposto quem espera escapar antes da tribulação.
+- [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — define o remanescente pela guarda da Torá e pelo testemunho de Yeshua, o mesmo critério do Princípio da Perseverança desta nota.
+- [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — liga a Última Trombeta de 1 Coríntios 15 às festas de outono e ao retorno público de Yeshua.
+- [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — aprofunda a escalada bélica pós-2023 que esta nota lê como princípio das dores.
 
 ### Mini-Glossário Técnico-Teológico
 1. **[[Pós-Tribulacionismo]]:** Posição escatológica clássica que sustenta que a Igreja/povo eleito passará por todo o período da Tribulação, sendo arrebatada e unida a Yeshua no momento de Sua manifestação visível final.
