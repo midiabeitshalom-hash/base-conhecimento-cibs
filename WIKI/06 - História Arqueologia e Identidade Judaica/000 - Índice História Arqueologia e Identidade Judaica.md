@@ -1,21 +1,20 @@
 ---
-title: "Índice — História, Arqueologia e Identidade Judaica"
+title: "Índice História Arqueologia e Identidade Judaica"
 type: index-node
-topic_category: "História Bíblica, Arqueologia Judaica & Genética Populacional"
-tags: [indice, historia-do-judaismo, arqueologia, genetica-populacional, moc]
-date_captured: 2026-08-17
+topic_category: "História Arqueologia e Identidade Judaica"
+tags: [indice, moc, historia-judaica]
+date_captured: 2026-10-05
 ---
 
-# 06 — História, Arqueologia e Identidade Judaica
+# 06 — História Arqueologia e Identidade Judaica
 
-Notas sobre o contexto histórico e arqueológico do Judaísmo no tempo de Yeshua, e sobre identidade e ascendência judaica (Bnei Anussim, DNA abraâmico).
+O Segundo Templo, os grupos judaicos do 1º século, os Bnei Anussim, o DNA abraâmico e a identidade judaica.
 
 ## Notas desta categoria
 
-- [[kb-Denominacoes-judaicas-no-tempo-de-Yeshua|TUDO QUE PRECISA SABER SOBRE O TEMPLO!]]
-- [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A Ciência confirma: 40 milhões de brasileiros têm o DNA de Abraão e não sabem]]
+## Conceitos desta categoria
 
 ## Ver também
-
-- [[000 - Índice Central CIBS]]
-- [[000 - Índice Escatologia e Profecia]]
+- [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]
+- [[000 - Índice Torá Lei e Aliança|Torá Lei e Aliança]]
+- [[000 - Índice Central CIBS|Índice Central]]

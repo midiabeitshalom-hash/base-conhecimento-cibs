@@ -6,7 +6,71 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"WIKI/00 - Fundamentos da Beit Shalom\"",
+      "color": {
+        "a": 1,
+        "rgb": 12092939
+      }
+    },
+    {
+      "query": "path:\"WIKI/01 - Escatologia e Profecia\"",
+      "color": {
+        "a": 1,
+        "rgb": 12597547
+      }
+    },
+    {
+      "query": "path:\"WIKI/02 - Mesianologia e Natureza do Messias\"",
+      "color": {
+        "a": 1,
+        "rgb": 9323693
+      }
+    },
+    {
+      "query": "path:\"WIKI/03 - Torá Lei e Aliança\"",
+      "color": {
+        "a": 1,
+        "rgb": 2388387
+      }
+    },
+    {
+      "query": "path:\"WIKI/04 - Mística e Cosmogonia Judaica\"",
+      "color": {
+        "a": 1,
+        "rgb": 1549705
+      }
+    },
+    {
+      "query": "path:\"WIKI/05 - Festas e Ritos Bíblicos\"",
+      "color": {
+        "a": 1,
+        "rgb": 14059792
+      }
+    },
+    {
+      "query": "path:\"WIKI/06 - História Arqueologia e Identidade Judaica\"",
+      "color": {
+        "a": 1,
+        "rgb": 8218120
+      }
+    },
+    {
+      "query": "path:\"WIKI/Escrituras\"",
+      "color": {
+        "a": 1,
+        "rgb": 6122878
+      }
+    },
+    {
+      "query": "path:\"WIKI/Fontes\"",
+      "color": {
+        "a": 1,
+        "rgb": 9654550
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,

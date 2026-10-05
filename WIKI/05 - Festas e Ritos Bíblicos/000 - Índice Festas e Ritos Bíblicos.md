@@ -1,23 +1,20 @@
 ---
-title: "Índice — Festas e Ritos Bíblicos"
+title: "Índice Festas e Ritos Bíblicos"
 type: index-node
-topic_category: "Festas Bíblicas & Mística Hebraica"
-tags: [indice, shavuot, tevila, festas-biblicas, moc]
-date_captured: 2026-08-17
+topic_category: "Festas e Ritos Bíblicos"
+tags: [indice, moc, festas-biblicas]
+date_captured: 2026-10-05
 ---
 
 # 05 — Festas e Ritos Bíblicos
 
-Notas sobre as festas e ritos bíblicos — Shavuot/Pentecostes, imersão (tevila) — e seu significado profético e místico.
+Os moedim (Pessach, Shavuot, Sucot…), a imersão (tevilá), o calendário bíblico e a ressurreição.
 
 ## Notas desta categoria
 
-- [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|ISSO ESTAVA ESCONDIDO NO RIO JORDÃO NA IMERSÃO DO MESSIAS!]]
-- [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O VERDADEIRO DIA DA RESSURREIÇÃO DE YESHUA — HATESHUVA #10]]
-- [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|PENTECOSTES NUNCA FOI O QUE TE ENSINARAM!]]
+## Conceitos desta categoria
 
 ## Ver também
-
-- [[000 - Índice Central CIBS]]
-- [[000 - Índice Torá Lei e Aliança]]
-- [[000 - Índice Mística e Cosmogonia Judaica]]
+- [[000 - Índice Torá Lei e Aliança|Torá Lei e Aliança]]
+- [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]
+- [[000 - Índice Central CIBS|Índice Central]]

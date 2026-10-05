@@ -1,25 +1,21 @@
 ---
-title: "Índice — Mesianologia e Natureza do Messias"
+title: "Índice Mesianologia e Natureza do Messias"
 type: index-node
-topic_category: "Mesianologia Histórica & Monoteísmo Bíblico"
-tags: [indice, mesianologia, monoteismo, natureza-do-messias, moc]
-date_captured: 2026-08-17
+topic_category: "Mesianologia e Natureza do Messias"
+tags: [indice, moc, mesianologia]
+date_captured: 2026-10-05
 ---
 
 # 02 — Mesianologia e Natureza do Messias
 
-Notas sobre a identidade e natureza do Messias, monoteísmo estrito, a formação histórica da doutrina da Trindade e a divindade de Jesus/Yeshua.
+A identidade e a natureza do Messias, Mashiach ben Yosef e ben David, o monoteísmo estrito, a Trindade, Yeshua × o "Jesus" romano, prostração e adoração.
 
 ## Notas desta categoria
 
-- [[kb-a-trindade-e-idolatria|A TRINDADE É IDOLATRIA?]]
-- [[kb-o-messias-e-a-serpente|O MESSIAS E A SERPENTE — POR QUE TE ESCONDERAM ISSO?]]
-- [[kb-o-proprio-jesus-negou-ser-deus|O próprio Jesus negou ser D'us — e ninguém te contou]]
-- [[kb-prostrar-e-adorar|PROSTRAR É ADORAR?]]
-- [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus?]]
+## Conceitos desta categoria
 
 ## Ver também
-
-- [[000 - Índice Central CIBS]]
-- [[000 - Índice Mística e Cosmogonia Judaica]]
-- [[000 - Índice Torá Lei e Aliança]]
+- [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]
+- [[000 - Índice Torá Lei e Aliança|Torá Lei e Aliança]]
+- [[000 - Índice Mística e Cosmogonia Judaica|Mística e Cosmogonia Judaica]]
+- [[000 - Índice Central CIBS|Índice Central]]
