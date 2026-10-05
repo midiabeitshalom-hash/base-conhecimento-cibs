@@ -212,7 +212,8 @@ Uma nota do mesmo tema, mesmo que de outra categoria, sempre entra em "Notas rel
 
 ### Formas canônicas
 
-(complete com as decisões da Fase 2)
+Decididas no inventário de 2026-10-05. Variações vão como texto de exibição e como `aliases` na nota.
+
 - `[[Yeshua]]` (exibição livre: Yeshua HaMashiach, Yeshua de Nazaré)
 - `[[Moshe Rabenu]]` (Moisés) · `[[Avraham Avinu]]` (Abraão) · `[[David HaMelech]]` (Rei Davi, Davi)
 - `[[Yosef HaTzaddik]]` (José do Egito) · `[[Sha'ul HaShaliach]]` (Paulo de Tarso)
@@ -223,6 +224,27 @@ Uma nota do mesmo tema, mesmo que de outra categoria, sempre entra em "Notas rel
 - `[[Torá]]` · `[[Tanakh]]` · `[[Berit Hadashah]]` · `[[Ruach HaKodesh]]` · `[[Teshuvá]]` · `[[PaRDeS]]`
 - `[[Mashiach]]` · `[[Mashiach ben Yosef]]` · `[[Mashiach ben David]]`
 - `[[Clínica…]]` não existe aqui: o nome da instituição é `[[Congregação Israelita Beit Shalom]]`
+- Pessoas: `[[Shimon Kefa]]` (Pedro, Kefa) · `[[Yochanan HaShaliach]]` (o apóstolo João) ·
+  `[[João, o Imersor]]` (Yochanan HaMatbil, João Batista) · `[[Ya'akov Avinu]]` (Jacó) ·
+  `[[Yitzchak Avinu]]` (Isaque) · `[[Noach]]` (Noé) · `[[Shlomo HaMelech]]` (Salomão) ·
+  `[[Aharon HaKohen]]` (Arão) · `[[Yehoshua bin Nun]]` (Josué) · `[[Malki-Tzedek]]` (Melquisedeque) ·
+  `[[Chanoch]]` (Enoque, o patriarca; o livro é `[[1 Enoque]]`) · `[[Kayin]]` e `[[Hevel]]` (Caim e Abel) ·
+  `[[Ya'akov HaTzaddik]]` (Tiago) · `[[Yehudah, irmão de Yeshua]]` (Judas, autor da epístola) ·
+  `[[Rei Saul]]` · `[[Chizkiyahu HaMelech]]` (Ezequias) · `[[Bil'am]]` (Balaão) · `[[Binyamin]]` ·
+  `[[Menashe]]` (Manassés) · `[[Pinchas]]` (Fineias) · `[[Tzadok]]` (Tsadoque) · `[[Shem]]` (Sem)
+- Profetas: `[[Profeta Isaías]]` (Yeshayahu) · `[[Profeta Elias]]` (Eliyahu) · `[[Profeta Eliseu]]` (Elisha) ·
+  `[[Profeta Oseias]]`
+- Conceitos: `[[Mitat Tzaddikim Mechaperet]]` (morte do justo que expia; *Moed Katan 28a*) · `[[Halachá]]` ·
+  `[[Yom Kippur]]` (Yom HaKipurim) · `[[Sucot]]` · `[[Chag HaMatzot]]` (Matzot) · `[[Moedim]]` ·
+  `[[Arba'ah Olamot]]` (os 4 mundos) · `[[Sulam Ya'akov]]` · `[[Har Sinai]]` (Monte Sinai) ·
+  `[[Shabbaton]]` (Shabat anual) · `[[Zachor e Shamor]]` · `[[Yovel]]` (jubileu) ·
+  `[[Reino Messiânico]]` (Reino Milenar) · `[[Et Tzarah l'Yaakov]]` (Angústia de Jacó) ·
+  `[[Operação do Erro]]` (*energeian planes*) · `[[Criptojudaísmo]]` (marranismo) ·
+  `[[Monoteísmo Estrito]]` · `[[Trindade]]` · `[[Proskynesis]]` · `[[Tetragrama]]` ·
+  `[[Nevi'im]]` (Profetas) · `[[Casa de Judá]]` · `[[Berit Hadashah]]` também para "Nova Aliança"
+- Fontes: `[[Bereshit Rabá]]` · `[[Septuaginta]]` · `[[Adams et al. 2008]]` (o estudo genético) ·
+  `[[Tratado Avodah Zarah]]` (o tratado; `[[Avodah Zarah]]` é o conceito de idolatria)
+- Livros: `Salmo` (não `Salmos`), `Oseias` (não `Oséias`)
 - Tags: `tora` (não `torah`), `yeshua`, `berit-hadashah`
 
 ## Notas de conceito (`WIKI/NN - Categoria/Conceitos/<Nome exato do link>.md`)
