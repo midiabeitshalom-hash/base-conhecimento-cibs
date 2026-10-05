@@ -12,6 +12,8 @@ Uma nota por passagem bíblica citada na base, na ordem do cânon: Torá, Nevi'i
 
 ## Passagens
 
+_Nenhuma passagem ainda._
+
 ## Ver também
 - [[000 - Índice Fontes|Fontes]]
 - [[000 - Índice Central CIBS|Índice Central]]

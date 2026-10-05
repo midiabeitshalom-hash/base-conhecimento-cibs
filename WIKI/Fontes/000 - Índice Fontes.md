@@ -12,6 +12,8 @@ As obras e referências que a base cita: Targum, Mishná e Talmud, Midrash, mís
 
 ## Obras e referências
 
+_Nenhuma fonte ainda._
+
 ## Ver também
 - [[000 - Índice Escrituras|Escrituras]]
 - [[000 - Índice Central CIBS|Índice Central]]
