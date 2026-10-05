@@ -48,9 +48,9 @@ knowledge_depth: exhaustive-academic
 
 O texto registra o conhecimento de forma direta: "A Torá precede o Sinai". Quando a frase marca uma posição ou um argumento do Rav Yosef, ela leva o nome dele: "Rav Yosef ensina que…", "Rav Yosef mostra pelo hebraico que…". Os próprios estudos fazem assim: "Rav Yosef estabelece a preexistência cósmica da lei moral" ([[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]); "Rav Yosef demonstra que o Tanakh constrói progressivamente a identidade messiânica" ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]).
 
-Nunca se escreve "o palestrante", "o pregador", "o vídeo", "a live" ou "o autor". O estudo é do Rav Yosef, e a congregação é a [[Congregação Israelita Beit Shalom]].
+Nunca se trata o Rav Yosef como alguém genérico que fala num vídeo ou numa transmissão ao vivo: nada de chamá-lo de expositor anônimo, de pregador ou de "autor". O estudo é do Rav Yosef, e a congregação é a [[Congregação Israelita Beit Shalom]].
 
-As críticas que o estudo faz a outras doutrinas são conteúdo da Beit Shalom e ficam, na voz dela: "o dogma trinitário importou o arcabouço neoplatônico do *Logos*" ([[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]); "a doutrina do arrebatamento pré-tribulacional é uma formulação recente" ([[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]). O que não entra é auditoria das fontes da própria base. Nada de seções do tipo "Nuances, riscos e o que a fonte não diz", nem rótulos como "fonte duvidosa", "não verificado", "carece de fonte", "especulativo" ou "apócrifo" para desqualificar. Para os livros de fora do cânon, a expressão é "literatura do Segundo Templo" ([[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]]). Também não entram conselhos como "verifique a fonte primária" ou "consulte seu líder". Quando não houver referência, escreve-se apenas: `Sem referência específica citada.`
+As críticas que o estudo faz a outras doutrinas são conteúdo da Beit Shalom e ficam, na voz dela: "o dogma trinitário importou o arcabouço neoplatônico do *Logos*" ([[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]); "a doutrina do arrebatamento pré-tribulacional é uma formulação recente" ([[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]). O que não entra é auditoria das fontes da própria base. Nada de seções do tipo "Nuances, riscos e o que a fonte não diz", nem rótulos que coloquem a fonte sob suspeita (dizer que ela é duvidosa, que não foi conferida, que falta fonte, que é especulativa ou chamá-la de apócrifa para desqualificar). Para os livros de fora do cânon, a expressão é "literatura do Segundo Templo" ([[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]]). Também não entram conselhos para o leitor ir conferir a fonte primária ou consultar o seu líder. Quando não houver referência, escreve-se apenas: `Sem referência específica citada.`
 
 ### 2. Yeshua e "Jesus"
 
@@ -217,9 +217,9 @@ Cada obra citada tem nota em `WIKI/Fontes/` e é linkada: [[Talmud Bavli]], [[Zo
 ### 9. Expressões que a base evita
 
 Na voz da base:
-- "o palestrante", "o pregador", "o vídeo", "a live", "o autor";
-- "fonte duvidosa", "não verificado", "carece de fonte", "especulativo", "não sabemos a origem", "apócrifo" para desqualificar;
-- "verifique a fonte primária", "consulte seu líder";
+- tratar o Rav Yosef como expositor anônimo (o "pregador", o "autor", quem fala "no vídeo" ou "na live");
+- rótulos de suspeita sobre as fontes (duvidosa, não conferida, sem fonte, especulativa, de origem desconhecida, "apócrifo" para desqualificar);
+- conselhos para o leitor conferir a fonte primária ou consultar o líder;
 - seções de "Nuances, riscos e o que a fonte não diz";
 - "Jesus" como sinônimo neutro de Yeshua;
 - "Deus Filho", "segunda pessoa da Trindade", "terceira pessoa" para o Ruach;
@@ -267,7 +267,7 @@ No estilo:
 5. Firmeza com o erro, mansidão com as pessoas, prática no fim ([[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]).
 
 **Checklist de Aplicação**
-- [ ] Nenhuma ocorrência de "o palestrante", "o vídeo", "a live" ou rótulos de desconfiança.
+- [ ] Nenhuma referência ao Rav Yosef como expositor anônimo e nenhum rótulo de desconfiança sobre fontes.
 - [ ] Yeshua no texto corrido; "Jesus" só entre aspas e com função.
 - [ ] Grafia de D'us respeitando o estudo; citações bíblicas como estão na tradução.
 - [ ] Primeira ocorrência de cada termo hebraico em itálico, com tradução.
