@@ -72,6 +72,11 @@ para a nota nova. Só acrescente, nunca reescreva.
 
 ## Fluxo de ingestão por tipo de entrada
 
+**Para qualquer material novo, use a skill do projeto `integrar-material`** (`.claude/skills/integrar-material/`).
+Ela leva qualquer entrada (link, áudio, transcrição crua, PDF, imagem, texto colado, resumo genérico de
+outra IA) à nota completa, e traz o padrão de profundidade (`padrao-de-profundidade.md`). As skills
+`transcrever-video` e `escrita-natural` também ficam em `.claude/skills/`, dentro do repositório.
+
 1. **Link de vídeo** (YouTube, Instagram…): use a skill `transcrever-video`. A legenda e a descrição do
    post também são fonte. Distinga o que vem da fala, da legenda e do texto na tela quando isso mudar o
    sentido. Se a fala se referir a algo visual (um slide, um gráfico, um texto hebraico na tela), extraia
