@@ -40,3 +40,4 @@ A ideia de que o juízo final avalia apenas a confissão de fé, e de que cada p
 ## Aparece em
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]

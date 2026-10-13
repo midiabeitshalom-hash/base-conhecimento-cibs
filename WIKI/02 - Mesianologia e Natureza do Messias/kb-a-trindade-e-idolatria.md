@@ -203,6 +203,7 @@ A leitura direta dos textos apostólicos desautoriza a divindade composta:
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — mostra pela serpente de bronze, despedaçada por Ezequias, como o instrumento de Deus vira ídolo, paralelo da idolatria trinitária examinada aqui.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — liga a crença trinitária ao "conceito por trás" do Neustã moderno.
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — condena a "família celestial" (Pai, Espírito-mãe e Filho) como a mesma idolatria de dividir D'us.
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — dá uma leitura de João 14.9 que não pede a Trindade.
 
 ### Mini-Glossário Analítico
 1. **[[Adam Kadmon]] (אָדָם קַדְמוֹן):** O "Homem Primordial". A emanação primária e arquétipo espiritual cósmico gerado por Deus antes da formação dos quatro mundos, servindo de molde para toda a criação.

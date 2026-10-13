@@ -159,6 +159,7 @@ A mensagem final: "Cuide dos seus pensamentos, cuide das suas emoções, que nat
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — as duas inclinações e o domínio interior.
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — a Torá como código que restaura a alma.
 - [[Parashá Bereshit]] e [[Parashá Vaetchanan]] — Gênesis 1.26 e o Shemá (Deuteronômio 6.4-9).
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — outro estudo do Mike: as Midot de D'us reveladas no modo de reagir às ofensas.
 
 **Mini-glossário:**
 - *Atzilut* (אֲצִילוּת): emanação; o mundo das ideias e possibilidades.

@@ -40,3 +40,4 @@ Verdade, em hebraico, é uma viga que segura a casa. Mentira é um poste apoiado
 
 ## Aparece em
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]

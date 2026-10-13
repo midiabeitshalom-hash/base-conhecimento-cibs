@@ -151,6 +151,7 @@ As *Kelipot* (Cascas) são barreiras místicas que ocultam a manifestação dire
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — lê os impérios de Daniel como feras, imagem da alma animal (*Nefesh HaBehamit*) descrita aqui.
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — mostra o homem como microcosmo dos quatro mundos e situa ali a mesma guerra contra o *Yetzer HaRá* tratada aqui.
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — liga Yetzirá ao *yetzer* (a mesma raiz) e às duas inclinações.
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — o nissayon diário: reagir na carne ou com as Midot de D'us.
 
 ### Mini-Glossário de Termos Especializados
 

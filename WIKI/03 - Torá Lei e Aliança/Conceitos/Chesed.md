@@ -38,6 +38,9 @@ A teologia que opõe "Antigo Testamento da lei" a "Novo Testamento da graça" es
 
 Um pai que paga a fiança do filho preso faz *chesed*. Mas ele não paga para o filho voltar ao crime: paga para que ele recomece. *Chesed* é o perdão que vem com um caminho.
 
+## Chesed entre as 13 Midot
+No estudo das faces do Eterno, Mike mostra *rav chesed*, "a bondade que transborda além do necessário", e *notzer chesed la'alafim*, "a bondade que acompanha até mil gerações", entre os 13 atributos de Êxodo 34.6-7. Se D'us agisse só com *gevurá*, o rigor, o mundo não subsistiria; são as faces de *chesed* que sustentam todas as camadas da criação, e o discípulo é chamado a transbordar *chesed* mesmo diante de quem lhe faz mal ([[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]).
+
 ## Relacionados
 
 [[Graça]] · [[Emet]] · [[Torá]] · [[Mitzvot]] · [[Teshuvá]] · [[Kapará]] · [[Gênesis 3.21]] · [[Êxodo 20]] · Romanos 6 · Hebreus 10.26 · [[Sefirot]] · [[Avraham Avinu]] · [[Tzedaká]]
@@ -45,3 +48,4 @@ Um pai que paga a fiança do filho preso faz *chesed*. Mas ele não paga para o 
 ## Aparece em
 
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]

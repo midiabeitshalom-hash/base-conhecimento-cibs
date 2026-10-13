@@ -39,6 +39,7 @@ date_captured: 2026-10-05
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — Torá: Êxodo 34.29
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — Torá: Êxodo 32.28; Berit Hadashah: Lucas 11.20
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — Torá: Êxodo 32.10 (o teste de Moisés) e Êxodo 34.6-7 (as 13 Midot)
 
 ## Sequência do ciclo
 

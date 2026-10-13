@@ -179,6 +179,7 @@ O estudo elucida as falhas das formulações conciliares posteriores:
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — aplica João 17.3 e 1 Timóteo 2.5 contra o Neustã moderno: o Messias é mediador, não objeto de culto.
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — El Guibor como o poder de D'us no Messias e Filipenses 2 como o oposto da usurpação de Rassatã.
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — Yeshua tem a autoridade que D'us lhe deu; "Pai da Eternidade" lido pelo trono, e não pela origem.
+- [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — lê João 14.9 pelas Midot: ver o Pai em Yeshua é ver nele o caráter do Pai, e não a essência de D'us.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Adonai Echad]] (Deus é Um):** Expressão em *Deuteronômio 6:4* que atesta a unicidade cardinal, indivisibilidade e soberania exclusiva do Criador.
