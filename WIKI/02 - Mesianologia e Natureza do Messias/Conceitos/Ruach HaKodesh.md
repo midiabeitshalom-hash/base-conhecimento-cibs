@@ -51,6 +51,9 @@ Para os sábios, *Ruach HaKodesh* é antes de tudo o espírito de profecia, o n�
 
 O seu hálito sai de você, carrega o seu calor e a sua voz, chega aonde você não está, mas não é outra pessoa ao seu lado. Assim é o Ruach: D'us mesmo, presente e agindo. E o vento não se vê; vê-se o que ele move. O Espírito se reconhece pelos frutos que produz na vida de quem o recebe.
 
+## Ruach é feminino? A "família celestial"
+Rav Yosef refuta a doutrina que faz do Espírito Santo uma "mãe celestial" ao lado do Pai e do Filho. *Ruach* (sopro, hálito, vento) tem gênero gramatical feminino, como em português "vento" é masculino, e isso não faz do Espírito uma pessoa feminina. "O Espírito de D'us é o próprio D'us Criador, não algo à parte de D'us como se fosse a essência feminina de D'us." Dar uma consorte a D'us é a idolatria de Baal e Asherá; D'us não tem parceiro e não se divide: *Adonai Echad* ([[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]).
+
 ## Relacionados
 
 [[Dedo de Deus]] · [[Shavuot]] · [[Atos 2]] · Joel 2.28 · [[Ezequiel 36.26]] · Números 11.17 · [[70 Anciãos]] · Isaías 11.1 · [[Novo Nascimento]] · [[Tevilá]] · [[Xenoglossia]] · [[Glossolalia]] · [[Shechinah]] · [[Ruach Mechayeh]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Berit Hadashah]]
@@ -70,3 +73,4 @@ O seu hálito sai de você, carrega o seu calor e a sua voz, chega aonde você n
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]

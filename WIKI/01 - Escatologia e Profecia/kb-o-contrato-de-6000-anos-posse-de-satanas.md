@@ -223,6 +223,7 @@ A história da salvação desdobra-se em 3 eras fundamentais de 40 Jubileus ($40
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — trata do retorno dos dispersos que o Grande Shofar de Isaías 27:13 convoca no fim do 120º Jubileu.
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — desenvolve as festas de outono como calendário da 2ª vinda, que aqui marcam a data legal da Última Trombeta.
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — aprofunda as duas manifestações do Messias que esta nota liga ao pagamento do resgate e ao despejo final.
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — mostra de onde vem o adversário: o keruv que cobiçou o trono vazio do Éden e derrubou o homem que fora criado para ele.
 
 ### Mini-Glossário Analítico
 1. **[[Goel]] (גואל):** Parente consanguíneo legalmente capacitado e obrigado pela Torá a pagar o resgate patrimonial de um familiar empobrecido ou vingar o sangue derramado. Tipologia central de *Yeshua* como resgatador da criação.

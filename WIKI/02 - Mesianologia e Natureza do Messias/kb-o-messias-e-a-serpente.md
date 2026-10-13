@@ -215,6 +215,7 @@ Rav Yosef refuta de forma exaustiva o argumento de polemistas antirreligiosos qu
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — apoia o sacrifício de Yeshua nas fontes rabínicas da morte do justo que expia, reunidas aqui.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — liga a semente que esmaga a serpente de Gênesis 3.15 à expiação pela morte do justo tratada aqui.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — a segunda aula da base sobre a serpente de bronze: acrescenta o *Kal VaChomer*, o *chok*, as cinco classes de homens, Shabat 33b, Vayikra Rabá 20:12, o Zohar e o Neustã moderno.
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — a serpente do Éden como o querubim caído (2 Enoque 31; 2 Coríntios 11.3).
 
 ### Mini-Glossário Analítico
 1. **[[Nachash]] (נָחָשׁ):** Serpente. No Éden, representa o engano primordial e a introdução da autonomia moral pecaminosa. Possui valor guemátrico de **358**.

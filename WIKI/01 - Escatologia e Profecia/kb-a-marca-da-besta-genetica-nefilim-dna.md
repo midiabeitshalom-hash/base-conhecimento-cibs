@@ -209,6 +209,7 @@ A pesquisa biofísica e a tradição mística hebraica convergem na identificaç
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — a Torá como código da criação e a corrupção que entrou no Éden ajudam a entender o DNA como assinatura de D'us que a marca adultera.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — aprofunda Gênesis 1:26, a imagem divina (*Tzelem Elohim*) que a hibridização tenta apagar.
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — descreve os que guardam os mandamentos e o testemunho de Yeshua, o selo que blinda contra a marca.
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — distingue a queda de Rassatã, antes de Adão, da queda dos Sentinelas de Gênesis 6.
 
 ### Mini-Glossário Analítico
 1. **[[Bnei Elohim]] (בְּנֵי הָאֱלֹהִים):** Expressão hebraica para designar os seres angélicos da corte celestial. Em Gênesis 6 e Jó 1:6, denota as potestades espirituais que abandonaram sua ordem funcional original.

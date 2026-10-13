@@ -177,6 +177,7 @@ O estudo culmina na definição rigorosa da natureza do Messias:
 - [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — desfaz outro argumento usado para divinizar Yeshua: a prostração lida como adoração.
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — mostra a imagem decaída de Gênesis 5.3 e a restauração do homem ao molde do Adam Kadmon descrito aqui.
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — lê o homem de Gênesis 1:26-27 como imagem e microcosmo dos quatro mundos.
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — lê o "façamos o homem e domine" como o anúncio que revelou a Rassatã para quem era o trono.
 
 ### Mini-Glossário Técnico-Místico
 1. **[[Tzimtzum]] (Autocontração):** Conceito formulado na mística luriânica que descreve a retração voluntária da Luz Infinita de Deus para gerar um espaço vazio conceitual onde a criação finita e o livre-arbítrio pudessem coexistir.

@@ -35,6 +35,7 @@ As obras e referências que a base cita: Targum, Mishná e Talmud, Midrash, mís
 ### Literatura do Segundo Templo
 
 - [[1 Enoque]]
+- [[2 Enoque]]
 - [[Livro dos Jubileus]]
 - [[Manuscritos do Mar Morto]]
 

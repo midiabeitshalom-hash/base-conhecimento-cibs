@@ -255,6 +255,12 @@ A fé bíblica pede a purificação de tudo o que veio do paganismo: datas, sím
 
 ---
 
+### 30. A queda de Rassatã e o trono do Mashiach
+
+[[HaSatan|Rassatã]] não é um servo obediente de D'us nem quis tomar o lugar do Criador, o que seria inconcebível para uma criatura. Ele era o [[Keruv|keruv]] ungido que guardava o trono vazio do [[Gan Éden]], o trono de regência sobre toda a criação, abaixo de D'us; encheu-se de soberba, quis ser "o Ungido", caiu e perdeu o principado, e derrubou o homem, criado para esse trono, com a mesma tentação ("sereis como D'us"). O trono estava reservado para Yeshua, o Filho do Homem, filho de Davi, que se assentou à direita da Majestade pela humildade e pela obediência (Salmo 110.1; Hebreus 1 e 2; Daniel 7.13-14; Filipenses 2.6-11) e reinará com os que vencerem até entregar o reino ao Pai (1 Coríntios 15.24-28). Houve mais de uma queda angélica: a de Rassatã, antes de Adão, e a dos Sentinelas em Gênesis 6. A terça parte das estrelas de Apocalipse 12 são os anjos dele, e não almas humanas pré-existentes; a "família celestial" (com o Espírito como mãe) e o "sábado lunar" não têm base bíblica.
+
+**Sustentação na base:** [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]; [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]].
+
 ## Glossário e Rede de Conexões
 
 [[Torá]] · [[Berit Hadashah]] · [[Yeshua]] · [[Mashiach]] · [[Monoteísmo Estrito]] · [[Trindade]] · [[Shaliah]] · [[Elohut]] · [[Adam Kadmon]] · [[Mitat Tzaddikim Mechaperet]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Shabat]] · [[Moedim]] · [[Kashrut]] · [[Yovel]] · [[Goel]] · [[Arrebatamento]] · [[Reino Messiânico]] · [[Arba'ah Olamot]] · [[Tikkun Olam]] · [[Efraim]] · [[Bnei Anussim]]

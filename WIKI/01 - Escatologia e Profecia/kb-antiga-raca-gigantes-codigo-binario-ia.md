@@ -165,6 +165,7 @@ Sem referência específica citada.
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — apresenta a Torá como a linguagem de programação da criação, o código verdadeiro que o código binário da besta tenta imitar.
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — desenvolve o critério dos frutos (Mateus 7:16) e o engano que torna as multidões vulneráveis ao sistema.
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — descreve a blindagem pela guarda dos mandamentos e pela *Emuná* em Yeshua (Apocalipse 12:17; 14:12).
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — distingue a queda dos Sentinelas e dos Nefilim da queda anterior de Rassatã.
 
 ### Mini-Glossário Analítico
 1. **[[Bnei Elohim]] (בְּנֵי הָאֱלֹהִים):** Entidades angelicais da corte divina que, segundo a literatura semítica do Segundo Templo, transgrediram sua ordem ontológica ao invadirem a esfera humana.

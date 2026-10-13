@@ -63,6 +63,7 @@ date_captured: 2026-10-05
 - [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — Torá: Gênesis 1.26
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — Berit Hadashah: 2 Pedro 3.10; Torá: Gênesis 6.3
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — Torá: Gênesis 1.26
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — Torá: Gênesis 1.26 e 3, o homem criado para o domínio e a queda pela tentação "sereis como D'us"
 
 ## Sequência do ciclo
 

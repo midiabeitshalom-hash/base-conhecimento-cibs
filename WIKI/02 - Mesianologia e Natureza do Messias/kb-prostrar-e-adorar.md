@@ -142,6 +142,7 @@ Sem referência específica citada.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — trata de outro texto usado para pluralizar Deus, lido aqui sem Trindade.
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — separa pela mística o Mashiach do Criador, base da diferença entre honrar o Messias e adorar o Pai tratada aqui.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — o caso da serpente de bronze: um instrumento ordenado por D'us que virou objeto de incenso.
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — lê Hebreus 1.6 como prostração de submissão dos anjos ao governante que D'us põe no trono.
 
 ### Mini-Glossário de Termos Especializados
 

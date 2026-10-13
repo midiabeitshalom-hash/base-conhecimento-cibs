@@ -43,3 +43,4 @@ A neve do Hermon é como a chuva guardada em reserva no alto. Ela derrete devaga
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]

@@ -50,6 +50,9 @@ Rav Yosef liga o termo à prensa de azeitonas: o azeite puro só sai do fruto es
 
 Um rei ungido não vira o óleo, nem o profeta que derrama o óleo. O azeite vem de D'us, a missão vem de D'us, e o ungido serve a D'us. Quando se diz "Yeshua é o Mashiach", diz-se que D'us o escolheu, o encheu do seu Espírito e o enviou.
 
+## O Ungido e o trono vazio
+Rav Yosef lê Ezequiel 28.14 (*keruv mimshach*, "querubim ungido") ao lado de *Mashiach*: o guardião do trono do Éden era um ungido e quis ser "o Ungido", o Mashiach que se assentaria no trono de regência da criação. Caiu. O trono estava reservado para Yeshua, filho de Davi e Filho do Homem, que se assentou à direita da Majestade (Salmo 110.1; Hebreus 1.13; Daniel 7.13-14) pelo caminho oposto ao da soberba: esvaziou-se e foi obediente até a morte (Filipenses 2.6-11) ([[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]).
+
 ## Relacionados
 
 [[Yeshua]] · [[Mashiach ben Yosef]] · [[Mashiach ben David]] · [[Mashiach Nagid]] · [[Shaliah]] · [[Elohut]] · [[Ontologia vs. Função]] · [[Nachash]] · [[Nechushtan]] · [[Guematria]] · [[Monoteísmo Estrito]] · [[Shechinah]] · [[Kohen Gadol]] · [[Adam Kadmon]] · [[Trindade]]
@@ -66,3 +69,4 @@ Um rei ungido não vira o óleo, nem o profeta que derrama o óleo. O azeite vem
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
+- [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
