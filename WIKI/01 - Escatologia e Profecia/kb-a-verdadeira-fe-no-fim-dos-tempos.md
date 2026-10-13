@@ -171,6 +171,7 @@ Sem referência específica citada.
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — lê a imersão de Yeshua sobre o memorial das 12 tribos como sinal da restauração da casa de Israel, as ovelhas perdidas desta nota.
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — liga o Sinai ao derramar do Ruach, o avivamento que une Torá e testemunho de Yeshua no fim dos tempos.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra os primeiros messiânicos, Nazarenos e Ebionitas, que já viviam a união entre fé em Yeshua e guarda da Torá defendida aqui.
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — desenvolve quem são as ovelhas perdidas da Casa de Israel e por que o retorno passa pela lembrança da Torá (Oseias 4.6).
 
 ### Mini-Glossário de Termos Especializados
 

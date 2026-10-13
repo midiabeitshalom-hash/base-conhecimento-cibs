@@ -10,12 +10,12 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 38 notas · 297 conceitos)
+## Categorias (7 categorias · 39 notas · 299 conceitos)
 
 - [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 8 conceitos
-- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 13 notas · 87 conceitos
+- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 14 notas · 88 conceitos
 - [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 5 notas · 32 conceitos
-- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 50 conceitos
+- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 51 conceitos
 - [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 7 notas · 45 conceitos
 - [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
 - [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 34 conceitos
@@ -34,6 +34,7 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] · _Mesianologia e Natureza do Messias_
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] · _Escatologia e Profecia_
 - [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] · _Escatologia e Profecia_
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] · _Escatologia e Profecia_
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] · _Escatologia e Profecia_
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] · _Mística e Cosmogonia Judaica_
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] · _História Arqueologia e Identidade Judaica_

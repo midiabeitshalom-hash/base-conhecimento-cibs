@@ -34,6 +34,9 @@ Há quem trate a descendência biológica como irrelevante ("o que vale é a Hal
 
 Quando o teste de DNA diz "40% ibérico", ele não diz tudo. Dentro desse número pode estar escondida uma parte hebraica, como a semente que fica anos na terra seca e brota quando chega a chuva.
 
+## A semente pela linha do pai
+Rav Yosef mostra que na Torá a *zera* é atribuída aos patriarcas: a promessa foi feita a Abraão e não a Sara, a Isaque e não a Rebeca, a Jacó e não às quatro matriarcas; o sinal da aliança, a [[Brit Milá]], só pode ser feito no corpo masculino; Efraim e Manassés, filhos de mãe egípcia, herdaram como tribos; e Diná não encabeçou tribo. Daí a crítica da base à regra rabínica da matrilinearidade, que ele considera uma tradição posterior contrária à linha paterna explícita da Torá ([[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]).
+
 ## Relacionados
 
 [[Bnei Anussim]] · [[Cristãos-Novos]] · [[Criptojudaísmo]] · [[Halachá]] · [[Inquisição Ibérica]] · [[Sefarad]] · [[Adams et al. 2008]] · [[Anita Novinsky]] · [[Efraim]] · [[Casa de Israel]] · [[Doze Tribos de Israel]]
@@ -43,3 +46,4 @@ Quando o teste de DNA diz "40% ibérico", ele não diz tudo. Dentro desse númer
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]

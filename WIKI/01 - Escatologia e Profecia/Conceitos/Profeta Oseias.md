@@ -43,3 +43,4 @@ Oseias 4.6 · [[Operação do Erro]] · [[Efraim]] · [[Casa de Israel]] · [[Ca
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]

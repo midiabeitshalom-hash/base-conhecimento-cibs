@@ -156,6 +156,7 @@ knowledge_depth: exhaustive-academic
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — distingue o Yeshua judeu do "Jesus" romano, distinção que a Beit Shalom oferece ao *Anussim* que retorna.
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — explica a roupagem helenística e os concílios romanos de que o Yeshua histórico precisa ser despido.
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aprofunda o *Kashrut*, que os cristãos-novos preservavam em segredo ao recusar porco e sangue.
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — dá o fundamento bíblico do retorno dos dispersos: *melo hagoyim*, a semente de Efraim espalhada entre as nações.
 
 ### Mini-Glossário de Conceitos Técnicos
 1. **[[Criptojudaísmo]] / [[Criptojudaísmo|Marranismo]]:** Manutenção secreta de ritos, crenças e costumes judaicos por indivíduos publicamente professantes do catolicismo para escapar do Tribunal do Santo Ofício.

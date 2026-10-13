@@ -177,6 +177,7 @@ Rav Yosef desafia a leitura tradicional de Romanos, expondo os textos diretos de
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — aprofunda pela mística judaica o conflito entre carne e espírito de Romanos 7 e 8.
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — a *Anomia* de 1 João 3.4 e a rejeição do amor da verdade (a Torá) são o fundo das duas notas.
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — o enxerto na Oliveira e o "todo o Israel será salvo" de Romanos 11 ganham ali o seu desdobramento profético.
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — liga a "plenitude dos gentios" de Romanos 11 ao *melo hagoyim* de Gênesis 48.19.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Telos Nomou]] (Fim / Alvo da Lei):** Expressão grega em Romanos 10:4 que traduz a ideia de consumação, objetivo supremo e propósito final (o Messias como a corporificação viva da Torá), e não extinção jurídica.

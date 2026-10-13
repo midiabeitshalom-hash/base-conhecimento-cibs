@@ -168,6 +168,7 @@ O estudo rebate frontalmente a doutrina de que a graça anula a responsabilidade
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — parte de Jeremias 31 para mostrar a Torá passando da pedra ao coração sem ser revogada, como aqui.
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aplica às leis alimentares a mesma conservação dos mandamentos que esta nota defende na Nova Aliança.
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — mostra Yeshua consagrado Sumo Sacerdote na imersão do Jordão, o mediador da aliança descrita aqui.
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — mostra a circuncisão do coração na prática e as duas casas que a Nova Aliança reúne.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Berit Hadashah]] (Nova Aliança):** Do hebraico *Brit* (aliança/pacto) e *Hadashah* (renovada/nova). Conceito jurídico-espiritual de restauração e elevação do pacto do Sinai.

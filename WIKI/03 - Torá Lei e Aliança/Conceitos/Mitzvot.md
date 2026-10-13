@@ -48,3 +48,4 @@ Cada *mitzvá* é um tijolo. Um tijolo sozinho parece pouca coisa, mas a casa de
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]]
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]

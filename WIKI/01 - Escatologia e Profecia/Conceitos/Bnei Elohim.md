@@ -38,6 +38,9 @@ A "teoria dos filhos de Sete", que faz dos *Bnei Elohim* os descendentes piedoso
 
 D'us pôs cada criatura no seu lugar, como um engenheiro separa os circuitos. Em Gênesis 6, alguém ligou o fio celeste no circuito humano, e o curto queimou a geração inteira. O tempo do fim repete a tentação de misturar o que D'us separou.
 
+## Bnei HaElohim = 153: os filhos de D'us e a pesca de João 21
+Num outro uso da expressão, Rav Yosef liga *bnei haElohim* à pesca depois da ressurreição, em que a rede recolhe 153 grandes peixes (João 21.11). A guematria da forma com artigo, בני האלהים, é 153: בני = 2 + 50 + 10 = 62; האלהים = 5 + 1 + 30 + 5 + 10 + 40 = 91; 62 + 91 = 153 (sem o artigo, בני אלהים soma 148). Aqui os "filhos de D'us" são os dispersos de Israel, chamados *lo-ami* ("não meu povo") e depois *bnei El chai* ("filhos do D'us vivo", Oseias 1.10), que recebem de Yeshua o poder de serem feitos filhos de D'us (João 1.12). A semente de Efraim se multiplicaria como peixes (Gênesis 48.16), e os discípulos são "pescadores de homens" ([[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]).
+
 ## Relacionados
 
 [[Nefilim]] · [[Shedim]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Monte Hermon]] · [[Azazel]] · [[Chanoch]] · [[Noach]] · [[Iyov]] · [[Marca da Besta]] · [[Transumanismo]] · [[Ben Elohim]] · [[Gênesis 6.3]] · Mateus 24
@@ -48,3 +51,4 @@ D'us pôs cada criatura no seu lugar, como um engenheiro separa os circuitos. Em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]]
 - [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]]
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]

@@ -36,6 +36,9 @@ A [[Teologia da Substituição]] lê "Israel" na Nova Aliança como a Igreja gen
 
 Uma família se dividiu numa briga de herança. Um irmão ficou na casa do pai e guardou os costumes; o outro foi embora, mudou de nome e esqueceu a língua. A promessa do pai é pôr os dois de novo à mesma mesa.
 
+## Engolida, não extinta
+O Reino do Norte foi levado pela Assíria em 722 a.C. (2 Reis 17.23) e "tragado" pelas nações (*nivla*, Oseias 8.8). Quando Yeshua diz que foi enviado "às ovelhas perdidas da casa de Israel", as dez tribos estavam havia mais de setecentos anos na diáspora. Rav Yosef tira de Oseias 4.6 a regra do retorno: se Israel foi exilado por esquecer a Torá, só é reintegrado quando se lembra dela. O fim do caminho são as doze portas da [[Nova Jerusalém]], com os nomes das doze tribos ([[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]).
+
 ## Relacionados
 
 [[Casa de Judá]] · [[Efraim]] · [[Doze Tribos de Israel]] · 1 Reis 12 · 2 Reis 17 · [[Ezequiel 37]] · [[Jeremias 31.31]] · Mateus 15.24 · Gênesis 48 · [[Yidgu]] · [[Bnei Anussim]] · [[Zera Israel]] · [[Oliveira de Romanos 11]]
@@ -45,3 +48,4 @@ Uma família se dividiu numa briga de herança. Um irmão ficou na casa do pai e
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]

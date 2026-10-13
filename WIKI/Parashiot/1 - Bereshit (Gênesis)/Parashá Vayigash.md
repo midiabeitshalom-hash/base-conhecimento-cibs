@@ -38,6 +38,7 @@ date_captured: 2026-10-05
 
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — Torá: Gênesis 45.1, Gênesis 45.3
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — Haftará: Ezequiel 37.15-28, as duas varas de José e de Judá unidas na mão do Filho do Homem
 
 ## Sequência do ciclo
 

@@ -38,6 +38,7 @@ date_captured: 2026-10-05
 
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — Torá: Gênesis 48.14, Gênesis 48.16
+- [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — Torá: Gênesis 48.16-19, a bênção de Efraim, *veyidgu* e *melo hagoyim*
 
 ## Sequência do ciclo
 
