@@ -28,7 +28,12 @@ WIKI/
     000 - Índice Parashiot.md    o ciclo anual em tabela (gerado pelo script)
     <N - Livro>/Parashá <Nome>.md  uma nota por parashá: leituras, resumo e ligações com a base
 scripts/atualizar_indices.py
+Memória dos estudos/    memórias dos estudos publicados pelo projeto de estudos (fora da base)
 ```
+
+`Memória dos estudos/` não faz parte da base. Cada arquivo registra o que um estudo publicado (PDF de
+parashá ou de tema) já disse, para que o projeto de estudos não repita temas. Não integre essas memórias,
+não crie wikilinks para elas nem a partir delas, e não as mova para `WIKI/` ou `RAW/`. O script não lê a pasta.
 
 Notas `kb-*.md` soltas em `RAW/` estão pendentes: mova cada uma para a categoria certa e rode o script.
 Arquivos vazios em `RAW/` são stubs criados pelo Obsidian ao clicar num link cinza. Depois de criada a
