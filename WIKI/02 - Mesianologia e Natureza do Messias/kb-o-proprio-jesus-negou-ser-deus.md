@@ -176,6 +176,7 @@ O estudo elucida as falhas das formulações conciliares posteriores:
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — mostra o risco de transformar o Mediador em objeto de culto, como Israel fez com a serpente de bronze.
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — faz pela mística a mesma distinção entre o Criador e o Mashiach que esta nota faz pelas palavras de Yeshua.
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — lê a luz oculta e o Mashiach como lâmpada sem apagar a distinção de João 17.3 entre o único Deus verdadeiro e o enviado.
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — aplica João 17.3 e 1 Timóteo 2.5 contra o Neustã moderno: o Messias é mediador, não objeto de culto.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Adonai Echad]] (Deus é Um):** Expressão em *Deuteronômio 6:4* que atesta a unicidade cardinal, indivisibilidade e soberania exclusiva do Criador.

@@ -38,7 +38,7 @@ knowledge_depth: exhaustive-academic
 
 **Estudos acadêmicos e científicos:** [[Adams et al. 2008]] e [[Anita Novinsky]] sobre os cristãos-novos ([[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]); Aryeh Kaplan e Abraham bar Hiyya sobre a defasagem da cronologia rabínica ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]); a física do pulso térmico nuclear aplicada a [[Zacarias 14.12]] ([[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]).
 
-**Ferramentas e modelos conceituais:** [[PaRDeS]] ([[Peshat]], [[Remez]], [[Derash]], [[Sod]]); [[Guematria]]; tipologia patriarcal; calendário dos [[Moedim]]; ciclos de [[Shemitá]] e [[Yovel]]; a divisão funcional da Torá; o princípio do [[Shaliah]]; a distinção entre ontologia e função ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]; [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]).
+**Ferramentas e modelos conceituais:** [[PaRDeS]] ([[Peshat]], [[Remez]], [[Derash]], [[Sod]]); [[Guematria]]; [[Kal VaChomer]]; tipologia patriarcal; calendário dos [[Moedim]]; ciclos de [[Shemitá]] e [[Yovel]]; a divisão funcional da Torá; o princípio do [[Shaliah]]; a distinção entre ontologia e função ([[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]; [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]; [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]).
 
 ---
 
@@ -126,6 +126,10 @@ A tipologia é talvez a ferramenta que mais dá forma aos estudos. O princípio 
 - **A uva e o espinheiro**: espinhos nascem da maldição de Gênesis 3.17; não se colhe uva de espinheiro (Mateus 7.15-20) ([[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]; [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]).
 - **Gósen**: Israel preservado das pragas no mesmo território do Egito, modelo da proteção dos fiéis no fim ([[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]; [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]).
 - **Uzá**, que tocou a arca e morreu na hora (2 Samuel 6:6-7): a carne não suporta a santidade sem mediação ([[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]]).
+
+#### 2.4.1. O kal vachomer
+
+Rav Yosef usa a primeira regra de interpretação da Torá, o [[Kal VaChomer]] ("leve e pesado"), como chave profética: um acontecimento pequeno se repete adiante em escala maior. A imagem dele é a pedra que quica na água: "como é no pequeno, é no grande". O exemplo central é João 3.14-15: a serpente de bronze curou o corpo no deserto, e o Filho do Homem levantado dá a vida eterna. A mesma regra serve para ler os desvios: a serpente pedagógica virou o ídolo Neustã, e o Messias no madeiro virou objeto de culto ([[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]).
 
 #### 2.5. A cronologia e o calendário bíblico
 

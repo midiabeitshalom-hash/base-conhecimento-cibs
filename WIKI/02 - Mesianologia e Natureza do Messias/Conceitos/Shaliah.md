@@ -52,3 +52,4 @@ Pense num procurador com procuração plena. Ele assina a escritura do imóvel, 
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]

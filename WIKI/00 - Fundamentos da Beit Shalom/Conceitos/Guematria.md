@@ -46,3 +46,4 @@ Um prédio tem a planta do arquiteto e tem a assinatura dele no canto da folha. 
 - [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]]
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]

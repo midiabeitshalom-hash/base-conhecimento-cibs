@@ -10,11 +10,11 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 39 notas · 299 conceitos)
+## Categorias (7 categorias · 40 notas · 300 conceitos)
 
-- [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 8 conceitos
+- [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 9 conceitos
 - [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 14 notas · 88 conceitos
-- [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 5 notas · 32 conceitos
+- [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 6 notas · 32 conceitos
 - [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 51 conceitos
 - [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 7 notas · 45 conceitos
 - [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
@@ -24,13 +24,14 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 
 - [[000 - Índice Escrituras|Escrituras]] — 40 passagens
 - [[000 - Índice Parashiot|Parashiot]] — 54 porções semanais da Torá, com Haftarot e Berit Hadashah
-- [[000 - Índice Fontes|Fontes]] — 20 obras e referências
+- [[000 - Índice Fontes|Fontes]] — 21 obras e referências
 
 ## Todas as notas (ordem alfabética)
 
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] · _Torá Lei e Aliança_
 - [[kb-a-marca-da-besta-genetica-nefilim-dna|A marca da besta: genética, Nefilim e a assinatura de D'us no DNA]] · _Escatologia e Profecia_
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] · _Escatologia e Profecia_
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] · _Mesianologia e Natureza do Messias_
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] · _Mesianologia e Natureza do Messias_
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] · _Escatologia e Profecia_
 - [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]] · _Escatologia e Profecia_

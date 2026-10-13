@@ -39,6 +39,7 @@ date_captured: 2026-10-05
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — Berit Hadashah: João 4.21, João 4.26
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — Torá: Números 20.1; Berit Hadashah: João 3.14
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — Torá: Números 21.4-9, a serpente de bronze; Números 19 e 20, a novilha vermelha e a morte de Miriam e de Aarão (Moed Katan 28a)
 
 ## Sequência do ciclo
 

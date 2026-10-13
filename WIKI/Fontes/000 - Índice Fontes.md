@@ -47,6 +47,7 @@ As obras e referências que a base cita: Targum, Mishná e Talmud, Midrash, mís
 
 ### Mishná e Talmud
 
+- [[Moed Katan 28a]]
 - [[Talmud Bavli]]
 - [[Tratado Avodah Zarah]]
 - [[Yoma 39b]]

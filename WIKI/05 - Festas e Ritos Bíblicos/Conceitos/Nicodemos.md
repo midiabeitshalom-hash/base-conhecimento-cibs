@@ -35,3 +35,4 @@ João 3 · João 3.3 · João 3.5 · [[Novo Nascimento]] · [[Tevilá]] · [[Rua
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]

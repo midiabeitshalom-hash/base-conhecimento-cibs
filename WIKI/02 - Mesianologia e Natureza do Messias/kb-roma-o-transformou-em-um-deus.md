@@ -182,6 +182,7 @@ O estudo elucida a raiz histórica e linguística da distorção romana:
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — desmonta o "Domingo de Páscoa", outra herança da mesma Roma que afastou a fé das raízes hebraicas.
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — propõe aos *Bnei Anussim* um Yeshua despido da roupagem helenística e dos concílios romanos descritos aqui.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra Nazarenos e Ebionitas, guardadores da Torá eclipsados pelo cristianismo gentílico pós-Constantino que esta nota narra.
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — mostra o crucifixo incensado como o Neustã moderno, o instrumento da salvação transformado em ídolo.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Hishtachavah]] / [[Proskynesis]]:** Ato de prostração física com o rosto em terra para expressar profunda reverência, sujeição civil e respeito a reis, profetas ou superiores, distinto da adoração sacrificial devotada unicamente a Deus.

@@ -141,6 +141,7 @@ Sem referência específica citada.
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — ensina, pela serpente de bronze, que o instrumento de Deus não pode receber o culto devido ao Pai.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — trata de outro texto usado para pluralizar Deus, lido aqui sem Trindade.
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] — separa pela mística o Mashiach do Criador, base da diferença entre honrar o Messias e adorar o Pai tratada aqui.
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — o caso da serpente de bronze: um instrumento ordenado por D'us que virou objeto de incenso.
 
 ### Mini-Glossário de Termos Especializados
 

@@ -195,6 +195,7 @@ Rav Yosef redefine a etimologia e o escopo ontológico da Torá:
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — lê o mesmo início de Gênesis pela luz oculta (*Or HaGanuz*), com a Torá como luz (Salmo 119.105).
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — liga as *Mitzvot* ao *Tikkun* que ancora a presença de Deus em *Assiá*, o mesmo reparo da criação proposto aqui.
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — propõe sete pilares de reparo, o mesmo *Tikkun* pela Torá que esta nota liga à Árvore da Vida perdida no Éden.
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — o veneno da serpente do Éden no DNA humano e o antídoto do Messias.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Meshivat Nafesh]] (Restaura a Alma):** Expressão em hebraico do Salmo 19:7 que indica o poder intrínseco da Torá de realinhar a estrutura espiritual decaída do ser humano ao seu estado de pureza primordial.

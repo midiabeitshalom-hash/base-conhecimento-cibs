@@ -235,6 +235,7 @@ Para compreender as cartas apostólicas e a epístola aos Hebreus, é imperativo
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — une guarda dos mandamentos e fé em Yeshua, o mesmo par que esta nota defende contra o antinomismo.
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — mostra a Alma Divina domando a Alma Animal, a graça que capacita vista pelo lado da alma.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra pelos sinais do Templo em *Yoma 39b* que os sacrifícios perderam eficácia, o que confirma a função provisória dada a eles aqui.
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — defende pelo princípio substitutivo das ofertas e de Yom Kippur que a expiação pelo justo é judaica.
 
 ### Mini-Glossário Analítico
 1. **[[Torá]] (תּוֹרָה):** Instrução ou ensino divino. Não significa "lei" no sentido romano opressivo, mas o manual de vida e santidade revelado pelo Criador.

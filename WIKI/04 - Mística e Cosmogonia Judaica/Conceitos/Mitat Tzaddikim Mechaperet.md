@@ -49,6 +49,9 @@ A ideia já estava no judaísmo do Segundo Templo, antes dos apóstolos. No *Qua
 
 Num hospital, um doador compatível dá o que tem para salvar outro. Ninguém diz que foi injusto o paciente viver. A Torá e os sábios ensinam que a morte de um justo cobre a culpa de muitos; Yeshua é o doador perfeito, e o que ele deu não precisa ser dado de novo.
 
+## As quatro fontes da aula da serpente de bronze
+Rav Yosef reúne quatro textos da tradição para responder à objeção de que a morte expiatória do Messias "não é judaica": [[Moed Katan 28a]] (assim como a novilha vermelha e as vestes sacerdotais expiam, a morte dos justos expia); *Shabat 33b* (quando há justos na geração, os justos são tomados pelos pecados da geração); *Vayikra Rabá 20:12* (a morte dos justos expia como Yom Kippur); e o [[Zohar]], parashat Pinchas (sem Templo, os justos expiam o mundo). Ele separa o *tzadik gamur*, o justo perfeito, dos justos imperfeitos como Moisés: só o justo que nunca pecou gera o "crédito espiritual" que absolve todo aquele que crê ([[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]).
+
 ## Relacionados
 
 [[Kapará]] · [[Asham]] · Isaías 53 · Isaías 53.10 · [[Daniel 9.24]] · [[Mashiach ben Yosef]] · [[Tzaddikim]] · [[Yoma 39b]] · [[Talmud Bavli]] · [[Zohar]] · [[Rashi]] · [[Ramban]] · [[Midrash Rabbah]] · [[Yom Kippur]] · [[Kohen Gadol]] · [[Aharon HaKohen]] · [[Tikkun]] · Gênesis 22
@@ -61,3 +64,4 @@ Num hospital, um doador compatível dá o que tem para salvar outro. Ninguém di
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]]
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]

@@ -44,3 +44,4 @@ Um bode morria e o outro ia embora, para nunca mais voltar. As duas coisas eram 
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]

@@ -49,3 +49,4 @@ Uma semente de luz plantada debaixo da terra (Salmo 97:11). Durante o inverno ni
 
 ## Aparece em
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]
+- [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
