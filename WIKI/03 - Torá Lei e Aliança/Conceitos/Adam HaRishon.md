@@ -48,6 +48,9 @@ O [[Talmud Bavli]] ensina que seis das sete leis dadas aos filhos de Noé já ti
 
 Adão recebeu um jardim, um trabalho e uma única cerca. A cerca não era castigo: era o que fazia da obediência uma escolha. Ele pulou a cerca e perdeu o jardim, mas D'us não o deixou nu. A história da Bíblia inteira é o caminho de volta para aquele jardim.
 
+## Adão no nível de yechidá
+Mike ensina que, antes do pecado, Adão era "uma essência de luz pura" e estava no nível mais alto da alma, a *yechidá*, onde a vontade humana e a de D'us são uma só: D'us falava com ele "como quem fala com um amigo", sem ocultamento. O pecado baixou a frequência da alma e criou as *kelipot*; Yeshua, o último Adão, ensina a resgatar essa essência ([[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]).
+
 ## Relacionados
 
 [[Adam Kadmon]] · [[Chavah]] · [[Kayin]] · [[Hevel]] · Gênesis 2.7 · [[Gênesis 2.16]] · Gênesis 3 · Gênesis 3.15 · [[Gênesis 3.21]] · Gênesis 5.3 · Romanos 5.12 · [[1 Coríntios 15.45]] · [[Yetzer HaRá]] · [[Kots ve-Dardar]] · [[Torá Moral]] · [[Etz Chaim]] · [[Goel]]
@@ -68,3 +71,4 @@ Adão recebeu um jardim, um trabalho e uma única cerca. A cerca não era castig
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

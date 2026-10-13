@@ -38,6 +38,7 @@ date_captured: 2026-10-05
 
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — Berit Hadashah: Atos 10.13, Atos 10.28, Atos 10.9; Torá: Levítico 11.1
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — Torá: Levítico 10.1-2 (Nadav e Avihu) e Levítico 11.43 (o alimento impuro)
 
 ## Sequência do ciclo
 

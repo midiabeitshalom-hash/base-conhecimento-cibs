@@ -42,3 +42,4 @@ Pense num prato da cozinha de casa e no mesmo prato separado para a mesa do Shab
 
 ## Aparece em
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

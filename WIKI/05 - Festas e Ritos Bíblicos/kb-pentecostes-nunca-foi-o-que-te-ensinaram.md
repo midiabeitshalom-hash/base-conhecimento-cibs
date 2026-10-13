@@ -165,6 +165,7 @@ O estudo distingue claramente as três naturezas das manifestações linguístic
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — põe *Shavuot* como a quarta festa cumprida na primeira vinda, no calendário que reserva as festas de outono para o retorno.
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — põe *Shavuot* no braço central da Menorá das sete festas, chave do relógio profético dos jubileus.
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — põe Shavuot na sequência das festas de primavera cumpridas e mostra as de outono no Apocalipse.
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — o Ruach HaKodesh, antes dado a poucos, aberto a todos para quebrar as kelipot.
 
 ### Mini-Glossário de Conceitos Fundamentais
 1. **[[Shavuot]] (Festa das Semanas):** Do hebraico *Shavuot* (plural de *Shavua*, semana). Celebração ordenada em Levítico 23 após a contagem de 7 semanas completas (49 dias) a partir do dia seguinte ao Shabat das primícias.

@@ -169,6 +169,7 @@ O estudo rebate frontalmente a doutrina de que a graça anula a responsabilidade
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aplica às leis alimentares a mesma conservação dos mandamentos que esta nota defende na Nova Aliança.
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — mostra Yeshua consagrado Sumo Sacerdote na imersão do Jordão, o mediador da aliança descrita aqui.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — mostra a circuncisão do coração na prática e as duas casas que a Nova Aliança reúne.
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — as tábuas de pedra como imagem do coração duro e a Torá escrita no coração de carne.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Berit Hadashah]] (Nova Aliança):** Do hebraico *Brit* (aliança/pacto) e *Hadashah* (renovada/nova). Conceito jurídico-espiritual de restauração e elevação do pacto do Sinai.

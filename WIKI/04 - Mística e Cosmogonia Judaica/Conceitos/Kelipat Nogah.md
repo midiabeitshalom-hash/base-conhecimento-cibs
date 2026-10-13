@@ -41,3 +41,4 @@ Uma faca de cozinha corta o pão da família ou fere alguém. O celular leva uma
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

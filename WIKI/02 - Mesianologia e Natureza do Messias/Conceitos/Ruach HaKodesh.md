@@ -75,3 +75,4 @@ Rav Yosef refuta a doutrina que faz do Espírito Santo uma "mãe celestial" ao l
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

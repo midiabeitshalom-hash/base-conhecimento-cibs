@@ -10,13 +10,13 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 45 notas · 308 conceitos)
+## Categorias (7 categorias · 46 notas · 309 conceitos)
 
 - [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 9 conceitos
 - [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 15 notas · 91 conceitos
 - [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 9 notas · 33 conceitos
 - [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 51 conceitos
-- [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 8 notas · 49 conceitos
+- [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 9 notas · 50 conceitos
 - [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
 - [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 34 conceitos
 
@@ -40,6 +40,7 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] · _Escatologia e Profecia_
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] · _Mística e Cosmogonia Judaica_
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] · _História Arqueologia e Identidade Judaica_
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] · _Mística e Cosmogonia Judaica_
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] · _História Arqueologia e Identidade Judaica_
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] · _Mística e Cosmogonia Judaica_
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] · _Escatologia e Profecia_

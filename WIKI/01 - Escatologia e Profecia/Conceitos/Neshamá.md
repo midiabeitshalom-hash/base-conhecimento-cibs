@@ -40,3 +40,4 @@ Gênesis 2.7 · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Olam Katan]] ·
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

@@ -152,6 +152,7 @@ As *Kelipot* (Cascas) são barreiras místicas que ocultam a manifestação dire
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — mostra o homem como microcosmo dos quatro mundos e situa ali a mesma guerra contra o *Yetzer HaRá* tratada aqui.
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — liga Yetzirá ao *yetzer* (a mesma raiz) e às duas inclinações.
 - [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]] — o nissayon diário: reagir na carne ou com as Midot de D'us.
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — os cinco níveis da alma e as kelipot que abafam a centelha divina.
 
 ### Mini-Glossário de Termos Especializados
 

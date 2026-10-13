@@ -32,6 +32,9 @@ A base aplica isso à mesa. Comer *kasher* e abençoar o alimento eleva a energi
 
 Pense numa laranja. A casca não é o inimigo; sem ela a fruta apodreceria. Mas ninguém come a casca. Cada dia, com o celular, o dinheiro, o trabalho e o prato, você decide se descasca a laranja e chega ao fruto, ou se fica mastigando a casca.
 
+## As kelipot e a frequência da alma
+No estudo sobre Adão antes do pecado, Mike descreve as *kelipot* como cascas que o ser humano criou depois da queda, quando a "frequência" da alma caiu: elas impedem a centelha divina de chegar ao potencial máximo e, por isso, a luz de D'us incomoda quem vive na impureza, como o quarto escuro e a luz acesa de repente (Nadav e Avihu; o povo no Sinai). As cascas totalmente impuras estão ligadas aos mandamentos proibitivos, inclusive aos alimentos proibidos, que "não têm como descascar". O Ruach HaKodesh, aberto a todos por Yeshua, é o que quebra as cascas ([[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]).
+
 ## Relacionados
 
 [[Kelipat Nogah]] · [[Birur]] · [[Nefesh HaElokit]] · [[Nefesh HaBehamit]] · [[Sitra Achra]] · [[Yetzer HaRá]] · [[Kedushá]] · [[Kavanah]] · [[Tikkun Olam]] · [[Tum'ah]] · [[Arizal]] · [[Zohar]]
@@ -41,3 +44,4 @@ Pense numa laranja. A casca não é o inimigo; sem ela a fruta apodreceria. Mas 
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

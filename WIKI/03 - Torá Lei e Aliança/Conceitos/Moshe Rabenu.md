@@ -84,3 +84,4 @@ Moisés é o primeiro mediador e o molde do último. Quem quer reconhecer o Mess
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-quem-ve-a-mim-ve-o-pai-as-midot-reveladas-em-yeshua|Quem vê a mim vê o Pai: as 13 Midot do Eterno reveladas em Yeshua]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]

@@ -224,6 +224,7 @@ O argumento cristão de que o Antigo Testamento caducou e que o consumo de carne
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]] — liga *kashrut* e idolatria no item 4.5, ao responder à acusação de "judaizar".
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] — põe a alimentação limpa entre os pilares físicos do cuidado com o templo corpóreo.
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — mostra os cristãos-novos que guardavam o *Kashrut* em segredo, recusando porco e sangue.
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — explica o alimento impuro como casca que não se pode elevar e que afasta a alma de D'us (Levítico 11.43).
 
 ### Mini-Glossário Analítico
 1. **[[Kashrut]] (כַּשְׁרוּת):** Sistema legal da Torá que regulamenta os alimentos permitidos e proibidos, bem como os métodos de preparo, separação e consumo adequados para o povo da aliança.

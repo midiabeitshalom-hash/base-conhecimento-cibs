@@ -13,6 +13,7 @@ A criação, Ein Sof, Tzimtzum, Or HaGanuz, Adam Kadmon, os 4 mundos, as sefirot
 ## Notas desta categoria
 
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]]
+- [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]]
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]
@@ -23,7 +24,7 @@ A criação, Ein Sof, Tzimtzum, Or HaGanuz, Adam Kadmon, os 4 mundos, as sefirot
 
 ## Conceitos desta categoria
 
-[[Adam Kadmon]] · [[Alef-Tav]] · [[Arba'ah Olamot]] · [[Assiá]] · [[Atzilut]] · [[Bechor]] · [[Beriá]] · [[Birur]] · [[Chalal Panui]] · [[Devekut]] · [[Dirah BeTachtonim]] · [[Ein Sof]] · [[Etz Chaim]] · [[Even HaShetiyah]] · [[Gan Éden]] · [[Geulá]] · [[Kavanah]] · [[Kedushá]] · [[Kelipat Nogah]] · [[Kelipot]] · [[Keruv]] · [[Kli]] · [[Malchut]] · [[Meshivat Nafesh]] · [[Mitat Tzaddikim Mechaperet]] · [[Na'assê Adam]] · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Niddah]] · [[Nissayon]] · [[Olam HaSheker]] · [[Olam Katan]] · [[Or Ein Sof]] · [[Or HaGanuz]] · [[Ruach Mechayeh]] · [[Sefirot]] · [[Sha'ar HaShamayim]] · [[Shelosh Esrê Midot]] · [[Sitra Achra]] · [[Sulam Ya'akov]] · [[Tiferet]] · [[Tikkun]] · [[Tikkun Olam]] · [[Tzaddikim]] · [[Tzedaká]] · [[Tzelem Elohim]] · [[Tzelem Elohim HaNistar]] · [[Tzimtzum]] · [[Yetzirá]]
+[[Adam Kadmon]] · [[Alef-Tav]] · [[Arba'ah Olamot]] · [[Assiá]] · [[Atzilut]] · [[Bechor]] · [[Beriá]] · [[Birur]] · [[Chalal Panui]] · [[Cinco Níveis da Alma]] · [[Devekut]] · [[Dirah BeTachtonim]] · [[Ein Sof]] · [[Etz Chaim]] · [[Even HaShetiyah]] · [[Gan Éden]] · [[Geulá]] · [[Kavanah]] · [[Kedushá]] · [[Kelipat Nogah]] · [[Kelipot]] · [[Keruv]] · [[Kli]] · [[Malchut]] · [[Meshivat Nafesh]] · [[Mitat Tzaddikim Mechaperet]] · [[Na'assê Adam]] · [[Nefesh HaBehamit]] · [[Nefesh HaElokit]] · [[Niddah]] · [[Nissayon]] · [[Olam HaSheker]] · [[Olam Katan]] · [[Or Ein Sof]] · [[Or HaGanuz]] · [[Ruach Mechayeh]] · [[Sefirot]] · [[Sha'ar HaShamayim]] · [[Shelosh Esrê Midot]] · [[Sitra Achra]] · [[Sulam Ya'akov]] · [[Tiferet]] · [[Tikkun]] · [[Tikkun Olam]] · [[Tzaddikim]] · [[Tzedaká]] · [[Tzelem Elohim]] · [[Tzelem Elohim HaNistar]] · [[Tzimtzum]] · [[Yetzirá]]
 
 ## Ver também
 - [[000 - Índice Mesianologia e Natureza do Messias|Mesianologia e Natureza do Messias]]
