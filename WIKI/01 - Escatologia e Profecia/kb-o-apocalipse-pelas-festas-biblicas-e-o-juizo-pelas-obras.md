@@ -203,6 +203,7 @@ Todo o trabalho do discipulado, do YouTube e do serviço religioso (o Chazan tra
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — a besta, o falso profeta e o engano do fim.
 - [[Parashá Emor]] — a parashá de Levítico 23, o calendário das santas convocações.
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — lê o trono branco e os tronos de Daniel 7 e Apocalipse 4 como governo e tribunal.
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] — desenvolve o mesmo tema: o tempo como prisão desde o Éden e o Shabat como portal do Reino, "um sessenta avos do Olam Haba".
 
 **Mini-glossário:**
 - *Mikraei kodesh* (מִקְרָאֵי קֹדֶשׁ): santas convocações; o Shabat e as sete festas.

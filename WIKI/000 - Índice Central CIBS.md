@@ -10,12 +10,12 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 46 notas · 309 conceitos)
+## Categorias (7 categorias · 47 notas · 310 conceitos)
 
 - [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 9 conceitos
-- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 15 notas · 91 conceitos
+- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 15 notas · 92 conceitos
 - [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 9 notas · 33 conceitos
-- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 51 conceitos
+- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 6 notas · 51 conceitos
 - [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 9 notas · 50 conceitos
 - [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
 - [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 34 conceitos
@@ -64,6 +64,7 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] · _Mesianologia e Natureza do Messias_
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] · _Mística e Cosmogonia Judaica_
 - [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]] · _Escatologia e Profecia_
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] · _Torá Lei e Aliança_
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] · _Festas e Ritos Bíblicos_
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] · _Mística e Cosmogonia Judaica_
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]] · _Mística e Cosmogonia Judaica_

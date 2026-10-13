@@ -146,6 +146,7 @@ Mike pede que curtam, compartilhem e se inscrevam, convida para o curso *Judaís
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — o Ruach dado a todos os que creem.
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — a graça que capacita para cumprir a Torá, e não que a anula.
 - [[Parashá Shemini]] — Levítico 10 (Nadav e Avihu) e Levítico 11 (os alimentos puros e impuros).
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] — aplica os níveis da alma ao Shabat: guardá-lo com kavaná eleva a alma ao nível de chayá.
 
 **Mini-glossário:**
 - *Nefesh* (נֶפֶשׁ): a alma vital, ligada ao sangue e às necessidades básicas.

@@ -39,3 +39,4 @@ O Éden era a sala do trono que ligava o céu e a terra. O homem foi posto ali p
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]

@@ -56,6 +56,9 @@ Um casamento tem data de aniversário. Ninguém comemora "um dia qualquer do ano
 ## O dia do Senhor e o portal da eternidade
 Rav Yosef ensina que o "dia do Senhor" de Apocalipse 1.10, em que Yochanan foi arrebatado em espírito, é o Shabat, e nunca o domingo: o Filho do Homem é Senhor do sábado (Mateus 12.8). O tempo aprisiona o ser humano no presente; o Shabat é "uma janela de escape, uma janela de acesso para a eternidade", o portal que prepara o espírito para a revelação. Por isso ele deve ser recebido, celebrado e despedido, e por isso a maior parte das curas e dos ensinos de Yeshua aconteceu no Shabat ([[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]).
 
+## O portal do Reino dos Céus
+Mike ensina que, desde a queda, o homem vive preso ao tempo, "trocando tempo por recurso", e que o Shabat, dado em memória da saída do Egito (Deuteronômio 5.15), é o portal semanal do Reino dos Céus: "um sessenta avos do Olam Haba" (*Berachot 57b*). *Kadosh* é separação: no Shabat se para de trocar o tempo por coisas perecíveis e se doa o tempo a D'us, com *kavaná*. Por isso Yeshua curava no Shabat, e por isso guardá-lo eleva a alma ao nível de *chayá* ([[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]).
+
 ## Relacionados
 
 [[Zachor e Shamor]] · [[Shabbaton]] · [[Shabat Milenar]] · [[Havdalá]] · [[Dia da Preparação]] · [[Moedim]] · [[Levítico 23]] · Êxodo 20.8 · [[Daniel 7.25]] · [[Mudar os Tempos e a Lei]] · [[Sinal de Jonas]] · [[Torá]] · [[Mitzvot]] · [[Kavanah]] · [[Cristãos-Novos]]
@@ -80,3 +83,4 @@ Rav Yosef ensina que o "dia do Senhor" de Apocalipse 1.10, em que Yochanan foi a
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]

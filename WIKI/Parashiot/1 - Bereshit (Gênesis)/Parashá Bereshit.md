@@ -65,6 +65,7 @@ date_captured: 2026-10-05
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — Torá: Gênesis 1.26
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — Torá: Gênesis 1.26 e 3, o homem criado para o domínio e a queda pela tentação "sereis como D'us"
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — Torá: Gênesis 1.26, a imagem e semelhança como potencial criativo
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] — Torá: Gênesis 2.16-17 e 3.17-19, o Éden e a queda na prisão do tempo
 
 ## Sequência do ciclo
 

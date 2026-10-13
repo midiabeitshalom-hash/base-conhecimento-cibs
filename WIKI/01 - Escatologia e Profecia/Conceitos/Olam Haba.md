@@ -45,6 +45,9 @@ A esperança comum fala de "ir para o céu" e deixar a terra para trás. A base 
 
 *Pirkei Avot* já dá a imagem: este mundo é o corredor, o *Olam Haba* é o salão de festas. Ninguém entra no salão com a roupa suja do corredor. Por isso o tempo de se preparar é agora, com [[Teshuvá]], Shabat e mandamentos.
 
+## O Shabat, um sessenta avos do mundo vindouro
+No estudo sobre o Reino dos Céus, Mike lembra que "o Shabat é um sessenta avos do Olam Haba" (*Berachot 57b*): uma fenda no tempo em que o homem, preso desde a queda ao passado, ao presente e ao futuro, prova a eternidade a cada semana ([[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]).
+
 ## Relacionados
 
 [[Reino Messiânico]] · [[Primeira Ressurreição]] · [[Shabat Milenar]] · [[Tikkun Olam]] · [[Or HaGanuz]] · [[Kli]] · [[Apocalipse 21.23]] · [[Apocalipse 22.14]] · [[Etz Chaim]]
@@ -55,3 +58,4 @@ A esperança comum fala de "ir para o céu" e deixar a terra para trás. A base 
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]

@@ -72,3 +72,4 @@ Mike ensina que, antes do pecado, Adão era "uma essência de luz pura" e estava
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]

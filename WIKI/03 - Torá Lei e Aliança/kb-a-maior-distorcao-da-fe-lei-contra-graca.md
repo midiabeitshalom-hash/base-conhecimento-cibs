@@ -165,6 +165,7 @@ Rav Yosef confronta a teologia tradicional com uma questão histórica incontorn
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — mostra na prática um dos frutos da falsa oposição desmontada aqui: a liberação das carnes imundas.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — mostra a anulação da Torá como a barreira cristã ao retorno das tribos.
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — responde a "basta acreditar em Yeshua" com o juízo segundo as obras de Apocalipse 20.12.
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] — mostra o Shabat como presente e portal, e não como peso de proibições.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Kapará|Kaparot]] / [[Kapará|Capará]] (Expiação/Cobertura):** Do radical hebraico *K-F-R* (cobrir). Mecanismo jurídico-espiritual pelo qual a culpa do transgressor é coberta pela morte de um substituto inocente.

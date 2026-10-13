@@ -198,6 +198,7 @@ Rav Yosef redefine a etimologia e o escopo ontológico da Torá:
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — o veneno da serpente do Éden no DNA humano e o antídoto do Messias.
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — o Éden como portal e o trono de regência que o homem perdeu.
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] — descreve Adão antes do pecado, na yechidá, e o que a queda criou: as kelipot sobre a centelha divina.
+- [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]] — o Éden como eternidade e dependência do alto, e a queda na prisão do tempo.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Meshivat Nafesh]] (Restaura a Alma):** Expressão em hebraico do Salmo 19:7 que indica o poder intrínseco da Torá de realinhar a estrutura espiritual decaída do ser humano ao seu estado de pureza primordial.
