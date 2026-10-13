@@ -32,9 +32,13 @@ Rav Yosef liga o trono à hidrologia do [[Rio Jordão]] ([[kb-isso-estava-escond
 
 Pense numa caixa-d'água no alto de um prédio. Toda torneira lá embaixo depende dela. O Trono da Glória é a caixa-d'água da criação: a água viva da [[Tevilá]] vem de cima, e quem mergulha nela se liga à fonte.
 
+## Trono é governo: o trono e os tronos
+Rav Yosef ensina que *kissé* (e *thronos*, no grego) quase sempre significa governo e autoridade, e não uma cadeira; "assentar-se no trono" é exercer um nível de autoridade. Existe *o* trono, o do Criador, inacessível a qualquer criatura, firmado em justiça e juízo (Salmo 97.2), de onde emana toda autoridade; e existem *tronos* delegados, como o de Davi, que 1 Crônicas 29.23 chama de "trono do Senhor", e os principados celestes de Colossenses 1.16. No Reino, Jerusalém será chamada trono do Eterno (Jeremias 3.17), e o Filho do Homem se assentará no trono da sua glória (Mateus 25.31) ([[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]).
+
 ## Relacionados
 
 [[Maim Chaim]] · [[Tevilá]] · [[Rio Jordão]] · [[Monte Hermon]] · Apocalipse 22.1 · Gênesis 1.2 · [[Daniel 7]] · [[Seraphim]] · [[Beriá]] · [[Shechinah]] · [[Ruach HaKodesh]] · [[Rashi]]
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

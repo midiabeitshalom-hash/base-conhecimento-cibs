@@ -40,3 +40,4 @@ Um urso não é rápido como o leopardo, mas é pesado e come muito. A Pérsia f
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

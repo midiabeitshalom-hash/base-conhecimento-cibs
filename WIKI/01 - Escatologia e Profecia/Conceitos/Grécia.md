@@ -43,3 +43,4 @@ A Grécia venceu com espadas por poucos anos, mas com ideias por muitos séculos
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

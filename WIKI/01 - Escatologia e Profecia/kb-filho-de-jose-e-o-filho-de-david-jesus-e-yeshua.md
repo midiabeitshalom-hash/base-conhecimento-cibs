@@ -175,6 +175,7 @@ O relato de Gênesis fornece o roteiro profético do retorno escatológico:
 - [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] — liga as duas manifestações do Messias ao resgate pago pelo *Goel* e ao despejo final do usurpador no 120º Jubileu.
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — trata dos *Bnei Anussim* que voltam às raízes, a quem a Beit Shalom apresenta o Yeshua judeu no lugar do "Jesus" romano.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — aprofunda a casa de José: Efraim, as dez tribos e a união das duas varas na mão do Filho do Homem.
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — acompanha a aliança davídica de 2 Samuel 7 até Lucas 1.32-33 e Atos 2.29-30.
 
 ### Mini-Glossário Técnico-Tipológico
 1. **[[Zafenate-Paneia]] (*Zafnat Pa'neach*):** Nome egípcio outorgado a José em Gênesis 41:45, interpretado na tradição semítica como "Aquele que revela o que está oculto" ou "Sustentador do Mundo", símbolo da assimilação cultural exterior do Messias entre os gentios.

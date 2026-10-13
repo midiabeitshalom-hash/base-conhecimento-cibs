@@ -30,3 +30,4 @@ A tradição rabínica também percebe a tensão com Zacarias 9.9: no *Sanhedrin
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

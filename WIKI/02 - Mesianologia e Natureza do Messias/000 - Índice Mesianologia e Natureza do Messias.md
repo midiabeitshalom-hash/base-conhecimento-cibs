@@ -17,12 +17,13 @@ A identidade e a natureza do Messias, Mashiach ben Yosef e ben David, o monoteí
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
 - [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]]
 
 ## Conceitos desta categoria
 
-[[A Mulher Samaritana]] · [[Adonai Echad]] · [[Akadosh Baruch Hu]] · [[Apoteose]] · [[Asham]] · [[Avodah Zarah]] · [[Ben Adam]] · [[Ben Elohim]] · [[Chizkiyahu HaMelech]] · [[Concílio de Niceia]] · [[Cornélio]] · [[Elohut]] · [[Hishtachavah]] · [[Homoousios]] · [[Kohen Gadol]] · [[Maria Madalena]] · [[Mashiach]] · [[Mashiach ben David]] · [[Mashiach ben Yosef]] · [[Monoteísmo Estrito]] · [[Nachash]] · [[Nechushtan]] · [[Ontologia vs. Função]] · [[Proskynesis]] · [[Ruach HaKodesh]] · [[Sadraque, Mesaque e Abede-Nego]] · [[Seraphim]] · [[Shaliah]] · [[Shemá Israel]] · [[Teofania]] · [[Trindade]] · [[Yeshua]]
+[[A Mulher Samaritana]] · [[Adonai Echad]] · [[Akadosh Baruch Hu]] · [[Aliança Davídica]] · [[Apoteose]] · [[Asham]] · [[Avodah Zarah]] · [[Ben Adam]] · [[Ben Elohim]] · [[Chizkiyahu HaMelech]] · [[Concílio de Niceia]] · [[Cornélio]] · [[Elohut]] · [[Hishtachavah]] · [[Homoousios]] · [[Kohen Gadol]] · [[Maria Madalena]] · [[Mashiach]] · [[Mashiach ben David]] · [[Mashiach ben Yosef]] · [[Monoteísmo Estrito]] · [[Nachash]] · [[Nechushtan]] · [[Ontologia vs. Função]] · [[Proskynesis]] · [[Ruach HaKodesh]] · [[Sadraque, Mesaque e Abede-Nego]] · [[Seraphim]] · [[Shaliah]] · [[Shemá Israel]] · [[Teofania]] · [[Trindade]] · [[Yeshua]]
 
 ## Ver também
 - [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]

@@ -38,3 +38,4 @@ Rav Yosef aplica o conceito ao [[Rio Jordão]] ([[kb-isso-estava-escondido-no-ri
 
 ## Aparece em
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

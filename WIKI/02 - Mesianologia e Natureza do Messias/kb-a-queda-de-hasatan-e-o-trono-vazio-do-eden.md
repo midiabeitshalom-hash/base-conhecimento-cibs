@@ -228,6 +228,7 @@ Rav Yosef reconhece que abriu "várias caixas" que dariam outros estudos, mas di
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — o Éden como dimensão e o que o homem perdeu nele.
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]] — a serpente do Éden e o Messias que a vence.
 - [[Parashá Bereshit]] — Gênesis 1.26 e Gênesis 3, a criação do homem e a queda.
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — a continuação desta aula: trono é governo e autoridade delegada, e não cadeira; o trono de Davi, os principados e o reinado com o Messias.
 
 **Mini-glossário:**
 - *HaSatan* (הַשָּׂטָן): "o adversário", "o acusador"; pronunciado Rassatã.

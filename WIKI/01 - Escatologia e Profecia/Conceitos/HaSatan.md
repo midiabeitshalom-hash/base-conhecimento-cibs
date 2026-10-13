@@ -37,9 +37,13 @@ Rav Yosef rejeita a ideia de Rassatã como servo obediente: ela não tem base na
 ## Como explicar à congregação
 É o guarda do palácio que, de tanto vigiar a cadeira vazia do príncipe, achou que ela era dele. Quando tentou se sentar, foi tirado do palácio, e desde então tenta impedir que o verdadeiro herdeiro e os seus irmãos cheguem a ela.
 
+## Um trono que ele já tinha
+Na aula seguinte, Rav Yosef esclarece que "exaltarei o meu trono" (Isaías 14.13) não é uma cadeira carregada para as alturas: Rassatã tinha um nível de governo e de senhorio e quis um nível maior do que o que lhe fora dado. Depois da queda, os principados caídos passaram a reger nações em oposição e caos (Efésios 6.12), e a Berit Hadashah fala de um "trono de Satanás" real e territorial em Pérgamo (Apocalipse 2.13) ([[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]).
+
 ## Relacionados
 [[Keruv]] · [[Gan Éden]] · [[Nachash]] · [[Nefilim]] · [[Mashiach]] · [[Yeshua]] · [[2 Enoque]] · [[Yetzer HaRá]]
 
 ## Aparece em
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]]
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]

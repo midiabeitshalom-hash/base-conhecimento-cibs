@@ -178,6 +178,7 @@ O estudo elucida as falhas das formulações conciliares posteriores:
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — lê a luz oculta e o Mashiach como lâmpada sem apagar a distinção de João 17.3 entre o único Deus verdadeiro e o enviado.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — aplica João 17.3 e 1 Timóteo 2.5 contra o Neustã moderno: o Messias é mediador, não objeto de culto.
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]] — El Guibor como o poder de D'us no Messias e Filipenses 2 como o oposto da usurpação de Rassatã.
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — Yeshua tem a autoridade que D'us lhe deu; "Pai da Eternidade" lido pelo trono, e não pela origem.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Adonai Echad]] (Deus é Um):** Expressão em *Deuteronômio 6:4* que atesta a unicidade cardinal, indivisibilidade e soberania exclusiva do Criador.

@@ -202,6 +202,7 @@ Todo o trabalho do discipulado, do YouTube e do serviço religioso (o Chazan tra
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — por que "só acreditar" não basta e a Torá continua sendo o padrão.
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — a besta, o falso profeta e o engano do fim.
 - [[Parashá Emor]] — a parashá de Levítico 23, o calendário das santas convocações.
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — lê o trono branco e os tronos de Daniel 7 e Apocalipse 4 como governo e tribunal.
 
 **Mini-glossário:**
 - *Mikraei kodesh* (מִקְרָאֵי קֹדֶשׁ): santas convocações; o Shabat e as sete festas.

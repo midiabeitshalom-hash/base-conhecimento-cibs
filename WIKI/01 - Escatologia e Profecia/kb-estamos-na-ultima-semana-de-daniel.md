@@ -171,6 +171,7 @@ Rav Yosef estabelece a continuidade da Estátua de [[Daniel 2]] no cenário mode
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]] — mostra o Yeshua hebreu disfarçado de "Jesus" romano, a figura de que o Quarto Império se apropriou.
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] — põe a última semana de Daniel e a abominação desoladora antes da ressurreição e do ajuntamento dos fiéis.
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — desmonta a troca do Shabat pelo domingo, um caso concreto de como o Quarto Império "mudou os tempos".
+- [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — mostra os príncipes espirituais da Pérsia e da Grécia por trás dos impérios (Daniel 10).
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[PaRDeS]] (Pomar):** Acrônimo hebraico para *Peshat* (sentido literal), *Remez* (alusão/dica), *Derash* (busca comparativa) e *Sod* (segredo místico).
