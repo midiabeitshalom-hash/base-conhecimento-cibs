@@ -43,3 +43,4 @@ O nome também diz muito: o primeiro Yehoshua introduziu Israel na terra; o segu
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

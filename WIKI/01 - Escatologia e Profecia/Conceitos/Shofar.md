@@ -43,9 +43,13 @@ O [[Pré-Tribulacionismo]], que transforma a trombeta num chamado secreto antes 
 
 O shofar não é música de fundo: é alarme. No Sinai ele anunciou a Torá, no jubileu anunciou a liberdade, e no fim vai anunciar a volta do Rei. Quem conhece o som se prepara; quem espera ser levado antes dele dorme.
 
+## As "trombetas" do Apocalipse
+As sete trombetas de Apocalipse 8 são, no hebraico, *shofarot*, chifres de carneiro, e não trompetes de metal. Rav Yosef as liga a Yom Teruá e a Jericó: como as sete voltas e o shofar derrubaram as muralhas e abriram a tribulação para os moradores da cidade, os shofarot do Apocalipse abrem o juízo de D'us sobre a terra ([[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]).
+
 ## Relacionados
 
 [[Shofar HaGadol]] · [[Yom Teruá]] · [[Yovel]] · Levítico 25.9 · [[Yom Kippur]] · [[Har Sinai]] · Gênesis 22 · Mateus 24.29 · 1 Coríntios 15.51 · [[1 Tessalonicenses 4.15]] · [[Arrebatamento]] · [[Primeira Ressurreição]] · [[Moedim]] · [[Teshuvá]]
 
 ## Aparece em
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

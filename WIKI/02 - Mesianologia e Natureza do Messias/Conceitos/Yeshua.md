@@ -93,3 +93,4 @@ Pense num retrato antigo restaurado. Por séculos pintaram por cima: tiraram a b
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

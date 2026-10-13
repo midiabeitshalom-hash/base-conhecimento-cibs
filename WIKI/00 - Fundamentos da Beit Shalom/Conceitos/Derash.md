@@ -51,3 +51,4 @@ Um pai diz ao filho: "não bata no seu irmão". O filho para de bater, mas conti
 - [[kb-o-que-os-sabios-do-1-seculo-sabiam-ano-2030|Os sábios do 1º século e o ano 2030: a cronologia dos 6.000 anos e os jubileus]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

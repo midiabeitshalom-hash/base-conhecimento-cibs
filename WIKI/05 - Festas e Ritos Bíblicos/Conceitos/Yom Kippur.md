@@ -42,6 +42,9 @@ A Mishná descreve o sorteio dos dois bodes e a fita escarlate amarrada à porta
 
 Num processo de despejo, a data da audiência está marcada em cartório. A Torá marcou a data da devolução da terra: o 10º dia do sétimo mês, no ano do jubileu, ao som do shofar. Quem conhece o calendário não precisa adivinhar.
 
+## O Yom Kippur profético no Apocalipse
+Rav Yosef lê o fim dos tempos pelas festas de outono: depois dos shofarot de Yom Teruá, que abrem a tribulação, vem o Yom Kippur profético. O sétimo shofar cumpre "o segredo de D'us anunciado aos profetas" (Apocalipse 10.7), o perdão dos pecados e a ressurreição dos mortos (Apocalipse 20.4-6). A besta e o falso profeta, lançados vivos no lago de fogo (Apocalipse 19.20), correspondem ao bode para Azazel, enviado vivo ao deserto. E o juízo diante do trono branco é segundo as obras: por isso Kippur deve ser guardado todo ano, com teshuvá e tikun ([[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]).
+
 ## Relacionados
 
 [[Kapará]] · [[Moedim]] · [[Yom Teruá]] · [[Sucot]] · [[Shemini Atzeret]] · [[Yovel]] · [[Shemitá]] · [[Shofar]] · [[Shofar HaGadol]] · [[Kohen Gadol]] · [[Azazel]] · [[Lashon shel Zehorit]] · [[Yoma 39b]] · [[Goel]] · Levítico 25.9
@@ -57,3 +60,4 @@ Num processo de despejo, a data da audiência está marcada em cartório. A Tor�
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

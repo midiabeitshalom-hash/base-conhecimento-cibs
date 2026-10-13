@@ -38,6 +38,7 @@ date_captured: 2026-10-05
 
 **Estudos da base que citam versículos destas leituras:**
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — Torá: Levítico 23.32, Levítico 23.5
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — Torá: Levítico 23, as santas convocações como relógio profético do Apocalipse
 
 ## Sequência do ciclo
 

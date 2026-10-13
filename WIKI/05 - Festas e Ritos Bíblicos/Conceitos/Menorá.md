@@ -51,3 +51,4 @@ Pendure a Menorá na parede como um calendário. Os três braços da direita já
 
 ## Aparece em
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

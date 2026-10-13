@@ -181,6 +181,7 @@ A chave hermenêutica central repousa no entendimento do calendário de [[Levít
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — mostra como o Quarto Império "mudou os tempos" e trocou o Shabat pelo domingo, a mudança que esta cronologia desmonta.
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — trata da mesma Roma que institucionalizou o "Domingo de Páscoa" e afastou a fé das raízes hebraicas.
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — reúne outros sinais que comprovam a messianidade de Yeshua, ao lado do sinal de Jonas.
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — mostra Pessach, Matzot e Bikurim como as festas cumpridas na primeira vinda.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Shabbaton]] / [[Yom Tov]]:** Termo hebraico para os feriados sagrados e descansos anuais instituídos em Levítico 23, distintos do Shabat semanal do sétimo dia.

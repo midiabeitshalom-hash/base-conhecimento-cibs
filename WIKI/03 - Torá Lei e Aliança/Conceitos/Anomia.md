@@ -52,3 +52,4 @@ O raio-X mostra a fratura, mas não é a fratura. A Torá mostra o pecado; *anom
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

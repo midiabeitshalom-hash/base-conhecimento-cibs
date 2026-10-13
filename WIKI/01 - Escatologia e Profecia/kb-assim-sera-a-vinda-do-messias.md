@@ -190,6 +190,7 @@ Nenhuma festa de outono foi revogada; elas representam o roteiro profético pend
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — examina a cronologia de *Pessach*, *Matzot* e *Bikurim* na morte e ressurreição de Yeshua.
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — lê as guerras de 1973 e 2023 pelas festas de outono e pelo jubileu, o mesmo relógio que aqui aponta o retorno de Yeshua.
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]] — também lê os *Moedim* como calendário profético e como portais espirituais, a chave usada aqui.
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — lê o Apocalipse inteiro pelo calendário: trombetas e tribulação, Kippur e ressurreição, Sucot e o tabernáculo de D'us.
 
 ### Mini-Glossário de Termos Especializados
 

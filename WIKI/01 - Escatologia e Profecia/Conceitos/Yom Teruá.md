@@ -45,3 +45,4 @@ Num quartel, o toque de alvorada acorda todo mundo ao mesmo tempo e ninguém per
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

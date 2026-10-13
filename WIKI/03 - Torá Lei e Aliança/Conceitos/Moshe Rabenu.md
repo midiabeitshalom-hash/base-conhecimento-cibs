@@ -82,3 +82,4 @@ Moisés é o primeiro mediador e o molde do último. Quem quer reconhecer o Mess
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

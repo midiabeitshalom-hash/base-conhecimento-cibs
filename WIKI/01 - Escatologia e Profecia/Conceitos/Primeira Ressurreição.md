@@ -47,3 +47,4 @@ Numa fila, quem é o primeiro não tem ninguém na frente. João diz que esta é
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

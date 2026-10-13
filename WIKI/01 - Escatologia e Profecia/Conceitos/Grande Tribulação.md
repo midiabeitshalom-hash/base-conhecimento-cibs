@@ -46,3 +46,4 @@ Quem acredita que o avião vai decolar antes da tempestade não leva guarda-chuv
 
 ## Aparece em
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

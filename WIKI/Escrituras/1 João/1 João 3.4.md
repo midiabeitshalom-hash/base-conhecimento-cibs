@@ -33,3 +33,4 @@ A base também usa o versículo para distinguir [[Graça]] de licença: a graça
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

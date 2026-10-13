@@ -155,6 +155,7 @@ As próprias palavras de Yeshua no Monte das Oliveiras consolidam essa cronologi
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — define o remanescente pela guarda da Torá e pelo testemunho de Yeshua, o mesmo critério do Princípio da Perseverança desta nota.
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]] — liga a Última Trombeta de 1 Coríntios 15 às festas de outono e ao retorno público de Yeshua.
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]] — aprofunda a escalada bélica pós-2023 que esta nota lê como princípio das dores.
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — situa a ressurreição depois da tribulação no Yom Kippur profético e a besta como o bode lançado vivo.
 
 ### Mini-Glossário Técnico-Teológico
 1. **[[Pós-Tribulacionismo]]:** Posição escatológica clássica que sustenta que a Igreja/povo eleito passará por todo o período da Tribulação, sendo arrebatada e unida a Yeshua no momento de Sua manifestação visível final.

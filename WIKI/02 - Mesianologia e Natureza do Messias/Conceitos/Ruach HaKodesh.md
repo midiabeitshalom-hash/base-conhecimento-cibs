@@ -69,3 +69,4 @@ O seu hálito sai de você, carrega o seu calor e a sua voz, chega aonde você n
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

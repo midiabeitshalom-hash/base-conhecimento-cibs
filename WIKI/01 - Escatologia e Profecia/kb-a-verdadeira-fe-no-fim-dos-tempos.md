@@ -172,6 +172,7 @@ Sem referência específica citada.
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]] — liga o Sinai ao derramar do Ruach, o avivamento que une Torá e testemunho de Yeshua no fim dos tempos.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra os primeiros messiânicos, Nazarenos e Ebionitas, que já viviam a união entre fé em Yeshua e guarda da Torá defendida aqui.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — desenvolve quem são as ovelhas perdidas da Casa de Israel e por que o retorno passa pela lembrança da Torá (Oseias 4.6).
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — o juízo pelas obras e pelo livro da Lei: o perdão é dos que obedecem.
 
 ### Mini-Glossário de Termos Especializados
 

@@ -164,6 +164,7 @@ Rav Yosef confronta a teologia tradicional com uma questão histórica incontorn
 - [[kb-a-operacao-do-erro-no-tempo-do-fim|A operação do erro no tempo do fim]] — mostra o fruto do antinomismo combatido aqui: a *Anomia* carismática e o engano que alcança quem rejeita a Torá.
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — mostra na prática um dos frutos da falsa oposição desmontada aqui: a liberação das carnes imundas.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — mostra a anulação da Torá como a barreira cristã ao retorno das tribos.
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — responde a "basta acreditar em Yeshua" com o juízo segundo as obras de Apocalipse 20.12.
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Kapará|Kaparot]] / [[Kapará|Capará]] (Expiação/Cobertura):** Do radical hebraico *K-F-R* (cobrir). Mecanismo jurídico-espiritual pelo qual a culpa do transgressor é coberta pela morte de um substituto inocente.

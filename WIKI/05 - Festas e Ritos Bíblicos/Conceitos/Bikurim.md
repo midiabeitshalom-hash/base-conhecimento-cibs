@@ -53,3 +53,4 @@ O agricultor que leva o primeiro feixe ao Templo está dizendo: "o resto da colh
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

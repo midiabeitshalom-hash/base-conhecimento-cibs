@@ -45,3 +45,4 @@ Uma obra de restauro num prédio antigo não derruba a fachada para fazer outra.
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

@@ -53,6 +53,9 @@ O [[Talmud Bavli]] ensina que *Zachor* e *Shamor* foram ditos "numa só palavra"
 
 Um casamento tem data de aniversário. Ninguém comemora "um dia qualquer do ano, tanto faz". O Shabat é o aniversário semanal da criação e o sinal da aliança: D'us marcou o dia, e quem ama guarda a data.
 
+## O dia do Senhor e o portal da eternidade
+Rav Yosef ensina que o "dia do Senhor" de Apocalipse 1.10, em que Yochanan foi arrebatado em espírito, é o Shabat, e nunca o domingo: o Filho do Homem é Senhor do sábado (Mateus 12.8). O tempo aprisiona o ser humano no presente; o Shabat é "uma janela de escape, uma janela de acesso para a eternidade", o portal que prepara o espírito para a revelação. Por isso ele deve ser recebido, celebrado e despedido, e por isso a maior parte das curas e dos ensinos de Yeshua aconteceu no Shabat ([[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]).
+
 ## Relacionados
 
 [[Zachor e Shamor]] · [[Shabbaton]] · [[Shabat Milenar]] · [[Havdalá]] · [[Dia da Preparação]] · [[Moedim]] · [[Levítico 23]] · Êxodo 20.8 · [[Daniel 7.25]] · [[Mudar os Tempos e a Lei]] · [[Sinal de Jonas]] · [[Torá]] · [[Mitzvot]] · [[Kavanah]] · [[Cristãos-Novos]]
@@ -75,3 +78,4 @@ Um casamento tem data de aniversário. Ninguém comemora "um dia qualquer do ano
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

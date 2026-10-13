@@ -47,3 +47,4 @@ Antes de Pessach, a família vasculha a casa atrás de migalhas de fermento. É 
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

@@ -63,3 +63,4 @@ Yochanan começa o Evangelho com "no princípio", como Gênesis, e termina o Apo
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]]
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

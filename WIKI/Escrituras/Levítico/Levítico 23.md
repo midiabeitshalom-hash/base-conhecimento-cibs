@@ -35,3 +35,4 @@ O capítulo também ancora o calendário profético: o ciclo anual, o ciclo sab�
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

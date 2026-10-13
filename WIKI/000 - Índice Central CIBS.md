@@ -10,10 +10,10 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (7 categorias · 40 notas · 300 conceitos)
+## Categorias (7 categorias · 41 notas · 301 conceitos)
 
 - [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 3 notas · 9 conceitos
-- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 14 notas · 88 conceitos
+- [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 15 notas · 89 conceitos
 - [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 6 notas · 32 conceitos
 - [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 5 notas · 51 conceitos
 - [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 7 notas · 45 conceitos
@@ -50,6 +50,7 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]] · _Fundamentos da Beit Shalom_
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]] · _Torá Lei e Aliança_
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] · _Torá Lei e Aliança_
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] · _Escatologia e Profecia_
 - [[kb-o-contrato-de-6000-anos-posse-de-satanas|O contrato de 6.000 anos: a reintegração de posse da Terra e os jubileus]] · _Escatologia e Profecia_
 - [[kb-o-falso-arrebatamento-e-a-marca-da-besta|O falso arrebatamento e a marca da besta: a ressurreição depois da tribulação]] · _Escatologia e Profecia_
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] · _Torá Lei e Aliança_

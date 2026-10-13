@@ -54,3 +54,4 @@ Quem marca uma reunião manda a agenda com data e hora. D'us mandou a dele em Le
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

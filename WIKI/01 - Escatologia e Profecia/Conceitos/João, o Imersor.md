@@ -41,3 +41,4 @@ Em [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondi
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

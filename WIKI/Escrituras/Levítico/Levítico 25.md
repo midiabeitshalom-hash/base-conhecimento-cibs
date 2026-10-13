@@ -32,3 +32,4 @@ O capítulo integra o relógio dos [[Moedim]] de [[Levítico 23]], formando o ca
 - [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]
+- [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]

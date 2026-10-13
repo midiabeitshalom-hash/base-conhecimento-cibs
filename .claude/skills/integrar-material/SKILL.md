@@ -78,6 +78,9 @@ Essa lista é o seu checklist. No fim, todo item dela precisa estar na nota.
    `[[Parashá <Nome>]]` em "Notas relacionadas na base" e acrescente o estudo na nota da parashá.
 5. **Notas relacionadas:** de 3 a 8 notas `kb-` reais, com uma frase sobre a relação. Acrescente o link
    de volta nas notas antigas (só acrescentar). Atualize "Aparece em" dos conceitos e fontes usados.
+   Para os passos mecânicos ("Aparece em" de todos os links, links de volta, parashá e seções novas
+   em conceitos), use `python3 scripts/conectar_nota.py <kb-slug> conexoes.json` (formato no topo do
+   script). Ele só acrescenta e não duplica.
 6. **Fundamentos:** se o estudo traz posição, argumento ou ferramenta nova, acrescente em
    `kb-pilares-doutrinarios-beit-shalom.md` ou `kb-metodo-e-linha-de-pensamento-rav-yosef.md`, com link.
 
