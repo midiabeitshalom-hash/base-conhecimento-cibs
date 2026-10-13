@@ -206,6 +206,7 @@ Sem referência específica citada.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — trata de Gênesis 1:26-27, o versículo do homem como imagem e microcosmo.
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — desenvolve a batalha contra o *Yetzer HaRá*, que esta nota coloca como a verdadeira guerra espiritual.
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — liga as *Mitzvot* ao reparo da criação, o mesmo *Tikkun* que aqui ancora a presença de Deus em *Assiá*.
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — aplica a estrutura dos quatro mundos ao funcionamento da mente humana.
 
 ### Mini-Glossário Analítico
 1. **[[Arba'ah Olamot]] (אַרְבָּעָה עוֹלָמוֹת):** A doutrina mística dos quatro mundos descendentes de emanação espiritual (*Atzilut*, *Beriá*, *Yetzirá*, *Assiá*), através dos quais a luz infinita de Deus é filtrada até a formação do plano físico.

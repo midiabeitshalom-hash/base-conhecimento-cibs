@@ -241,6 +241,7 @@ A espiritualidade autêntica da Torá não tolera a fragmentação da existênci
 - [[kb-o-messias-estava-la-or-haganuz-ein-sof|O Messias estava lá? Or HaGanuz, Ein Sof e a luz oculta da criação]] — descreve a luz do *Ein Sof* que desce pelos mundos, a mesma luz que aqui é obstruída ou liberada.
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — desenvolve a alimentação limpa, um dos pilares físicos do cuidado com o templo corpóreo.
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]] — explica o *Tzimtzum* e o Adam Kadmon de Gênesis 1.26, o começo do caminho da luz pelos quatro mundos descritos aqui.
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — leva os quatro mundos para dentro da mente: ideia, razão, emoção e ação.
 
 ### Mini-Glossário Analítico
 1. **[[Atzilut]] (אֲצִילוּת):** O nível supremo da criação emanada, caracterizado pela unidade perfeita com o Criador, ausência de separação e manifestação da pura sabedoria divina (*Chochmá*).

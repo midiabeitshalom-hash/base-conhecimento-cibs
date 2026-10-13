@@ -40,6 +40,9 @@ O Shemá é a primeira coluna do pilar do monoteísmo estrito: D'us é um, indiv
 
 O Shemá funciona como o juramento de quem sobe ao banco de testemunhas: "eu vi, eu ouvi, e é um só". Cada vez que o recitamos, assinamos de novo esse testemunho com a boca e com a vida.
 
+## O código diário da mente
+Mike lê o mandamento de dizer o Shemá "ao deitar e ao levantar" (Deuteronômio 6.7) como o "código que o Eterno deixou para você programar a sua mente diariamente": nesses momentos o cérebro está mais receptivo, e a declaração do amor a D'us e ao próximo vai reformando o caráter ([[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]).
+
 ## Relacionados
 
 [[Adonai Echad]] · [[Monoteísmo Estrito]] · [[Tetragrama]] · [[Akadosh Baruch Hu]] · [[Trindade]] · [[Avodah Zarah]] · [[Homoousios]] · [[Mitzvot]] · [[Deuteronômio 6.4]] · Marcos 12.29
@@ -49,3 +52,4 @@ O Shemá funciona como o juramento de quem sobe ao banco de testemunhas: "eu vi,
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]

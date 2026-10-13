@@ -36,6 +36,9 @@ O quadro preserva o [[Monoteísmo Estrito]]: os anjos de *Yetzirá* são criatur
 
 No canteiro de obras, a forma de madeira decide o formato da coluna antes do concreto chegar. Se a forma está torta, a coluna sai torta. As emoções são as formas da vida. Quem endireita as formas, com a Torá e com a oração, vê a ação sair reta.
 
+## Yetzirá dentro da mente
+No estudo *Poder Criativo*, Mike aplica os quatro mundos à mente ("assim como é no macro, também é no micro"): Atzilut são as ideias, Beriá é a estrutura que o córtex pré-frontal dá a elas, Yetzirá são as emoções e o subconsciente, e Assiá são as ações. Para ele, Yetzirá é "o mundo mais importante dentro de nós": o pensamento carregado de emoção entra no subconsciente e passa a filtrar o que a pessoa vê, atrai ou afasta. *Yetzirá* tem a mesma raiz de *yetzer*, a inclinação que pode formar o bem ou o mal ([[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]).
+
 ## Relacionados
 
 [[Arba'ah Olamot]] · [[Atzilut]] · [[Beriá]] · [[Assiá]] · [[Sefirot]] · [[Chesed]] · [[Tiferet]] · [[Yetzer HaRá]] · [[Yetzer Tov]] · [[Olam Katan]] · [[Sulam Ya'akov]] · [[Tzimtzum]] · [[Gênesis 1.1]] · Gênesis 2.7
@@ -47,3 +50,4 @@ No canteiro de obras, a forma de madeira decide o formato da coluna antes do con
 - [[kb-facamos-o-homem-genesis-1-26-adam-kadmon|Façamos o homem: com quem D-us falava em Gênesis 1.26]]
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]]
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]

@@ -38,3 +38,4 @@ Duas pessoas acendem a mesma vela na sexta à tarde. Uma acende porque escureceu
 
 ## Aparece em
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]

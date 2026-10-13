@@ -52,3 +52,4 @@ Eclesiastes conta de uma cidade pequena cercada por um rei poderoso e salva por 
 
 ## Aparece em
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]

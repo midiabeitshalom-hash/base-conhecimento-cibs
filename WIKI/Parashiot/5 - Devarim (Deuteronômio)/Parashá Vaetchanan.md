@@ -44,6 +44,7 @@ date_captured: 2026-10-05
 - [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]] — Torá: Deuteronômio 6.13; Berit Hadashah: Mateus 4.8
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — Torá: Deuteronômio 6.13, Deuteronômio 6.4; Berit Hadashah: 1 Timóteo 2.5, Mateus 4.8
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]] — Torá: Deuteronômio 4.2
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — Torá: Deuteronômio 6.4-7, o Shemá ao deitar e ao levantar como programação diária da mente
 
 ## Sequência do ciclo
 

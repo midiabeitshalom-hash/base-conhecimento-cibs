@@ -150,6 +150,7 @@ As *Kelipot* (Cascas) são barreiras místicas que ocultam a manifestação dire
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]] — trata da corrupção da natureza humana na queda e do *Tikkun* do caráter, o mesmo processo visto aqui como refinamento (*Birur*).
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] — lê os impérios de Daniel como feras, imagem da alma animal (*Nefesh HaBehamit*) descrita aqui.
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]] — mostra o homem como microcosmo dos quatro mundos e situa ali a mesma guerra contra o *Yetzer HaRá* tratada aqui.
+- [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]] — liga Yetzirá ao *yetzer* (a mesma raiz) e às duas inclinações.
 
 ### Mini-Glossário de Termos Especializados
 
