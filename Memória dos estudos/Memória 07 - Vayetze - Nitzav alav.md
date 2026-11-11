@@ -27,6 +27,13 @@ Arquivo de controle do projeto. Registra o que este estudo já disse, para que o
 - O dízimo antes do Sinai e a resposta à objeção levítica; o dízimo à casa onde a Torá é ensinada.
 - O bezerro de Jeroboão e o verbo *he'elah* (Conexão A).
 
+## Já usado em estudos anteriores (repetido aqui)
+
+- O monte Moriá como Jerusalém e 2 Crônicas 3:1, já em Vayera (Rashi a 22:2); aqui como a história do lugar do sonho.
+- O último Adam (1 Coríntios 15:45), Bereshit 5:3 e 1 Coríntios 15:28, já em Chayei Sarah; aqui desenvolvidos como capítulo IV.
+- Devarim 8:18, o maná e o Shabat, *kelipat nogah*, as faíscas do permitido e o dízimo com Malki-Tzedek, já em Lech Lecha e Toledot.
+- O primogênito com uma fonte (a honra ao Bechor, o culto ao Criador), já em Toledot.
+
 ## Tocado de leve (pode ser aprofundado em outro estudo)
 
 - Os terafim e a impureza da idolatria; *yishpetu* e o Pachad Yitzchak.
