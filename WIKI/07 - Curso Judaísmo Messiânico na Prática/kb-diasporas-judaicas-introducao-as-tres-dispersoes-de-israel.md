@@ -4,12 +4,12 @@ titulo_original: "Introdução — Diásporas Judaicas"
 origem: beit-shalom
 creator_channel: "Congregação Israelita Beit Shalom"
 autor_do_estudo: "Rav Yosef"
-programa: "Curso Judaísmo Messiânico na Prática — Diásporas Judaicas"
+programa: "Curso Judaísmo Messiânico na Prática — módulo Diásporas Judaicas, aula 1 (Introdução)"
 source_url: "Curso Judaísmo Messiânico na Prática, aula Introdução (arquivo Introdução.mp4, 14 min)"
 source_type: video
 date_captured: 2026-11-12
-topic_category: "História Arqueologia e Identidade Judaica"
-tags: [diasporas, casa-de-israel, casa-de-juda, efraim, assiria, babilonia, roma, yehudim, dez-tribos, curso]
+topic_category: "Curso Judaísmo Messiânico na Prática"
+tags: [curso-jmp, modulo-diasporas, aula-01, diasporas, casa-de-israel, casa-de-juda, efraim, assiria, babilonia, roma, yehudim, dez-tribos, curso]
 type: universal-knowledge-base
 knowledge_depth: exhaustive-academic
 ---

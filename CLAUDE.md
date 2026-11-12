@@ -61,6 +61,7 @@ para a nota nova. Só acrescente, nunca reescreva.
 | `04 - Mística e Cosmogonia Judaica` | criação, Ein Sof, Tzimtzum, Or HaGanuz, Adam Kadmon, os 4 mundos, sefirot, Tikkun Olam, Éden |
 | `05 - Festas e Ritos Bíblicos` | moedim (Pessach, Shavuot, Sucot…), imersão (tevilá), calendário bíblico, ressurreição |
 | `06 - História Arqueologia e Identidade Judaica` | Segundo Templo, grupos judaicos do 1º século, Bnei Anussim, DNA abraâmico, identidade |
+| `07 - Curso Judaísmo Messiânico na Prática` | as aulas do curso de formação da Beit Shalom, módulo por módulo, na ordem do curso |
 
 `Escrituras/`, `Fontes/` e `Parashiot/` são áreas de referência, fora da numeração.
 
@@ -74,6 +75,20 @@ para a nota nova. Só acrescente, nunca reescreva.
      acrescente a linha nesta tabela e inclua a categoria no "Ver também" de 1 ou 2 vizinhas. Avise o Mike.
   4. Se uma categoria passar de ~30 notas e houver um subgrupo claro com 8 ou mais, **proponha** o
      desmembramento ao Mike. Não execute sozinho.
+
+## Aulas do curso Judaísmo Messiânico na Prática
+
+Toda aula do curso vira uma nota `kb-` em `WIKI/07 - Curso Judaísmo Messiânico na Prática/`, e não na categoria
+do assunto. Regras:
+- `topic_category: "Curso Judaísmo Messiânico na Prática"`; `programa` = "Curso Judaísmo Messiânico na Prática — módulo
+  <Módulo>, aula <N> (<Título>)"; tags incluem `curso-jmp`, `modulo-<slug>` e `aula-NN`.
+- Os conceitos e as fontes que a aula criar ficam nas categorias de cada assunto (`Conceitos/` da categoria temática),
+  como sempre, e se ligam de volta à aula em "Aparece em".
+- A nota da fonte `[[Curso Judaísmo Messiânico na Prática]]` lista as aulas por módulo, na ordem do curso: acrescente
+  a aula nova ali. As aulas do mesmo módulo se linkam nos dois sentidos (anterior e próxima) em "Notas relacionadas na base".
+- Vídeo local: transcreva com `whisper-cli`, extraia frames (`fps=1/20`) para ler os slides, guarde a transcrição bruta
+  em `RAW/_midia/_processados/curso-jmp/` (fora do Git) e apague o vídeo depois. Se houver o PDF da aula, use-o para
+  conferir os slides.
 
 ## Fluxo de ingestão por tipo de entrada
 

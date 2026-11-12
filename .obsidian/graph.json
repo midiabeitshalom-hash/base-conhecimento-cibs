@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 9654550
       }
+    },
+    {
+      "query": "path:\"WIKI/07 - Curso Judaísmo Messiânico na Prática\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.47320396984494156,
+  "scale": 0.48088411587501484,
   "close": true
 }

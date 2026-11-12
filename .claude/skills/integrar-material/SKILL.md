@@ -49,6 +49,10 @@ Antes da nota, faça uma lista de trabalho (só para você) com tudo que o mater
 
 Essa lista é o seu checklist. No fim, todo item dela precisa estar na nota.
 
+## 2b. Aulas do curso Judaísmo Messiânico na Prática
+Se o material for aula do curso (o Mike avisa), siga a seção "Aulas do curso" do `CLAUDE.md`: a nota vai para
+`WIKI/07 - Curso Judaísmo Messiânico na Prática/`, e a aula é acrescentada à fonte `Curso Judaísmo Messiânico na Prática`.
+
 ## 3. Escrever a nota `kb-`
 - Siga o modelo do `CLAUDE.md` ("Formato da nota de estudo"). As 5 seções, nessa ordem.
 - **Decomposição Analítica Exaustiva**: uma subseção `###` por tema, na ordem do estudo, com o
