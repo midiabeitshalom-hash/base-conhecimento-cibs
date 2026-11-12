@@ -32,3 +32,4 @@ Quando alguém diz "judeu não é assim", lembre: esse é o judeu do leste europ
 ## Aparece em
 - [[kb-diasporas-judaicas-aula-3-judeus-africanos-samaritanos-e-asquenazitas|Diásporas judaicas, aula 3: os judeus africanos, os samaritanos, os asquenazitas e a judaicidade da alma]]
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

@@ -30,6 +30,12 @@ Para Rav Yosef, João é o profeta de transição que liga a Torá e os Profetas
 
 Em [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]], João realiza a *Tevilá* de arrependimento no mesmo ponto do Jordão onde Josué ergueu as pedras e Naamã foi curado, e aponta para aquele que imergiria "com o Espírito Santo e com fogo". Os discípulos de Éfeso que só tinham a imersão de João são imersos em nome de Yeshua e recebem o Espírito (Atos 19). O guia de voz pede "João, o Imersor" no lugar de "João Batista" ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]).
 
+## Sacerdote e imersor
+Na aula 1 de Denominações, Rav Yosef lembra que Yochanan é sacerdote, da linhagem de Arão, e que os fariseus e doutores da lei que não receberam sua imersão rejeitaram "o conselho de D'us contra si mesmos" (Lucas 7.29-30) ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
+## Yochanan e os essênios
+Na aula 2 de Denominações, Rav Yosef lê a descrição de Mateus 3.1-6 (deserto da Judeia, pelos de camelo, gafanhotos e mel) como a identificação do grupo a que Yochanan pertencia: os essênios, sacerdotes que esperavam o Mashiach no deserto ([[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Tevilá]] · [[Teshuvá]] · [[Rio Jordão]] · [[Yeshua]] · [[Profeta Elias]] · [[Corban Pessach]] · [[Novo Nascimento]] · [[Yochanan HaShaliach]] · [[Fariseus]] · [[Saduceus]] · Mateus 3 · Mateus 3.8 · Mateus 3.13 · Atos 19
@@ -42,3 +48,5 @@ Em [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondi
 - [[kb-os-4-niveis-dos-mundos-espirituais-arvore-da-vida|Os 4 níveis dos mundos espirituais: a Árvore da Vida e o ser humano como microcosmo]]
 - [[kb-isso-estava-escondido-no-rio-jordao-imersao-messias|O que estava escondido no rio Jordão: a imersão do Messias e o novo nascimento]]
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

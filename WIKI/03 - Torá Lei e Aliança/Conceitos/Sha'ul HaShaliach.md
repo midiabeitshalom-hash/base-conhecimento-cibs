@@ -48,6 +48,12 @@ Gamaliel, o mestre de Sha'ul, é *Rabban Gamaliel HaZaken*, neto de Hillel, figu
 
 Imagine ler só a última página de um contrato e concluir que ele foi cancelado. É o que acontece com quem pesca frases de Sha'ul. O próprio Pedro avisou que as cartas dele seriam torcidas. Leia Romanos inteiro, de uma vez, com o Tanakh ao lado, e o fariseu aparece.
 
+## Fariseu diante do Sinédrio
+Na aula 1 de Denominações, Rav Yosef mostra Sha'ul declarando-se "fariseu, filho de fariseu" e usando a divisão entre fariseus e saduceus sobre a ressurreição para ganhar apoio à causa messiânica (Atos 23.6-9) ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
+## Em sinagogas
+Na aula 3 de Denominações, Rav Yosef mostra Sha'ul sempre no Shabat na sinagoga (Atos 13, 17, 18, 19), com "judeus e gregos" ouvindo, e confirma pelo próprio texto que, quando perseguia messiânicos, os açoitava "nas sinagogas" (Atos 22.19; 26.11) ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[Carta aos Romanos]] · [[Romanos 3.31]] · Romanos 7.12 · Romanos 11 · [[Oliveira de Romanos 11]] · [[Telos Nomou]] · [[Teologia da Substituição]] · [[Fariseus]] · [[Shaliah]] · [[Binyamin]] · [[Operação do Erro]] · [[Shimon Kefa]] · [[Ya'akov HaTzaddik]] · 1 Coríntios 15.51 · [[1 Tessalonicenses 4.15]] · [[Torá]]
@@ -81,3 +87,5 @@ Imagine ler só a última página de um contrato e concluir que ele foi cancelad
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

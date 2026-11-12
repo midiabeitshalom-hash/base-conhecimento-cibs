@@ -159,6 +159,9 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — narra o cristianismo gentílico pós-Constantino que eclipsou os Nazarenos e os Ebionitas.
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — mantém a mesma união entre fé em Yeshua e guarda da Torá que os primeiros messiânicos viviam.
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o contexto das diásporas anteriores ao mundo judaico do tempo de Yeshua.
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]] — as aulas do curso que aprofundam esta tabela com os textos: saduceus e fariseus (aula 1), essênios e zelotes (aula 2) e os messiânicos (aula 3).
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]] — o aprofundamento pelas aulas do curso sobre essênios e zelotes (aula 2 de Denominações).
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]] — o aprofundamento pela aula 3 de Denominações: o judaísmo messiânico, a religião de Yeshua, vivida nas sinagogas.
 
 ### Mini-Glossário de Conceitos Fundamentais
 1. **[[Yoma 39b]]:** Passagem talmúdica crucial que documenta os quatro presságios miraculosos negativos iniciados c. 30 EC no Templo de Jerusalém.

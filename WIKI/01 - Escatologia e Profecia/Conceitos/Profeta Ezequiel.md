@@ -45,3 +45,4 @@ Ezequiel 34 · Ezequiel 36 · [[Ezequiel 36.26]] · [[Ezequiel 37]] · Ezequiel 
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

@@ -36,3 +36,4 @@ Essa leitura se liga ao método do Rav Yosef. O helenismo que Alexandre espalhou
 
 ## Aparece em
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]

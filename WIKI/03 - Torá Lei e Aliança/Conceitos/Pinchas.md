@@ -31,6 +31,9 @@ O estudo [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tem
 
 A aliança que Pinchas recebe tem nome: *berit shalom*, aliança de paz. O zelo verdadeiro termina em paz e em sacerdócio, e não em revolta. O [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]] fixa a grafia Pinchas, com Fineias na exibição.
 
+## O zelo de Pinchas e os zelotes
+Na aula 2 de Denominações, Rav Yosef cita Pinchas (Números 25.11), que transpassou Zinri e Cosbi, como o modelo do zelo dos zelotes, ao lado de Matatias e dos macabeus ([[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Aharon HaKohen]] · [[Kohen Gadol]] · [[Tzadok]] · Números 25 · [[Bil'am]] · [[Zelotes]] · [[Profeta Elias]] · [[Avodah Zarah]] · [[Segundo Templo]] · [[Saduceus]] · [[Pedra Cortada sem Mãos]]
@@ -38,3 +41,4 @@ A aliança que Pinchas recebe tem nome: *berit shalom*, aliança de paz. O zelo 
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

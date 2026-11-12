@@ -43,9 +43,15 @@ A ideia de que "só a Torá" leva à frieza religiosa. O erro dos saduceus não 
 
 Os saduceus tinham o Templo, o cargo e o apoio de Roma, mas não tinham futuro. Quando o prédio caiu, não sobrou nada, porque toda a fé deles estava no prédio. A fé que guarda a Torá e espera a ressurreição continua de pé mesmo sem Templo.
 
+## O que a aula 1 de Denominações ensina
+Rav Yosef os descreve como o alto escalão sacerdotal que administra o Templo e domina o Sinédrio, que só aceita a Torá escrita e rejeita a ressurreição, os anjos e os espíritos; compara-os, na doutrina, aos caraítas de hoje, e mostra por que perguntam a Yeshua sobre a mulher de sete maridos ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Fariseus]] · [[Essênios]] · [[Zelotes]] · [[Tzadok]] · [[Shimon HaTzaddik]] · [[Kohen Gadol]] · [[Sinédrio]] · [[Segundo Templo]] · [[Primeira Ressurreição]] · [[Flávio Josefo]] · [[Torá]]
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

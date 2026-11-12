@@ -48,3 +48,4 @@ Isaías 53 · Isaías 11.1 · Isaías 42.1 · Isaías 43.10 · Isaías 45 · [[C
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]
 - [[kb-o-verdadeiro-formato-da-terra-4-mundos|O verdadeiro formato da criação: os 4 mundos espirituais e a escada de Jacó]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

@@ -232,6 +232,7 @@ O argumento de Rav Yosef é a arquitetura da cidade: "Se não houver a restaura�
 - [[Parashá Vayigash]] — Judá se aproxima de José, e a haftará é Ezequiel 37.15-28, as duas varas; [[Parashá Vayechi]] traz a bênção de Efraim (Gênesis 48).
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o quadro histórico do curso: a divisão do reino, Jeroboão e as três diásporas.
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — o retorno dos dispersos em casos concretos: os Bnei Menashe da Índia e os anussim do Brasil (Diásporas judaicas, aula 2).
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]] — a promessa de Ezequiel 37.21 mostrada em vídeo, na aula 4 de Diásporas.
 
 **Mini-glossário:**
 - *Zera* (זֶרַע): semente, descendência; na Torá, atribuída à linha do pai.

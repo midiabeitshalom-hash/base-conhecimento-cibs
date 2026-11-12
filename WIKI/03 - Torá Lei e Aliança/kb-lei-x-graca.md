@@ -236,6 +236,7 @@ Para compreender as cartas apostólicas e a epístola aos Hebreus, é imperativo
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] — mostra a Alma Divina domando a Alma Animal, a graça que capacita vista pelo lado da alma.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra pelos sinais do Templo em *Yoma 39b* que os sacrifícios perderam eficácia, o que confirma a função provisória dada a eles aqui.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — defende pelo princípio substitutivo das ofertas e de Yom Kippur que a expiação pelo justo é judaica.
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]] — a crítica de Yeshua à tradição que anula o mandamento, vista na aula 1 de Denominações (saduceus e fariseus).
 
 ### Mini-Glossário Analítico
 1. **[[Torá]] (תּוֹרָה):** Instrução ou ensino divino. Não significa "lei" no sentido romano opressivo, mas o manual de vida e santidade revelado pelo Criador.

@@ -37,9 +37,15 @@ A primeira é a imagem de um judaísmo do 1º século monolítico, igual ao juda
 
 Imagine uma família de sacerdotes que, revoltada com a corrupção da capital, se muda para o deserto e passa a vida copiando a Escritura e escrevendo um diário. Dois mil anos depois, um pastor beduíno acha esse diário numa caverna. É isso que Qumran nos deu: o retrato, escrito por eles mesmos, de como pensavam judeus da época de Yeshua.
 
+## O que a aula 2 de Denominações ensina
+Rav Yosef os descreve como sacerdotes que se afastaram de um Templo que consideravam corrompido pela helenização, para viver em pureza e esperar o Rei Mashiach; liga Yochanan, o Imersor, a esse meio e lê Atos 4.32-37 (bens em comum) como modelo essênio entre os discípulos de Yeshua ([[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Manuscritos do Mar Morto]] · [[Fariseus]] · [[Saduceus]] · [[Zelotes]] · [[Segundo Templo]] · [[Tzadok]] · [[Ebionitas]] · [[Nazarenos]] · [[Flávio Josefo]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Tevilá]] · [[Berit Hadashah]]
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

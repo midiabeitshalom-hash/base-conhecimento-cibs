@@ -42,3 +42,4 @@ A grafia canônica na base é Tzadok, com Tsadoque como exibição ([[kb-guia-de
 ## Aparece em
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]

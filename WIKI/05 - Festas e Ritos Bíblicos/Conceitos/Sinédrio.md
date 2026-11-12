@@ -41,9 +41,13 @@ Tratar "os judeus" como um bloco que condenou Yeshua. O próprio conselho estava
 
 Quem mais prestou atenção às palavras de Yeshua sobre os três dias foram os que não acreditavam nele. Eles contaram certo. Se até os adversários contaram três dias e três noites inteiros, não há motivo para que os discípulos contem menos.
 
+## O Sinédrio dividido em Atos
+Na aula 1 de Denominações, Rav Yosef mostra o Sinédrio como arena das denominações: os saduceus ocupam a maior parte das cadeiras, os fariseus são minoria, e Sha'ul usa a divisão entre eles (Atos 23.6-8) em sua defesa ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Kohen Gadol]] · [[Fariseus]] · [[Saduceus]] · [[Nicodemos]] · [[José de Arimateia]] · [[Pôncio Pilatos]] · [[70 Anciãos]] · [[Segundo Templo]] · [[Sinal de Jonas]] · [[Yoma 39b]] · [[Talmud Bavli]]
 
 ## Aparece em
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]

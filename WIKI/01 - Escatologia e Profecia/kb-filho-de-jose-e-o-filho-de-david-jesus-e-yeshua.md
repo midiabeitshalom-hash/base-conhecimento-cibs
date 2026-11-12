@@ -177,6 +177,7 @@ O relato de Gênesis fornece o roteiro profético do retorno escatológico:
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — aprofunda a casa de José: Efraim, as dez tribos e a união das duas varas na mão do Filho do Homem.
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]] — acompanha a aliança davídica de 2 Samuel 7 até Lucas 1.32-33 e Atos 2.29-30.
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — o pilar Yeshua × Jesus romano aplicado ao judeu sefaradi que crê em Yeshua (Diásporas judaicas, aula 2).
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]] — o Yeshua judeu e rabino que ensina na sinagoga (aula 3 de Denominações).
 
 ### Mini-Glossário Técnico-Tipológico
 1. **[[Zafenate-Paneia]] (*Zafnat Pa'neach*):** Nome egípcio outorgado a José em Gênesis 41:45, interpretado na tradição semítica como "Aquele que revela o que está oculto" ou "Sustentador do Mundo", símbolo da assimilação cultural exterior do Messias entre os gentios.

@@ -75,3 +75,4 @@ O Tanakh é o alicerce e a Berit Hadashah é o andar de cima. Ninguém demole o 
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

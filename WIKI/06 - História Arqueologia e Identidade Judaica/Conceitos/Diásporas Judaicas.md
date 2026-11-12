@@ -37,3 +37,4 @@ Pense numa família que se espalhou em três ondas: os do Norte saíram e não v
 ## Aparece em
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

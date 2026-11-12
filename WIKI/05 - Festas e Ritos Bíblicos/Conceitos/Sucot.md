@@ -49,3 +49,4 @@ Uma semana numa cabana de ramos ensina o que a casa de alvenaria faz esquecer: a
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

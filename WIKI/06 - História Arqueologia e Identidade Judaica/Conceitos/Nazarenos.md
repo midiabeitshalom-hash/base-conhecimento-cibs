@@ -43,6 +43,9 @@ A ideia de que a fé em Yeshua nasceu como religião separada do judaísmo e de 
 
 Uma árvore cortada ainda solta brotos da raiz. Isaías chama o Messias de *netzer*, broto do tronco de Jessé. Os Nazarenos foram o primeiro broto, e quem hoje volta à Torá crendo em Yeshua está brotando da mesma raiz.
 
+## Os messiânicos nas sinagogas
+Na aula 3 de Denominações, Rav Yosef afirma que os discípulos de Yeshua eram judeus nas sinagogas, e que o judaísmo messiânico existe desde os primórdios, perseguido por judeus, por Roma e hoje pelos dois lados ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[Ebionitas]] · [[Segundo Templo]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Zelotes]] · Isaías 11.1 · [[Bnei Anussim]] · [[Teologia da Substituição]] · [[Ya'akov HaTzaddik]] · [[Sha'ul HaShaliach]]
@@ -50,3 +53,5 @@ Uma árvore cortada ainda solta brotos da raiz. Isaías chama o Messias de *netz
 ## Aparece em
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

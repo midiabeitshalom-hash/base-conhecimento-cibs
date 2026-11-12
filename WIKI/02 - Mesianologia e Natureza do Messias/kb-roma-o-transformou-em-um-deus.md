@@ -183,6 +183,8 @@ O estudo elucida a raiz histórica e linguística da distorção romana:
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — propõe aos *Bnei Anussim* um Yeshua despido da roupagem helenística e dos concílios romanos descritos aqui.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra Nazarenos e Ebionitas, guardadores da Torá eclipsados pelo cristianismo gentílico pós-Constantino que esta nota narra.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — mostra o crucifixo incensado como o Neustã moderno, o instrumento da salvação transformado em ídolo.
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]] — a base doutrinária farisaica do Brit Hadashah, que a aula 1 de Denominações aponta como a raiz do que o cristianismo ainda aceita.
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]] — a pergunta final da aula 3 de Denominações: como o molde judaico virou outra religião?
 
 ### Mini-Glossário Técnico-Hermenêutico
 1. **[[Hishtachavah]] / [[Proskynesis]]:** Ato de prostração física com o rosto em terra para expressar profunda reverência, sujeição civil e respeito a reis, profetas ou superiores, distinto da adoração sacrificial devotada unicamente a Deus.

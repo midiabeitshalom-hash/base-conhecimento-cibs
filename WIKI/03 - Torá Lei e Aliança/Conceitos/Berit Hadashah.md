@@ -85,3 +85,4 @@ Jeremias 31 · [[Jeremias 31.31]] · [[Ezequiel 36.26]] · Êxodo 24 · Hebreus 
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

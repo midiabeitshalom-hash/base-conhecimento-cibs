@@ -19,6 +19,12 @@ O curso é fonte primária da base: cada aula vira uma nota de estudo na categor
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — aula de introdução: do Egito à divisão do reino, as três diásporas e a pergunta do marcador na alma.
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — Mapas: as três diásporas no mapa, teimanim, sefaradim e o Brasil dos anussim, Bnei Menashe e Kaifeng.
 - [[kb-diasporas-judaicas-aula-3-judeus-africanos-samaritanos-e-asquenazitas|Diásporas judaicas, aula 3: os judeus africanos, os samaritanos, os asquenazitas e a judaicidade da alma]] — os judeus africanos, os samaritanos, os asquenazitas e a conclusão da alma.
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]] — galeria em vídeo das comunidades, aberta por Ezequiel 37.21 e fechada na Beit Shalom.
+
+**Módulo Denominações Judaicas**
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]] — os tzadokim e os perushim, a helenização, a Torá oral e Yeshua com os fariseus.
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]] — os sacerdotes do deserto, Yochanan e a comunidade de bens, os zelotes e a pergunta do tributo.
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]] — Yeshua e os discípulos nas sinagogas, e a pergunta de como o molde judaico virou outra religião.
 
 ## Relacionados
 [[Congregação Israelita Beit Shalom]] · [[Diásporas Judaicas]]
@@ -26,3 +32,7 @@ O curso é fonte primária da base: cada aula vira uma nota de estudo na categor
 ## Aparece em
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

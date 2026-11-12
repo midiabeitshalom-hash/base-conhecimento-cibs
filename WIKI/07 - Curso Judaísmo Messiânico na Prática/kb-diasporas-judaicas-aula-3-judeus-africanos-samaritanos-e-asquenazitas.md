@@ -173,6 +173,7 @@ Rav Yosef: "os samaritanos, eles são conhecidos como israelitas… **Lembra que
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]] — o retorno dos dispersos no tempo do fim.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — os samaritanos no tempo de Yeshua.
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — a aula anterior (Mapas): o mapa das diásporas, os teimanim, os sefaradim e os Bnei Menashe, de que esta aula é a continuação.
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]] — a aula seguinte do módulo: uma galeria em vídeo das comunidades.
 
 **Mini-glossário:**
 - *Aliá* (עֲלִיָּה): "subida"; a imigração de judeus para Israel.

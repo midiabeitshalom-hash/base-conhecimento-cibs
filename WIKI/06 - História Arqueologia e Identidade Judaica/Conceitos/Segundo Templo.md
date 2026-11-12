@@ -43,6 +43,9 @@ Projetar sobre o 1º século o judaísmo rabínico posterior ou o cristianismo d
 
 Imagine um hospital que, por quarenta anos, vê os aparelhos darem sinal de que o tratamento parou de funcionar, até o prédio fechar. Os próprios médicos anotaram os sinais no prontuário. A pergunta é: qual tratamento passou a funcionar no lugar?
 
+## As denominações e o Templo
+Na aula 1 de Denominações, Rav Yosef separa as funções: os saduceus administravam o Templo e os sacrifícios; os fariseus, as sinagogas, as escolas e o serviço de Shabat ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Yoma 39b]] · [[Ner HaMa'aravi]] · [[Lashon shel Zehorit]] · [[Corbanot]] · [[Kapará]] · [[Kohen Gadol]] · [[Esdras]] · [[Neemias]] · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Flávio Josefo]] · [[Terceiro Templo]] · [[Mashiach Nagid]]
@@ -52,3 +55,6 @@ Imagine um hospital que, por quarenta anos, vê os aparelhos darem sinal de que 
 - [[kb-o-que-foi-perdido-no-eden-e-como-restaurar|O que foi perdido no Éden e como restaurar: a Torá como código da criação]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

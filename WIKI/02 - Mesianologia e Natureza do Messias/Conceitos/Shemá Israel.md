@@ -53,3 +53,4 @@ Mike lê o mandamento de dizer o Shemá "ao deitar e ao levantar" (Deuteronômio
 - [[kb-a-trindade-e-idolatria|A Trindade é idolatria? O monoteísmo hebraico, Niceia e o Adam Kadmon]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]
 - [[kb-o-poder-criativo-da-mente-e-os-quatro-mundos|O poder criativo da mente e os quatro mundos: da ideia à realidade]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

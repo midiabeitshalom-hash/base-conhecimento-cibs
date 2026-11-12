@@ -60,3 +60,4 @@ Na semana, seis dias de trabalho preparam o Shabat. Na história, seis mil anos 
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
 - [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

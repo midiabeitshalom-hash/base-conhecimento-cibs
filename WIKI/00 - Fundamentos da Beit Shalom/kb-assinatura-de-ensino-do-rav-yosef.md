@@ -152,6 +152,18 @@ Acrescentado a partir da aula de mapas do mesmo módulo ([[kb-diasporas-judaicas
 - **A pergunta imaginada do aluno** ("Talvez você pense assim: o judeu é uma coisa só", "Poxa, muda muito a face") respondida na hora com uma analogia pessoal ("se eu casasse com uma chinesa…").
 - **Costumes que guardam a memória** (o dedo para as estrelas, o lixo no meio da sala) usados como prova viva da história escondida.
 
+Acrescentado a partir do módulo *Denominações Judaicas* ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Aula 1]], [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Aula 2]], [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Aula 3]]):
+- **Justifica a aula na abertura:** "essa aula eu considero de fundamental importância para a compreensão do judaísmo messiânico" (Aula 1); "essa aula eu considero ela especial" (Aula 3). Diz ao aluno por que prestar atenção antes de começar.
+- **Tese em frase de efeito, cedo:** "O cristianismo é uma religião a respeito de Yeshua. O judaísmo messiânico é a religião de Yeshua" (Aula 3, min 0), seguida do pedido de suspensão do juízo: "antes de você fazer qualquer tipo de juízo, vamos analisar os versículos".
+- **Lê o texto e comenta na hora:** o versículo aparece na tela, é lido em voz alta e vem o "então fica muito claro para nós aqui que…". Em lotes de versículos (Atos 9 a 26 na Aula 3), mostra que o padrão se repete.
+- **"Óbvio que não estou dizendo…" antes de afirmar:** "não estou dizendo que o cristianismo segue a linha farisaica, muito distante disso" (Aula 1); "eu não vou dizer que a helenização é uma coisa boa, mas não posso dizer que é totalmente ruim". Protege o argumento de uma leitura exagerada.
+- **Analogia moderna para o conceito antigo:** a helenização como o estilo de vida americano exportado ao Brasil; os zelotes como o radical de hoje; os saduceus como os caraítas; o fariseu que recebe Yeshua como "o grão-rabino de Israel".
+- **Exemplo atual do judaísmo rabínico para mostrar o erro:** o contrato de venda do *chametz* ("é uma forma de burlar o mandamento, porque o mandamento é claro: não tenha").
+- **Resumo em lista no fim da parte** ("fazendo aqui um resumo de tudo que nós aprendemos", "uma recapitulação para finalizarmos essa parte") e fecho de módulo com **pergunta que lança a próxima aula** (Aula 3: "como o molde judaico virou outra religião?").
+- **Alerta pastoral ao aluno:** "quem se aproxima do judaísmo messiânico comete o equívoco de tentar se aproximar do judaísmo tradicional achando que vai ser recebido. Não vai."
+- **Posição declarada como "nós acreditamos":** "nós particularmente acreditamos que Gamaliel creu que Yeshua era Mashiach, pelo teor do discurso". Marca o que é leitura da base e não texto.
+- **Aula-galeria (Diásporas, Aula 4):** fecha um módulo sem fala, só com versículo de abertura (Ezequiel 37.21) e vídeos reais de comunidades, terminando na própria congregação.
+
 ---
 
 ## Glossário e Rede de Conexões

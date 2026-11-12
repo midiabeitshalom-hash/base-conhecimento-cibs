@@ -43,3 +43,4 @@ Na genealogia sacerdotal que a base reconstrói, o sacerdócio passa de Adão a 
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]]
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]

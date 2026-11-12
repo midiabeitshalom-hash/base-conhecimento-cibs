@@ -36,6 +36,9 @@ Muitas igrejas leem Mateus 15:11 como "Jesus liberou todos os alimentos". O cont
 
 É como discutir se a toalha da mesa precisa ser branca e alguém concluir, no fim da conversa, que já se pode comer qualquer coisa. O assunto era a toalha.
 
+## A tradição dos anciãos em Marcos 7.3
+Na aula 1 de Denominações, Rav Yosef lê Marcos 7.3 como o exemplo da Torá oral: uma prática cerimonial dos fariseus que Yeshua não seguia ao pé da letra, sem negar a Torá escrita ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Kashrut]] · [[Halachá]] · [[Tum'ah]] · [[Taharah]] · [[Fariseus]] · [[Mitzvot]] · [[Corbanot]] · [[Shimon Kefa]] · Atos 10
@@ -44,3 +47,4 @@ Muitas igrejas leem Mateus 15:11 como "Jesus liberou todos os alimentos". O cont
 
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]

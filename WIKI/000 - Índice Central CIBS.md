@@ -10,16 +10,16 @@ date_captured: 2026-10-05
 
 Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos [[000 - Índice Fundamentos da Beit Shalom|Fundamentos da Beit Shalom]]: eles registram o método do Rav Yosef, os pilares doutrinários e o guia de voz que toda nota segue.
 
-## Categorias (8 categorias · 51 notas · 328 conceitos)
+## Categorias (8 categorias · 55 notas · 343 conceitos)
 
 - [[000 - Índice Fundamentos da Beit Shalom|00 - Fundamentos da Beit Shalom]] — 4 notas · 9 conceitos
 - [[000 - Índice Escatologia e Profecia|01 - Escatologia e Profecia]] — 15 notas · 92 conceitos
 - [[000 - Índice Mesianologia e Natureza do Messias|02 - Mesianologia e Natureza do Messias]] — 9 notas · 33 conceitos
-- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 6 notas · 51 conceitos
+- [[000 - Índice Torá Lei e Aliança|03 - Torá Lei e Aliança]] — 6 notas · 53 conceitos
 - [[000 - Índice Mística e Cosmogonia Judaica|04 - Mística e Cosmogonia Judaica]] — 9 notas · 50 conceitos
-- [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 41 conceitos
-- [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 52 conceitos
-- [[000 - Índice Curso Judaísmo Messiânico na Prática|07 - Curso Judaísmo Messiânico na Prática]] — 3 notas · 0 conceitos
+- [[000 - Índice Festas e Ritos Bíblicos|05 - Festas e Ritos Bíblicos]] — 3 notas · 42 conceitos
+- [[000 - Índice História Arqueologia e Identidade Judaica|06 - História Arqueologia e Identidade Judaica]] — 2 notas · 64 conceitos
+- [[000 - Índice Curso Judaísmo Messiânico na Prática|07 - Curso Judaísmo Messiânico na Prática]] — 7 notas · 0 conceitos
 
 ## Referências
 
@@ -43,9 +43,13 @@ Nó central do second brain da Congregação Israelita Beit Shalom. Comece pelos
 - [[kb-carne-ou-espirito|Carne ou espírito: o conflito entre a alma divina e a alma animal]] · _Mística e Cosmogonia Judaica_
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] · _História Arqueologia e Identidade Judaica_
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]] · _Mística e Cosmogonia Judaica_
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]] · _Curso Judaísmo Messiânico na Prática_
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]] · _Curso Judaísmo Messiânico na Prática_
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]] · _Curso Judaísmo Messiânico na Prática_
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] · _História Arqueologia e Identidade Judaica_
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] · _Curso Judaísmo Messiânico na Prática_
 - [[kb-diasporas-judaicas-aula-3-judeus-africanos-samaritanos-e-asquenazitas|Diásporas judaicas, aula 3: os judeus africanos, os samaritanos, os asquenazitas e a judaicidade da alma]] · _Curso Judaísmo Messiânico na Prática_
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]] · _Curso Judaísmo Messiânico na Prática_
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] · _Curso Judaísmo Messiânico na Prática_
 - [[kb-essa-foi-a-primeira-criacao-de-deus|A primeira criação de D'us: Adam Kadmon, as sefirot e o Mashiach]] · _Mística e Cosmogonia Judaica_
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]] · _Escatologia e Profecia_

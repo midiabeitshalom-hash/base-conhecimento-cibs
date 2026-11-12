@@ -43,6 +43,9 @@ O uso de "fariseu" como sinônimo de quem guarda a Torá, como se obedecer aos m
 
 A Mishná fala em fazer uma cerca em volta da Torá. A cerca protege o jardim. O problema começa quando a cerca fica mais importante que o jardim e, em vez de protegê-lo, impede as pessoas de entrar. Yeshua não derrubou o jardim; tirou as cercas que estavam no lugar dele.
 
+## O que a aula 1 de Denominações ensina
+Rav Yosef traça o retrato completo: os "separados", criadores da sinagoga, em *havurot*, com as escolas de Hillel e de Shammai, que creem na Torá escrita e oral, na ressurreição, nos anjos e na vinda do Mashiach. Mostra Yeshua comendo com fariseus, avisado por fariseus e mandando obedecer ao que ensinam, e conclui: a base doutrinária do Brit Hadashah é farisaica ([[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Saduceus]] · [[Essênios]] · [[Zelotes]] · [[Segundo Templo]] · [[Halachá]] · [[Netilat Yadayim]] · [[Beit Knesset]] · [[Sinédrio]] · [[Nicodemos]] · [[Sha'ul HaShaliach]] · [[Flávio Josefo]] · [[Torá]]
@@ -50,3 +53,6 @@ A Mishná fala em fazer uma cerca em volta da Torá. A cerca protege o jardim. O
 ## Aparece em
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

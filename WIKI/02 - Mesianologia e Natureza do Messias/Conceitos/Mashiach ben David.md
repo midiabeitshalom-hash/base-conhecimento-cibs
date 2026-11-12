@@ -65,3 +65,4 @@ Davi foi ungido rei ainda menino, mas passou anos fugindo de Saul antes de senta
 - [[kb-tempo-do-messias-beit-shalom|O tempo do Messias: o profeta como Moisés e as 70 semanas de Daniel]]
 - [[kb-o-proprio-jesus-negou-ser-deus|O Messias homem: Yeshua nunca reivindicou ser D'us e o monoteísmo estrito]]
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

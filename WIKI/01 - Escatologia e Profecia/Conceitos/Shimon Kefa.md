@@ -42,6 +42,9 @@ Kefa viveu e morreu como judeu observante. Subia ao Templo "à hora nona, a da o
 
 Na mesma carta, Kefa avisa que há nas cartas de Sha'ul "pontos difíceis de entender, que os ignorantes torcem para a própria perdição" (*2 Pedro* 3:16). O aviso conversa com o estudo de Romanos da base, que lê a carta em sequência, do capítulo 1 ao 16, contra os recortes que a usam para anular a Torá ([[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]]).
 
+## A casa de Shimon no Shabat
+Na aula 3 de Denominações, Rav Yosef lê Marcos 1.29 como a refeição de Shabat depois da sinagoga, na casa de Shimon e André ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[Yeshua]] · [[Sha'ul HaShaliach]] · [[Yochanan HaShaliach]] · [[Ya'akov HaTzaddik]] · [[Cornélio]] · [[Estêvão]] · [[Atos 2]] · Atos 10 · Atos 10.38 · [[2 Pedro 3.10]] · [[Stoicheia]] · [[Proskynesis]] · [[Kashrut]] · [[Shavuot]]
@@ -59,3 +62,4 @@ Na mesma carta, Kefa avisa que há nas cartas de Sha'ul "pontos difíceis de ent
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]]
 - [[kb-pentecostes-nunca-foi-o-que-te-ensinaram|Pentecostes nunca foi o que te ensinaram: Shavuot, o Sinai e o derramar do Ruach]]
 - [[kb-o-que-e-trono-na-biblia-autoridade-delegada-e-o-governo-do-mashiach|O que é trono na Bíblia: a autoridade delegada, os 24 tronos e o governo do Mashiach]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

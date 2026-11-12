@@ -101,3 +101,5 @@ Pense num retrato antigo restaurado. Por séculos pintaram por cima: tiraram a b
 - [[kb-como-era-adao-antes-do-pecado-niveis-da-alma-e-kelipot|Como era Adão antes do pecado: os cinco níveis da alma, as kelipot e o papel do Mashiach]]
 - [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

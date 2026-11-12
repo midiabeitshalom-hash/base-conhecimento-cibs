@@ -31,9 +31,13 @@ Rav Yosef mostra essas comunidades para ensinar que o povo foi espalhado e misci
 ## Como explicar à congregação
 O povo de Israel está em todo lugar e com todos os rostos. A África tem comunidades que guardaram a memória da origem por séculos, mesmo sob outra religião.
 
+## Na galeria em vídeo
+Na aula 4 de Diásporas, os vídeos da África, de Madagascar, da Nigéria, da Etiópia e da tribo da Nova Guiné que recita o *Shemá* mostram a diáspora em imagens ([[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]).
+
 ## Relacionados
 [[Diásporas Judaicas]] · [[Diáspora Romana]] · [[Zuwa Alayaman]] · [[Samaritanos]] · [[Asquenazitas]] · [[Sefarad]] · [[Marcador na Alma]] · [[Zera Israel]]
 
 ## Aparece em
 - [[kb-diasporas-judaicas-aula-3-judeus-africanos-samaritanos-e-asquenazitas|Diásporas judaicas, aula 3: os judeus africanos, os samaritanos, os asquenazitas e a judaicidade da alma]]
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

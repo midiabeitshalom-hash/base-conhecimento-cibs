@@ -59,6 +59,9 @@ Rav Yosef ensina que o "dia do Senhor" de Apocalipse 1.10, em que Yochanan foi a
 ## O portal do Reino dos Céus
 Mike ensina que, desde a queda, o homem vive preso ao tempo, "trocando tempo por recurso", e que o Shabat, dado em memória da saída do Egito (Deuteronômio 5.15), é o portal semanal do Reino dos Céus: "um sessenta avos do Olam Haba" (*Berachot 57b*). *Kadosh* é separação: no Shabat se para de trocar o tempo por coisas perecíveis e se doa o tempo a D'us, com *kavaná*. Por isso Yeshua curava no Shabat, e por isso guardá-lo eleva a alma ao nível de *chayá* ([[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]).
 
+## Yeshua ensina Torá no Shabat
+Na aula 3 de Denominações, Rav Yosef mostra Yeshua indo à sinagoga no Shabat, dando um *shiur* sobre a porção semanal e almoçando em casa de Shimon, "uma vida 100% judaica" ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[Zachor e Shamor]] · [[Shabbaton]] · [[Shabat Milenar]] · [[Havdalá]] · [[Dia da Preparação]] · [[Moedim]] · [[Levítico 23]] · Êxodo 20.8 · [[Daniel 7.25]] · [[Mudar os Tempos e a Lei]] · [[Sinal de Jonas]] · [[Torá]] · [[Mitzvot]] · [[Kavanah]] · [[Cristãos-Novos]]
@@ -86,3 +89,4 @@ Mike ensina que, desde a queda, o homem vive preso ao tempo, "trocando tempo por
 - [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]
 - [[kb-assinatura-de-ensino-do-rav-yosef|A assinatura de ensino do Rav Yosef: como ele fala, conduz o raciocínio e fecha uma aula]]
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

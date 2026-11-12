@@ -40,3 +40,4 @@ Zacarias 9.9 · Zacarias 12 · Zacarias 12.10 · Zacarias 14 · [[Zacarias 14.12
 - [[kb-assim-sera-a-vinda-do-messias|Assim será a vinda do Messias: as festas de outono e o cumprimento profético]]
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]
 - [[kb-quanto-tempo-ainda-temos-israel-ira-jubileu|Quanto tempo ainda temos? A guerra Israel–Irã, o jubileu e Zacarias 14]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

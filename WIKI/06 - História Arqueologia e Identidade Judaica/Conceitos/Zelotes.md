@@ -30,6 +30,9 @@ A diferença entre o zelo de Yeshua e o dos Zelotes é instrutiva. Os discípulo
 
 O zelo é como fogo. No fogão, cozinha o alimento; fora dele, queima a casa. Pinchas e Elias tinham fogo no lugar certo. Os Zelotes levaram o fogo para a rua e Jerusalém ardeu em 70 EC.
 
+## O que a aula 2 de Denominações ensina
+Rav Yosef os apresenta como o judaísmo radical que defendia a libertação pela espada (Judas, o Galileu, ano 6 E.C.), a motivação da pergunta do tributo a César (Mateus 22.17) e a origem da guerra de 66-70; lembra que um dos discípulos era Simão, o Zelote ([[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]).
+
 ## Relacionados
 
 [[Pinchas]] · Números 25 · [[Fariseus]] · [[Saduceus]] · [[Essênios]] · [[Nazarenos]] · [[Segundo Templo]] · [[Flávio Josefo]] · [[Pedra Cortada sem Mãos]] · [[Profeta Elias]] · [[Yoma 39b]]
@@ -37,3 +40,6 @@ O zelo é como fogo. No fogão, cozinha o alimento; fora dele, queima a casa. Pi
 ## Aparece em
 
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

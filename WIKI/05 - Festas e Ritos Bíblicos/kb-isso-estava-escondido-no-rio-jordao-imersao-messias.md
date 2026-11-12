@@ -173,6 +173,7 @@ O local escolhido por João Batista para ministrar as imersões não foi casual;
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]] — estudo da mesma categoria sobre o fim do ministério que começa no Jordão, ligado ao calendário das festas.
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — desenvolve a restauração da casa de Israel que Yeshua sinaliza ao imergir sobre o memorial das 12 tribos.
 - [[kb-a-serpente-de-bronze-neusta-e-a-redencao-no-mashiach|A serpente de bronze, o Neustã e a redenção no Mashiach Yeshua]] — continua a conversa com Nicodemos: depois do novo nascimento, a serpente levantada.
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]] — a ligação de Yochanan com a comunidade dos essênios, na aula 2 de Denominações.
 
 ### Mini-Glossário Técnico-Místico
 1. **[[Tevilá]] (Imersão):** Do radical hebraico *T-V-L* (mergulhar por completo). Ritual que exige imersão total sem qualquer barreira (*chatzitzá*) entre a água e o corpo.

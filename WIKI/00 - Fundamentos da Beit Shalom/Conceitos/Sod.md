@@ -46,6 +46,9 @@ Dois extremos. O literalismo puro produz fundamentalismo, como arrancar o olho f
 
 Pense numa casa de quatro andares. O térreo é o *Peshat*, e é ele que segura o prédio. Dá para subir até o último andar e ver longe, mas quem derruba o térreo para alcançar o terraço perde a casa inteira.
 
+## Yeshua e o nível do segredo
+Na aula 3 de Denominações, Rav Yosef lê a admiração em Marcos 6.2 ("que sabedoria é esta?") como sinal de que Yeshua ensinava no nível de *Sod*, o segredo, o mais alto da interpretação ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[PaRDeS]] · [[Peshat]] · [[Remez]] · [[Derash]] · [[Guematria]] · [[Zohar]] · [[Arba'ah Olamot]] · [[Sulam Ya'akov]] · [[Yovel]] · [[Gênesis 6.3]] · [[Gênesis 1.1]] · [[Nachash]] · [[Torá]]
@@ -60,3 +63,4 @@ Pense numa casa de quatro andares. O térreo é o *Peshat*, e é ele que segura 
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]]
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-assinatura-de-ensino-do-rav-yosef|A assinatura de ensino do Rav Yosef: como ele fala, conduz o raciocínio e fecha uma aula]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

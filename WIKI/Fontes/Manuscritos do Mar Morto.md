@@ -22,6 +22,9 @@ Duas conexões: a *Regra da Comunidade* espera "o profeta e os ungidos de Aarão
 - **Fragmentos do Segundo Templo** ao lado do Livro dos Jubileus, como textos auxiliares da cosmovisão semítica ([[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]]).
 - Listados nos Fundamentos entre a literatura do Segundo Templo da base ([[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]; [[kb-metodo-e-linha-de-pensamento-rav-yosef|O método e a linha de pensamento do Rav Yosef]]; [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]).
 
+## Os essênios na aula de Denominações
+Na aula 2 de Denominações, Rav Yosef apresenta os manuscritos de Qumran como a principal fonte sobre os essênios, que viveram do século II a.E.C. até o ano 70 ([[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]).
+
 ## Relacionados
 [[Essênios]] · [[Fariseus]] · [[Saduceus]] · [[Zelotes]] · [[Segundo Templo]] · [[1 Enoque]] · [[Livro dos Jubileus]] · [[Flávio Josefo]] · [[Septuaginta]] · [[Nefilim]]
 
@@ -31,3 +34,4 @@ Duas conexões: a *Regra da Comunidade* espera "o profeta e os ungidos de Aarão
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-antiga-raca-gigantes-codigo-binario-ia|A antiga raça de gigantes e o código binário: inteligência artificial, Nefilim e a imagem da besta]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-2-essenios-e-zelotes|Denominações judaicas, aula 2: essênios e zelotes nos tempos de Yeshua]]

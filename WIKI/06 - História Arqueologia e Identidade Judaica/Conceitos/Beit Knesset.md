@@ -37,9 +37,14 @@ Daí sai uma lição que a base usa em mais de um estudo. A sinagoga preservou a
 
 Quando a casa principal pegou fogo, a família não deixou de ser família. Passou a se reunir na sala de cada parente, abrindo os mesmos livros e repetindo as mesmas orações. A sinagoga é essa sala, que guardou Israel até hoje.
 
+## A sinagoga no Brit Hadashah, segundo a aula 3 de Denominações
+Rav Yosef reúne os textos em que Yeshua e os discípulos ensinam em sinagogas (Marcos 1; Lucas 4; João 18.20; Atos 9-19) para mostrar que "o modelo de culto que Yeshua estava habituado era sinagogal e templo" e que as cartas de Sha'ul foram escritas a sinagogas mistas de judeus e gentios ([[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]).
+
 ## Relacionados
 
 [[Segundo Templo]] · [[Babilônia]] · [[Esdras]] · [[Neemias]] · [[Fariseus]] · [[Nazarenos]] · [[Shabat]] · [[Casa de Judá]] · [[Avodá]] · [[Nabucodonosor II]] · [[Talmud Bavli]]
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-denominacoes-judaicas-aula-1-saduceus-e-fariseus|Denominações judaicas, aula 1: saduceus e fariseus nos tempos de Yeshua]]
+- [[kb-denominacoes-judaicas-aula-3-o-judaismo-messianico|Denominações judaicas, aula 3: o judaísmo messiânico, a religião de Yeshua nas sinagogas]]

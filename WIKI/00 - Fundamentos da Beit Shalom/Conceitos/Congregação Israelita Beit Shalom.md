@@ -39,3 +39,4 @@ Uma casa de paz não é uma casa sem conflito; é uma casa onde cada coisa está
 ## Aparece em
 
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]

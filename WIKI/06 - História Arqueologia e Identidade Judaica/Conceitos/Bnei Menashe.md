@@ -24,8 +24,12 @@ Rav Yosef lê o caso como obra do Mashiach: "está muito claro aqui o judaísmo 
 ## Como explicar à congregação
 É como ouvir de longe uma música que a gente já sabia de cor e não lembrava de onde. Os Bnei Menashe sentiram a música, procuraram a origem e encontraram Israel.
 
+## Na galeria em vídeo
+Na aula 4 de Diásporas, os Bnei Menashe aparecem em vídeo, com jovens a caminho de Israel com a organização Shavei Israel, para estudo e conversão ([[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]).
+
 ## Relacionados
 [[Menashe]] · [[Efraim]] · [[Doze Tribos de Israel]] · [[Casa de Israel]] · [[Diáspora Assíria]] · [[Marcador na Alma]] · [[Judeus de Kaifeng]]
 
 ## Aparece em
 - [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
+- [[kb-diasporas-judaicas-aula-4-etnias-judaicas-pelo-mundo|Diásporas judaicas, aula 4: diferentes etnias judaicas espalhadas pelo mundo, em imagens]]
