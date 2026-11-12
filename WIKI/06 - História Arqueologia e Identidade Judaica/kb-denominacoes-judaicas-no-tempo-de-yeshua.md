@@ -158,6 +158,7 @@ O Talmud Babilônico (*Yoma 39b*) relata que exatamente 40 anos antes da destrui
 - [[kb-lei-x-graca|Lei e Graça: a eternidade da Torá, a função dos sacrifícios e a graça que capacita]] — explica a função provisória dos sacrifícios, cuja eficácia os sinais do Templo mostram ter cessado.
 - [[kb-roma-o-transformou-em-um-deus|Roma o transformou em um Deus? A divinização de Yeshua e a Trindade depois de Niceia]] — narra o cristianismo gentílico pós-Constantino que eclipsou os Nazarenos e os Ebionitas.
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — mantém a mesma união entre fé em Yeshua e guarda da Torá que os primeiros messiânicos viviam.
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o contexto das diásporas anteriores ao mundo judaico do tempo de Yeshua.
 
 ### Mini-Glossário de Conceitos Fundamentais
 1. **[[Yoma 39b]]:** Passagem talmúdica crucial que documenta os quatro presságios miraculosos negativos iniciados c. 30 EC no Templo de Jerusalém.

@@ -34,3 +34,4 @@ Rav Yosef apresenta Esdras e Neemias como os líderes que conduziram a reconstru
 
 ## Aparece em
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]

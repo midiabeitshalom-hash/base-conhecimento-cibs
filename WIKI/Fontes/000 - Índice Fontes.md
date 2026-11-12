@@ -17,6 +17,10 @@ As obras e referências que a base cita: Targum, Mishná e Talmud, Midrash, mís
 - [[Ramban]]
 - [[Rashi]]
 
+### Cursos da Beit Shalom
+
+- [[Curso Judaísmo Messiânico na Prática]]
+
 ### Escrituras e Targum
 
 - [[Septuaginta]]

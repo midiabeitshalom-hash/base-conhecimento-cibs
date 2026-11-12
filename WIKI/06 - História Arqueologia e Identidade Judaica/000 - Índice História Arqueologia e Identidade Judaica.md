@@ -14,10 +14,11 @@ O Segundo Templo, os grupos judaicos do 1º século, os Bnei Anussim, o DNA abra
 
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
 
 ## Conceitos desta categoria
 
-[[Avraham Avinu]] · [[Beit Knesset]] · [[Binyamin]] · [[Bnei Anussim]] · [[Cristãos-Novos]] · [[Cromossomo Y]] · [[DNAmt]] · [[Ebionitas]] · [[Esdras]] · [[Essênios]] · [[Fariseus]] · [[Gaspar da Gama]] · [[Genética Autossômica]] · [[Inquisição Ibérica]] · [[Lashon shel Zehorit]] · [[Mestre João Faras]] · [[Nazarenos]] · [[Neemias]] · [[Ner HaMa'aravi]] · [[Pedro Álvares Cabral]] · [[Profeta Eliseu]] · [[Rainha Isabel I de Castela]] · [[Rei D. Manuel I de Portugal]] · [[Rei Fernando II de Aragão]] · [[Rei Saul]] · [[Saduceus]] · [[Sefarad]] · [[Segundo Templo]] · [[Shimon HaTzaddik]] · [[Tzadok]] · [[Ya'akov HaTzaddik]] · [[Zelotes]] · [[Zera Israel]] · [[Édito de Granada]]
+[[Avraham Avinu]] · [[Beit Knesset]] · [[Binyamin]] · [[Bnei Anussim]] · [[Cristãos-Novos]] · [[Cromossomo Y]] · [[Diáspora Assíria]] · [[Diáspora Babilônica]] · [[Diáspora Romana]] · [[Diásporas Judaicas]] · [[DNAmt]] · [[Ebionitas]] · [[Esdras]] · [[Essênios]] · [[Fariseus]] · [[Gaspar da Gama]] · [[Genética Autossômica]] · [[Inquisição Ibérica]] · [[Jeroboão]] · [[Lashon shel Zehorit]] · [[Mestre João Faras]] · [[Nazarenos]] · [[Neemias]] · [[Ner HaMa'aravi]] · [[Pedro Álvares Cabral]] · [[Profeta Eliseu]] · [[Rainha Isabel I de Castela]] · [[Rei D. Manuel I de Portugal]] · [[Rei Fernando II de Aragão]] · [[Rei Saul]] · [[Roboão]] · [[Saduceus]] · [[Sefarad]] · [[Segundo Templo]] · [[Shimon HaTzaddik]] · [[Tzadok]] · [[Ya'akov HaTzaddik]] · [[Yehudim]] · [[Zelotes]] · [[Zera Israel]] · [[Édito de Granada]]
 
 ## Ver também
 - [[000 - Índice Escatologia e Profecia|Escatologia e Profecia]]

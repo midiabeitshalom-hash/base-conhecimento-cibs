@@ -42,6 +42,9 @@ O pilar 25 de [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da 
 ## Melo hagoyim: a semente que enche as nações
 Na bênção de Gênesis 48.19, Jacó cruza as mãos, põe a direita sobre Efraim e diz que a sua semente será *melo hagoyim* (מְלֹא הַגּוֹיִם), "a plenitude das nações". *Melo* vem de *male*, "encher, transbordar". Em Gênesis 48.16 a mesma bênção diz *veyidgu larov*, "multipliquem-se como peixes" (de *dag*, peixe). Rav Yosef ensina que Efraim foi profetizado para se espalhar como cardume no mar das nações até ficar indistinguível. Por isso as dez tribos não estão extintas, e sim engolidas (*nivla*, Oseias 8.8), à espera da pesca do Messias. A "plenitude dos gentios" de Romanos 11.25 retoma a mesma expressão ([[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]).
 
+## No curso Judaísmo Messiânico na Prática
+Rav Yosef lembra que Jeroboão, primeiro rei do Norte, era descendente de Yosef HaTzaddik pelo filho Efraim: "ele é um efraimita". Por isso, quando um profeta diz "Efraim", fala das dez tribos inteiras, e a liderança do Sul é de Judá ([[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]).
+
 ## Relacionados
 
 [[Casa de Israel]] · [[Casa de Judá]] · [[Doze Tribos de Israel]] · [[Yosef HaTzaddik]] · [[Menashe]] · [[Ya'akov Avinu]] · [[Yidgu]] · Gênesis 48 · [[Ezequiel 37]] · Lucas 15 · [[Bnei Anussim]] · [[Mashiach ben Yosef]] · Romanos 11.25
@@ -50,3 +53,4 @@ Na bênção de Gênesis 48.19, Jacó cruza as mãos, põe a direita sobre Efrai
 - [[kb-pilares-doutrinarios-beit-shalom|Os pilares doutrinários da Beit Shalom]]
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]

@@ -173,6 +173,7 @@ Sem referência específica citada.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — mostra os primeiros messiânicos, Nazarenos e Ebionitas, que já viviam a união entre fé em Yeshua e guarda da Torá defendida aqui.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — desenvolve quem são as ovelhas perdidas da Casa de Israel e por que o retorno passa pela lembrança da Torá (Oseias 4.6).
 - [[kb-o-apocalipse-pelas-festas-biblicas-e-o-juizo-pelas-obras|O Apocalipse pelas festas bíblicas: o calendário de Levítico 23 e o juízo pelas obras]] — o juízo pelas obras e pelo livro da Lei: o perdão é dos que obedecem.
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o curso mostra de onde vêm as ovelhas perdidas: as diásporas assíria, babilônica e romana.
 
 ### Mini-Glossário de Termos Especializados
 

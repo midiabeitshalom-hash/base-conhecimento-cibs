@@ -39,6 +39,9 @@ Uma família se dividiu numa briga de herança. Um irmão ficou na casa do pai e
 ## Engolida, não extinta
 O Reino do Norte foi levado pela Assíria em 722 a.C. (2 Reis 17.23) e "tragado" pelas nações (*nivla*, Oseias 8.8). Quando Yeshua diz que foi enviado "às ovelhas perdidas da casa de Israel", as dez tribos estavam havia mais de setecentos anos na diáspora. Rav Yosef tira de Oseias 4.6 a regra do retorno: se Israel foi exilado por esquecer a Torá, só é reintegrado quando se lembra dela. O fim do caminho são as doze portas da [[Nova Jerusalém]], com os nomes das doze tribos ([[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]).
 
+## No curso Judaísmo Messiânico na Prática
+Na aula de introdução do módulo *Diásporas Judaicas*, Rav Yosef dá a regra de leitura: nos profetas, "Casa de Israel" e "Efraim" designam a totalidade das dez tribos do Norte, cuja liderança vem de Efraim (Jeroboão era efraimita), e "Casa de Judá" designa o Sul, Judá e Benjamim. O Norte foi levado pela Assíria e "muitos nunca mais retornaram" ([[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]).
+
 ## Relacionados
 
 [[Casa de Judá]] · [[Efraim]] · [[Doze Tribos de Israel]] · 1 Reis 12 · 2 Reis 17 · [[Ezequiel 37]] · [[Jeremias 31.31]] · Mateus 15.24 · Gênesis 48 · [[Yidgu]] · [[Bnei Anussim]] · [[Zera Israel]] · [[Oliveira de Romanos 11]]
@@ -49,3 +52,4 @@ O Reino do Norte foi levado pela Assíria em 722 a.C. (2 Reis 17.23) e "tragado"
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]]
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]

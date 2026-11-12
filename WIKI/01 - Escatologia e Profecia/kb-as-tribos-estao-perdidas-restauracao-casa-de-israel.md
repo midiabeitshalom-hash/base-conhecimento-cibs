@@ -230,6 +230,7 @@ O argumento de Rav Yosef é a arquitetura da cidade: "Se não houver a restaura�
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — a "plenitude dos gentios" e a oliveira de Romanos 11.
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — a barreira cristã ao retorno: a anulação da Torá.
 - [[Parashá Vayigash]] — Judá se aproxima de José, e a haftará é Ezequiel 37.15-28, as duas varas; [[Parashá Vayechi]] traz a bênção de Efraim (Gênesis 48).
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o quadro histórico do curso: a divisão do reino, Jeroboão e as três diásporas.
 
 **Mini-glossário:**
 - *Zera* (זֶרַע): semente, descendência; na Torá, atribuída à linha do pai.

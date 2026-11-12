@@ -164,6 +164,7 @@ Rav Yosef estabelece uma correspondência alegórico-profética direta:
 - [[kb-o-fim-da-lei-em-romanos-o-que-paulo-realmente-quis-dizer|O 'fim da lei' em Romanos: o que Sha'ul realmente quis dizer]] — lê o enxerto na Oliveira e o "todo o Israel será salvo" de Romanos 11, que esta nota desdobra em profecia.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — termina no mesmo movimento de *Teshuvá* dos *Bnei Anussim* e das ovelhas perdidas que esta nota lê como retorno profético.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — o mesmo tema das duas casas, com a base na Torá: a promessa a Abraão, a bênção de Efraim, Oseias, as duas varas e as doze portas.
+- [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — a aula de introdução do módulo Diásporas Judaicas dá o pano de fundo histórico das duas casas.
 
 ### Mini-Glossário de Termos Hebraicos e Conceitos Teológicos
 1. **[[Akadosh Baruch Hu]] (O Santo, Bendito Seja Ele):** Designação reverente tradicional em hebraico para Deus, o Criador.
