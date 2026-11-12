@@ -35,6 +35,9 @@ O fenômeno tem lugar na profecia. O despertar de tantos brasileiros para o Shab
 
 Muitas famílias brasileiras guardam costumes que ninguém sabe explicar: varrer a casa para dentro, acender velas na sexta à tarde, não comer porco "porque a avó não comia". São restos de uma memória que foi escondida para sobreviver. O retorno começa quando alguém pergunta de onde aquilo veio.
 
+## O batismo forçado e os costumes ensinados em casa
+Na Aula de Mapas, Rav Yosef conta o mecanismo: o rei de Portugal anuncia navios que não existiam, os judeus são batizados à força e deixam de ser judeus pela lei portuguesa. Cita Anita Novinsky: 1 em cada 4 chegados ao Brasil era judeu ou convertido à força ([[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]).
+
 ## Relacionados
 
 [[Cristãos-Novos]] · [[Criptojudaísmo]] · [[Zera Israel]] · [[Sefarad]] · [[Inquisição Ibérica]] · [[Édito de Granada]] · [[Anita Novinsky]] · [[Adams et al. 2008]] · [[Cromossomo Y]] · [[Halachá]] · [[Efraim]] · [[Avraham Avinu]] · [[Ezequiel 37]] · [[Teshuvá]]
@@ -47,3 +50,4 @@ Muitas famílias brasileiras guardam costumes que ninguém sabe explicar: varrer
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]]
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]]
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]

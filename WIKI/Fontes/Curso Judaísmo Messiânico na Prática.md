@@ -17,9 +17,12 @@ O curso é fonte primária da base: cada aula vira uma nota de estudo na categor
 ## Aulas do curso na base
 **Módulo Diásporas Judaicas**
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — aula de introdução: do Egito à divisão do reino, as três diásporas e a pergunta do marcador na alma.
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — Mapas: as três diásporas no mapa, teimanim, sefaradim e o Brasil dos anussim, Bnei Menashe e Kaifeng.
+- [[kb-diasporas-judaicas-aula-3-judeus-africanos-samaritanos-e-asquenazitas|Diásporas judaicas, aula 3: os judeus africanos, os samaritanos, os asquenazitas e a judaicidade da alma]] — os judeus africanos, os samaritanos, os asquenazitas e a conclusão da alma.
 
 ## Relacionados
 [[Congregação Israelita Beit Shalom]] · [[Diásporas Judaicas]]
 
 ## Aparece em
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]

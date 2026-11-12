@@ -158,6 +158,7 @@ knowledge_depth: exhaustive-academic
 - [[kb-o-alimento-proibido-da-biblia-kashrut|O alimento proibido da Bíblia: kashrut, idolatria e a validade das leis alimentares]] — aprofunda o *Kashrut*, que os cristãos-novos preservavam em segredo ao recusar porco e sangue.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — dá o fundamento bíblico do retorno dos dispersos: *melo hagoyim*, a semente de Efraim espalhada entre as nações.
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — a pergunta do "marcador na alma" do curso, vista aqui pelo lado da genética.
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — o mesmo ponto visto pela história: Rav Yosef cita Anita Novinsky (1 em cada 4 chegados ao Brasil era judeu ou cristão-novo) e mostra os costumes anusitas.
 
 ### Mini-Glossário de Conceitos Técnicos
 1. **[[Criptojudaísmo]] / [[Criptojudaísmo|Marranismo]]:** Manutenção secreta de ritos, crenças e costumes judaicos por indivíduos publicamente professantes do catolicismo para escapar do Tribunal do Santo Ofício.

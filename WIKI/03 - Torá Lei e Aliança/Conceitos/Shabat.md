@@ -85,3 +85,4 @@ Mike ensina que, desde a queda, o homem vive preso ao tempo, "trocando tempo por
 - [[kb-a-queda-de-hasatan-e-o-trono-vazio-do-eden|A queda de Rassatã e o trono vazio do Éden: o trono que estava reservado para Yeshua]]
 - [[kb-o-reino-dos-ceus-e-o-shabat-como-portal-da-eternidade|O Reino dos Céus e o Shabat: o portal que liberta da prisão do tempo]]
 - [[kb-assinatura-de-ensino-do-rav-yosef|A assinatura de ensino do Rav Yosef: como ele fala, conduz o raciocínio e fecha uma aula]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]

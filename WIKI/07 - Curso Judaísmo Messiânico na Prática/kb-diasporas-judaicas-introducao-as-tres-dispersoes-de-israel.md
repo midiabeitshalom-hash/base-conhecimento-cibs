@@ -198,6 +198,7 @@ A diáspora romana expulsou os judeus da sua terra e os manteve fora **até 1948
 - [[kb-a-verdadeira-fe-no-fim-dos-tempos|A verdadeira fé no fim dos tempos: Torá, teshuvá e as ovelhas perdidas de Israel]] — as ovelhas perdidas de Israel e o papel de Yeshua de reuni-las.
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]] — o "marcador" visto pelo lado da genética: a ancestralidade israelita em populações assimiladas.
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — o mundo judaico do tempo de Yeshua, depois das duas primeiras diásporas e antes da romana.
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — a aula seguinte do módulo: os mapas das três diásporas e as comunidades judaicas do mundo, dos teimanim aos sefaradim e ao Brasil.
 
 **Mini-glossário:**
 - *Galut* (גָּלוּת): exílio, diáspora; também *tefutzá* (תְּפוּצָה), dispersão.

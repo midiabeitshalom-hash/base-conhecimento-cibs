@@ -143,6 +143,15 @@ Registrado a partir da introdução do módulo *Diásporas Judaicas* ([[kb-diasp
 - **Sem confronto e sem analogia:** a aula é descritiva; a refutação e as imagens ficam para as aulas seguintes do módulo.
 - **Fecho em pergunta aberta**, que lança o módulo, sem pedido de curtir ou inscrever, porque o público já é o do curso.
 
+Acrescentado a partir da aula de mapas do mesmo módulo ([[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2]]):
+- **Mapa na mão, depois a emoção.** Começa pela geografia ("aqui nós temos esse pontinho vermelho, Canaã, que é um território bem pequeno") e só no meio da aula leva o dado ao aluno: "por que isso tem muito a ver com você?" (o Brasil dos cristãos-novos).
+- **"É óbvio que…" em série.** Cada consequência da assimilação genética vem com o mesmo marcador ("É óbvio que os judeus em Sefarad vão ter um DNA português e espanhol… É óbvio que os judeus em Ashkenaz vão ter um DNA russo, germânico…"). Deixa o raciocínio inevitável.
+- **A imagem real como argumento.** Mostra a foto do judeu sefaradi e diz: "tira a kipá e olha só para a face; vamos ser sinceros, é um típico nordestino". O rosto reconhecível faz o trabalho que uma tese abstrata não faria.
+- **Humor leve e ironia histórica:** "Então o Pernambuco deveria ser Nova Iorque. Mas o Brasil, como sempre, os expulsa".
+- **Esclarecimento antes de seguir:** "É só um ponto aqui que é importante a gente deixar claro" (o tributo islâmico), "Aqui é importante eu fazer uma introdução muito importante" (a história sefardita) e "Eu quero que vocês prestem atenção nisso" (a origem dos Bnei Menashe).
+- **A pergunta imaginada do aluno** ("Talvez você pense assim: o judeu é uma coisa só", "Poxa, muda muito a face") respondida na hora com uma analogia pessoal ("se eu casasse com uma chinesa…").
+- **Costumes que guardam a memória** (o dedo para as estrelas, o lixo no meio da sala) usados como prova viva da história escondida.
+
 ---
 
 ## Glossário e Rede de Conexões

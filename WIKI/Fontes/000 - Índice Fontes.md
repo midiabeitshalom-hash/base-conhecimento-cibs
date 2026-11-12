@@ -35,6 +35,7 @@ As obras e referências que a base cita: Targum, Mishná e Talmud, Midrash, mís
 
 - [[Flávio Josefo]]
 - [[James Ussher]]
+- [[Tarikh al-Sudan e Tarikh al-Fattash]]
 
 ### Literatura do Segundo Templo
 

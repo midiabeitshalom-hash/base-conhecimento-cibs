@@ -165,6 +165,7 @@ Rav Yosef estabelece uma correspondência alegórico-profética direta:
 - [[kb-denominacoes-judaicas-no-tempo-de-yeshua|Os grupos judaicos do tempo de Yeshua e o Segundo Templo]] — termina no mesmo movimento de *Teshuvá* dos *Bnei Anussim* e das ovelhas perdidas que esta nota lê como retorno profético.
 - [[kb-as-tribos-estao-perdidas-restauracao-casa-de-israel|As tribos estão perdidas? A restauração profética das ovelhas da Casa de Israel]] — o mesmo tema das duas casas, com a base na Torá: a promessa a Abraão, a bênção de Efraim, Oseias, as duas varas e as doze portas.
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — a aula de introdução do módulo Diásporas Judaicas dá o pano de fundo histórico das duas casas.
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — o retorno dos dispersos no tempo do fim, com os casos de Bnei Menashe, teimanim e anussim da aula de Mapas.
 
 ### Mini-Glossário de Termos Hebraicos e Conceitos Teológicos
 1. **[[Akadosh Baruch Hu]] (O Santo, Bendito Seja Ele):** Designação reverente tradicional em hebraico para Deus, o Criador.

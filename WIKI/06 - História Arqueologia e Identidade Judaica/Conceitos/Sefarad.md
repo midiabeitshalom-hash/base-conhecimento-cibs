@@ -36,9 +36,13 @@ Rav Yosef lê esse despertar como cumprimento profético: os dispersos de Sefara
 
 "Ficar a ver navios" é frase de Sefarad: os judeus reunidos no porto de Lisboa esperando navios que não vieram, e encontrando padres para batizá-los à força. Muitos brasileiros falam essa frase sem saber que ela conta a história dos próprios antepassados.
 
+## Sefarad e Ashkenaz na Escritura, segundo a Aula de Mapas
+Rav Yosef lembra que *Sefarad* é o nome hebraico "inclusive na escritura" da Hispânia, e *Ashkenaz* o do leste europeu. Mostra a foto de um judeu sefaradi e diz que, sem a kipá, "é um típico nordestino" ([[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]).
+
 ## Relacionados
 
 [[Cristãos-Novos]] · [[Bnei Anussim]] · [[Criptojudaísmo]] · [[Inquisição Ibérica]] · [[Édito de Granada]] · [[Rainha Isabel I de Castela]] · [[Rei Fernando II de Aragão]] · [[Rei D. Manuel I de Portugal]] · [[Anita Novinsky]] · [[Adams et al. 2008]] · [[Zera Israel]] · [[Ramban]] · [[Efraim]]
 
 ## Aparece em
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]

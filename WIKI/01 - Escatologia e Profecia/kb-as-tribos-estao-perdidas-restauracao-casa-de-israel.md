@@ -231,6 +231,7 @@ O argumento de Rav Yosef é a arquitetura da cidade: "Se não houver a restaura�
 - [[kb-a-maior-distorcao-da-fe-lei-contra-graca|A maior distorção da fé: a falsa oposição entre Lei e Graça]] — a barreira cristã ao retorno: a anulação da Torá.
 - [[Parashá Vayigash]] — Judá se aproxima de José, e a haftará é Ezequiel 37.15-28, as duas varas; [[Parashá Vayechi]] traz a bênção de Efraim (Gênesis 48).
 - [[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução: as três dispersões de Israel e o marcador na alma]] — o quadro histórico do curso: a divisão do reino, Jeroboão e as três diásporas.
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]] — o retorno dos dispersos em casos concretos: os Bnei Menashe da Índia e os anussim do Brasil (Diásporas judaicas, aula 2).
 
 **Mini-glossário:**
 - *Zera* (זֶרַע): semente, descendência; na Torá, atribuída à linha do pai.

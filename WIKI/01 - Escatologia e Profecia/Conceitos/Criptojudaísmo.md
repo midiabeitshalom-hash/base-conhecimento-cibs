@@ -37,6 +37,9 @@ A base distingue o critério da [[Halachá]] rabínica, mãe judia ou conversão
 
 Uma família guarda numa caixa velha uma chave sem saber qual porta ela abre. Gerações passam e a chave continua lá. Um dia alguém descobre a porta. As velas de sexta-feira na casa da avó eram essa chave.
 
+## Costumes anusitas que a Aula de Mapas ensina
+Rav Yosef mostra como a vida judaica escondida ficou nos costumes de família: não apontar o dedo para as estrelas (o sinal de que o Shabat começou, trocado por "dá verruga") e não varrer o lixo para fora de casa (respeito à mezuzá que já não estava na porta) ([[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]). Ele situa a perseguição entre 1500 e o fim dos anos 1800, cerca de 300 anos de Inquisição.
+
 ## Relacionados
 
 [[Bnei Anussim]] · [[Cristãos-Novos]] · [[Inquisição Ibérica]] · [[Sefarad]] · [[Édito de Granada]] · [[Anita Novinsky]] · [[Adams et al. 2008]] · [[Zera Israel]] · [[Halachá]] · [[Efraim]] · [[Ezequiel 37]] · [[Shabat]] · [[Kashrut]]
@@ -45,3 +48,4 @@ Uma família guarda numa caixa velha uma chave sem saber qual porta ela abre. Ge
 - [[kb-guia-de-voz-e-linguagem-beit-shalom|Guia de voz e linguagem da Beit Shalom]]
 - [[kb-o-que-a-biblia-previu-para-2026|O que a Bíblia previu para 2026: Efraim, as duas casas e o retorno dos dispersos]]
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]

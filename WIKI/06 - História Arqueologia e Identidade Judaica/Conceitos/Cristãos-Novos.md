@@ -29,6 +29,9 @@ Para Rav Yosef, o despertar de tantos brasileiros para o Shabat, a Torá e Israe
 
 Muita família brasileira tem uma avó que varria a casa de dentro para fora, acendia vela na sexta e não deixava entrar porco na cozinha, sem saber por quê. Ela não sabia, mas estava guardando, em segredo, o que os bisavós dela tiveram de esconder.
 
+## Os cristãos-novos e o Brasil na Aula de Mapas
+Para os católicos, os que aceitaram a conversão foram chamados de cristãos-novos; para Rav Yosef, "a maior parte dos brasileiros" descende deles, e o DNA sefardita chegou com eles nas grandes navegações e, depois, com os judeus do Brasil holandês, que fundaram Nova York ([[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]).
+
 ## Relacionados
 
 [[Bnei Anussim]] · [[Criptojudaísmo]] · [[Inquisição Ibérica]] · [[Sefarad]] · [[Édito de Granada]] · [[Rei D. Manuel I de Portugal]] · [[Anita Novinsky]] · [[Adams et al. 2008]] · [[Zera Israel]] · [[Halachá]] · [[Efraim]] · [[Ezequiel 37]] · [[Genética Autossômica]]
@@ -36,3 +39,4 @@ Muita família brasileira tem uma avó que varria a casa de dentro para fora, ac
 ## Aparece em
 
 - [[kb-ciencia-confirma-40-milhoes-brasileiros-dna-abraao|A ciência e o DNA de Abraão: os brasileiros descendentes de cristãos-novos]]
+- [[kb-diasporas-judaicas-aula-2-mapas-e-comunidades-judaicas|Diásporas judaicas, aula 2: os mapas das diásporas e as comunidades judaicas do mundo, dos teimanim aos Bnei Menashe]]
