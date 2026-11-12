@@ -244,6 +244,7 @@ No estilo:
 - [[kb-prostrar-e-adorar|Prostrar é adorar? Proskynesis, hishtachavah e o monoteísmo bíblico]]: a troca de "adorou" por "prostrou-se".
 - [[kb-nova-alianca-com-sangue|A Nova Aliança no sangue de Yeshua: a mesma Torá escrita no coração]]: "aliança não é livro".
 - [[kb-o-messias-e-a-serpente|O Messias e a serpente: Nechushtan, a guematria 358 e a expiação do justo]]: o modelo de citação de Talmud, Midrash, Zohar e comentaristas.
+- [[kb-assinatura-de-ensino-do-rav-yosef|A assinatura de ensino do Rav Yosef: como ele fala, conduz o raciocínio e fecha uma aula]] — complementa o guia de escrita com o padrão de fala do Rav e a receita para escrever um estudo no mesmo padrão.
 
 **Mini-glossário:**
 1. **[[Yeshua]] (יֵשׁוּעַ):** "salvação de D'us"; o Messias judeu histórico.

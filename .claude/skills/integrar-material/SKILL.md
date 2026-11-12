@@ -12,8 +12,8 @@ arquivo diz como chegar lá a partir de qualquer entrada. O padrão de profundid
 `padrao-de-profundidade.md`, nesta pasta: leia antes de escrever.
 
 ## 0. Preparar (toda vez)
-1. Leia o `CLAUDE.md` da raiz, o `WIKI/000 - Índice Central CIBS.md` e os três Fundamentos em
-   `WIKI/00 - Fundamentos da Beit Shalom/`.
+1. Leia o `CLAUDE.md` da raiz, o `WIKI/000 - Índice Central CIBS.md` e os Fundamentos em
+   `WIKI/00 - Fundamentos da Beit Shalom/` (método, pilares, guia de voz e **assinatura de ensino**).
 2. Leia `padrao-de-profundidade.md` (nesta pasta).
 3. `git pull` se houver internet, para trabalhar sobre a versão mais nova.
 
@@ -52,6 +52,13 @@ Essa lista é o seu checklist. No fim, todo item dela precisa estar na nota.
 ## 2b. Aulas do curso Judaísmo Messiânico na Prática
 Se o material for aula do curso (o Mike avisa), siga a seção "Aulas do curso" do `CLAUDE.md`: a nota vai para
 `WIKI/07 - Curso Judaísmo Messiânico na Prática/`, e a aula é acrescentada à fonte `Curso Judaísmo Messiânico na Prática`.
+
+## 2c. Registrar a assinatura de ensino (toda aula ou estudo do Rav Yosef)
+Ao ler o material, observe *como* ele ensina, além do *que* ensina: como abre, que perguntas faz, em que ordem monta
+o argumento, como lê o versículo, que analogia usa, como confronta um erro, como fecha. Compare com
+`kb-assinatura-de-ensino-do-rav-yosef.md`. O que for novo (uma abertura, uma transição, uma analogia, um tipo de refutação,
+uma expressão recorrente) entra nessa nota, só acrescentando, com a frase real e o link do estudo. Quando escrever o
+estudo, siga a receita da seção "Como escrever um estudo nesse padrão" e guarde as frases marcantes dele entre aspas.
 
 ## 3. Escrever a nota `kb-`
 - Siga o modelo do `CLAUDE.md` ("Formato da nota de estudo"). As 5 seções, nessa ordem.

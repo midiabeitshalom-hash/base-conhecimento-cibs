@@ -95,3 +95,8 @@ minuto). Não chute.
 - [ ] Voz da base, sem "o palestrante", "o vídeo" e sem rótulo de desconfiança.
 - [ ] Coerente com os Pilares. Se houver conflito, ele vai para as dúvidas ao Mike.
 - [ ] `python3 scripts/atualizar_indices.py` com 0 erros e 0 avisos.
+
+## A voz do Rav Yosef nos estudos
+Todo estudo do Rav leva as suas frases marcantes entre aspas (com o minuto, se for vídeo) e segue a ordem de raciocínio dele
+(tese cedo, texto lido por inteiro, pista, ponte entre Tanakh e Berit Hadashah, fonte judaica, analogia, refutação, aplicação).
+A referência é `kb-assinatura-de-ensino-do-rav-yosef.md`; o que a aula trouxer de novo vai para lá.

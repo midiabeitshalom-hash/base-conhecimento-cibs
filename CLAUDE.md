@@ -41,12 +41,16 @@ nota real em `WIKI/`, apague o stub (o script acusa arquivos vazios).
 
 ## Antes de escrever qualquer nota
 
-Leia as três notas de `WIKI/00 - Fundamentos da Beit Shalom/`:
+Leia as notas de `WIKI/00 - Fundamentos da Beit Shalom/`:
 - `kb-metodo-e-linha-de-pensamento-rav-yosef.md`: como o Rav Yosef pensa, argumenta e ensina;
 - `kb-pilares-doutrinarios-beit-shalom.md`: as posições da Beit Shalom, cada uma ligada às notas que a sustentam;
 - `kb-guia-de-voz-e-linguagem-beit-shalom.md`: vocabulário, termos hebraicos, grafias e tom.
+- `kb-assinatura-de-ensino-do-rav-yosef.md`: como ele abre, conduz o raciocínio, usa analogias, confronta um erro e fecha
+  uma aula. É a referência para escrever estudos no mesmo padrão de linguagem e de raciocínio.
 
-Toda nota nova precisa ser coerente com elas. Se um estudo novo acrescentar algo ao método ou aos
+Toda nota nova precisa ser coerente com elas.
+A `assinatura de ensino` é uma biblioteca viva: **toda aula ou estudo do Rav Yosef integrado acrescenta nela** o que mostrar de novo
+(uma abertura, uma transição, uma analogia, uma forma de refutar ou de fechar), com a frase real e o estudo de onde veio. Se um estudo novo acrescentar algo ao método ou aos
 pilares (uma posição nova, um argumento novo, uma ferramenta nova), acrescente nos Fundamentos com link
 para a nota nova. Só acrescente, nunca reescreva.
 

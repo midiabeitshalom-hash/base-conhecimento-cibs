@@ -273,6 +273,7 @@ Ele fala de D'us como *Hashem*, [[Akadosh Baruch Hu]] ("o Santo, bendito seja"),
 - [[kb-filho-de-jose-e-o-filho-de-david-jesus-e-yeshua|Mashiach ben Yosef e Mashiach ben David: José do Egito, Yeshua e o 'Jesus' romano]]: o modelo da tipologia patriarcal.
 - [[kb-o-verdadeiro-dia-da-ressurreicao-de-yeshua|O verdadeiro dia da ressurreição de Yeshua: o sinal de Jonas e os três dias e três noites]]: o modelo de reconstrução cronológica.
 - [[kb-estamos-na-ultima-semana-de-daniel|Estamos na última semana de Daniel? Os quatro impérios e a Babilônia espiritual]]: o vetor invertido do *Sod* ao *Peshat* nas visões.
+- [[kb-assinatura-de-ensino-do-rav-yosef|A assinatura de ensino do Rav Yosef: como ele fala, conduz o raciocínio e fecha uma aula]] — registra, com frases reais, como o Rav conduz a aula: abertura, ordem do raciocínio, transições, analogias, refutação e fecho.
 
 **Mini-glossário:**
 1. **[[PaRDeS]] (פַּרְדֵּ״ס):** "pomar"; acrônimo dos quatro níveis de leitura: *Peshat*, *Remez*, *Derash*, *Sod*.
