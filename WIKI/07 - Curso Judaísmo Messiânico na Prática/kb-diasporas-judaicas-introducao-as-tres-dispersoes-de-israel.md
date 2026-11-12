@@ -158,6 +158,36 @@ A diáspora romana expulsou os judeus da sua terra e os manteve fora **até 1948
 
 ---
 
+## Assinatura de ensino desta aula
+
+- **a) Abertura:** "*Shalom, shalom!* Bem-vindos a uma maravilhosa aula" (00:00); declara a importância ("essa aula eu considero de fundamental importância para que nós tenhamos compreensão de tudo o que está acontecendo a nível mundial", 00:09); anuncia o tema ("diásporas judaicas, ou as dispersões que nós tivemos para o povo de Israel", 00:37) e avisa que há "duas grandes diásporas" e que tratará de uma (00:42). Não há convite de inscrição, por ser aula do curso.
+- **b) Ordem do raciocínio:** contexto histórico em cronologia → consequência → significado → missão de Yeshua → outra diáspora → perguntas. Marcos: história do Egito à monarquia (01:10); divisão do reino (02:44); Casa de Judá, Casa de Israel e Efraim (04:47); o medo de Jeroboão (06:08); as duas primeiras diásporas (07:22); de israelitas a judeus (09:09); Yeshua e os dispersos (10:15); diáspora romana (11:46); a pergunta do marcador na alma (13:19).
+- **c) Como lê o texto:** aula narrativa; não lê versículo em voz alta nem entra no hebraico. Cita Mateus 15.24 e 10.6 de memória, e usa os nomes hebraicos (Moché, Yehoshua, Yosef Hatsadik, Hashem, Mashiach, *talmidim*). Sem PaRDeS, *kal vachomer* ou guematria nesta aula.
+- **d) Perguntas:** faz a pergunta e responde na sequência: "Quem são as duas tribos que o filho de Salomão vai governar?" (04:00); "E quem fica, então, no reino do norte?" (04:31); "Qual é o receio que ele fica?" (06:14); "Por quê?" (09:28). No fim, deixa perguntas em aberto para o módulo (13:19).
+- **e) Transições e pedidos de atenção:** "Pois bem," (07:01); "Dito isso, então é importante que você compreenda" (09:09); "É importante também reforçar" (04:47); "Importante frisar" (08:42); "O que é importante?" (10:12); "Dito isso, agora eu vou falar de uma outra diáspora" (11:46); "Para contextualizar todo mundo" (00:55).
+- **f) Analogias:** nenhuma. A didática é visual: linha do tempo e mapa nos slides.
+- **g) Como confronta um erro:** não confronta nada; é aula de pano de fundo, neutra e descritiva.
+- **h) Tom:** didático e narrativo, na primeira pessoa do plural ("nós temos duas grandes diásporas"), com o público tratado por "todos vocês". Aponta o que importa para a leitura dos profetas ("quando você vê em algum texto dos profetas…").
+- **i) Fechamento:** abrupto, na pergunta que abre o módulo: "isso é o que nós vamos entender nessa aula sobre as diásporas judaicas" (13:19 a 14:07). Não retoma a tese, não pede curtir nem inscrever e não se despede.
+
+---
+
+## Frases do Rav Yosef
+
+- [00:09] "Essa aula eu considero de fundamental importância para que nós tenhamos compreensão de tudo o que está acontecendo a nível mundial."
+- [00:55] "Para contextualizar todo mundo e para que todos vocês fiquem dentro do mesmo contexto, eu preciso fazer uma introdução."
+- [05:23] "A casa de Israel também acaba sendo chamada de Efraim, como sendo o líder dessas tribos."
+- [07:19] "As dez tribos têm uma tendência maior para a idolatria."
+- [07:47] "Essas tribos foram espalhadas de tal forma que muitos desses nunca mais retornaram para Israel."
+- [09:28] "Porque procedem da tribo de Judá, que era a tribo majoritária."
+- [11:10] "Ele sempre deixou muito claro que um dos papéis dele como Mashiach era reunir os dispersos da casa de Israel."
+- [11:46] "Uma outra diáspora, e a mais feroz que nós tivemos conhecimento, que é a diáspora romana."
+- [13:23] "Existe algum marcador na alma dos israelitas que, independentemente de onde eles estejam, independentemente de quão assimilados eles tenham sido…?"
+
+---
+
+---
+
 ## Glossário e Rede de Conexões
 
 [[Diásporas Judaicas]] · [[Diáspora Assíria]] · [[Diáspora Babilônica]] · [[Diáspora Romana]] · [[Casa de Israel]] · [[Casa de Judá]] · [[Efraim]] · [[Doze Tribos de Israel]] · [[Yehudim]] · [[Jeroboão]] · [[Roboão]] · [[Segundo Templo]] · [[Nabucodonosor II]] · [[Zera Israel]] · [[Bnei Anussim]] · [[Mashiach]] · [[Curso Judaísmo Messiânico na Prática]]

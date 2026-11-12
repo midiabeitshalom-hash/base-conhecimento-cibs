@@ -94,6 +94,15 @@ do assunto. Regras:
   em `RAW/_midia/_processados/curso-jmp/` (fora do Git) e apague o vídeo depois. Se houver o PDF da aula, use-o para
   conferir os slides.
 
+## Extração de vídeos e aulas: o prompt da Beit Shalom
+
+O roteiro de extração está em `prompts/prompt-de-extracao-beit-shalom.md` (é o mesmo que o Mike usa em outras IAs). **Toda vez que o Mike mandar
+um vídeo, aula ou transcrição para extrair, siga esse roteiro:** os itens de conteúdo e os da forma de ensinar (a a j), e termine a nota com
+as seções `## Assinatura de ensino desta aula` e `## Frases do Rav Yosef` (antes de `## Glossário e Rede de Conexões`). O que for novo na forma de
+ensinar entra em `kb-assinatura-de-ensino-do-rav-yosef.md`. Num rascunho vindo de outra IA, essas duas seções são mantidas na nota.
+
+**Depois de integrar, anexe sempre a nota criada na resposta** (ferramenta de envio de arquivo, em modo de visualização), para o Mike ver como ficou.
+
 ## Fluxo de ingestão por tipo de entrada
 
 **Para qualquer material novo, use a skill do projeto `integrar-material`** (`.claude/skills/integrar-material/`).

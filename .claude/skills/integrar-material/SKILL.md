@@ -34,6 +34,10 @@ Nunca trabalhe só com um resumo se a fonte original estiver ao alcance.
 
 Trabalhe no scratchpad ou em `/tmp`. Nada de mídia dentro de `WIKI/`.
 
+## 1b. Roteiro de extração
+Ao extrair de vídeo, aula ou transcrição, use `prompts/prompt-de-extracao-beit-shalom.md` como roteiro: tudo o que ele ensina (itens 1 a 9)
+e **como ensina** (a a j). Termine a nota com `## Assinatura de ensino desta aula` e `## Frases do Rav Yosef`.
+
 ## 2. Inventário antes de escrever
 Antes da nota, faça uma lista de trabalho (só para você) com tudo que o material traz:
 - a tese central e as subteses;
@@ -104,3 +108,6 @@ estudo, siga a receita da seção "Como escrever um estudo nesse padrão" e guar
 6. Responda ao Mike em poucas linhas: nota criada (título e categoria), conceitos e fontes novos,
    parashá ligada, conexões novas e as dúvidas que ficaram (termo que não deu para identificar,
    referência incerta, possível conflito com os Pilares).
+
+
+**Depois de integrar, anexe a nota criada na resposta** para o Mike ver o resultado.

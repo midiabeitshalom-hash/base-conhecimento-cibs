@@ -133,6 +133,16 @@ A sequência que ele repete, mesmo em aulas de temas distantes:
 8. Termine com os princípios e a aplicação, no tom pastoral.
 9. Escreva com as formas de dizer do item 4, sem exagerar nelas: elas dão voz, não enchem texto.
 
+### 11. A aula de curso: didática narrativa
+
+Registrado a partir da introdução do módulo *Diásporas Judaicas* ([[kb-diasporas-judaicas-introducao-as-tres-dispersoes-de-israel|Diásporas judaicas, introdução]]):
+- **Pano de fundo primeiro.** "Para contextualizar todo mundo… eu preciso fazer uma introdução." A aula conta a história em ordem cronológica, apoiada em slides de linha do tempo e de mapa, antes de entrar no tema.
+- **Pergunta e resposta seguidas**, em tom de explicação: "Quem são as duas tribos…? É a tribo de Judá e a tribo de Benjamim".
+- **Transições didáticas:** "Pois bem,", "Dito isso, então é importante que você compreenda", "Importante frisar", "É importante também reforçar", "O que é importante?".
+- **Regras de leitura dadas a quem vai estudar:** "quando você vê em algum texto dos profetas… Efraim… está se referindo à totalidade das dez tribos".
+- **Sem confronto e sem analogia:** a aula é descritiva; a refutação e as imagens ficam para as aulas seguintes do módulo.
+- **Fecho em pergunta aberta**, que lança o módulo, sem pedido de curtir ou inscrever, porque o público já é o do curso.
+
 ---
 
 ## Glossário e Rede de Conexões
